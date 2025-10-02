@@ -163,6 +163,83 @@
 
 ---
 
+### PDF Extraction & Document Parsing
+
+**Open-Source Solutions for Scientific Literature**
+
+| Tool | Performance | Key Features | Strengths | Cost |
+|------|-------------|--------------|-----------|------|
+| **MinerU** | 0.21 sec/page (L4 GPU) | Formula→LaTeX, tables→HTML, 84 languages OCR | Layout preservation, multimodal parsing, academic paper focus | Free (OSS) |
+| **Marker** | Varies | PDF→Markdown, equation support | Fast, simple API | Free (OSS) |
+| **Docling** | Varies | AI-driven conversion, multiple formats | IBM-backed, extensible | Free (OSS) |
+| **Unstructured.io** | Varies | Multi-format parsing (PDF/DOCX/HTML) | Enterprise-ready, API-first | Free (OSS) / Paid API |
+| **GROBID** | Varies | Scholarly PDFs→TEI XML | Citation extraction, bibliographic data | Free (OSS) |
+
+**MinerU Capabilities** (arXiv:2409.18839 - Sep 2024):
+- **Formula Recognition**: Converts mathematical equations to LaTeX format (critical for pharmacology papers)
+- **Table Extraction**: Automatically detects and converts tables to HTML (IC50 values, study results)
+- **Layout Analysis**: Preserves document structure across multi-column scientific papers
+- **OCR Support**: 84-language support for multilingual ethnobotanical sources
+- **LLM-Ready Output**: Exports to markdown/JSON for RAG workflows and AI analysis
+- **PDF-Extract-Kit Integration**: Uses sophisticated models for high-precision extraction
+
+**Performance Benchmarks** (Comparative evaluation of 12 open-source tools):
+- **Speed**: 0.21 sec/page with CUDA acceleration (Nvidia L4 GPU)
+- **Accuracy**: High performance across diverse document types (scientific papers, textbooks, exams)
+- **Formula Handling**: Pre-detection prevents garbled text in subsequent OCR steps
+
+**Use Cases for KANNA Thesis**:
+1. **Chapter 4 (Pharmacology)**: Extract IC50/EC50 values, receptor binding data from 100+ papers
+2. **Chapter 5 (Clinical)**: Convert clinical trial tables (patient demographics, outcome measures) to structured data
+3. **Chapter 2 (Taxonomy)**: Parse historical botanical texts with complex nomenclature tables
+4. **Meta-Analysis Prep**: Transform PDF tables into CSV for R metafor package analysis
+5. **RAG Pipeline**: Build searchable corpus of Sceletium literature for LLM-based research assistance
+
+**Integration with LAB Workspace**:
+```bash
+# Install MinerU
+pip install magic-pdf[full]
+
+# Extract PDF to markdown
+magic-pdf -p literature/pdfs/sceletium-pharmacology.pdf -o data/extracted-papers/
+
+# For batch processing
+for pdf in literature/pdfs/*.pdf; do
+    magic-pdf -p "$pdf" -o data/extracted-papers/
+done
+```
+
+**Workflow**:
+```
+Elicit → Download PDFs
+   ↓
+MinerU → Extract structured data (formulas, tables, text)
+   ↓
+Python/R → Analyze extracted data
+   ↓
+Obsidian → Link extracted concepts to knowledge graph
+   ↓
+Zotero → Cite original sources in thesis
+```
+
+**Comparison to Alternatives**:
+- **vs. Adobe Acrobat Pro ($240/yr)**: MinerU is free and handles formulas better
+- **vs. Tabula (table extraction only)**: MinerU handles formulas + tables + full text
+- **vs. Manual copying**: 100x faster, eliminates transcription errors
+- **vs. OCR tools (Tesseract)**: MinerU preserves layout and recognizes formulas as LaTeX
+
+**★ KANNA Integration**:
+- **Primary workflow**: Elicit → Download 500+ papers → MinerU batch extraction → CSV/JSON for analysis
+- **Store outputs**: `data/extracted-papers/` (gitignored for large files)
+- **Link to**: Zotero for citation tracking, Obsidian for concept extraction
+- **Use in**: Chapters 2, 4, 5 (data-heavy sections requiring systematic extraction)
+
+**Academic Citation**:
+> Wang, B., et al. (2024). MinerU: An Open-Source Solution for Precise Document Content Extraction. arXiv:2409.18839.
+> GitHub: https://github.com/opendatalab/MinerU
+
+---
+
 ## III. Reference Management Software
 
 ### Comprehensive Comparison

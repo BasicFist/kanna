@@ -54,6 +54,9 @@ beautifulsoup4>=4.11.0
 biopython>=1.81  # For sequence analysis if needed
 pubchempy>=1.0.4  # PubChem API
 
+# PDF extraction & document parsing
+magic-pdf[full]>=0.6.0  # MinerU - Extract formulas, tables, text from scientific PDFs
+
 # Molecular modeling utilities
 # pymol-open-source>=2.5.0  # Molecular visualization
 # openbabel>=3.1.1  # Format conversion (install via conda)

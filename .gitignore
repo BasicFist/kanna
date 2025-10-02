@@ -125,6 +125,11 @@ analysis/python/**/output/**
 *.Rout
 *.csv.tmp
 
+# PDF extraction outputs (MinerU)
+data/extracted-papers/**
+*.md.json
+literature/pdfs-extracted/**
+
 # Machine learning models (large files)
 analysis/python/ml-models/trained/**
 *.pkl
