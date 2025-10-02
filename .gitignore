@@ -1,0 +1,253 @@
+# KANNA Project - Sceletium tortuosum Thesis
+# Comprehensive .gitignore for interdisciplinary research
+
+# ============================================================================
+# SENSITIVE DATA - NEVER COMMIT
+# ============================================================================
+
+# Ethnobotanical interviews & FPIC (Privacy Protection)
+fieldwork/interviews-raw/**
+data/ethnobotanical/interviews/**
+data/ethnobotanical/fpic-protocols/**/personal-info/**
+collaboration/khoisan-partners/**/contact-info/**
+
+# Clinical trial data (GDPR/HIPAA compliance)
+data/clinical/trials/**/patient-data/**
+data/clinical/trials/**/identifiable-info/**
+
+# Proprietary chemical data before publication
+data/phytochemical/unpublished/**
+data/phytochemical/lc-ms/**/raw-proprietary/**
+
+# Legal sensitive documents
+data/legal/confidential/**
+collaboration/academic-partners/**/nda/**
+
+# API keys and credentials
+*.env
+secrets.txt
+credentials.json
+**/*_credentials_*
+
+# ============================================================================
+# LARGE FILES - Use Git LFS or external storage
+# ============================================================================
+
+# Raw LC-MS data files
+*.raw
+*.wiff
+*.d/
+*.lcd
+
+# Large molecular structure databases
+*.sdf
+*.mol2
+data/molecular-modeling/structures/libraries/**
+
+# High-resolution images
+*.tif
+*.tiff
+fieldwork/photos/**/*.CR2
+fieldwork/photos/**/*.NEF
+
+# Large genomic/sequencing data
+*.fastq
+*.fq.gz
+*.bam
+*.sam
+
+# ============================================================================
+# OPERATING SYSTEM FILES
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================================================
+# LANGUAGE-SPECIFIC
+# ============================================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# R
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rproj
+*.rds
+*.rda
+
+# ============================================================================
+# ANALYSIS OUTPUTS (Keep scripts, ignore outputs)
+# ============================================================================
+
+# Statistical outputs
+analysis/r-scripts/**/output/**
+analysis/python/**/output/**
+*.Rout
+*.csv.tmp
+
+# Machine learning models (large files)
+analysis/python/ml-models/trained/**
+*.pkl
+*.h5
+*.hdf5
+*.pth
+*.pt
+
+# Jupyter notebook outputs (commit notebooks, not outputs)
+# Comment out if you want to track outputs
+# analysis/jupyter-notebooks/**/*-output.ipynb
+
+# ============================================================================
+# MOLECULAR MODELING
+# ============================================================================
+
+# AutoDock outputs
+data/molecular-modeling/docking/**/*.dlg
+data/molecular-modeling/docking/**/*.pdbqt
+data/molecular-modeling/docking/**/cluster_*
+
+# PyMOL sessions
+*.pse
+
+# Gaussian/ORCA outputs
+*.log
+*.out
+*.chk
+*.fchk
+
+# ============================================================================
+# WRITING & DOCUMENTS
+# ============================================================================
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.toc
+*.synctex.gz
+*.bcf
+*.run.xml
+
+# Microsoft Office temp files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# LibreOffice locks
+.~lock.*
+
+# ============================================================================
+# REFERENCE MANAGEMENT
+# ============================================================================
+
+# Zotero export (commit exported .bib, ignore temp files)
+literature/zotero-export/**/cache/**
+literature/zotero-export/**/*.backup
+
+# Mendeley/EndNote temp files
+*.ris.bak
+*.enl.Data/
+
+# ============================================================================
+# BACKUP & TEMPORARY FILES
+# ============================================================================
+
+*.bak
+*.backup
+*.tmp
+*.temp
+*.swp
+*.swo
+*~.nib
+*.old
+
+# Archive files (use Git LFS if needed)
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# ============================================================================
+# IDE & EDITOR FILES
+# ============================================================================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Jupyter
+.jupyter/
+
+# RStudio
+.Rproj.user
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+
+# ============================================================================
+# EXCEPTIONS - Force commit important files
+# ============================================================================
+
+# Force commit example data (even if in ignored directories)
+!data/**/examples/**
+!data/**/test-data/**
+
+# Force commit README files in all directories
+!**/README.md
+
+# Force commit de-identified interview protocols
+!fieldwork/protocols/**
