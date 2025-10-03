@@ -4,7 +4,8 @@
       "mcp__playwright__browser_navigate",
       "WebSearch",
       "WebFetch(domain:opendatalab.github.io)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "mcp__sequential__sequentialthinking"
     ],
     "deny": [],
     "ask": []
