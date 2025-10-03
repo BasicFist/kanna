@@ -54,8 +54,11 @@ beautifulsoup4>=4.11.0
 biopython>=1.81  # For sequence analysis if needed
 pubchempy>=1.0.4  # PubChem API
 
-# PDF extraction & document parsing
-magic-pdf[full]>=0.6.0  # MinerU - Extract formulas, tables, text from scientific PDFs
+# PDF extraction & document parsing (MinerU)
+# IMPORTANT: Package renamed from magic-pdf to mineru in v2.0+
+# Installation: pip install uv && uv pip install -U "mineru[core]"
+# mineru[core]>=2.0.0  # MinerU - Extract formulas, tables, text from scientific PDFs
+# NOTE: Install separately via uv (not via requirements.txt) - see Guide 6
 
 # Molecular modeling utilities
 # pymol-open-source>=2.5.0  # Molecular visualization

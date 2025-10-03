@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "mcp__playwright__browser_navigate",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:opendatalab.github.io)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": [],
     "ask": []

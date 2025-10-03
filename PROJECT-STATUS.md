@@ -128,25 +128,26 @@
 - [ ] Encrypted storage for sensitive data
 
 ### Analysis Environment
-- [ ] R environment set up (`renv.lock` created)
-- [ ] Python environment set up (`requirements.txt` installed)
-- [ ] RDKit installed (via conda)
+- [ ] R environment set up (`renv.lock` created) - **REQUIRES MANUAL**: `sudo dnf install -y R R-devel`
+- [x] Python environment set up (`requirements.txt` installed) - **COMPLETE** (conda env: kanna)
+- [x] RDKit installed (via conda) - **COMPLETE** (v2025.9.1, tested with mesembrine)
 - [ ] AutoDock Vina configured
 - [ ] PyMOL installed
 
 ### AI/ML Tools Integration
-- [ ] Claude MAX account active
-- [ ] Perplexity API configured
-- [ ] Context7 API configured
+- [x] Claude Code active (running in KANNA project)
+- [x] Perplexity API configured (inherited from ~/LAB/)
+- [x] Context7 API configured (inherited from ~/LAB/)
 - [ ] Local Llama 70B running (Ollama)
-- [ ] MCP servers connected
+- [x] MCP servers connected (17 servers: Context7, Perplexity, GitHub, Cloudflare suite, etc.)
 
 ---
 
 ## Current Priorities
 
-### This Week
-1. [ ] Complete Python/R environment setup
+### This Week (October 3, 2025 - Updated)
+1. [x] Complete Python environment setup (conda env 'kanna' with RDKit)
+2. [ ] Install R manually: `sudo dnf install -y R R-devel` (requires password)
 2. [ ] Organize existing literature PDFs with Zotero
 3. [ ] Draft FPIC protocols for community engagement
 4. [ ] Begin systematic literature review
@@ -219,7 +220,47 @@
 - ✅ Project infrastructure setup completed
 - ✅ Repository structure finalized
 - ✅ Analysis templates created
+- ✅ 5 comprehensive setup guides created (1,670+ lines, tools/guides/)
+- ✅ Exhaustive 42-month implementation plan developed
 - Next: Begin literature organization with Zotero
+
+### October 3, 2025 - Python Environment Complete
+- ✅ Created conda environment 'kanna' with Python 3.10
+- ✅ Installed RDKit via conda-forge (cheminformatics cornerstone)
+- ✅ Installed all Python dependencies from requirements.txt (150+ packages)
+- ✅ Downloaded spaCy English model (en_core_web_sm) for NLP
+- ✅ Validated RDKit with mesembrine alkaloid (MW: 231.34 g/mol, LogP: 2.36)
+- **Ready for**: QSAR modeling (Chapter 4), text mining, ML workflows
+- **Remaining**: Install R manually (`sudo dnf install -y R R-devel`)
+- **Next**: Zotero setup (Guide 1), Obsidian vault (Guide 1), Overleaf project (Guide 5)
+
+### October 3, 2025 - MinerU PDF Extraction Integration
+- ✅ Researched MinerU documentation (Context7 + WebSearch)
+- ✅ Created **Guide 6**: MinerU PDF Extraction Setup (comprehensive 600+ lines)
+- ✅ Updated requirements.txt (magic-pdf → mineru migration notes)
+- ✅ Created batch processing script: `tools/scripts/extract-pdfs-mineru.sh`
+- ✅ Updated tools/README.md with Guide 6 integration
+- **Capabilities**: Extract formulas (LaTeX), tables (markdown), images from 500+ papers
+- **Integration**: Elicit → Zotero → MinerU → Obsidian → Overleaf workflow
+- **Critical for**: Chapter 4 (pharmacology IC₅₀ tables), Chapter 5 (meta-analysis data)
+
+### October 3, 2025 - MinerU Installation & Enhancements COMPLETE ✅
+- ✅ Installed uv package manager (v0.8.22)
+- ✅ Installed mineru[core] v2.5.4 (latest, with VL-utils enhancements)
+- ✅ Model weights auto-downloaded on first run (~2GB from HuggingFace)
+  - layoutlmv3 (layout detection), yolo_v8_mfd (formula detection)
+  - unimernet_small (formula LaTeX), rapid_table (table structure)
+- ✅ Tested extraction with French PDF "Processus de fermentation du kanna" (5 pages, 392KB)
+  - ✓ French accents perfectly preserved
+  - ✓ 2 formulas extracted as LaTeX
+  - ✓ 13 citations with URLs extracted
+  - ✓ Processing time: ~3 minutes (CPU mode)
+- ✅ **Batch processing**: Currently extracting all 8 French PDFs (running in background)
+- ✅ **Enhancement 3**: Smart caching added (skip re-processing existing extractions)
+- ✅ **Enhancement 4**: Quality validation script created (`validate-extraction-quality.sh`)
+- ✅ **Enhancement 5**: Obsidian auto-import script created (`mineru-to-obsidian-auto.sh`)
+- **Ready for**: 500+ papers over 42 months, ~5 min/PDF (CPU), ~1-2 min/PDF (GPU if needed)
+- **Next**: Wait for batch completion (~30-40 min), run quality validation, import to Obsidian (Week 2)
 
 ### [Add more weekly reflections here]
 

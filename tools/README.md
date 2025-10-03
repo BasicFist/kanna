@@ -4,6 +4,54 @@ This directory contains tool documentation, templates, and utilities for the KAN
 
 ## 📁 Contents
 
+### Setup Guides ⭐ **NEW**
+
+**Step-by-step workflow integration guides** (created October 2025):
+
+1. **[01-literature-workflow-setup.md](guides/01-literature-workflow-setup.md)** - Literature Discovery & Management
+   - Elicit → Zotero → Obsidian → Overleaf integration
+   - Auto-citation workflow with Better BibTeX
+   - Knowledge graph building in Obsidian
+   - ⏱️ Setup time: 3-4 hours
+
+2. **[02-field-data-collection-setup.md](guides/02-field-data-collection-setup.md)** - Field Data Collection
+   - SurveyCTO offline surveys (FPIC-compliant)
+   - BEI/ICF data collection workflows
+   - GPS integration, audio consent recording
+   - ⏱️ Setup time: 2-3 hours
+
+3. **[03-qualitative-analysis-setup.md](guides/03-qualitative-analysis-setup.md)** - Qualitative Analysis
+   - MAXQDA ethnographic coding workflow
+   - Inter-rater reliability (Cohen's Kappa)
+   - Mixed methods integration with R
+   - ⏱️ Setup time: 1-2 hours
+
+4. **[04-qsar-pipeline-setup.md](guides/04-qsar-pipeline-setup.md)** - QSAR Modeling
+   - RDKit descriptor calculation (200+ features)
+   - scikit-learn + XGBoost training (R² ≥ 0.80 target)
+   - SHAP interpretation for publications
+   - ⏱️ Setup time: 1 hour
+
+5. **[05-french-writing-setup.md](guides/05-french-writing-setup.md)** - French Academic Writing
+   - Overleaf LaTeX thesis template
+   - Paperpal (free) + Antidote grammar checking
+   - Bilingual workflow (French/English)
+   - ⏱️ Setup time: 1-2 hours
+
+6. **[06-mineru-pdf-extraction-setup.md](guides/06-mineru-pdf-extraction-setup.md)** ⭐ **ADDED** - MinerU PDF Extraction
+   - Automatic extraction of formulas (LaTeX), tables (markdown), and text
+   - Batch processing for 500+ scientific papers
+   - Integration with Obsidian workflow (Elicit → Zotero → MinerU → Obsidian)
+   - Critical for pharmacology/chemistry papers (IC₅₀ tables, QSAR formulas)
+   - ⏱️ Setup time: 1-2 hours | Processing speed: ~3-5 min/PDF
+
+**Quick Start**:
+- Week 1: Complete Guides 1 + 5 + 6 (literature + writing + PDF extraction)
+- Week 2: Guide 2 (field data setup before first mission)
+- As needed: Guides 3-4 (when data collected)
+
+---
+
 ### Documentation
 
 **[COMPREHENSIVE-RESEARCH-TOOLS-2025.md](COMPREHENSIVE-RESEARCH-TOOLS-2025.md)** (★ Main Resource)
