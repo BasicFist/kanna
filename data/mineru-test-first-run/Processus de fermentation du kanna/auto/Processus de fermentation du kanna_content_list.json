@@ -1,0 +1,800 @@
+[
+    {
+        "type": "text",
+        "text": "perplexity ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            89,
+            413,
+            140
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Processus de fermentation du kanna ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            159,
+            673,
+            186
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Le kanna, connu scientifiquement sous le nom de Sceletium tortuosum, est une plante succulente originaire d'Afrique du Sud qui possède une riche histoire d'utilisation traditionnelle par les peuples indigènes Khoikhoi et San. Bien que le terme \"fermentation\" soit souvent associé au kanna, les processus traditionnels de préparation de cette plante impliquent principalement des méthodes de séchage et de curing plutôt qu'une fermentation microbienne classique.\u00001\u0000 \u00002\u0000 ",
+        "bbox": [
+            109,
+            199,
+            887,
+            300
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Préparation traditionnelle du kanna ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            332,
+            442,
+            352
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Méthodes indigènes ancestrales ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            378,
+            419,
+            398
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Les peuples Khoikhoi et San ont développé des techniques traditionnelles de préparation du kanna qui ont été transmises de génération en génération. Ces méthodes visent à transformer les parties aériennes fraîches de la plante en un produit stable et psychoactif.\u00004\u0000 \u00003\u0000 ",
+        "bbox": [
+            109,
+            410,
+            866,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Processus de curing et séchage ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            492,
+            413,
+            511
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Le processus traditionnel de préparation du kanna suit plusieurs étapes distinctes : ",
+        "bbox": [
+            107,
+            522,
+            777,
+            540
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Récolte et sélection $:$ Les parties aériennes de Sceletium tortuosum sont récoltées, généralement les feuilles et les tiges tendres. \u00002\u0000 \u00003\u0000 ",
+        "bbox": [
+            107,
+            555,
+            779,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Broyage initial : La matière végétale fraîche est souvent écrasée ou broyée pour libérer les sucs cellulaires et faciliter les transformations chimiques ultérieures. \u00005\u0000 \u00004\u0000 ",
+        "bbox": [
+            107,
+            608,
+            883,
+            646
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Processus de curing $:$ Cette étape cruciale implique un processus de maturation contrôlée où la plante subit des changements biochimiques. Le matériel végétal broyé est placé dans des contenants fermés ou enveloppé, permettant une fermentation anaérobie limitée et des transformations enzymatiques.\u00005\u0000 \u00004\u0000 ",
+        "bbox": [
+            107,
+            661,
+            887,
+            738
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Séchage : Après le curing, le matériel est séché au soleil ou dans des conditions contrôlées pour obtenir un produit stable à long terme. \u00003\u0000 \u00002\u0000 ",
+        "bbox": [
+            107,
+            755,
+            885,
+            791
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transformations biochimiques ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            814,
+            398,
+            833
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Modification des alcaloïdes ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            40,
+            369,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Le processus de curing du kanna entraîne des transformations importantes au niveau des alcaloïdes actifs. La plante fraîche contient principalement de la mésembrine et de la mésembrénone, mais le processus de maturation peut modifier les concentrations relatives de ces composés. \u00006\u0000 \u00007\u0000 \u00008\u0000 ",
+        "bbox": [
+            109,
+            71,
+            869,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rôle des enzymes végétales ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            172,
+            375,
+            191
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Contrairement à une fermentation microbienne classique, les transformations observées dans le kanna sont principalement dues aux enzymes naturellement présentes dans la plante. Ces enzymes continuent leur activité pendant la phase de curing, modifiant la composition chimique du matériel végétal. \u00009\u0000 \u00005\u0000 ",
+        "bbox": [
+            111,
+            203,
+            882,
+            280
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Utilisation traditionnelle ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            303,
+            336,
+            321
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mode de consommation ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            348,
+            339,
+            367
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Traditionnellement, le kanna préparé était principalement consommé par mastication. Cette méthode permet une absorption rapide des principes actifs à travers la muqueuse buccale, offrant des effets anxiolytiques et relaxants recherchés par les utilisateurs traditionnels. \u00002\u0000 \u00009\u0000 \u00003\u0000 ",
+        "bbox": [
+            111,
+            381,
+            879,
+            438
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Préparations modernes ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            462,
+            331,
+            481
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Les recherches contemporaines ont permis de développer des formulations modernes du kanna, notamment sous forme de gommes à mâcher médicamenteuses qui respectent le mode traditionnel d'administration tout en offrant un dosage standardisé.\u00009\u0000 ",
+        "bbox": [
+            109,
+            492,
+            887,
+            549
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Différences avec la fermentation classique ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            570,
+            509,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Absence de microorganismes ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            617,
+            392,
+            637
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Il est important de noter que le processus traditionnel de préparation du kanna ne fait pas appel à des microorganismes spécifiques comme dans les fermentations alimentaires classiques. Les transformations observées sont principalement enzymatiques et oxydatives.\u00004\u0000 \u00005\u0000 ",
+        "bbox": [
+            109,
+            648,
+            883,
+            705
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stabilité du produit ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            729,
+            290,
+            748
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Le produit final obtenu par ces méthodes traditionnelles présente une bonne stabilité de conservation, permettant un stockage prolongé sans dégradation significative des principes actifs, à condition que les conditions de stockage soient appropriées.\u00005\u0000 ",
+        "bbox": [
+            111,
+            761,
+            854,
+            818
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recherches contemporaines ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            840,
+            379,
+            859
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Optimisation des procédés ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            40,
+            362,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Les recherches modernes se concentrent sur l'optimisation des conditions de curing pour maximiser la concentration en alcaloïdes actifs et standardiser les préparations de kanna. Ces études visent à comprendre les mécanismes biochimiques sous-jacents aux transformations observées durant le processus traditionnel.\u00007\u0000 \u000010\u0000 ",
+        "bbox": [
+            109,
+            71,
+            867,
+            148
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Applications pharmaceutiques ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            172,
+            400,
+            193
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Les propriétés anxiolytiques et antidépressives du kanna suscitent un intérêt croissant dans le domaine pharmaceutique, avec des recherches visant à développer des formulations standardisées pour des applications thérapeutiques.\u000011\u0000 \u000012\u0000 \u00001\u0000 ",
+        "bbox": [
+            111,
+            203,
+            870,
+            261
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Le processus de préparation du kanna représente un exemple fascinant de biotechnologie traditionnelle qui, bien qu'il ne constitue pas une fermentation au sens microbiologique strict, implique des transformations biochimiques complexes permettant d'obtenir un produit aux propriétés psychoactives recherchées depuis des millénaires par les peuples d'Afrique australe. ",
+        "bbox": [
+            109,
+            276,
+            877,
+            353
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "⁂   \n1 . https://pmc.ncbi.nlm.nih.gov/articles/PMC8762184/   \n2. https://www.mdpi.com/1420-3049/26/9/2557/pdf   \n3. https://pmc.ncbi.nlm.nih.gov/articles/PMC8124331/   \n4. https://ojvr.org/index.php/ojvr/article/download/481/549   \n5. http://ojvr.org/index.php/ojvr/article/view/481   \n6. http://link.springer.com/10.1007/s00216-014-8109-9   \n7. https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1268101/pdf   \n8. https://sajs.co.za/article/download/3858/5346   \n9. https://link.springer.com/10.1208/s12249-021-01961-8   \n1 0. https://pmc.ncbi.nlm.nih.gov/articles/PMC7670209/   \n1 1 . https://dx.plos.org/10.1371/journal.pone.0273583   \n1 2. https://pmc.ncbi.nlm.nih.gov/articles/PMC10991851/   \n1 3. https://www.jstage.jst.go.jp/article/jpi/59/3/59_93/_article   \n1 4. https://jabonline.in/abstract.php?article_id=558&sts=2   \n1 5. https://www.scientific.net/AMR.917.80   \n1 6. https://www.mdpi.com/2311-5637/10/4/187   \n1 7. https://www.mdpi.com/2311-5637/10/3/153   \n1 8. https://www.mdpi.com/2311-5637/10/3/121   \n1 9. https://www.mdpi.com/2311-5637/10/9/460   \n20. https://www.mdpi.com/2311-5637/10/3/115   \n21 . https://www.mdpi.com/2311-5637/10/4/217   \n22. https://www.mdpi.com/2311-5637/10/7/342   \n23. https://biomedres.us/pdfs/BJSTR.MS.ID.005137.pdf ",
+        "bbox": [
+            112,
+            364,
+            785,
+            962
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "24. https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcbb.12758 ",
+        "bbox": [
+            114,
+            37,
+            594,
+            54
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "25. https://pmc.ncbi.nlm.nih.gov/articles/PMC9814756/ ",
+        "bbox": [
+            114,
+            61,
+            516,
+            77
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "26. https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.93   \n27. https://pmc.ncbi.nlm.nih.gov/articles/PMC9604195/   \n28. https://academicjournals.org/journal/AJMR/article-full-text-pdf/534806216752.pdf   \n29. https://www.mdpi.com/2076-3417/11/13/6089/pdf   \n30. https://pmc.ncbi.nlm.nih.gov/articles/PMC10989925/   \n31 . https://pmc.ncbi.nlm.nih.gov/articles/PMC11381286/   \n32. https://www.frontiersin.org/articles/10.3389/fphar.2024.1430238/full   \n33. https://www.semanticscholar.org/paper/924bb10b2200d48e8e12231673e0222124415164   \n34. https://pmc.ncbi.nlm.nih.gov/articles/PMC9742447/   \n35. https://rgsa.emnuvens.com.br/rgsa/article/download/4517/1633   \n36. https://onlinelibrary.wiley.com/doi/10.1002/appl.202400131   \n37. https://www.frontiersin.org/articles/10.3389/fmicb.2024.1435834/full   \n38. https://www.mdpi.com/2311-5637/9/4/345   \n39. https://www.hindawi.com/journals/jfq/2023/4745784/   \n40. https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-10672-2   \n41 . https://jurnal.ugm.ac.id/v3/bib/article/view/4619   \n42. https://or.niscpr.res.in/index.php/IJTK/issue/view/202   \n43. http://jppipa.unram.ac.id/index.php/jppipa/article/view/2801   \n44. https://academic.oup.com/femsyr/article-lookup/doi/10.1093/femsyr/fow108   \n45. https://www.easpublisher.com/media/features_articles/EASJNFS_53_72-81.pdf   \n46. https://downloads.hindawi.com/journals/ijmicro/2020/8891259.pdf   \n47. http://phcogj.com/sites/default/files/PharmacognJ-15-5-719.pdf   \n48. https://www.scielo.br/j/cta/a/WVLctQ9TQfSbN3vCtbcPQ6r/?format=pdf&lang=en   \n49. https://www.frontiersin.org/articles/10.3389/fmicb.2024.1410098/full   \n50. https://pmc.ncbi.nlm.nih.gov/articles/PMC11617176/   \n51 . https://pmc.ncbi.nlm.nih.gov/articles/PMC4458060/   \n52. http://www.arjournals.org/index.php/ijpm/article/download/1721/1015   \n53. https://pmc.ncbi.nlm.nih.gov/articles/PMC10688143/   \n54. https://pmc.ncbi.nlm.nih.gov/articles/PMC7803167/   \n55. https://zenodo.org/record/3582365/files/55.pdf   \n56. http://www.cabidigitallibrary.org/doi/10.1079/cabireviews.2024.0022   \n57. https://ajaronline.com/index.php/AJAR/article/view/806   \n58. https://www.tandfonline.com/doi/full/10.1080/10408398.2018.1555133   \n59. https://saudijournals.com/media/articles/SIJTCM_611_168-176.pdf   \n60. https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16698   \n61 . https://www.tandfonline.com/doi/full/10.1080/23311886.2023.2229686 ",
+        "bbox": [
+            109,
+            74,
+            789,
+            948
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "62. https://journals.uj.ac.za/index.php/sajat/article/view/3534 ",
+        "bbox": [
+            112,
+            37,
+            557,
+            54
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "63. https://www.mdpi.com/1424-2818/14/3/192 ",
+        "bbox": [
+            112,
+            61,
+            455,
+            77
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "64. https://www.tandfonline.com/doi/full/10.1080/87559129.2022.2062765 ",
+        "bbox": [
+            114,
+            85,
+            653,
+            102
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "65. https://academicjournals.org/journal/JMPR/article-full-text-pdf/8DFCBAC52764.pdf ",
+        "bbox": [
+            116,
+            109,
+            746,
+            125
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "66. https://downloads.hindawi.com/journals/ecam/2023/3977622.pdf ",
+        "bbox": [
+            116,
+            133,
+            620,
+            150
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "67. https://pmc.ncbi.nlm.nih.gov/articles/PMC5345176/ ",
+        "bbox": [
+            114,
+            159,
+            513,
+            174
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "68. https://www.ajol.info/index.php/ahs/article/download/218973/206577 ",
+        "bbox": [
+            116,
+            181,
+            640,
+            198
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "69. http://downloads.hindawi.com/journals/ecam/2017/3043061.pdf ",
+        "bbox": [
+            116,
+            205,
+            606,
+            222
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "70. https://pmc.ncbi.nlm.nih.gov/articles/PMC3062575/ ",
+        "bbox": [
+            112,
+            229,
+            514,
+            246
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "71 . https://downloads.hindawi.com/journals/ecam/2020/3208634.pdf ",
+        "bbox": [
+            114,
+            253,
+            632,
+            270
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "72. https://www.ajol.info/index.php/ajtcam/article/download/57223/45611 ",
+        "bbox": [
+            117,
+            277,
+            640,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "73. https://ijamscr.com/ijamscr/article/view/1499 ",
+        "bbox": [
+            114,
+            301,
+            465,
+            318
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "74. https://academic.oup.com/ijfst/article/59/8/5363/7911574 ",
+        "bbox": [
+            116,
+            325,
+            555,
+            342
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "75. https://www.mdpi.com/2076-3417/13/10/6031 ",
+        "bbox": [
+            114,
+            349,
+            473,
+            366
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "76. https://www.e3s-conferences.org/10.1051/e3sconf/202449404023 ",
+        "bbox": [
+            117,
+            373,
+            625,
+            390
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "77. https://www.mdpi.com/1424-8220/25/6/1686 ",
+        "bbox": [
+            114,
+            398,
+            470,
+            414
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "78. https://link.springer.com/10.1007/s10443-022-10091-8 ",
+        "bbox": [
+            114,
+            421,
+            537,
+            438
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "79. https://www.mdpi.com/2073-4360/17/5/680 ",
+        "bbox": [
+            114,
+            445,
+            465,
+            462
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "80. https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pca.2431 ",
+        "bbox": [
+            119,
+            469,
+            697,
+            487
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "81 . https://pmc.ncbi.nlm.nih.gov/articles/PMC11588487/ ",
+        "bbox": [
+            114,
+            494,
+            519,
+            510
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "82. https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1473527/pdf ",
+        "bbox": [
+            114,
+            517,
+            792,
+            535
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "83. https://www.mdpi.com/2304-8158/12/23/4255/pdf?version=1700829994 ",
+        "bbox": [
+            117,
+            541,
+            671,
+            558
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "84. https://www.tandfonline.com/doi/full/10.1080/12269328.2024.2434466 ",
+        "bbox": [
+            116,
+            565,
+            655,
+            582
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "85. https://www.frontiersin.org/articles/10.3389/fsufs.2023.969264/full ",
+        "bbox": [
+            114,
+            590,
+            633,
+            606
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "86. https://ethnobotanyjournal.org/index.php/era/article/view/5305 ",
+        "bbox": [
+            116,
+            614,
+            596,
+            631
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "87. https://www.nrfhh.com/A-Comprehensive-Approach-to-Exploration-Documentation-and-Conservationof-Indigenous,193681,0,2.html ",
+        "bbox": [
+            116,
+            637,
+            882,
+            671
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "88. https://www.hindawi.com/journals/ijecol/2022/8430489/ ",
+        "bbox": [
+            114,
+            679,
+            545,
+            696
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "89. https://www.frontiersin.org/articles/10.3389/fsufs.2022.801527/full ",
+        "bbox": [
+            114,
+            704,
+            625,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "90. https://intellectdiscover.com/content/journals/10.1386/nzps_00147_7 ",
+        "bbox": [
+            114,
+            728,
+            625,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "91 . https://ijchr.net/index.php/journal/article/view/90 ",
+        "bbox": [
+            112,
+            752,
+            493,
+            767
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "92. https://journalijsra.com/node/1452 ",
+        "bbox": [
+            116,
+            776,
+            387,
+            791
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "93. https://www.frontiersin.org/articles/10.3389/fphar.2011.00013/pdf ",
+        "bbox": [
+            114,
+            799,
+            619,
+            815
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "94. https://japsonline.com/admin/php/uploads/1186_pdf.pdf ",
+        "bbox": [
+            114,
+            824,
+            545,
+            839
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "95. https://pmc.ncbi.nlm.nih.gov/articles/PMC5761105/ ",
+        "bbox": [
+            112,
+            848,
+            509,
+            864
+        ],
+        "page_idx": 4
+    }
+]
