@@ -442,17 +442,37 @@ LaTeX-OCR integration is the **highest-ROI tool** in thesis infrastructure:
 - **Phase 2** (Pilot - 20 papers): 📋 Ready to start
 - **Phase 3** (Full - 142 papers): 📋 Planned
 
-#### ⚠️ Known Issue
-**Wrapper Script Environment**: Scripts fail with `CONDA_DEFAULT_ENV: unbound variable`
-- **Root cause**: Conda variable not exported to bash subshells
-- **Impact**: Automation blocked, manual execution works fine
-- **Fix**: Replace conda check with `conda run -n kanna` (5-10 min)
-- **Workaround**: Run scripts manually in terminal where conda is initialized
+#### ⚠️ Session 2 Update (October 4, 2025 - Continuation)
 
-#### 🔄 Next Steps (Continuation)
-1. **Fix wrapper scripts** (10 min) - Replace conda environment check
-2. **Extract test PDF** (10 min) - Validate hybrid pipeline
-3. **Quality comparison** (10 min) - MinerU baseline vs LaTeX-OCR enhanced
+**✅ Fixed Issues**:
+- **Wrapper Scripts**: ✅ All scripts now use `conda run -n kanna` pattern (Issue #1 resolved)
+  - Updated: `extract-pdfs-hybrid.sh`, `install-latex-ocr.sh`
+  - Works across all execution contexts (shells, Bash tool, cron)
+
+**🔴 New Blocker Discovered**:
+- **MinerU AI Models Missing**: YOLOv8 formula detection model not downloading automatically
+  - Required: `~/.mineru/models/MFD/YOLO/yolo_v8_ft.pt` (~50MB)
+  - Required: `~/.mineru/models/Layout/YOLO/doclayout_yolo_ft.pt` (~400MB)
+  - Root cause: HuggingFace download failing silently
+  - **Impact**: Hybrid extraction pipeline blocked until manual download
+  - **Fix time**: 5-10 minutes (manual wget download)
+
+**📁 Additional Files Created**:
+- `tools/scripts/download-mineru-models.sh` - Automated model downloader
+- `/home/miko/magic-pdf.json` - MinerU configuration file
+
+#### 🔄 Next Steps (REQUIRED Manual Action)
+1. **Download MinerU models manually** (10 min) - **BLOCKER**
+   ```bash
+   cd ~/.mineru/models
+   mkdir -p models/MFD/YOLO models/Layout/YOLO
+   wget -O models/MFD/YOLO/yolo_v8_ft.pt \
+     "https://huggingface.co/opendatalab/PDF-Extract-Kit-1.0/resolve/main/models/MFD/YOLO/yolo_v8_ft.pt"
+   wget -O models/Layout/YOLO/doclayout_yolo_ft.pt \
+     "https://huggingface.co/opendatalab/PDF-Extract-Kit-1.0/resolve/main/models/Layout/YOLO/doclayout_yolo_ft.pt"
+   ```
+2. **Extract test PDF** (5 min) - Validate hybrid pipeline
+3. **Quality comparison** (5 min) - MinerU baseline vs LaTeX-OCR enhanced
 4. **GO/NO-GO decision** (5 min) - Proceed to Phase 2 if ≥20% improvement
 5. **Phase 2 pilot** (6 hours) - Extract 20 critical papers
 
@@ -481,4 +501,4 @@ LaTeX-OCR integration is the **highest-ROI tool** in thesis infrastructure:
 
 ---
 
-*Last updated: October 3, 2025*
+*Last updated: October 4, 2025 (Session 2 - LaTeX-OCR continuation)*

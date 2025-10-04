@@ -33,21 +33,18 @@ echo "=== LaTeX-OCR Installation ===" | tee -a "$LOG_FILE"
 echo "This will install pix2tex for formula extraction" | tee -a "$LOG_FILE"
 echo "" | tee -a "$LOG_FILE"
 
-# Activate conda environment
-if [[ "$CONDA_DEFAULT_ENV" != "$KANNA_ENV" ]]; then
-    echo "Activating conda environment: $KANNA_ENV" | tee -a "$LOG_FILE"
-    eval "$(conda shell.bash hook)"
-    conda activate "$KANNA_ENV" || {
-        echo "ERROR: Cannot activate conda env '$KANNA_ENV'" | tee -a "$LOG_FILE"
-        echo "Create it first: conda create -n $KANNA_ENV python=3.10" | tee -a "$LOG_FILE"
-        exit 1
-    }
-fi
+# Verify conda environment exists
+echo "Verifying conda environment: $KANNA_ENV" | tee -a "$LOG_FILE"
+conda run -n "$KANNA_ENV" python --version 2>&1 | tee -a "$LOG_FILE" || {
+    echo "ERROR: Conda env '$KANNA_ENV' not found" | tee -a "$LOG_FILE"
+    echo "Create it first: conda create -n $KANNA_ENV python=3.10" | tee -a "$LOG_FILE"
+    exit 1
+}
 
 # Check if already installed
-if python -c "import pix2tex" 2>/dev/null; then
+if conda run -n "$KANNA_ENV" python -c "import pix2tex" 2>/dev/null; then
     echo "✓ LaTeX-OCR already installed" | tee -a "$LOG_FILE"
-    python -c "from pix2tex.cli import LatexOCR; print('  Version: OK')" 2>&1 | tee -a "$LOG_FILE"
+    conda run -n "$KANNA_ENV" python -c "from pix2tex.cli import LatexOCR; print('  Version: OK')" 2>&1 | tee -a "$LOG_FILE"
 
     read -p "Reinstall anyway? (y/N) " -n 1 -r
     echo
@@ -60,16 +57,16 @@ fi
 # Install LaTeX-OCR with GUI support
 echo "" | tee -a "$LOG_FILE"
 echo "Installing pix2tex with GUI support..." | tee -a "$LOG_FILE"
-pip install "pix2tex[gui]" 2>&1 | tee -a "$LOG_FILE" || {
+conda run -n "$KANNA_ENV" pip install "pix2tex[gui]" 2>&1 | tee -a "$LOG_FILE" || {
     echo "⚠ GUI installation failed, trying without GUI..." | tee -a "$LOG_FILE"
-    pip install pix2tex 2>&1 | tee -a "$LOG_FILE"
+    conda run -n "$KANNA_ENV" pip install pix2tex 2>&1 | tee -a "$LOG_FILE"
 }
 
 # Verify installation
 echo "" | tee -a "$LOG_FILE"
 echo "Verifying installation..." | tee -a "$LOG_FILE"
 
-python <<'PYTHON' 2>&1 | tee -a "$LOG_FILE"
+conda run -n "$KANNA_ENV" python <<'PYTHON' 2>&1 | tee -a "$LOG_FILE"
 import sys
 try:
     from pix2tex.cli import LatexOCR
@@ -104,7 +101,7 @@ echo
 if [[ ! $REPLY =~ ^[Nn]$ ]]; then
     echo "Downloading model weights..." | tee -a "$LOG_FILE"
 
-    python <<'PYTHON' 2>&1 | tee -a "$LOG_FILE"
+    conda run -n "$KANNA_ENV" python <<'PYTHON' 2>&1 | tee -a "$LOG_FILE"
 from pix2tex.cli import LatexOCR
 import urllib.request
 from PIL import Image

@@ -33,19 +33,13 @@ KANNA_ENV="kanna"
 mkdir -p "$(dirname "$LOG_FILE")"
 mkdir -p "$OUTPUT_BASE"
 
-# Activate conda environment if not already active
-if [[ "$CONDA_DEFAULT_ENV" != "$KANNA_ENV" ]]; then
-    echo "Activating conda environment: $KANNA_ENV" | tee -a "$LOG_FILE"
-    eval "$(conda shell.bash hook)"
-    conda activate "$KANNA_ENV"
-fi
-
-# Verify dependencies
-echo "Verifying dependencies..." | tee -a "$LOG_FILE"
-python -c "import mineru; import pix2tex; print('✓ All dependencies installed')" || {
-    echo "ERROR: Missing dependencies. Install with:" | tee -a "$LOG_FILE"
-    echo "  conda activate $KANNA_ENV" | tee -a "$LOG_FILE"
-    echo "  pip install mineru pix2tex[gui]" | tee -a "$LOG_FILE"
+# Verify conda environment and dependencies
+echo "Verifying conda environment: $KANNA_ENV" | tee -a "$LOG_FILE"
+conda run -n "$KANNA_ENV" python -c "import mineru; import pix2tex; print('✓ All dependencies installed')" 2>&1 | tee -a "$LOG_FILE" || {
+    echo "ERROR: Missing dependencies or conda env '$KANNA_ENV' not found" | tee -a "$LOG_FILE"
+    echo "Fix:" | tee -a "$LOG_FILE"
+    echo "  1. Create env: conda create -n $KANNA_ENV python=3.10" | tee -a "$LOG_FILE"
+    echo "  2. Install deps: conda activate $KANNA_ENV && pip install mineru pix2tex[gui]" | tee -a "$LOG_FILE"
     exit 1
 }
 
@@ -68,7 +62,7 @@ find "$PDF_DIR" -name "*.pdf" -type f | while read -r pdf; do
     echo "Processing: $pdf_basename" | tee -a "$LOG_FILE"
 
     # Run MinerU with formula image extraction
-    magic-pdf -p "$pdf" -o "$output_dir" -m auto 2>>"$LOG_FILE" || {
+    conda run -n "$KANNA_ENV" magic-pdf -p "$pdf" -o "$output_dir" -m auto 2>>"$LOG_FILE" || {
         echo "⚠ MinerU failed for: $pdf_basename" | tee -a "$LOG_FILE"
         continue
     }
@@ -82,7 +76,7 @@ done
 
 echo -e "\n=== Step 2: LaTeX-OCR Formula Recognition ===" | tee -a "$LOG_FILE"
 
-python <<'PYTHON_SCRIPT' 2>>"$LOG_FILE"
+conda run -n "$KANNA_ENV" python <<'PYTHON_SCRIPT' 2>>"$LOG_FILE"
 import os
 import json
 import glob
