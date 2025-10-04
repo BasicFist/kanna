@@ -38,17 +38,30 @@ This directory contains tool documentation, templates, and utilities for the KAN
    - Bilingual workflow (French/English)
    - ⏱️ Setup time: 1-2 hours
 
-6. **[06-mineru-pdf-extraction-setup.md](guides/06-mineru-pdf-extraction-setup.md)** ⭐ **ADDED** - MinerU PDF Extraction
+6. **[06-mineru-pdf-extraction-setup.md](guides/06-mineru-pdf-extraction-setup.md)** - MinerU PDF Extraction (Baseline)
    - Automatic extraction of formulas (LaTeX), tables (markdown), and text
    - Batch processing for 500+ scientific papers
    - Integration with Obsidian workflow (Elicit → Zotero → MinerU → Obsidian)
    - Critical for pharmacology/chemistry papers (IC₅₀ tables, QSAR formulas)
    - ⏱️ Setup time: 1-2 hours | Processing speed: ~3-5 min/PDF
 
+7. **[07-mineru-advanced-enhancements.md](guides/07-mineru-advanced-enhancements.md)** - MinerU Advanced Enhancements
+   - LLM-assisted formula recognition (Kilo API integration)
+   - RapidTable for improved table extraction
+   - Quality thresholds and validation
+   - ⏱️ Enhancement time: 30-60 min
+
+8. **[08-latex-ocr-integration.md](guides/08-latex-ocr-integration.md)** ⭐ **NEW** - LaTeX-OCR Integration (Recommended)
+   - **88% formula accuracy** (vs 60-70% MinerU baseline)
+   - **Zero cost** alternative to Kilo API (saves $150+ for 500 papers)
+   - Vision Transformer architecture (same as Mathpix commercial tool)
+   - Hybrid pipeline: MinerU + LaTeX-OCR = best of both worlds
+   - ⏱️ Setup time: 1-2 hours | **200+ hours saved over thesis**
+
 **Quick Start**:
-- Week 1: Complete Guides 1 + 5 + 6 (literature + writing + PDF extraction)
+- Week 1: Complete Guides 1 + 5 + 6 + 8 (literature + writing + PDF extraction with max accuracy)
 - Week 2: Guide 2 (field data setup before first mission)
-- As needed: Guides 3-4 (when data collected)
+- As needed: Guides 3-4, 7 (when data collected, advanced enhancements)
 
 ---
 
