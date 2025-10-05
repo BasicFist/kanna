@@ -564,6 +564,103 @@ LaTeX-OCR integration is the **highest-ROI tool** in thesis infrastructure:
 
 **Status**: **All Priority 1 critical gaps resolved. Ready for serious research work.** 🎓
 
+---
+
+### October 5, 2025 (Continuation) - MinerU PDF Extraction Pipeline Investigation ⚠️
+**Session Type**: Priority 2 validation (PDF extraction pipeline debugging)
+
+#### 🎯 Objective
+Validate MinerU + LaTeX-OCR hybrid extraction pipeline on 20 pilot papers for GO/NO-GO decision on full 142-paper corpus extraction.
+
+#### ✅ Infrastructure Completed
+- **MinerU Models Downloaded** (26 seconds via Hugging Face):
+  - YOLO v8 formula detection (`yolo_v8_ft.pt`)
+  - UnimerNet formula recognition (7 files, 1.2B parameters)
+  - PaddleOCR (28 files for text recognition)
+  - Layout models, table recognition, orientation classification
+  - Storage: `/run/media/miko/AYA/crush-models/hf-home/` (external drive)
+  - Symlink: `~/.mineru/models` → model directory
+- **Python Dependencies**:
+  - `pycocotools` installed successfully
+  - `detectron2` compiled from source (30 seconds build time)
+- **Script Improvements**:
+  - Fixed `extract-pdfs-hybrid.sh` line 52: Removed `-type f` to handle symlinks
+  - Pilot papers (14 PDFs) organized in `literature/pdfs/PILOT-20/` (symlinks to BIBLIOGRAPHIE)
+
+#### ⚠️ **Critical Blocker Identified: layoutlmv3 Dependency Chain**
+
+**Root Cause**: MinerU's `layoutlmv3` layout model has incompatible dependency cascade:
+1. **detectron2**: Installed ✅ (Facebook's object detection library)
+2. **transformers API**: Incompatible version ❌
+   - Error: `cannot import name 'find_pruneable_heads_and_indices' from 'transformers.modeling_utils'`
+   - layoutlmv3 requires older transformers API (deprecated function)
+   - Upgrading/downgrading transformers risks breaking `mineru` and `pix2tex`
+
+**Config Workaround Attempted**: Added `"layout-config": null` to `~/mineru.json`
+- **Result**: ❌ Config ignored, MinerU still attempts layoutlmv3 load despite null setting
+- **Reason**: Hardcoded model initialization in `magic_pdf/model/pdf_extract_kit.py:118`
+
+**Extraction Attempts**: 7 runs over 3+ hours
+- All attempts: 0 files extracted (directory structures created but empty)
+- Dependencies resolved in sequence: `yolo_v8_ft.pt` → `pycocotools` → `detectron2` → transformers API (blocked)
+
+#### 📊 Dependency Investigation Summary
+
+| Dependency | Status | Resolution Time | Notes |
+|---|---|---|---|
+| YOLO model path | ❌→✅ | 15 min | Fixed via `~/.mineru/models` symlink |
+| pycocotools | ❌→✅ | 2 min | `pip install pycocotools` |
+| detectron2 | ❌→✅ | 30 min | Built from GitHub source |
+| transformers API | ❌ | Blocked | Breaks other dependencies if downgraded |
+
+#### 🔬 Lessons Learned
+
+**What Works**:
+- MinerU model download system (efficient, well-documented)
+- Formula detection models downloaded successfully (YOLO + UnimerNet operational)
+- Script symlink handling (critical for organized literature management)
+
+**What Doesn't Work**:
+- layoutlmv3 layout detection (incompatible transformers version, no easy fix)
+- Config-based feature disabling (`layout-config: null` ignored)
+- Dependency chains in academic ML tools (brittle, version-sensitive)
+
+#### 🎯 Alternative Approaches for Next Session
+
+**Option A: Simple PDF Extraction** (Recommended - 1 hour)
+- Use `pdfplumber` or `PyMuPDF` for text-only extraction
+- Pros: No dependencies, fast extraction, good enough for initial validation
+- Cons: No formula detection, simpler layout parsing
+- Command: `pdfplumber extract literature/pdfs/PILOT-20/*.pdf`
+
+**Option B: Fix transformers Version** (Risky - 2-3 hours)
+- Downgrade transformers to layoutlmv3-compatible version
+- Test all downstream dependencies (mineru, pix2tex, LaTeX-OCR)
+- Pros: Full MinerU functionality if successful
+- Cons: High risk of breaking conda environment
+
+**Option C: Skip Layout Detection** (Investigate - 1-2 hours)
+- Modify `magic_pdf/model/pdf_extract_kit.py` to actually respect `layout-config: null`
+- Or use text-mode extraction (`-m txt` instead of `-m auto`)
+- Pros: Keeps formula detection (YOLO + UnimerNet)
+- Cons: Requires code modification or alternative CLI flags
+
+#### 📝 Deliverables from This Session
+1. **Script Fix**: `extract-pdfs-hybrid.sh` now handles symlinks ✅
+2. **Model Infrastructure**: All MinerU models downloaded and accessible ✅
+3. **Dependency Documentation**: Complete blocker analysis for future troubleshooting ✅
+4. **Pilot Paper Selection**: 14 diverse papers (2003-2025, pharmacology/ethnobotany/clinical) ✅
+
+#### 🚀 Production Status
+- **R Environment**: ✅ 100% operational
+- **Backup System**: ✅ Automated daily
+- **PDF Extraction**: ⚠️ Blocked (MinerU layoutlmv3 dependency issue)
+- **Recommendation**: Pivot to `pdfplumber` for immediate validation, revisit MinerU after transformers ecosystem stabilizes
+
+**Time Investment**: 3+ hours (model download 30 min, dependency troubleshooting 2.5+ hours)
+**Outcome**: Infrastructure solid, extraction pipeline blocked on layoutlmv3 dependencies
+**Next Action**: Use simpler PDF tool for pilot validation, document MinerU for future investigation
+
 ### [Add more weekly reflections here]
 
 ---

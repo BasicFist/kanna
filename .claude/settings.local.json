@@ -5,7 +5,8 @@
       "WebSearch",
       "WebFetch(domain:opendatalab.github.io)",
       "WebFetch(domain:github.com)",
-      "mcp__sequential__sequentialthinking"
+      "mcp__sequential__sequentialthinking",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []

@@ -49,7 +49,7 @@ conda run -n "$KANNA_ENV" python -c "import mineru; import pix2tex; print('✓ A
 
 echo -e "\n=== Step 1: MinerU Extraction ===" | tee -a "$LOG_FILE"
 
-find "$PDF_DIR" -name "*.pdf" -type f | while read -r pdf; do
+find "$PDF_DIR" -name "*.pdf" | while read -r pdf; do
     pdf_basename=$(basename "$pdf" .pdf)
     output_dir="$OUTPUT_BASE/$pdf_basename"
 
