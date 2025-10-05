@@ -1,0 +1,1055 @@
+## Page 1
+
+260 OriginalPapers
+In Vitro
+Permeation of Mesembrine Alkaloids from
+Sceletium tortuosum
+across Porcine Buccal, Sublingual,
+and Intestinal Mucosa
+Authors EmmanuelA.Shikanga1,JosiasH.Hamman2,3,WeiyangChen2,SandraCombrinck1,NigelGericke4,AlvaroM.Viljoen2
+Affiliations 1DepartmentofChemistry,TshwaneUniversityofTechnology,Pretoria,SouthAfrica
+2DepartmentofPharmaceuticalSciences,TshwaneUniversityofTechnology,Pretoria,SouthAfrica
+3UnitforDrugResearchandDevelopment,North-WestUniversity,Potchefstroom,SouthAfrica
+4Medical&ScientificAffairs,HG&HPharmaceuticals(Pty)Ltd.,Bryanston,SouthAfrica
+Keywords Abstract aswellasintheformofcrudeextracts.Theintes-
+l" apparentpermeability ! tinalpermeabilityofmesembranolwassimilarto
+coefficient SceletiumtortuosumisanindigenousSouthAfri- thatofcaffeine,whilethoseofmesembrenoland
+l" invitrotransport
+canplantthathastraditionallybeenusedforits mesembrenonewerelowerthanthatofcaffeine,
+l" mesembrinealkaloids
+mood-enhancing properties. Recently, products butmuchhigherthanthatofthepoorlyperme-
+l" Sceletiumtortuosum
+l" Mesembryanthemaceae containingS.tortuosumhavebecomeincreasingly ablereferencecompoundatenolol(whichserved
+l" Sweetana‑Grassdiffusion popularandarecommonlyadministeredastab- as a negative control for membrane permeabili-
+lets,capsules,teas,decoctions,ortinctures,while ty).Ingeneral,thepermeabilitiesofthealkaloids
+traditionally the dried plant material has been wereloweracrossthesublingualandthebuccal
+masticated.Thisstudyevaluatedtheinvitroper- tissuesthanacrosstheintestinaltissue.However,
+meabilityofthefourmajorS.tortuosumalkaloids comparingthetransportofthealkaloidswiththat
+(i.e.,mesembrine,mesembrenone,mesembrenol, ofthereferencecompounds,thereareindications
+andmesembranol)acrossporcineintestinal,sub- thattransportacrossthemembranesoftheoral
+lingual,andbuccaltissuesintheirpureformand cavitymaycontributeconsiderablytotheoverall
+intheformofthreedifferentcrudeplantextracts, bioavailabilityofthealkaloids,dependingonpre-
+namelywater, methanol,and an acid-base alka- systemicmetabolism,whentheplantmaterialis
+loid-enriched extract. The permeability of me- chewedandkeptinthemouthforprolongedpe-
+sembrineacrossintestinaltissuewashigherthan riods. The resultsfrom thisstudyconfirmed the
+thatofthehighlypermeablereferencecompound abilityofthealkaloidsofS.tortuosuminpurified
+caffeine (which served as a positive control for orcrudeextractformtopermeateacrossintesti-
+membrane permeability) both in its pure form, nal,buccal,andsublingualmucosaltissues.
+received June30,2011
+revised October17,2011
+Introduction to regulating the balance of neurochemicals in
+accepted October25,2011
+! thebrain[5,6].Phosphodiesterase(PDE4)inhibi-
+Bibliography Sceletium tortuosum (L.) N.E. Br (Mesembryan- tionhasbeenreportedforanextractofS.tortuo-
+DOI http://dx.doi.org/
+themaceae) is a succulent plant indigenous to sum[7],andofthemesembrinealkaloidstested
+10.1055/s-0031-1280367
+SouthAfricathathastraditionallybeenusedasa forPDE4inhibitoryactivity,mesembrenonewas
+PublishedonlineNovember21,
+2011 masticatoryandasaremedytotreatailmentsaf- found to be the most potent [8], while mesem-
+PlantaMed2012;78:260–268 fectingthecentralnervoussystem[1,2].Thepsy- brine-HClwasfoundtobearelativelyweakinhib-
+©GeorgThiemeVerlagKG choactivepropertiesareascribedtothefourma- itoroftheenzyme[5].Thereisstronginvivoex-
+Stuttgart·NewYork·
+ISSN0032‑0943 jor alkaloids: mesembrine, mesembrenone, me- perimentalevidencethatPDE4inhibitorscanre-
+sembrenol, and mesembranol, collectively re- versedepression,improvecognitionandalleviate
+Correspondence ferred to as the mesembrine alkaloids [3]. The anxiety [9,10]. Sceletium tortuosum plants and
+Prof.AlvaroM.Viljoen(PhD)
+plant and its products have been prescribed for extractswithrelativelyhighmesembrenonecon-
+DepartmentofPharmaceutical
+Sciences themanagementofpsychiatricandpsychological tent,andisolatedmesembrenone,canthusactas
+TshwaneUniversityof conditionsincludingdepression,anxiety[4],drug dual serotonin reuptake inhibitors and PDE4 in-
+Technology
+dependence, bulimia, and obsessive-compulsive hibitors, while plant material relatively high in
+PrivateBagX680
+Pretoria0001 disorder[3].Thepotentialformesembrinealka- mesembrineandisolatedmesembrinecanactas
+SouthAfrica loids to treat central nervous system disorders highly selective serotonin reuptake inhibitors.
+Phone:+27123826360
+hasbeenattributedtotheircapacitytoactasse- Thetherapeutic advantagesofdual inhibition of
+Fax:+27123826243
+viljoenam@tut.ac.za rotoninreuptakeinhibitors,therebycontributing serotonin reuptake and PDE4 inhibition include
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 1)
+
+|  |  |  |
+| --- | --- | --- |
+| 260 | OriginalPapers |  |
+|  | In Vitro
+Permeation of Mesembrine Alkaloids from
+Sceletium tortuosum
+across Porcine Buccal, Sublingual,
+and Intestinal Mucosa |  |
+|  | Authors EmmanuelA.Shikanga1,JosiasH.Hamman2,3,WeiyangChen2,SandraCombrinck1,NigelGericke4,AlvaroM.Viljoen2
+Affiliations 1DepartmentofChemistry,TshwaneUniversityofTechnology,Pretoria,SouthAfrica
+2DepartmentofPharmaceuticalSciences,TshwaneUniversityofTechnology,Pretoria,SouthAfrica
+3UnitforDrugResearchandDevelopment,North-WestUniversity,Potchefstroom,SouthAfrica
+4Medical&ScientificAffairs,HG&HPharmaceuticals(Pty)Ltd.,Bryanston,SouthAfrica |  |
+
+## Page 2
+
+OriginalPapers 261
+thepossibilityofusingalowerdosetoachieveenhancedefficacy, PharmaceuticalSciences(TshwaneUniversityofTechnology,Pre-
+withareducedsideeffectprofile[11]. toria, South Africa). Krebs Ringer bicarbonate buffer was pur-
+Sceletiumtortuosumhasalsobeenfoundtoimproverelaxation chasedfromSigmaAldrich.Medicaloxygenwasobtainedfrom
+andsocialinteraction[1],inadditiontothetreatmentofinsom- AfroxLtd.
+nia and digestive problems in both children and adults [1,12].
+Althoughclinicalinvivostudies[4,13]andinvitroexperiments Preparationofextracts
+[5]confirmedthepharmacologicaleffectsofS.tortuosumandits ThreecrudeextractsofS.tortuosum(aerialparts)wereprepared
+alkaloidconstituents,reportsonbioavailabilitystudiesofthese byutilisingdifferentsolvents.FortheMeOHextract,20gofdry
+compounds arelacking, and no information is available on the plant powder (≤0.5mmparticlesize,Endecottstestsievefrom
+permeability of mesembrine alkaloids across intestinal, buccal, ProteaHoldingsLtd.;600WSaltonEliteblender)wasextracted
+andsublingualmucosaltissues. thricewith60mLofMeOH.Theplant-MeOHmixturewasshaken
+Traditionally,theaerialpartsofS.tortuosumwereconsumedasa for10minat200rpmusingaLabconplatformshakingincubator
+masticatory,andintheformofdecoctions,teas,andtinctures[1, (Laboratory Marketing Services CC). The resulting filtered ex-
+4],butthedryplantmaterialhasalsobeensmokedandpowdered tracts(Whatmanno.4filterpaper;Macherey-Nagel)werecom-
+plant material inhaled as a snuff [14]. Currently, S. tortuosum binedandconcentratedunderreducedpressure(Buchirotavapor
+products are commercially available as tablets, capsules, teas, R-200);whereaftertheyweredriedinavacuumoven(Vismara
+sprays,extracts,andtinctures[15].Theincreaseinthedemand srlScientificEquipment-Technicalservice,ModelVo65)at40°C
+forandtheconsumptionofS.tortuosumproductsareevidentby under0.2barpressure.
+therapidriseintheestablishmentofcommercialplantationsand Thewaterextractwaspreparedbyadding60mLofwaterto20g
+companiesprocessingtheplantmaterial[6,15]. of dry plant powder, shaking for 10min at 200rpm, followed
+Anybiologicallyactivecompoundmustbeabsorbedsufficiently by filtering. This process was repeated twice and the resulting
+inordertoreachanappropriateconcentrationatthesiteofac- extracts were combined and lyophilised using a Benchtop K
+tiontoelicititspharmacologicaleffect.Theinvivodrugabsorp- freeze-drier(TelstarIndustriesLtd.)for24h.
+tionprocessisacomplexseriesofevents,includingpermeation For the crude sulfuric acid extract preparation, the dry plant
+across epithelial cell membranes and presystemic metabolism. powder was extracted thrice with 60mL of 0.25M aqueous
+Numerouseffortshavebeenmadetoidentifyscreeningmodels H SO for 10min. After filtration, the combined acidic extract
+2 4
+that are predictive of this process [16]. Several artificial mem- (150mL)wasbasifiedusing25%aqueousammonia(75mL).The
+branes,cellculturetechniques,andisolatedmucosaltissueshave basicaqueousphasewaspartitionedthreetimesusing90mLof
+beenusedtoassessthetransportofcompoundsacrossbiological dichloromethane.Theorganicfractionswerepooledandconcen-
+barriers[17].Isolatedtissuesfromseveralanimals,suchasrab- tratedunderavacuumandfurtherdriedinavacuumovenat40°C
+bits,monkeys,dogs,hamsters,andpigs,havebeenemployedas under0.2barpressure.
+models for evaluation of drug permeability [18]. However, ex-
+cisedporcinetissuesincludingbuccal,sublingual,andintestinal Preparationoftestsolutions
+mucosahavebeenfrequentlyutilisedindrugtransportstudies, Allthecrudeextracttestsolutionsforthetransportstudieswere
+duetotheirsimilaritytohumantissuesintermsofdrugtrans- prepared in Krebs Ringer bicarbonate buffer at a mesembrine
+port[19,20]. concentration of 40µg/mL. The amount of each extract added
+Inthisstudy,theinvitropermeabilitiesoffourkeyS.tortuosum wasbasedonthemesembrinecontentasdeterminedbymeans
+alkaloids, namely mesembrine, mesembrenone, mesembrenol, of high-performance liquid chromatography (HPLC) analysis.
+andmesembranolintheirpureisolatedform,aswellasincrude Thepurealkaloidtestsolutionswerepreparedatconcentrations
+extractform,weredeterminedacrossexcisedporcinesublingual, basedontheirlevelsinthecrudeextracts(viz.mesembrenone:
+buccal,andintestinalmucosaltissuesinaSweetana-Grassdiffu- 90µg/mL,mesembrenol:80µg/mL,mesembrine:40µg/mL,and
+sionchamber. mesembranol:40µg/mL)inKrebsRingerbicarbonatebuffer.Caf-
+feine(highlypermeablereferencecompound)servedasaposi-
+tive control and atenolol (poorly permeable compound) served
+MaterialsandMethods asanegativecontrol for thepermeation intheinvitromodels
+! andwerepreparedas40µg/mLsolutionsinKrebsRingerbicar-
+Materials bonatebuffer.
+Allsolvents(dichloromethane,sulfuricacid,ammonia,methanol
+for extraction) were ARgrade (SigmaAldrich),while methanol Invitrotransportstudies
+(MeOH) for analysis (SMM Instruments) and triethanolamine Tissuepreparation:Mucosalspecimenscomprisingofintestinal,
+(Protea Laboratory Services Ltd.) were HPLC grade. Caffeine buccal, and sublingual tissues were removed from slaughtered
+(purity: 99.0%) was obtained from Italian Chemical Industries pigs (R&R abattoir, Pretoria, SA), whereafter the tissues were
+Ltd.,andatenolol(purity:99.0%)wasagiftfromSandoz.Mesem- washedwithandtransportedinice-coldKrebsRingerbicarbon-
+brenone (purity: 98.2%), mesembrenol (purity: 98.4%), me- atebuffer.Transportexperimentsacrossanyofthemucosaltis-
+sembrine(purity:98.5%),andmesambranol(purity:95.4%)were suescommencedwithinonehourfollowingcollection.
+isolatedinapreviousstudyfromS.tortuosumusinghigh-speed For the intestinal transport studies, a section of approximately
+countercurrentchromatographyandsubsequentlycharacterised 15cminlengthwascutfromthesmallintestineofthepigʼsgas-
+usingoneandtwodimensional1Hand13Cnuclearmagneticres- trointestinaltract,about50cmawayfromthestomach.Thein-
+onance(NMR)andgaschromatographymassspectrometry[21]. testinaltubewaspulledoveraglasstube,andtheoverlayingse-
+SceletiumtortuosumplantmaterialwasobtainedfromtheWest- rosal layer was stripped off by blunt dissection. The intestinal
+ernCape(South Africa), identifiedbyProf.A. M.Viljoen,anda tubewasthencutalongthemesentericborder withtheaidof
+voucherspecimen(SC-562)wasdepositedintheDepartmentof dissectionscissorsandwashedfromtheglasstubeusingKrebs
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 2)
+
+|  | 261 |
+| --- | --- |
+| OriginalPapers |  |
+
+## Page 3
+
+262 OriginalPapers
+Ringerbicarbonatebuffer.Itwasthencutintosmallersections, umn (Waters™). An injection volume of 1µL was applied and
+which were mounted onto Sweetana-Grass diffusion chamber thesampleandcolumntemperatureswere25and30°C,respec-
+clamps. tively.Themobilephase(flowrateof0.3mL/min)consistedof(A)
+Forthebuccalandsublingualtransportstudies,mucosaltissues 0.1%aqueousammoniaand(B)MeOH.Gradientelutionwasem-
+from the pigʼs cheek and mouth floor, respectively, were re- ployed starting with 80% A and 20% B, changing to 40% B in
+moved. The excessive connective and adipose tissues were 2min, then changing further to 50% B in 2min (held constant
+trimmed away from the buccal and sublingual mucosa until for3min).Awavelengthof280nmwasselectedasthemostap-
+1.0±0.4mmand0.7±0.3mmthicksectionswereobtained,re- propriate(resolution1.2nm).
+spectively. The segments were then mounted onto Sweetana-
+Grassdiffusionchamberclampsinthesamewayasfortheintes- High-performanceliquidchromatographyanalysis
+tinalmucosaltissuesections. AlthoughGC‑MSandUPLCwereusedforfingerprintingoftheS.
+Transport across intestinal mucosal tissue: Clamps with the tortuosum extracts, HPLC was used for analysis of the aqueous
+mounted porcine intestinal tissue sheets were fitted between transportsamples.TheHPLCsystemconsistedofaWaters2690
+two Sweetana-Grass diffusion chamber halfcells, with a trans- separationmoduleandaWaters996photodiodearraydetector
+port surface area of 1.13cm2 and linked to the heating block (Waters). After injection (20µL loop) of the sample, separation
+(Easy Mount Diffusion Chamber; Physiologic Instruments). The ofthecompoundswasachievedat25°ConaPhenomenexC18
+completediffusionapparatuscomprisedsixdiffusionchambers. column (250mm×4.6mm; 5µm), equipped with a C18 guard
+Warm(37°C)KrebsRingerbicarbonatebuffer(7mL)wasadded column(Phenomenex).Chromatographicdatawascollectedand
+to each compartment of the diffusion chambers to equilibrate analysedusingEmpowersoftware.Themobilephase(flowrate
+the tissues for 30min before commencement of the transport of1.0mL/min)consistedof(A)1%aqueoustriethanolamineand
+study.Thesolutionsinthechamberswereoxygenatedbycontin- (B)MeOH.Gradientelutionwasemployed(60%A:40%B;chang-
+uously bubbling medical grade oxygen through each compart- ingto50%Bin5minandheldconstantfor8minbeforechanging
+ment.Transportofthetestandreferencecompoundswasinves- within 1min to 60% A: 40% B and held constant for 4min).
+tigatedintwodirectionsacrossthepigintestinalmucosaltissue. Analytesweredetectedatawavelengthof280nm.
+Fortransportintheapical-to-basolateral(A–B)directionacross Foranalysisofcaffeine,themobilephaseconsistedof(A)MilliQ®
+the intestinal tissue, buffer in the apical compartment was re- waterand(B)HPLCgradeMeOH.Theinitialmobilephase(flow
+placedwith7mLoftestsolution.Fortransportinthebasolater- rate1mL/min)was10%waterand90%MeOH.Thereafter,alin-
+al-to-apical(B‑A)directionacrosstheintestinaltissue,bufferin ear gradient was applied to reach 40% aqueous MeOH after
+thebasolateralcompartmentwasreplacedwiththetestsolution. 30min. The columnwas thenwashed by increasing the MeOH
+Aliquots of 200µL were sampled from each receiver compart- concentrationto100%.Bothcaffeineandatenololweredetected
+ment at30-min intervalsfor4hand analysed usingHPLC.The at273nm.Themobilephaseforatenololanalysisconsistedof(A)
+sampleswithdrawnwerereplacedwithequalvolumesoffresh 0.1Maqueousaceticacid;(B)MeOHataflowrateof1.0mL/min
+buffer(37°C).Tissueintegritywasevaluatedbytakingtransepi- initiallyusing85%A:15%Bbeforechangingto30%Bin10min.
+thelialelectricalresistance(TEER)measurements,bothatthebe- Calibrationstandardsforcaffeine,atenolol,mesembrenone,me-
+ginningandattheendoftheexperiment,usingaMillicell-ERS sembrenol,mesembrine,andmesambranolwereprepared(5,10,
+meter (Millipore) [22]. All the intestinal transportexperiments 25,50,75,100µg/mL)inMeOH.Thepeakareaswereplottedasa
+wereconductedintriplicate. function of concentration and a linear regression analysis was
+Transport across buccal and sublingual mucosal tissue: Porcine performed to determine the correlation coefficient (R2) values.
+buccal and sublingual mucosal tissue segments were mounted Thelimitsofdetection(LOD)andquantification(LOQ)werealso
+onthediffusionchamber inthesamewayasdescribedfor the determinedforeachofthefouralkaloids[23].
+intestinaltissuesheets.Transportofthetestandreferencecom-
+poundswasdeterminedintheA–Bdirectiononlyacrossthepor- Dataanalysis
+cine buccal and sublingual mucosal tissues. All the buccal and Thepercentageofeachtestandreferencecompoundtransported
+sublingual transport experiments were conducted in triplicate acrossthevariousmucosaltissueswasplottedasafunctionof
+inthesamewayasdescribedforthetransportacrossintestinal time.Thereafter,theapparentpermeabilitycoefficient(P )val-
+app
+tissue. ues,whichrepresenttransportnormalisedformembranesurface
+areaanddrugconcentrationaddedtothedonorcompartment,
+Ultraperformanceliquidchromatographyanalysis werecalculated.CorrespondingP valuesforeachofthecom-
+app
+ChromatographicfingerprintsofthethreeS.tortuosumextracts poundswerecalculatedaccordingtothefollowingequation[24]:
+andthemixtureofthealkaloidstandardswereobtainedbyultra (cid:1) (cid:3)
+dQ 1
+performanceliquidchromatography(UPLC).Thedriedalkaloid- Papp =
+dt A(cid:1)C (cid:1)60
+enrichedextract,resultingfromacid-baseextraction,wasresus- 0
+pendedinmethanolataconcentrationof10.0mg/mL,theMeOH where dQ/dt is the permeability rate (%/min); A is the surface
+andwaterextractswereresuspendedinmethanolataconcen- areaofthemembrane(cm2);andC istheinitialconcentration
+0
+trationof50mg/mL,whilethepurealkaloidstandardsweredis- inthedonorchamber(%).Excelsoftwarewasusedforstatistical
+solvedataconcentrationof1mg/mL,priortoanalysis.TheUPLC analysis.
+systemcomprisedofaWatersAcquityUltraperformanceliquid A one-way analysis of variance (ANOVA, single factor without
+chromatography sample manager (Waters™), an UPLC binary replication)andleastsignificantdifference(LSD)testswereap-
+solvent manager, and an UPLC diode array detector (210– pliedtothedata,andthoseresultswithp≤0.05wereconsidered
+400nm). Separation was achieved on a Waters Acquity UPLC tobesignificantlydifferent.
+BEHC18(2.1×50mm,1.7µm)reversed-phasecolumnequipped
+withanUPLCBEHC18(2.1×5mm,1.7µm)VanGuardpre-col-
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 3)
+
+| 262 | OriginalPapers |
+| --- | --- |
+
+## Page 4
+
+OriginalPapers 263
+Fig.1a ChemicalstructuresoftheSceletiumtor-
+tuosumalkaloids:1)mesembrenol,2)mesembra-
+nol,3)mesembrine,4)mesembrenone.
+Fig.1b UltraperformanceliquidchromatogramofamixtureoffourScele- tionsofthemethanolandwaterextracts,respectively,containingthefour
+tiumalkaloidstandards(A)andfingerprintsoftheacid-base(B),methanol alkaloids.1)mesembrenone(RT:4.76min),2)mesembrenol(RT:5.26min),
+(C),andwater(E)extracts.ChromatogramsDandFrepresentenlargedsec- 3)mesembrine(RT:5.59min),4)mesembranol(RT:5.77min).
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 4)
+
+|  | 263 |
+| --- | --- |
+| OriginalPapers |  |
+
+### Table 2 (Page 4)
+
+|  |  |
+| --- | --- |
+|  | Fig.1a ChemicalstructuresoftheSceletiumtor-
+tuosumalkaloids:1)mesembrenol,2)mesembra-
+nol,3)mesembrine,4)mesembrenone. |
+
+### Table 3 (Page 4)
+
+|  |
+| --- |
+|  |
+| Fig.1b UltraperformanceliquidchromatogramofamixtureoffourScele- tionsofthemethanolandwaterextracts,respectively,containingthefour
+tiumalkaloidstandards(A)andfingerprintsoftheacid-base(B),methanol alkaloids.1)mesembrenone(RT:4.76min),2)mesembrenol(RT:5.26min),
+(C),andwater(E)extracts.ChromatogramsDandFrepresentenlargedsec- 3)mesembrine(RT:5.59min),4)mesembranol(RT:5.77min). |
+|  |
+
+## Page 5
+
+264 OriginalPapers
+Table1 Regressionanalysisofcalibrationcurvesformesembrenone,mesembrenol,mesembrine,andmesembranol,caffeineandatenolol.
+Analyte MW* RT$(min) Slope(M) Intercept(C) R2 LOD*(µg/mL) LOQ*(µg/mL)
+Mesembrenone 287.15 10.72 12726±95 22817±259 0.9934±0.0002 0.600±0.005 2.002±0.013
+Mesembrenol 289.15 12.53 9617±21 14229±198 0.9971±0.0001 0.434±0.009 1.445±0.024
+Mesembrine 289.17 13.72 10702±9 17825±177 0.9941±0.0002 0.208±0.012 0.693±0.025
+Mesembranol 291.18 14.48 10800±8 15305±216 0.9975±0.0001 0.203±0.010 0.676±0.023
+Caffeine 194.19 8.26 46688±58 15812±220 0.9997±0.0000 0.125±0.004 0.377±0.010
+Atenolol 266.30 8.12 7027±34 959±76 0.9993±0.0000 0.202±0.008 0.521±0.015
+*Valuesarerepresentedbymean±SD(n=3).*MW=molecularweight,LOD=limitofdetection,LOQ=limitofquantification.$RT=retentiontimesfromHPLCanalysis
+Table2 YieldsandconcentrationsofalkaloidsintheextractspreparedfromSceletiumtortuosum.
+Extract Yield(%dw*) Concentration(mg/gdw*)
+Mesembrenone Mesembrenol Mesembrine Mesembranol
+Water 6.41±0.06 0.529±0.002 0.460±0.003 0.234±0.001 0.214±0.002
+MeOH 8.70±0.10 0.245±0.003 0.229±0.001 0.101±0.001 0.098±0.004
+Acid-base 0.44±0.01 0.952±0.001 0.829±0.004 0.398±0.003 0.321±0.001
+*dw=dryweightofplantmaterial.*Valuesarerepresentedbymean±SD(n=3)
+ResultsandDiscussion catealagphasebeforethealkaloidsweretransportedacrossthe
+! pigintestinalmucosaltissue.Thiscanpossiblybeexplainedby
+Liquidchromatographyis a conventional techniquefor thefin- the time needed for these hydrophilic compounds to diffuse
+gerprinting of raw materials and their associated commercial throughtheunstirredwaterandmucouslayeratthemembrane
+products.Thechemicalstructuresofthefouralkaloidstandards surface before transport across the epithelial cell membrane
+andultraperformanceliquidchromatography(UPLC)chromato- couldoccur.Thefouralkaloidsweretransportedatdifferentrates
+gramsofthethreeextracts(methanol,water,andacid-base)are andextentsacrosstheporcineintestinaltissueintheA–Bdirec-
+presentedinl"Fig.1aandb,respectively.Isolatedalkaloidswere tion,bothaspurecompoundsandascrudeextracts.Mesembrine
+characterisedusingone-andtwo-dimensional13Cand1HNMR, consistentlyexhibitedthehighestpermeability,whichwassta-
+incombinationwithGC‑MSdataandbycomparisonwithpub- tisticallysignificantly higher, based on the P value (p≤0.05)
+app
+lisheddata[25]. intheA–Bdirectionacrosstheporcineintestinaltissueinallthe
+Analysesofthealkaloidsintheextractsrevealedgoodseparation experimentalgroups,despiteitslowerconcentrationinthecrude
+within20minforHPLCandwithinonly8minforUPLC.Specific extractscomparedtotheotheralkaloids.Thisbettertransportof
+alkaloids were identified by comparing their retention times mesembrinecanpossiblybeexplainedbyactiveuptaketransport,
+withthoseofthepurecompoundsandalsobycoelutionfollow- inadditiontopassivediffusion,butthismustbeconfirmedbyfur-
+ingstandardaddition.Theconcentrationsoftheanalytesinthe therinvestigations.Oneimportantimplicationofthehigherper-
+extracts (µg/mL) and the quantity of each analyte transported meabilityrecordedformesembrinecomparedtotheotheralka-
+across the membrane were determined using the regression loidsisthatwhenmesembrine,plantmaterial,orextracthighin
+equationsobtainedfromthecalibrationcurvesofthepurecom- mesembrinecontent,istakenorally,itislikelytobemorerapidly
+poundsassummarisedinl"Table1.Asummaryoftheyieldof transportedacrossmucosalmembranesandwillpossiblyexhibit
+eachextractandtheconcentrationofeachcompoundinthecor- amorepronouncedcentralnervoussystemeffect.Inthisregard,it
+respondingextractisprovidedinl"Table2.Theconcentrations isimportanttonotethatmesembrineistransportedstatistically
+ofthealkaloidsineachextractareexpressedinmg/gofdryplant significantlybetter(basedonP values,p≤0.05)thantherefer-
+app
+material.Ofthethreeextracts,thecrudeMeOHextractdisplayed ence compound caffeine, a highly permeable molecule that
+thehighestyield,whilethecrudeacid-baseextractgavethelow- servedasapositivecontrolformembranepermeability.Thisin
+estyieldwithrespecttothemassofthedryplantmaterial.How- vitrotransportresultthereforeindicatesverygoodpermeability
+ever, as expected,the concentrations of the alkaloids were the formesembrineacrosstheintestinalepithelium.
+highestinthealkaloid-richacid-baseextract. Dependingonpresystemicmetabolism, this may indicate good
+Thecumulativepercentagetransportvaluesofthepurealkaloids, bioavailabilityafteroraladministration.Itisnotyetknownifde-
+aswellasforthealkaloidsinthethreecrudeextracts,intheA–B compositionof the moleculetakesplacein the gastrointestinal
+directionacrossporcineintestinalmucosaltissuearepresented tractpriortoabsorption.Therehavebeensomereportsoftran-
+inl"Table3.ThecorrespondingP
+app
+valuescalculatedfortheA– sient euphoria or intoxication following ingestion of Sceletium
+Btransportacrosstheintestinalmucosaltissuearedepictedin plantmaterial[5],andtherapidtransportofmesembrineinme-
+l"Fig.2.Thepercentagetransportresults(l"Table3)clearlyindi- sembrine-richplantmaterialmayaccountforthisphenomenon.
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 5)
+
+| 264 | OriginalPapers |
+| --- | --- |
+
+### Table 2 (Page 5)
+
+| MW* RT$(min) Slope(M) Intercept(C) R2 | LOD*(µg/mL) | LOQ*(µg/mL) |
+| --- | --- | --- |
+| 287.15 10.72 12726±95 22817±259 0.9934±0.0002 | 0.600±0.005 | 2.002±0.013 |
+| 289.15 12.53 9617±21 14229±198 0.9971±0.0001 | 0.434±0.009 | 1.445±0.024 |
+| 289.17 13.72 10702±9 17825±177 0.9941±0.0002 | 0.208±0.012 | 0.693±0.025 |
+| 291.18 14.48 10800±8 15305±216 0.9975±0.0001 | 0.203±0.010 | 0.676±0.023 |
+| 194.19 8.26 46688±58 15812±220 0.9997±0.0000 | 0.125±0.004 | 0.377±0.010 |
+| 266.30 8.12 7027±34 959±76 0.9993±0.0000 | 0.202±0.008 | 0.521±0.015 |
+
+### Table 3 (Page 5)
+
+| Extract Yield(%dw*) | Concentration(mg/gdw*) |  |  |
+| --- | --- | --- | --- |
+|  | Mesembrenone Mesembrenol | Mesembrine | Mesembranol |
+| Water 6.41±0.06 0.529±0.002 0.460±0.003 |  | 0.234±0.001 | 0.214±0.002 |
+| MeOH 8.70±0.10 0.245±0.003 0.229±0.001 |  | 0.101±0.001 | 0.098±0.004 |
+| Acid-base 0.44±0.01 0.952±0.001 0.829±0.004 |  | 0.398±0.003 | 0.321±0.001 |
+
+## Page 6
+
+Mesembrineinitspureisolatedformwastransportedmoreex-
+tensively than mesembrine in the crude extracts, even though
+theywereappliedatthesameconcentrations.Thisindicatesthat
+theotherphytochemicalsinthecrudeextractsmayhaveplayeda
+role in reducing the transportof mesembrine. In contrast, me-
+sembranol was transported to a larger extent when applied in
+theformofanextractcomparedtothepurecompound,which
+indicatespotentialenhancingeffectsofotherphytochemicalsin
+thecrudeextractonmesembranoltransport.Transportenhanc-
+ingeffectsbyphytochemicalsmayincludechangesinthemem-
+brane fluidity, while transport reduction effects may occur by
+competitiveinhibitionofactivetransporters.Mesembrenoland
+mesembrenoneexhibitedverysimilarintestinalmembraneper-
+meabilitieswhenappliedintheformofpureisolatedcompounds
+andcrudeextracts,butthesewerepoorerthanthatofcaffeine,
+although better than that of the weakly permeable reference
+compound,atenolol.
+The P values calculated for transport in the B‑A direction app
+across porcine intestinal mucosal tissue of the pure alkaloids
+andthreedifferentcrudeextractsofS.tortuosumaredepictedin
+l"Fig.3.Ingeneral,thetransportofthepurealkaloidsandcrude
+extractswaspoorerintheB‑Adirectioncomparedtothetrans-
+portintheA–Bdirection,whichisindicativeoftheabsenceofac-
+tiveeffluxtransport.Theseresultsthereforeindicatethatnoneof
+thefourmesembrine-alkaloidsofS.tortuosumaresubstratesfor
+efflux transporterssuchasP-glycoprotein and multidrug resis-
+tanceprotein2(MRP2).Thisalsoindicatesthatthemesembrine
+alkaloidswillpotentiallyavoidtheP‑gpeffluxoftheblood-brain
+barrier, whichexplains the CNS effects of thesecompounds. In
+accordance with the A–B transport results, the transport of
+mesembranolwas higher in the B‑Adirectionwhen applied in
+theformofcrudeextractscomparedtothepureisolatedalkaloid.
+Thisconfirmsthatcertainphytochemicalspresentinthecrude
+extractsenhancethe membrane permeabilityof mesembranol,
+butthisobservationisnotrelatedtoeffluxinhibition.
+SinceS.tortuosumdryplantmaterialistraditionallychewedand
+thereforekeptinthemouthforprolongedperiods[1],itwasthe
+aim of this investigation to determine if the mesembrine alka-
+loidshavetheabilitytopermeateacrossbuccal andsublingual
+membranes,therebycontributingtotheiroverallbioavailability,
+depending on presystemic metabolism. The P values calcu-
+app
+latedfortheA–Btransportofthepurealkaloidsandforthethree
+crudeextractsacrosssublingualmucosaltissuearedepictedin
+l"Fig.4. It is noteworthy that the permeability of mesembrine
+wasthebestof thefouralkaloids acrosstheintestinal mucosa,
+asindicatedbytheP values,althoughthepermeabilityofme- app
+sembranolwasthebestacrossthesublingualmucosa.Thismay
+beexplainedbythedifferencesinthebarrierpropertiesofthein-
+testinalmucosaandthesublingualmucosa.
+Inmostcases,alkaloidpermeabilityacrossthesublingualmucosal
+tissuewaspoorerthanthatofcaffeine(thehighlypermeableref-
+erencecompoundthatservedasapositivecontrolformembrane
+permeability).However,mesembrenoneinthewaterextractand
+mesembranolintheacid-baseextractdisplayedsimilarP val-
+app
+uesascaffeine.Thebetterpermeabilitiesofmesembrenoneand
+mesembranol from the crude extracts, compared to the pure
+compounds,canpossiblybeexplainedbythehigherconcentra-
+tionsofthesealkaloidsintheextractscomparedtothatofme-
+sembrine. In some experimental groups, the alkaloids were
+transportedtoalesserextentacrossthesublingualmucosaltissue
+thanacrosstheintestinalmucosaltissue.However,thetransport
+wasstillconsideredtoberelativelygood,becauseitwasbetter
+.noitceridlaretalosab-ot-lacipaehtnieussitlasocumlanitsetnienicropssorcasdiolakla-enirbmesemfotropsnartegatnecrepevitalumuC
+3elbaT
+*stcartxe/sdnuopmocfotropsnartevitalumuC%
+emiT
+tcartxeesab-dicA
+tcartxeHOeM
+tcartxeO2H
+sdnuopmoc/sdiolaklaeruP
+.nim
+4
+3
+2
+1
+4
+3
+2
+1
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+03
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+5.0±2.4
+1.0±6.2
+0.0
+0.0
+0.0
+06
+1.0±4.4
+7.0±8.01
+6.0±7.9
+3.0±1.8
+2.0±3.4
+6.0±7.31
+3.0±1.8
+2.0±4.4
+1.0±6.2
+0.0
+0.0
+2.0±3.2
+20.0±9.0
+1.1±2.5
+4.0±8.3
+0.0
+0.0
+0.0
+09
+2.0±8.5
+4.1±4.21
+7.1±8.01
+4.0±4.9
+1.0±2.5
+7.0±7.41
+4.0±4.9
+3.0±5.5
+3.0±0.4
+0.0
+0.0
+2.0±4.3
+52.0±2.1
+9.0±5.7
+1.0±6.5
+0.0
+0.0
+0.0
+021
+2.0±2.7
+6.0±4.51
+7.1±8.11
+4.0±5.01
+2.0±4.6
+8.0±6.51
+4.0±5.01
+4.0±8.6
+5.0±2.6
+3.1±5.31
+0.0
+5.0±2.5
+12.0±5.1
+8.0±9.9
+2.0±3.7
+8.0±5.81
+0.0
+4.0±2.5
+051
+3.0±5.8
+0.1±3.71
+7.1±2.31
+4.0±5.11
+2.0±7.7
+1.1±4.61
+3.0±5.11
+4.0±1.8
+6.0±6.7
+1.1±5.51
+7.0±9.01
+5.0±7.6
+22.0±1.2
+4.1±6.01
+3.0±8.8
+0.1±1.91
+5.0±7.5
+5.0±7.6
+081
+3.0±9.8
+2.1±1.81
+9.0±5.31
+2.0±7.11
+9.1±0.8
+3.1±9.61
+2.0±7.11
+4.0±2.8
+2.1±6.8
+7.0±6.61
+0.2±8.41
+5.0±0.8
+50.0±4.2
+8.1±7.11
+5.0±7.9
+0.2±5.02
+3.0±8.6
+6.0±8.6
+012
+5.0±0.9
+3.1±3.81
+1.1±4.31
+3.0±9.11
+6.0±2.8
+0.1±3.71
+3.0±9.11
+2.0±2.8
+7.1±1.9
+0.2±8.81
+9.1±1.81
+5.0±2.8
+12.0±0.3
+0.2±2.21
+3.0±9.9
+8.3±0.22
+1.0±6.7
+6.0±0.7
+042
+)3=n(DS±naemybdetneserpereraseulaV*.loloneta=6,enieffac=5,enonerbmesem=4,enirbmesem=3,lonarbmesem=2,lonerbmesem=1*
+OriginalPapers 265
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 6)
+
+|  | 265 |
+| --- | --- |
+| OriginalPapers |  |
+
+### Table 2 (Page 6)
+
+| *stcartxe/sdnuopmocfotropsnartevitalumuC% | tcartxeesab-dicA | 4
+3 | 0.0
+0.0 | 0.0
+0.0 | 0.0
+0.0 | 1.0±4.4
+7.0±8.01 | 2.0±8.5
+4.1±4.21 | 2.0±2.7
+6.0±4.51 | 3.0±5.8
+0.1±3.71 | 3.0±9.8
+2.1±1.81 | 5.0±0.9
+3.1±3.81 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 2 | 0.0 | 0.0 | 0.0 | 6.0±7.9 | 7.1±8.01 | 7.1±8.11 | 7.1±2.31 | 9.0±5.31 | 1.1±4.31 |
+|  |  | 1
+4 | 0.0
+0.0 | 0.0
+0.0 | 0.0
+0.0 | 3.0±1.8
+2.0±3.4 | 4.0±4.9
+1.0±2.5 | 4.0±5.01
+2.0±4.6 | 4.0±5.11
+2.0±7.7 | 2.0±7.11
+9.1±0.8 | 3.0±9.11
+6.0±2.8 |
+|  | tcartxeHOeM
+tcartxeO2H
+sdnuopmoc/sdiolaklaeruP |  |  |  |  |  |  |  |  |  |  |
+|  |  | 3 | 0.0 | 0.0 | 0.0 | 6.0±7.31 | 7.0±7.41 | 8.0±6.51 | 1.1±4.61 | 3.1±9.61 | 0.1±3.71 |
+|  |  | 2 | 0.0 | 0.0 | 0.0 | 3.0±1.8 | 4.0±4.9 | 4.0±5.01 | 3.0±5.11 | 2.0±7.11 | 3.0±9.11 |
+|  |  | 1 | 0.0 | 0.0 | 0.0 | 2.0±4.4
+1 | 3.0±5.5
+3 | 4.0±8.6
+5 | 4.0±1.8
+6 | 4.0±2.8
+2 | 2.0±2.8
+7 |
+|  |  | 4
+3
+2
+1
+6
+5
+4
+3
+2
+1 | 0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0 | 0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+03 | 0.0
+0.0
+0.0
+0.0
+0.0
+5.0±2.4
+1.0±6.2
+0.0
+0.0
+0.0
+06 | .0±6.2
+0.0
+0.0
+2.0±3.2
+20.0±9.0
+1.1±2.5
+4.0±8.3
+0.0
+0.0
+0.0
+09 | .0±0.4
+0.0
+0.0
+2.0±4.3
+52.0±2.1
+9.0±5.7
+1.0±6.5
+0.0
+0.0
+0.0
+021 | .0±2.6
+3.1±5.31
+0.0
+5.0±2.5
+12.0±5.1
+8.0±9.9
+2.0±3.7
+8.0±5.81
+0.0
+4.0±2.5
+051 | .0±6.7
+1.1±5.51
+7.0±9.01
+5.0±7.6
+22.0±1.2
+4.1±6.01
+3.0±8.8
+0.1±1.91
+5.0±7.5
+5.0±7.6
+081 | .1±6.8
+7.0±6.61
+0.2±8.41
+5.0±0.8
+50.0±4.2
+8.1±7.11
+5.0±7.9
+0.2±5.02
+3.0±8.6
+6.0±8.6
+012 | .1±1.9
+0.2±8.81
+9.1±1.81
+5.0±2.8
+12.0±0.3
+0.2±2.21
+3.0±9.9
+8.3±0.22
+1.0±6.7
+6.0±0.7
+042 |
+| emiT .nim |  |  |  |  |  |  |  |  |  |  |  |
+
+## Page 7
+
+266 OriginalPapers
+Fig.2 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumpurealkaloidsand
+crudeextractsacrossporcineintestinalmucosa
+(apical-to-basolateraldirection).Eachbarrepre-
+sentsthemeanofthreereplicates.
+Fig.3 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumalkaloidsacross
+porcineintestinalmucosa(basolateral-to-apical
+direction).Eachbarrepresentsthemeanofthree
+replicates.
+Fig.4 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumalkaloidsacross
+porcinesublingualmucosa(apical-to-basolateral
+direction).Eachbarrepresentsthemeanofthree
+replicates.
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 7)
+
+| 266 | OriginalPapers |
+| --- | --- |
+
+### Table 2 (Page 7)
+
+|  |  |
+| --- | --- |
+|  | Fig.2 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumpurealkaloidsand
+crudeextractsacrossporcineintestinalmucosa
+(apical-to-basolateraldirection).Eachbarrepre-
+sentsthemeanofthreereplicates. |
+
+### Table 3 (Page 7)
+
+|  |  |
+| --- | --- |
+|  | Fig.3 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumalkaloidsacross
+porcineintestinalmucosa(basolateral-to-apical
+direction).Eachbarrepresentsthemeanofthree
+replicates. |
+
+### Table 4 (Page 7)
+
+|  |  |
+| --- | --- |
+|  | Fig.4 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumalkaloidsacross
+porcinesublingualmucosa(apical-to-basolateral
+direction).Eachbarrepresentsthemeanofthree
+replicates. |
+
+## Page 8
+
+OriginalPapers 267
+Fig.5 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumalkaloidsacross
+porcinebuccalmucosa(apical-to-basolateral
+direction).Eachbarrepresentsthemeanofthree
+replicates.
+thanthatofthepoorlypermeablereferencecompound,atenolol, Acknowledgements
+thatservedasanegativecontrolformembranepermability.The !
+results therefore indicate that the alkaloids of S. tortuosum are TheauthorswouldliketothanktheR&Rabattoir(Pretoria,South
+relativelypermeableacrossthesublingualmucosaltissue,which Africa) for providing fresh porcine tissue and the National Re-
+indicatesapotentialcontributiontotheiroverallbioavailability searchFoundation(SouthAfrica)forprovidingfinancialsupport
+viathisroute,dependingonpresystemicmetabolism.Thenegli- forthestudy.
+gibledifferencebetweenthetransepithelialelectricalresistance
+(TEER)valuesatthebeginningandendoftheexperiments(data
+notshown)indicatesthatacceptableintegrityofthetissueswas ConflictofInterest
+maintainedovertheperiodofthetransportstudy. !
+TheapparentP valuescalculatedfortheA–Btransportofthe Theauthorsstatethatthereisnoconflictofinterest. app
+purealkaloidsandforthethreecrudeextractsacrossbuccalmu-
+cosaltissuearedepictedinl"Fig.5.Ingeneral,thetransportof References
+the alkaloids was poorer across the buccal tissue compared to 1 SmithMT,CrouchNR,GerickeN,HirstM.Psychoactiveconstituentsof
+thesublingualandintestinaltissues.Mesembrenoneinthewater thegenusSceletiumN.E.Br.andotherMesembryanthemaceae:are-
+view.JEthnopharmacol1996;50:119–130
+extractexhibitedthebestpermeabilitybasedontheP values
+app 2 GomesNGM,CamposMG,OrfaoJMC,RiberioCAF.Plantswithneurobio-
+whichwerebetterthanthoseofcaffeine.Thepermeabilitiesofall logicalactivityaspotentialtargetsfordrugdiscovery.ProgNeuropsy-
+theotheralkaloidswerebetterthanthatofatenolol,whichsug- chopharmacolBiolPsychiatry2009;33:1372–1389
+geststhatthemesembrinealkaloidsofS.tortuosumwillbetrans- 3 GerickeN,VanWykB-E.Pharmaceuticalcompositionscontainingme-
+sembrineandrelatedcompounds.USPatentPCT/GB97/01493,1997
+portedacrossthebuccalmucosatoarelativelylargeextentwhile
+4 Gericke N. Clinical application of selected South African medicinal
+chewingtheplantmaterial. plants.AustJMedHerb2002;13:3–17
+Basedontheinvitrotransportresultsacrosstheporcineintesti- 5 GerickeN,ViljoenAM.Sceletium–areviewupdate.JEthnopharmacol
+naltissue,itcanbeconcludedthatmesembrinebeclassifiedasa 2008;119:653–663
+highlypermeablecompoundsinceitconsistentlyexhibitedP 6 PatnalaS,KanferI.InvestigationofthephytochemicalcontentofScele-
+app tiumtortuosumfollowingpreparationof“Kougoed”byfermentation.
+values higher than those ofcaffeine (a highly permeable refer-
+JEthnopharmacol2009;121:86–91
+encecompound)inalltheexperimentalgroups.Theotherthree
+7 GerickeN,HarveyA,ViljoenA,HofmeyrD.Sceletiumextractanduses
+S.tortuosumalkaloidsalsoexhibitedrelativelygoodpermeation thereof. International Patent Application Number PCT/IB2010/
+acrosstheintestinaltissuewhencomparedtothereferencecom- 051133,2010
+pounds.Alkaloidswerelesspermeableacrossthesublingualand 8 Harvey A, Gericke N, Viljoen A. Use of pharmaceutical compositions
+containingmesembrenone.InternationalPatentApplicationNumber
+buccaltissuesthanacrosstheintestinaltissueandwerelessper-
+PCT/IB2010/051132,2010
+meablethancaffeine.However,thealkaloidsweremoreperme- 9 OʼDonnellJM,ZhangHT.AntidepressanteffectsofinhibitorsofcAMP
+ablethanatenolol,suggestingthattransportacrossthemucosal phosphodiesterase(PDE4).TrendsPharmacolSci2004;25:158–163
+membranesofthemouthcavitymaycontributetotheiroverall 10 Rutten K, Prickaerts J, Blokland A. Rolipram reverses scopolamine-
+bioavailability,dependingonpresystemicmetabolism,whenthe inducedandtime-dependent memorydeficitsin object recognition
+bydifferentmechanismsofaction.NeurobiolLearnMem2006;85:
+plantmaterialischewedorheldinthemouth.Theinvitrotrans-
+132–138
+portresultsindicatedrelativelygoodpermeabilityfortheS.tor- 11 CashmanJR,VoelkerT,JohnsonR,JanowskyA.Stereoselectiveinhibition
+tuosumalkaloidsacrosstheintestinal,buccal,andsublingualmu- ofserotoninre-uptakeandphosphodiesterasebydualinhibitorsaspo-
+cosalmembraneswheninterpretedinrelationtothereference tentialagentsfordepression.BioorgMedChem2000;17:337–343
+12 WattJM,Breyer-BrandwijkMG.Themedicinalandpoisonousplantsof
+compounds(caffeineandatenolol).
+southernandeasternAfrica,2ndedition.London:Livingstone;1962:12
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 8)
+
+|  | 267 |
+| --- | --- |
+| OriginalPapers |  |
+
+### Table 2 (Page 8)
+
+|  |  |
+| --- | --- |
+|  | Fig.5 Apparentpermeabilitycoefficient(Papp)
+valuesforSceletiumtortuosumalkaloidsacross
+porcinebuccalmucosa(apical-to-basolateral
+direction).Eachbarrepresentsthemeanofthree
+replicates. |
+
+## Page 9
+
+268 OriginalPapers
+13 LubbeA,KhatiA,YulianaND,JinapS,VerpoorteR.CannabinoidCB1re- 20 ObradovicT,HidalangoIJ.Invitromodelsforinvestigationsofbuccal
+ceptorbindingandacetylcholinesteraseinhibitoryactivityofSceletium drug permeation and metabolism. In: Ehrhardt C, Kim K‑J, editors.
+tortuosumL.IntFoodResJ2010;17:349–355 Drugabsorptionstudies:Insitu,invitroandinsilicomodels.NewYork:
+14 VanWykB-E,GerickeN.Peopleʼsplants.Pretoria:Brizapublications; Springer;2008:167–181
+2003:172 21 ShikangaEA,ViljoenA,CombrinckS,MarstonA.IsolationofSceletium
+15 Sceletium – Kougoed – A natural mood elevator. Available at www. alkaloidsbyhigh-speedcountercurrentchromatography.Phytochem
+Sceletium.org.AccessedJan20,2011 Lett2011;4:190–193
+16 FearnAR,HirstBH.Predictingoraldrugabsorptionandhepatobiliary 22 HammanJH.Oraldrugdelivery:Biopharmaceuticalprinciples,evalua-
+clearance:humanintestinalandhepaticinvitrocellmodels.Environ tion and optimization, 2nd edition. Pretoria: Tshwane Universityof
+ToxicolPharmacol2006;21:168–178 Technology;2007:21
+17 HeX,SugawaraM,KobayashiM,Takekum,Y,MiyakaziK.Aninvitro 23 MillerJN,MillerJC.Statisticsandchemometricsforanalyticalchemis-
+system for prediction of oral absorption of relatively water-soluble try,4thedition.NewYork:PrenticeHall;2000:65
+drugsandesterprodrugs.IntJPharm2003;263:35–44 24 Artursson P. Epithelial transportofdrugs in cell culture. I: A model
+18 VanEykAD,vanderBijlP.Comparativepermeabilityofvariouschemi- forstudyingthepassivediffusionofdrugsoverintestinalabsorptive
+calmarkersthroughhumanvaginalandbuccalmucosaaswellaspor- (Caco-2)cells.JPharmSci1990;79:476–482
+cinebuccalandmouthfloormucosa.ArchOralBiol2004;49:387–392 25 JeffsPW,HawksRL,FarrierDS.Structuresofthemesembranolsandthe
+19 Shojaei AH. Buccal mucosa as a route for systematic drug delivery. absolute configuration of mesembrine and related alkaloids. J Am
+JPharmSci1998;1:15–30 ChemSoc1970;91:3831–3839
+ShikangaEAetal. InVitroPermeation… PlantaMed2012;78:260–268
+.detibihorp
+yltcirts
+si
+noitubirtsid
+dezirohtuanU
+.ylno
+esu
+lanosrep
+rof
+dedaolnwod
+saw
+tnemucod
+sihT
+
+### Table 1 (Page 9)
+
+| 268 | OriginalPapers |
+| --- | --- |
+
+## Page 10
+
+Copyright of Planta Medica is the property of Georg Thieme Verlag Stuttgart and its content may not be copied
+or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission.
+However, users may print, download, or email articles for individual use.
+
