@@ -6,7 +6,10 @@
       "WebFetch(domain:opendatalab.github.io)",
       "WebFetch(domain:github.com)",
       "mcp__sequential__sequentialthinking",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(docker:*)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs"
     ],
     "deny": [],
     "ask": []
