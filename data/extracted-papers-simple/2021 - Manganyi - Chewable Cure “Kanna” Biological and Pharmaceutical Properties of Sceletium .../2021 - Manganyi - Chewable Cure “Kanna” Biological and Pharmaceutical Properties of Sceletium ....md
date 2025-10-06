@@ -1,0 +1,796 @@
+## Page 1
+
+molecules
+Review
+A Chewable Cure “Kanna”: Biological and Pharmaceutical
+Properties of Sceletium tortuosum
+MadiraCoutlyneManganyi1,* ,CorneliusCarlosBezuidenhout2 ,ThierryRegnier3 andCollinsNjieAteba4
+1 DepartmentofBiologicalandEnvironmentalSciences,FacultyofNaturalSciences,WalterSisuluUniversity,
+PBX1,Mthatha5117,SouthAfrica
+2 UnitforEnvironmentalSciencesandManagement,FacultyofNaturalandAgriculturalSciences,North-West
+University,PrivateBagX6001,Potchefstroom2520,SouthAfrica;Carlos.Bezuidenhout@nwu.ac.za
+3 DepartmentofBiotechnologyandFoodTechnology,TshwaneUniversityofTechnology,Pretoria0001,SouthAfrica;
+regniert@tut.ac.za
+4 FoodSecurityandSafetyNicheArea,FacultyofNaturalandAgriculturalSciences,North-WestUniversity,
+Mmabatho,Mafikeng2735,SouthAfrica;Collins.Ateba@nwu.ac.za
+* Correspondence:madiramanganyi@gmail.com
+Abstract:Sceletiumtortuosum(L.)N.E.Br.(Mesembryanthemaceae),commonlyknownaskannaor
+kougoed,isaneffectiveindigenousmedicinalplantinSouthAfrica,specificallytothenativeSan
+andKhoikhoitribes.Today,theplanthasgainedstrongglobalattractionandreputationduetoits
+capabilitiestopromoteasenseofwell-beingbyrelievingstresswithcalmingeffects.Historically,the
+plantwasusedbynativeSanhunter-gatherersandKhoipeopletoquenchtheirthirst,fightfatigue
+andforhealing,social,andspiritualpurposes.Variousstudieshaverevealedthatextractsofthe
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1) planthavenumerousbiologicalpropertiesandisolatedalkaloidsofSceletiumtortuosumarecurrently
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+beingusedasdietarysupplementsformedicinalpurposesandfood.Furthermore,currentresearch
+Citation: Manganyi,M.C.; hasfocusedonthecommercializationoftheplantbecauseofitstreatmentinclinicalanxietyand
+Bezuidenhout,C.C.;Regnier,T.; depression,psychologicalandpsychiatricdisorders,improvingmood,promotingrelaxationand
+Ateba,C.N.AChewableCure
+happiness.Inaddition,severalstudieshavefocusedontheisolationandcharacterizationofvarious
+“Kanna”:Biologicaland
+beneficialbioactivecompoundsincludingalkaloidsfromtheSceletiumtortuosumplant.Sceletiumwas
+PharmaceuticalPropertiesof
+reviewedmorethanadecadeagoandnewevidencehasbeenpublishedsince2008,substantiatingan
+Sceletiumtortuosum.Molecules2021,
+updateonthisSouthAfricanbotanicalasset.Thus,thisreviewprovidesanextensiveoverviewofthe
+26,2557. https://doi.org/10.3390/
+biologicalandpharmaceuticalpropertiesofSceletiumtortuosumaswellasthebioactivecompounds
+molecules26092557
+with an emphasis on antimicrobial, anti-inflammatory, anti-oxidant, antidepressant, anxiolytic,
+AcademicEditor:NataliziaMiceli andothersignificantbiologicaleffects.Thereisaneedtocriticallyevaluatethebioactivitiesand
+responsiblebioactivecompounds,whichmightassistinreinforcingandconfirmingthesignificant
+Received:13March2021 roleofkannainthepromotionofhealthywell-beinginthesestressfultimes.
+Accepted:19April2021
+Published:28April2021 Keywords:Sceletiumtortuosum;kougoed;well-being;biologicalproperties;bioactivecompounds
+Publisher’sNote:MDPIstaysneutral
+withregardtojurisdictionalclaimsin
+publishedmapsandinstitutionalaffil- 1. Introduction
+iations.
+InadevelopingcountrysuchasSouthAfrica,afeasibledualhealthcaresystemis
+practicedbyincorporatingcurrentWesternmedicalpracticewithtraditionalmedicalhealth
+care. Approximately80%oftheworld’spopulationand52%ofSouthAfricans,especially
+blacks,usetraditionalmedicineandpracticesforprimaryhealthcare. Inadditiontothe
+Copyright: © 2021 by the authors. fact that it is part of their cultural heritage, the traditional health care system provides
+Licensee MDPI, Basel, Switzerland. an affordable, personalized, and culturally accepted alternative to the costly modern
+This article is an open access article
+clinicalsystem. TheSouthAfricanhealthcaresystemisoverwhelmedbytheprivateand
+distributed under the terms and
+publichealthcaresystem,however,theratiooftraditionalhealerstoallopathicdoctorsis
+conditionsoftheCreativeCommons
+estimatedat10to1[1–3].
+Attribution(CCBY)license(https://
+Indigenousmedicinalplantshavebeenakeyresourceusedforcenturiesinvarious
+creativecommons.org/licenses/by/
+native tribes around the world. Most South Africans use plants to treat physical and
+4.0/).
+Molecules2021,26,2557.https://doi.org/10.3390/molecules26092557 https://www.mdpi.com/journal/molecules
+
+## Page 2
+
+Molecules2021,26,2557 2of15
+psychologicalillnesses/issues[4]. Furthermore,SouthAfricaisrichintraditionalhealing
+methodsanddiversefaunaandflora,withapproximately30,000floweringplantspecies,
+whichaccountfor10%oftheworld’shigherplantspecies.Therehasbeenauniversaltrend
+toward the use of medicinal plants for various human diseases and aliments for social
+andeconomicbenefits[5]. Bioactivecompoundssuchasalkaloids,phenolic,flavonoids,
+tannins,glycosides,saponins,andterpenoidshavebeenisolatedfrommedicalplants[6,7].
+Sceletiumtortuosumisnoexpectation,asextensiveresearchhasbeenconductedon
+thechemistryofS.tortuosumalkaloids[8]astheplantcontainsalargeprofileofalkaloids
+suchasmesembrine, mesembrenone, mesembrenol, tortuosamine, andchennaine, and
+alkaloidshaveaneffectonanumberofcentralnervoussystemtargets. Forexample,an
+ethanolicextractofS.tortuosumwithpurifiedalkaloidsmesembrine,mesembrenol,and
+mesembrenone showed inhibitory effects on serotonin (5HT) reuptake and phosphodi-
+esterase4(PDE4)activity[9]. S.tortuosumisasucculent,floweringplantcasuallyknownas
+kougoedorkanna,indigenoustoSouthAfrica[9]. TheplantisamemberoftheMesem-
+bryanthemaceaefamily[10]. Inaddition,Sceletiumiswell-knownas“Kanna,Channa,and
+Kougoed”,meaningsomethingtocheworischewable. Theplantistraditionallyknown
+for its ability to elevate mood, reduce stress, tension, anti-anxiety and its tranquilizing
+properties[10].
+Furthermore,itisusedforillnessessuchasabdominalpains,toothache,andsome
+peoplechew,smoke,oruseitasteaorsnuffmostlyforpressure. Theantidepressantand
+anxiolytic clinical effects of S. tortuosum have been found both in case reports [11] and
+morerecently,double-blindstudies[9].AnecdotalrecordsrevealthattheKhoikhoiand
+Sanpeoplehaveusedthisplantsinceancienttimesasanessentialpartoftheindigenous
+cultureandmateriamediac. HuntergatherersandpastoralistsuseS.tortuosumforthe
+enduranceofhuntingattacksandmanagementofstressthatcomeswithlivingindryand
+challengingenvironmentsofBushmanland,Namaqualand,andtheKaroo[12].
+Bennettandcolleagues[13]reportedthatS.tortuosumshowedpotentanti-inflammatory
+capacityinthecontextofchronicdisease.Furthermore,highlevelsofmesembrineextracted
+fromS.tortuosumdisplayedpotentialcytoprotectiveandmildanti-inflammatoryproperties
+inthesettingofacuteinflammationintheperipheralcompartment. Inaddition,ithasalso
+beenprovedtotargetspecificenzymesintheadrenalcorticalsteroidsynthesispathway
+andreduceglucocorticoidsynthesis. Intermsofdiabetesandobesity,thisissignificant
+sincetheetiologyofbothconditionsislinkedtochronicallyelevatedpro-inflammatory
+cytokineandglucocorticoidlevels[13].
+S.tortuosumincludingotherspecieshavebecomeattractivecommoditiesinthecom-
+mercializationofSouthAfricanmedicinalplants. Variousformsoftheplantarecurrently
+beingsold,forexample,teabags,oftenmixedwithRedBushTea(Aspalathuslinearis),
+orHoneybushtea(Cyclopiaspp.),arepurchasedinSouthAfricansupermarkets. Extracts
+oftheplantareaccessibleinrawpowderedplantmaterial,tablets,andcapsules,which
+arefrequentlytradedovertheInternetandindividualsuseittoimprovetheirsenseof
+well-being and reduce stress [8]. Furthermore, S. tortuosum plants provide an effective,
+efficacious,andaffordablenaturaltreatmentforveterinaryandpharmaceuticalpurposes.
+HistoricreportshaveshownthatSceletiumplantsareculturallyusedbytraditionalhealers
+forpsychological,spiritual,andmedicalfunctions[1].Thus,thepurposeofthisreviewwas
+toestablishabriefhistoricaloverview,origin,phytochemistryaswellasacomprehensive
+outlookinrecentpharmacological,veterinary,andmedicinaladvanceswithregardtoa
+chewableSouthAfricansucculentgenus,Sceletium.
+2. MethodologyFramework
+Researchstudies/paperswerecollectedusingawiderangeofdatabaseplatforms
+suchasScopus,PubMed,GoogleScholar,WebofScience,andScienceDirect. Keywords
+suchasSceletiumtortuosum,kougoed,well-being,andbiologicalpropertieswereusedto
+searchforrelevantstudies. Atotalof1040scientificpaperswereretrievedfromGoogle
+Scholarandaminimumof38fromPubMed. Duetothelimitednumberofstudies,there
+
+## Page 3
+
+Molecules2021,26,2557 3of15
+was no restriction on the year of publication. However, our search focused on invitro
+culturestudies,animalstudiesaswellashumaninvestigations.Thus,thestudieswere
+linked back to the traditional uses of the plant for therapeutic benefits. Abstracts were
+primarilyscreenedbeforereviewingthefullpublications.
+3. History,DescriptionandDistributionofSceletium
+TheoldestwrittenevidenceofSceletiumhasbeenfoundonapaintingdonebySimon
+van der Stel in 1685, approximately 435 years old (Figure 1a). According to historical
+records, the plant is perennial, short-lived with creeping stems and overlapping pairs
+of leaves that have glistening water cells (bladder cell idioblasts) on their surfaces. In
+1662,theDutchcolonialadministrator,JanvanRiebeeck(Figure1b)tradedwithnative
+tribesinSouthernAfrica,exchangingsheepfor‘kanna’. Itwasidentifiedasaginseng-like
+herbbytheEuropeanpopulation. However,priortothis,SouthAfricanpastoralistsand
+hunter-gatherershadbeenusingtheplantasamood-alteringsubstancefromprehistoric
+times[1,14,15].
+Figure1.SceletiumpaintingdonebySimonvanderStelin1685(a),JanvanRiebeekwithhisDutch
+colleaguesattheCapeofGoodHope(b)[16].
+S.tortuosumisasmallsucculentplantwithtrimmedbranchesthatthickenalongand
+becomeslightlywoodywithage. Thesucculentplantconsistsofwatercells.Theseare
+visibleontheleaveswithcurvedtipsentailingthreetofivemainveins. Sceletiumhasa
+climbingpatternandthesucculentleaveshave“bladdercells”oridioblasts. Furthermore,
+thedicotyledonousfloweringpartoftheplantcompriseswhitishtopaleyellow,sometimes,
+palepinkpetalssupportedbypedicellate(Figure2b).Thecalyxcontainsfourorfivesepals.
+Imbricate leaves with incurved tips represent a very distinct characteristic, keeping in
+mind that in its hygrochastic state, the fruit opens up. The Sceletium genera belongs to
+thefamilyAizoaceaeandsubfamilyMesembryanthemoideae,recognizedin1925byN.E.
+Brown. Whentheleavesaredry,S.tortuosumhasaskeleton-likestructure(skeletonized).
+Hence, the botanical name, Sceletium, comes from the Latin word “sceletus”, due
+to the prominent leaf veins. Sceletium genera consists of eight species, known for their
+persistent dry leaves that become skeletonized (Figure 2a) [1,17]. The Sceletium genera,
+althoughnativetosouthwesternpartsofSouthAfrica,hasattractedglobalattentionsinceit
+enhancesasenseofwell-beingandhealingpropertiesforanxiety,depression,andstressed
+individuals. ItsgeographicaldistributionisfromtheNamaqualandaridregionofNamibia
+toMontaguintheWesternCapeProvinceofSouthAfrica,neartheWesternLittleKaroo
+throughtoAberdeenoftheEasternCapeProvinceofSouthAfrica.Sceletiumgeneraare
+succulentplantsthatflourishinsandyloamsoilinpredominantlydryenvironmentsunder
+
+## Page 4
+
+Molecules2021,26,2557 4of15
+shrubsinpartialshade. Inthedryseason,theleavesdryout,enclosingyoungleavesto
+protectthemagainstunfavorableenvironmentalconditions. Inaddition,theypropagate
+extremelywellinrockeriesandpots[18,19].
+Figure2.DriedoutleavesofSceletiumtortuosum(a)andbrightyellowfloweringplant(b)[1].
+4. PhytochemicalConstituentsofSceletium
+In1898,Meiringwasoneofthefirsttostudythephytochemicalcomponentsofthe
+S.tortuosumcrudealkaloidmixture[1].HistoricinvestigationbyZwicky(1914)[20]also
+provedthatvariousalkaloidssuchasmesembrineandmesembreninewereisolatedfrom
+S.tortuosumandS.expansum. Sceletiumalkaloidswasfurtherstudiedfortheextractionand
+synthesisofmesembrine,mesembrenine(=mesembrenone),mesembrinol(=mesembra-
+nol),andthepossibleartifactchinnamine[21].Recently,severalstudieshaveshownhigh
+concentrations of alkaloid, specifically mesembrine as well as other Sceletium alkaloids
+extractedfromSceletiumplants[22].Expertresearchhasconfirmedthattheprincipalactive
+componentinS.tortuosumismesembrine[23].In-depthresearchestablishedthatgenus
+Sceletiumproducesindolealkaloids,forinstance,mesembrenol,mesembranol,mesembrine,
+and mesembranone (Figure 3), which has a chemical formulae designated in U.S. Pat.
+No. 6288104.
+Further research revealed that U.S.Pat. No. 6288104 mesembrine was the only al-
+kaloid detected in the leaves of S. tortuosum [24]. Patnala and Kanfer [25] performed
+high-performance liquid chromatography (HPLC) with UV, coupled with online mass
+spectroscopy, using six investigated Sceletium plants including S. tortuosum. Chemical
+analysisshowedthatmesembrenoneandmesembrinewerepresentinhighlevels,how-
+ever, mesembranol and epimesembranol were detected in low levels in S. expansum.
+S.strictumeludedseveralalkaloidssuchasmesembrine,mesembrenone,andeither4(cid:48)-0-
+demethylmesembrenoneor4(cid:48)-0-demethylmesembrenol[25].
+Shikanga and co-workers [26] conducted a study on 151 wild S. tortuosum plants
+obtainedfrom31areasintheWesternCapeProvinceofSouthAfrica. Theresearchersused
+gaschromatography-massspectrometry(GC-MS)analysisinthechemicalinvestigationof
+acid/baseextracts. Theresultsshowedunpredictabilityinthecontentofmesembrine-type
+alkaloid[26].Zhaoaandcolleagues[27]usedprotonnuclearmagneticresonance(1H-NMR)
+spectroscopyofmethanolextractsandultra-performanceliquidchromatography-mass
+spectrometry(UPLC-MS)ofacid/baseextractstodeterminethechemotypicdistinctions
+inS.tortuosumintwolocationsinSouthAfrica. Promisingfindingshavebeenreported
+forpinitol,Sceletiumalkaloids,andtwoalkylaminesdiscoveredforthefirsttimefromS.
+tortuosum[27]. S.tortuosumisamiracleandmood-elevatingplantusedforthetreatmentof
+anxiolyticagents,withoutdisregardingitsdifferentantimicrobialproperties[28].
+
+## Page 5
+
+Molecules2021,26,2557 5of15
+Figure3.ChemicalstructuresofthemesembrinealkaloidsofSceletiumtortuosum[24,29].
+5. BiologicalandPharmaceuticalPropertiesofSceletiumsp.
+5.1. AntimicrobialPropertiesofSceletiumPlants
+In light of the ongoing research on alkaloids isolated from Sceletium plants, sev-
+eral studies have reported the biological and pharmacological potentials of Sceletium
+plants[1,30,31]. Traditionalpreparationoftheplantsthroughfermentation,referredtoas
+“kougoed”,hasrenewedattentionsinceitwasreportedthatthefermentedformproduces
+higherlevelsofalkaloidsthanthedriedtheplantmaterial[32].However,thereisantago-
+nisticorsynergisticinteractionsofphytochemicalcompoundswithintheplant[33,34].Tra-
+ditional practices revealed that Sceletium plants have abilities for elevating mood and
+reducingstressandtension,ofanti-anxietyandtranquilizingproperties[35],andareused
+forthetreatmentofabdominalpainandtoothache.Additionally,somepeoplechew,smoke,
+drinkastea,orsnuffit,mostlytorelievepressure[15]. Nowadays,thepharmacological
+prospectiveofSceletiumplantshasbeenexploredandestablishedusingvariousscientific
+methodologiessuchasinvitroandinvivoanimalmodels,coupledwithhumanstudies.
+Kapewangolo and co-workers [36] investigated commercialized crude extracts of
+S. tortuosum for anti-HIV as well as free radical scavenging potential. Furthermore, a
+phytochemicalanalysiswasconducted. TheresultsrevealedthatS.tortuosumextractscon-
+tainedanthraquinones,polyphenols,terpenes,anthocyanin,alkaloids,tannins,glycosides,
+coumarins,andcarbohydrates.Astrongeranti-HIVactivitywasreportedbyethanoland
+ethylacetateextractsofS.tortuosum,whichdisplayedHIV-1RTandPR,respectively. HIV-1
+RTdatashowedIC50valuesof<50and121.7±2.5µg/mLforethanolandethylacetate
+extracts,respectively. Theresultsalsoshowedthattheplantisarichsourceofphytochem-
+icals,withantioxidantactivity. TheauthorsconcludedthatS.tortuosumprovidesnovel
+leadingbio-compoundspossessingbeneficialfeaturessuchasnewanti-HIVandradical
+scavengingbioactivecompounds[36].
+
+## Page 6
+
+Molecules2021,26,2557 6of15
+For centuries, S. tortuosum has been traditionally used as an antimicrobial agent,
+namely; as a painkiller for headache, local anesthetic action, abdominal pain, and for
+the respiratory tract [1,23]. The native people of South Africa would chew the plant to
+relievetoothache. Severalstudieshaverevealedawidespectrumoftherapeuticpotentials
+ofS.tortuosum.Manystudieshaveshownthattheantimicrobialpropertiesofmedicinal
+plantsareduetobioactivecompounds,eitherasingleorcombinedeffect.Sceletiumplants
+havebeenreportedtobeanexcellentsourceofalkaloids,specificallymesembrinealkaloids.
+Moreover,mesembrenonealkaloidshavebeenreportedtoexhibitantimicrobialproper-
+ties[22–24]. Althoughfewstudieshavebeenconducted,thisreviewprovidesdirectionfor
+futurestudiesonS.tortuosum.
+5.2. Anti-StressPropertiesofSceletiumPlants
+Stressisanonspecificphysical/psychologicalconditionthatresultsinmentaltension
+or physiological responses that might lead to sickness. Moreover, prolonged life stress
+is considered a serious life-threatening condition and might result in chronic physical
+andmentaldisease[37].Stressplaysakeyroleinthestatesofvariousdiseasessuchas
+hypertension,diabetes,pepticulcer,immuno-suppression,anxietyreproductivedysfunc-
+tions,centralnervoussystem(CNS),metabolicsystem,andendocrinesystem[38,39]. With
+regardtotheabove,stresshasbeenassociatedwithmood,cognition,schizophrenia,and
+otherpsychiatricdisorders[40,41]. AccordingtotheGlobalOrganizationforStress,inap-
+proximately77%ofindividualswhoarestressed,theirconditionimpactsontheirphysical
+health. Stressaffectsthementalhealthof73%ofindividualsanddisruptsthesleeping
+habitsof48%ofpeople. Inaddition,33%ofindividualsexperiencedextremestress[42].
+VariousformulaeofSceletiumproductssuchasdriedplantmaterial,tinctures,teas,tablets,
+andcapsuleshavebeenusedtoenhancewell-beingandactasastressreliever. Anecdotal,
+historical, andtraditionalrecordssupporttheabovestatement, withscientificresearch
+data[43]. Currentresearchemphasizestheuseofmedicinalplantsasapharmacological
+anti-stress treatment to combat functional, behavioral, and molecular issues caused by
+stressasasuitableclinicalsolution[44–46].
+Solati et al. [47] conducted an in-depth review on the effects and mechanisms of
+medicinalplantsonstresshormones(cortisol).TheresultsshowedthatSceletiumisone
+ofthepotentialsourcesofananti-stressagent[47].Theresearchersemployedtheinvivo
+modelofpsychologicalstressusingmaleWistarratsinadoublestudy. Placeboor5or
+20mg/kg/dayofS.tortuosumextracteverydayfor17daysthroughoraladministration
+andhalfofthetestratsweresubjectedtomoderatestressnotexceeding1hforthelastthree
+daysoftreatment. BehaviorassessmentsshowedreducedstressonlowerdoseSceletium.
+Throughself-soothingbehavior, furtheranalysisreducedstress-inducedcorticosterone
+concentrations[10].Inhumanstudies,Sceletiumplantextract(Zembrin,Morristown,NJ,
+USA) was used to establish acute effects in a placebo double-blind, cross-over study.
+The study involved 16 healthy patients in a perceptual-load and an emotion-matching
+task. The first report showed the effectiveness of S. tortuosum on the threat circuitry
+of the human brain. This showed that the dual 5-HT reuptake and PDE4 effects had
+anxiolytic activity by attenuating the subcortical threat swiftly [48]. Bennett et al. [49]
+further showed the anti-stress effectiveness of Sceletium alkaloids, which affected the
+centralenzymes(MAO-A)thus,preventingtheadrenalsteroidogenesisbyblockingthe
+CYP17, 3βHSD, and 17βHSD. With regard to the above, this showed the tremendous
+potentialoftheSceletiumplantasananti-stressagent[49]. Stressanddepressionhavea
+strongassociationwitheachotherandcanleadtoseriouslife-threateningoutcomes.There
+is growing interest in moving back to natural alternatives to combat various diseases,
+conditions,andaliments[50].Traditionalmedicinalplants,particularlyS.tortuosum,have
+beenusedforcenturiesasanti-stress,anti-anxiety,andanti-depressionmedications.
+S. tortuosum has been widely known to promote a sense of well-being and relieve
+stress. Thenativehunter-gatherersandherderschewedrawS.tortuosumleavestocope
+withlifestress[36]. Nowadays,S.tortuosumiscommercializedasadietarysupplement,
+
+## Page 7
+
+Molecules2021,26,2557 7of15
+stressreliever,andnaturalhealthmedicines[27,48].Withanever-growingstressfulwayof
+life,peopleareseekingnaturalalternativestoaidinachievingasenseofwell-being.
+5.3. Anti-DepressantPropertiesofSceletiumPlants
+AccordingtotheWorldHealthOrganization(WHO),depressionisaseriousmental
+disorderorillnessaffectingover264millionindividualsglobally.Depressioncanresultin
+suicide,ifnottreated. Suicidewasreportedtobethesecondleadingcauseoffatalitiesin
+peopleaged15–29years. Moreover,approximately800,000individualscommitsuicideper
+annum. Currently,therapeuticproceduresfortreatingdepressionincludepsychological
+and pharmacological treatments for moderate and severe depression. In addition, 76%
+and85%ofpatientsinlowandmiddle-incomecountriesarenotreceivingtreatmentsfor
+mentaldisorders,respectively[51]. Inresponse,traditionalhistoricandanecdotalrecords
+showtheeffectivenessofmedicinalplantswheretheplantswereusedforpharmacological
+treatmentofmentalhealthproblemsanddisorders,particularlydepression[52,53].
+Amongthesemedicinalplants,succulentS.tortuosumiswidelyknownforpromot-
+ing a sense of well-being. The plant improves mood, thus has anti-depression proper-
+ties[15,26,29,54]. Ithasbeenfoundthatcompoundssuchasmesembrine,mesembrenol,
+andmesembranonearethekeyplayers. Theyhavepotent5-HTasdescribedbyU.S.Pat.
+No. 6288104,whichhasanuptakeinhibitoryactivity. Furthermore,ithasbeenveryactive
+onmentalhealthpatients(mildtomoderatedepression). Thecompoundhasbeenstatedin
+thepasttobeafrailPDE4inhibitor[55]. Pervezandcolleagues[56]conductedanin-depth
+studyonplantalkaloidsasanalternativetreatmentfordepressioninthelastdecade. The
+researchersestablishedthatS.tortuosumhasanabundanceofvariousalkaloidsusedin
+clinicallydepressedpeople[56,57].
+Shahrajabian et al. [58] argued that during epidemics or pandemics, people expe-
+rienceseriousmentalhealthproblemssuchasanxiety,traumaticstress,anddepressive
+signs. Inaddition,theuseandadministrationoftraditionalherbalmedicineswillassist
+individuals. S.tortuosumhasbeenreportedtotreatdepression,stress,andanxietydur-
+ingthesedifficulttimes[58].AstudywasconductedonthemesembrineofS.tortuosum,
+usedasasubstitutetreatmentfordepression. SucculentS.tortuosumwasobtainedfrom
+theCaperegionofSouthAfrica.TheresultsshowedthatSceletiumextractshavevarious
+alkaloidsmesembrines,whichhaveacalmingeffectandanxiolyticproperties.Thealka-
+loid family provides either serotonin reuptake inhibitors (SRI) or phosphodiesterase-4
+(PDE4) inhibitors. In an animal model, a low concentration of (10 mg/kg) and a high
+dose(80mg/kg)ofS.tortuosumextractswereadministeredtoBALB/cmice. Datafurther
+showedthatpharmacologicalanalysesdisplayedmesembrinealkaloidsinS.tortuosum
+andpossessedanti-depressantactivity[59]. ManystudieshaverevealedS.tortuosumas
+ananti-depressantagent. Thesepropertieshavebeenarticulatedinresearchpapersusing
+differentmodelssuchasinvitrostudies,animalmodels[59]aswellashumanstudies. The
+factthatthisplantisusedasastressreliever,moodelevator,andisasedativemeansthatit
+isanidealanti-depressantcandidate[54].
+5.4. AnxiolyticPropertiesofSceletiumPlants
+Anxietydisordersarementalhealthconditions,consideredasfeelingsofworry. They
+contributetodisabilityworldwiderelatingtoothercommonconditionsincludingphobias,
+post-traumaticsyndrome,postmenopausalstress,cognitivedysfunction,andsomatization.
+Individualssufferingfromanxietydemonstratefunctionalimpairmentandthetendency
+todevelopcomorbidpsychiatricdisorders[60]. Sharmaandco-workers[60]identified
+S.tortuosumasoneofthemostpotentmedicinalplantsusedgloballyforthetreatment
+ofanxiety-associatedconditionsandanxiety. Pharmacologicalandclinicalinvestigations
+revealedthatmedicinalplantsincludingS.tortuosumexhibitanxiolyticproperties[60]. A
+zebrafishmodelstudywasconductedonethnopharmacologicalexperimentstodetermine
+anxiolyticproperties[60].
+
+## Page 8
+
+Molecules2021,26,2557 8of15
+Atotalof28plantextractsweresubjectedtothemaximumtoleratedConcentration
+(MTC)assay. Theresultsshowedanimprovementinanxiolyticactivityinthezebrafish
+model. Moreover,S.tortuosumdisplayedananti-anxietyeffectinzebrafishlarvae.This
+is part of a full invivo endorsement of the traditional use of the plant [61]. In current
+research, gamma-aminobutyricacid(GABA) andδ-opioidreceptorare thekey players
+in depression and anxiety conditions [62–64]. Several studies have shown mesembrine
+isolated from S. tortuosum plants. The plant had agonist actions on GABAA, µ-opioid,
+δ2-opioid, cholecystokinin-1, and melatonin-1 E4-prostaglandin receptors. This might
+beresponsiblefortheanti-anxiolyticpropertiesinvivoanimalmodels[65–67].Arecent
+clinicalstudywasconductedusingplantextractsofS.tortuosum(trademarked—Zembrin®,
+Morristown,NJ,USA)todeterminetheanti-anxiolyticpotentialoftheplant.Thestudywas
+placebo-controlled,double-blindwhereby20younghealthyvolunteerswereadministrated
+asingledoseofS.tortuosum(25mg,Zembrin®). Priortothis,participantswereplaced
+understressfulconditionstoinvokefeelingsofstressandoranxiety.
+TheresultsshowedlevelsofanxietywereinferiorintheZembrin® groupcompared
+totheplacebogroup.BehavioralevidencedemonstratedtheefficacyofS.tortuosum(25mg
+Zembrin®)asananti-anxiolyticagent[68].Fountain[69]conductedapreclinicalmodelas-
+sayonchickstodeterminetheeffectivenessagainstanxietyanddepressionofS. tortuosum
+plantextracts. MaleSilverLacedWyandottechicksaged4–6dayswereexposedtostress.
+Thisresultedindepression-anxiety-likeconditions. S.tortuosumextracts(10,20,30,50,75,
+or100mg/kg)wereadministratedtothechickspriortostress. Theresultssuggestthat
+initially,thechickshadhighDVoclevels,showingananxietycharacteristic. Theresults
+alsorevealedthatS.tortuosumextractsdisplayedsignificantanti-depressionactivities[69].
+Sceletium plants have been reported to have calming effects and improve mood. The
+phytochemicalprofileofS.tortuosumhasbeenisolatedandhasidentifiedpsychoactive
+compounds. DifferentexperimentalmodelsandclinicalstudieshaveprovedthatSceletium
+plantsreduceanxietyandpromotecalmness.
+5.5. AnalgesicPropertiesofSceletiumPlants
+NativeKhoiandSantribesofSouthAfricahavebeentraditionallyusing“Kanna”
+plantsasapainrelieverbychewingtheplantmaterialdirectlyandsmokingtheresidue
+after chewing [12,66,70]. However, recently, this chewable plant has been prepared in
+variousformssuchascapsules,gelcaps,resin,teas,andtinctures,whichcanbeusedasa
+snuffandsmoked[70–72].Despitetheextensivedocumentedhistoryofthepsychological
+andbiologicaleffect, fewstudieshaveprovedthattheSceletiumplantpossessesuseful
+analgesic properties [10,28,66,70]. The effects of S. tortuosum were investigated in male
+Sprague-Dawleyrats. Theresultsrevealedthatmesembrine,asamajorcompoundinS.
+tortuosum,canberesponsibleforanalgesicactivity[66].Apreviousstudyconductedby
+Dimpfelandco-workers[12]showedthestatisticalsignificanceofthetawavereduction. In
+accordancewithdelta,beta1andalpha2aredistinctfeaturesofanalgesicdrugs,although
+suchstudieshavenotbeenextensivelycarriedout.
+Moreover,ZembrinpromotedtheEEGchangesusuallyshowninanalgesicproperties
+of standardized drugs [12]. Smith et al. [70] examined the psychoactive compounds of
+Sceletiumplantandreportedbioactivitiessuchasreliefofdiscomfortandpain(analge-
+sia)[70]. AstudywasalsoconductedontheroleofCREBsignalinginAlzheimer’sdisease
+andothercognitivedisordersusinganelectroencephalogram. Theresultsrevealedthatthe
+alkaloidmesembrinedecreasedtheθwaves,whichreducedtheδ,α2,andβ1,affecting
+analgesicactivity[73]. Modernpainkillersarehighlyaddictive,toxic,andineffectivedue
+tothedevelopmentoftolerance. Forthisreason, medicinalplantssuchasS.tortuosum
+are gaining in popularity since they are natural analgesics, which have been used for
+centuries[12].
+
+## Page 9
+
+Molecules2021,26,2557 9of15
+5.6. Anti-InflammatoryPropertiesofSceletiumPlants
+Inflammationisbasicallythebody’sresponsetomicrobialinfection.Thus,whiteblood
+cellsorleukocytesreleaseachemicalintothebody, which, inturn, increasestheblood
+flowinthecontextoftissueinjury. Moreover,thisprocessservesthepreventionoffurther
+spreadingtotherestofthebodyasprotection[74].Bennettandcolleagues[13]reported
+thatthecytokinewasassociatedwithinflammatorystimulus.
+Hence,cytokineresponseaffectedtheinterleukin-6(IL-6)andmonocytechemotac-
+tic protein-1 (MCP-1), with p < 0.005 and p < 0.0005, respectively. The results showed
+highconcentrationsofmesembrineSceletiumextracts,demonstratinganti-inflammatory
+properties[13]. Invivostudies,maleWistarratswereadministeredS.tortuosumextracts.
+Theresultsshowedsignificantcomprehensiveanti-inflammatoryeffectsofSceletiumex-
+tracts[10].CytokininprofilesofS.tortuosumwereinvestigatedandtheresultsshowed
+anti-inflammatoryactivities[30]. IndigenousS.tortuosumplantshavebeenreportedtopos-
+sessvariousbiologicalpropertiesincludingpsychoactivity,anti-inflammatory,anti-oxidant,
+immunodulatory,antidepressant,anxiolyticaswellaspromotingasenseofwell-being.
+Studieshaveattributedittothecountlesshighlevelofalkaloids(Table1).
+Table1.BiologicalinvestigationofSceletiumplants.
+BiologicalActivity PartUsed ChemicalComposition Ref.
+Antidepressant-likeproperties,
+Notspecified Alkaloids [1]
+anxiolytic,moodelevator
+Toxicologicaltests Sceletiumtortuosum(Zembrin®) Mesembrenone,mesembrenolandmesembrin [8]
+Anxiety,depression Wholeplant Alkaloids [9]
+Antioxidantandanti-inflammatory,
+Leaves Mesembrine [13]
+neuroprotectiveeffects
+Immunomodulatoryeffects, Sceletiumtortuosum
+Alkaloids [28]
+depression,inflammation (Trimesemine™)
+Anthraquinones,terpenes,polyphenols,
+Antiviral,antioxidantactivity Wholeplant anthocyanin,tannins,alkaloids,glycosides, [36]
+carbohydratesandcoumarins
+Sleepfunction,improvesmemory
+Wholeplant Alkaloids [43]
+andenhancescognitivefunction
+Anxiolyticeffect Sceletiumtortuosum(Zembrin®) Alkaloids [48]
+Centralnervoussystemactivity Wholeplant Alkaloids [61]
+Antimalarialactivity Wholeplant Mesembrine [75–77]
+Stress-relatedillnesses Wholeplant ∆7-mesembrenone,mesembrenoneandmesembrine. [78]
+Immunomodulatoryeffects leaves ∆7-mesembrenone [79]
+Neurocognitiveeffects Sceletiumtortuosum(Zembrin®) Alkaloids [80]
+Antidepressant Notspecified Mesembrines,Mesembrenol,mesembrenone [59]
+Safety,tolerability,promotes
+Sceletiumtortuosum(Zembrin®) Mesembrine [81]
+copingwithstressandsleep.
+Mesembrine,mainlytheO-andN
+Toxicologicaltests Wholeplant demethyl-dihydro,hydroxy,and [82]
+bis-demethyl-dihydrometabolites
+Theliteraturerevealedthatdifferenttechniquescanbeusedtodeterminethebiological
+activitiesofSceletiumsp. Furthermore,differentmodelssuchasinvitroculturestudies,
+animalstudiesaswellashumanstudiesareavailableinthecurrentreview.Table2providesa
+summaryofthedifferentmethodsusedtodeterminethebiologicalpropertiesofSceletiumsp.
+SeveralstudiesandhistoricalknowledgeofmedicinalplantsincludingS.tortuosum
+suggestthattheplanthasendlessdownstreamopportunities[83–86].However,thereare
+qualitycontrol[85–88]andsafety[89,90]issueswhendealingwithmedicinalplants.Similar
+toanyproductionormanufacturing,GoodManufacturingPractice(GMP)regulationsmust
+beadheredto,whichincorporateevaluatingandmonitoringaspectstopromotestandard
+qualityandsafetyofproducts,forexample,plantmedicine.Thereisinconsistencyinterms
+ofthecompositionofplantextractssincetheyareharvestedfromnature,possessvarieties
+ofgenetics,ecological,andenvironmentalvariances,hence,thequalitywilldiffer[91].In
+addition,anothermainconcernintheusageofmedicinalplantsisidentifyingthebioactive
+
+## Page 10
+
+Molecules2021,26,2557 10of15
+compounds,whichcanbeattributedtothebiologicalpropertiesdisplayedbythemedicinal
+plant[92].
+Table2.MethodologyofbiologicalpropertiesofSceletiumsp.
+MethodologyUsed
+AimoftheStudy Ref.
+PlantPreparation BiologicalTechniques PhytochemicalScreening
+Invivomodel,usingMaleWistarratsina
+Todeterminepsychological
+S.tortuosumpartswereground doubleplacebostudy.Oraladministration
+effectsofSceletiumtortuosum N/A [10]
+intopowderform. ofextractfor17daysandstresswas
+inaninvivomodel
+induced.Behaviorwasmonitored.
+Anti-HIVassays
+FRET-basedSensolyteHIV-1kitused.
+S.tortuosumpartswereground
+Fluorogenicsubstratemixedwith
+Toinvestigateanti-HIVandfree intopowderform.Crude Totalphenoliccontent
+extractsina96wellplate.Fluorescence
+radicalscavengingactivityof extractsofS.tortuosum Totalflavonoidscontent [36]
+intensitymeasured.
+crudeextractsofS.tortuosum. preparedusingethanol Totaltannincontent
+DPPHassay
+andethylacetate.
+Extractmixedinethanolandthe
+absorbancemeasured.
+Todeterminetheacuteeffects Sceletium(Zembrin)administratedto
+ofSceletiumtortuosum Sceletium(Zembrin) humansinaplacebodouble-blind, N/A [48]
+(Zembrin)inhumanamygdala cross-overstudy.
+MTCassayusedindifferent
+S.tortuosumpartsgroundinto
+Toscreenforanxiolyticactivity concentrationsinthezebrafishmodel
+powderform.Crudeextracts
+ofSceletiumtortuosum,using study.Larvaeplacedina48-wellplate N/A [60]
+ofS.tortuosumpreparedin
+aninvivozebrafishmodel withthecontrol.MTCplatesincubated
+varioussolvents. for18hat28.5◦C.
+PreclinicalmodelassayonMaleSilver
+Todeterminetheeffects
+S.tortuosumpartsgroundinto LacedWyandottechickadministrated
+ofSceletiumtortuosum
+powderformandwaterused S.tortuosuminvariousconcentrations N/A [68]
+intheChickAnxiety-
+asasolvent. andinducedwithstress.Distress
+DepressionModel
+vocalizationscapturedthedata.
+Severalresearchershaveinvestigatedthequalityofmedicinalplants[93]inSouth
+AfricanbyusinganalyticalqualitycontroltechniquessuchasNMR,HPTLC[94],UHPLC-
+MS [95,96], HPLC [97] and GC-MS [98]. There is a need to focus on new technological
+advancessuchasmetabolomicshigh-throughputquantificationtodetectlowmolecular
+weightcompounds.
+This should also serve in various industries such as the medical, pharmaceutical.
+andveterinarysectorsduetotheabundanttherapeuticproperties.Regardless, thecur-
+rentreviewhasshownthatveryfewstudieshavefocusedonthisplant.Todate, there
+arepromisingstudiesthatneedexpansionandbigdataanalysis.Innovativeapproaches
+areessentialinordertoobtainnaturalnovelbioactivecompoundsfromSceletiumsp.for
+the exploration of biological and psychological effectiveness. More recently, Zhao and
+co-workers[27]studiednuclearmagneticresonance(NMR)metabolomicsofS.tortuosum,
+whichisapowerfultechniquetoobtainaccuratequantitativeandqualitativedata. Fur-
+thermore,thismethodbypasseschromatographicseparation,thusthecompletemetabolite
+informationisavailable[27].Thereareseveraladvantagesofthemethodsuchasunbiased
+fingerprinting,accurate,lowlimitationofdetection,generationofbigdata,highthrough-
+put,quantitative,low-molecularweightmolecules,andinvivoandvitrostudies. Several
+applicationsincludingtoxicity,mutants,responsetoenvironmentalstress,nutrition,dis-
+eases,anddrugdevelopmentcanbeextrapolatedfromtheanalysisofmetabolomics[99].
+6. ConclusionsandFutureProspects
+Nowadays,plant-basedmedicationor/andremedieshavebecomeaglobalgrowing
+trend, therefore increasing the demand for natural bioactive compounds from natural
+sources. Thus,researchersforeseetremendouschallengessurroundingvariousaspectsof
+plant-basedmedicine. AlthoughSouthAfricahasrecognizedAfricanTraditionalMedicine
+aspartandparcelofthepublichealthcaresystem,thereareseriousshortcomingssuch
+asthequality,standardization,efficacy,authenticity,andsafetyofplant-basedmedicine.
+
+## Page 11
+
+Molecules2021,26,2557 11of15
+Currentbiotechnologicaladvancesfocusongenetictransformationandmetabolicengineer-
+ingtechniquesasinnovativeapproachestoenhancetheinvitroproductionofsecondary
+metabolites in medicinal plants. Thus, this will lead to novel metabolites for the drug
+developmentprocess. Thereisneedforin-depthstudiestoextractandidentifybioactive
+compoundsinthebiologicalandpharmaceuticalinvestigationofmedicinalplants,par-
+ticularly S. tortuosum. Due to the economic state of South Africa, a vast majority of the
+population(27millionpeopleor52%)usetraditionalmedicineasanalternativefortheir
+primaryhealthcarerequirements. Affordability,availability,andindigenousknowledgeof
+medicinalplantsmakethemanidealsolutiontotheoverpriced,toxicconventionalmedica-
+tionsonthemarket. Prehistoricevidencesupportedbypreliminarystudiesshowthatthe
+S.tortuosumplantexhibitsusefulbioactivecompoundsforanti-depressantandanxiolytic
+activity,thuspromotingasenseofwell-being. Toxicologicalassaysarearequirementto
+determinethesafetyparametersofS.tortuosum.
+Inthisreview,weexaminedtheunchartedterritoriesofS.tortuosumresearch,which
+willsparkimportantstudiesinnicheareasofchemistry,medicine,andnaturalproducts.
+This should also serve in various industries such as the medical, pharmaceutical, and
+veterinarysectorsduetotheirabundanttherapeuticproperties. Moreover,severalstudies
+havebeencarriedoutinvitroaswellasanimalandclinicalstudiestoprovethepotencyand
+efficacyofS.tortuosum.WithregardtotheabundantbioactivitydisplayedbyS.tortuosum,
+“Kanna”functionsasa“ChewableCure”topromoteasenseofwell-being.
+AuthorContributions:M.C.M.havecollectedresearchpapersandwroteoriginaldraftpreparation.
+T.R.participatedinthedesignedthemanuscriptandreadit.C.C.B.andC.N.A.havereviewedand
+editedthemanuscript.Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding:Thisresearchreceivednoexternalfunding.
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+DataAvailabilityStatement:Notapplicable.
+Acknowledgments: Theauthorsacknowledgetheirrespectiveuniversitiesorresearchniche,De-
+partmentofBiologicalandEnvironmentalSciences,WalterSisuluUniversity(M.C.M.),theUnitfor
+EnvironmentalSciencesandManagement,FacultyofNaturalandAgriculturalSciences,North-West
+University(C.C.B.),theDepartmentofBiotechnologyandFoodTechnology,TshwaneUniversityof
+Technology,(T.R.),andtheFoodSecurityandSafetyNicheArea,FacultyofNaturalandAgricultural
+Sciences,North-WestUniversity(C.N.A.).
+ConflictsofInterest:Allauthorsdeclarenoconflictofinterest.
+References
+1. Gericke,N.;Viljoen,A.M.Sceletium—Areviewupdate.J.Ethnopharmacol.2008,119,653–663.[CrossRef][PubMed]
+2. Stafford,G.I.;Pedersen,M.E.;vanStaden,J.;Jäger,A.K.ReviewonplantswithCNS-effectsusedintraditionalSouthAfrican
+medicineagainstmentaldiseases.J.Ethnopharmacol.2008,119,513–537.[CrossRef][PubMed]
+3. Mothibe, M.E.; Sibanda, M.AfricanTraditionalMedicine: SouthAfricanPerspective. Tradit. Complement. Med. 2019, 1–27.
+[CrossRef]
+4. Karunamoorthi,K.;Jegajeevanram,K.;Vijayalakshmi,J.;Mengistie,E.Traditionalmedicinalplants:Asourceofphytothera-peutic
+modalityinresource-constrainedhealthcaresettings.J.Evid.BasedComplement.Altern.Med.2013,18,67–74.[CrossRef]
+5. Street,A.;Prinsloo,G.CommerciallyimportantmedicinalplantsofSouthAfrica:Areview.J.Chem.2013,2013,1–16.[CrossRef]
+6. Nandagoapalan,V.;Doss,A.;Marimuthu,C.Phytochemicalanalysisofsometraditionalmedicinalplants.Biosci.Discov.2016,7,
+17–20.
+7. Petricˇ,D.;Mravcˇáková,D.;Kucková,K.;Cˇobanová,K.;Kišidayová,S.;Cieslak,A.;S´lusarczyk,S.;Váradyová,Z.Effectofdry
+medicinalplants(wormwood,chamomile,fumitoryandmallow)oninvitroruminalantioxidantcapacityandfermentation
+patternsofsheep.J.Anim.Physiol.Anim.Nutr.2020,104,1219–1232.[CrossRef]
+8. Murbach,T.S.;Hirka,G.;Szakonyine,I.P.;Gericke,N.;Endres,J.R.Atoxicologicalsafetyassessmentofastandardizedextractof
+Sceletiumtortuosum(Zembrin)inrats.FoodChem.Toxicol.2014,74,190–199.[CrossRef]
+9. Carpenter,J.M.;Jourdan,M.K.;Fountain,E.M.;Ali,Z.;Abe,N.;Khan,I.A.;Sufka,K.J.TheeffectsofSceletiumtortuosum(L.)N.E.
+Br.extractfractioninthechickanxiety-depressionmodel.J.Ethnopharmacol.2016,193,329–332.[CrossRef]
+
+## Page 12
+
+Molecules2021,26,2557 12of15
+10. Smith, C.TheeffectsofSceletiumtortuosuminaninvivomodelofpsychologicalstress. J.Ethnopharmacol. 2011, 133, 31–36.
+[CrossRef]
+11. Gericke,J.EvaluatingtheAntidepressant-LikePropertiesofSceletiumTortuosum,AloneandasAdjunctiveTreatment. Ph.D.
+Thesis,North-WestUniversity,Potchefstroom,South-Africa,2019.
+12. Dimpfel,W.;Schombert,L.;Gericke,N.ElectropharmacogramofSceletiumtortuosumextractbasedonspectrallocalfieldpower
+inconsciousfreelymovingrats.J.Ethnopharmacol.2016,177,140–147.[CrossRef]
+13. Bennett, A.C.; VanCamp, A.; Lopez,V.; Smith, C.Sceletiumtortuosummaydelaychronicdiseaseprogressionviaalka-loid-
+dependentantioxidantoranti-inflammatoryaction.J.Physiol.Biochem.2018,74,539–547.[CrossRef]
+14. Rusch,N.Controlledfermentation,honey,beesandalcohol:ArchaeologicalandethnohistoricalevidencefromsouthernAfrica.
+S.Afr.Hum.2020,33,1–31.
+15. Gericke,N.Kabbo’s!Kwain´:Thepast,presentandpossiblefutureofkanna.InTheEthnopharmacologicalSearchforPsychoactive
+Drugs;FoundingDirectorofHG&HPharmaceuticals(Pty),Ltd.:Bryanston,SouthAfrica,2018;pp.122–150.
+16. Scott,G.;Hewett,M.Pioneersinethnopharmacology:TheDutchEastIndiaCompany(VOC)attheCapefrom1650.J.Ethnopharmacol.
+2008,115,339–360.[CrossRef]
+17. Setshedia,I.B.;Myera,M.;Dewara,J.;Foucheb,G.IsolationofaPentacyclicTriterpenoidfromSceletiumtortuosum.J.Appl.Sci.
+Technol.2019,1,21–27.
+18. Chesselet,P.Sceletiumtortuosum(L.)NEBr.(Mesembryanthemaceae).TheSouthAfricanNationalBiodiversityInstitute(SANBI).
+2005.Availableonline:http://pza.sanbi.org/sceletium-tortuosum(accessedon12February2021).
+19. Cowling,R.Namaqualand:ASucculentDesert;PenguinRandomHouse:CapeTown,SouthAfrica,1999;ISBN9781928213314.
+20. Zwicky,E.ÜberChanna.einGenussmittelderHottentotten(MesembrianthemumexpansumL.undtortuosumL.).Wurdeeins
+DoktorsderNaturwissenschaften.Ph.D.Thesis,EidgenossischenTechnischenHochschuleinZurich,Zurich,Switzerland,1914.
+21. Popelak,A.;Lettenbauer,G.Themesembrinealkaloids.InTheAlkaloids;Manske,R.H.F.,Ed.;AcademicPress:NewYork,NY,
+USA,1967;Volume9,pp.467–482.
+22. Krstenansky,J.L.Mesembrinealkaloids:Reviewoftheiroccurrence,chemistry,andpharmacology.J.Ethnopharmacol.2017,195,
+10–19.[CrossRef]
+23. Schmid,R.;VanWyk,B.-E.;VanOudtshoorn,B.;Gericke,N.MedicinalPlantsofSouthAfrica.Taxon1998,47.[CrossRef]
+24. Gericke, N.P.; VanWyk, B.E.PharmaceuticalCompositionsContainingMesembrineandRelatedCompounds. U.S.Patent
+6,288,104,11September2001.
+25. Patnala,S.;Kanfer,I.Chemotaxonomicstudiesofmesembrine-typealkaloidsinSceletiumplantspecies.S.Afr.J.Sci.2013,109,
+1–5.[CrossRef]
+26. Shikanga,E.A.;Viljoen,A.M.;Combrinck,S.;Marston,A.;Gericke,N.ThechemotypicvariationofSceletiumtortuosumalkaloids
+andcommercialproductformulations.Biochem.Syst.Ecol.2012,44,364–373.[CrossRef]
+27. Zhao,J.;Khan,I.A.;Combrinck,S.;Sandasi,M.;Chen,W.;Viljoen,A.M.1H-NMRandUPLC-MSmetabolomics:Functionaltools
+forexploringchemotypicvariationinSceletiumtortuosumfromtwoprovincesinSouthAfrica.Phytochemistry2018,152,191–203.
+[CrossRef]
+28. Bennett,A.C.;Smith,C.ImmunomodulatoryeffectsofSceletiumtortuosum(Trimesemine™)elucidatedinvitro:Implicationsfor
+chronicdisease.J.Ethnopharmacol.2018,214,134–140.[CrossRef]
+29. Harvey,A.L.;Young,L.C.;Viljoen,A.M.;Gericke,N.P.PharmacologicalactionsoftheSouthAfricanmedicinalandfunctional
+foodplantSceletiumtortuosumanditsprincipalalkaloids.J.Ethnopharmacol.2011,137,1124–1129.[CrossRef]
+30. Sreekissoon,A.;Placˇková,L.;Doležal,K.;Finnie,J.F.;VanStaden,J.Invitroandexvivovegetativepropagationandcytokinin
+profilesofSceletiumtortuosum(L.)N.E.Br.: ASouthAfricanmedicinalplant. PlantCellTissueOrganCult. (Pctoc.) 2021,145,
+191–202.[CrossRef]
+31. Sishuba,A.;Leboko,J.;Ateba,C.N.;Manganyi,M.C.FirstReport:DiversityofEndophyticfungiPossessingAntifungalActivity
+IsolatedfromNativeKougoed(SceletiumtortuosumL.).Mycobiology2021,49,89–94.[CrossRef][PubMed]
+32. Lewis,J.R.Amaryllidaceae,Sceletium,imidazole,oxazole,thiazole,peptideandmiscellaneousalkaloids(July1998toJune1999).
+Nat.Prod.Rep.2000,18,95–128.[CrossRef][PubMed]
+33. Palmer-Young,E.C.;Sadd,B.M.;Irwin,R.E.;Adler,L.S.Synergisticeffectsoffloralphytochemicalsagainstabumblebeepar-asite.
+Ecol.Evol.2017,7,1836–1849.[CrossRef]
+34. Sharma,K.;Guleria,S.;Razdan,V.K.;Babu,V.Synergisticantioxidantandantimicrobialactivitiesofessentialoilsofsomeselected
+medicinalplantsincombinationandwithsyntheticcompounds.Ind.Crop.Prod.2020,154.[CrossRef]
+35. Muszynska,B.;Łojewski,M.;Rojowski,J.;Opoka,W.;Sułkowska-Ziaja,K.Naturalproductsofrelevanceinthepreventionand
+supportivetreatmentofdepression.Psychiatr.Pol.2015,49,435–453.[CrossRef]
+36. Kapewangolo,P.;Tawha,T.;Nawinda,T.;Knott,M.;Hans,R.Sceletiumtortuosumdemonstratesinvitroanti-HIVandfreeradical
+scavengingactivity.S.Afr.J.Bot.2016,106,140–143.[CrossRef]
+37. Debora,M.S.J.;Baba,V.;Gomathi,S.Impactofstressonhealth.NarayanaNurs.J.2018,5,11–14.
+38. Rai,D.;Bhatia,G.;Sen,T.;Palit,G.Anti-stresseffectsofGinkgobilobaandPanaxginseng:Acomparativestudy.J.Pharm.Sci.
+2003,93,458–464.[CrossRef]
+39. Yaribeygi,H.;Panahi,Y.;Sahraei,H.;Johnston,T.P.;Sahebkar,A.Theimpactofstressonbodyfunction:Areview.EXCLIJ.2017,
+16,1057–1072.
+
+## Page 13
+
+Molecules2021,26,2557 13of15
+40. DeAbreu,M.S.;Giacomini,A.C.;Genario,R.;dosSantos,B.E.;Marcon,L.;Demin,K.A.;Kalueff,A.V.Theimpactofhousing
+environmentcoloronzebrafishanxiety-likebehavioralandphysiological(cortisol)responses.Gen.Comp.Endocrinol.2020,294.
+[CrossRef]
+41. Daniels,T.E.;Olsen,E.M.;Tyrka,A.R.StressandPsychiatricDisorders:TheRoleofMitochondria.Annu.Rev.Clin.Psychol.2020,
+16,165–186.[CrossRef]
+42. GlobalOrganizationforStress,StressFacts.Availableonline:http://www.gostress.com/stress-facts/(accessedon14February2021).
+43. Luo,Y.;Wen,J.;Kanfer,I.;Yu,P.;Patnala,S.Sceletiumtortuosum:EffectsonCentralNervousSystemandRelatedDisease.J.Pharm.
+Biomed.Sci.2020,10,151–160.
+44. Jahagirdar,A.Q.F.;Hugar,S.;Patil,V.;Nanjappaiah,A.K.H.ScreeningofAntistressactivityofFicusbenghalensisFruitextract.
+Res.J.Pharm.Technol.2020,13.[CrossRef]
+45. Sharma,A.;Anchariya,R.;Dubey,C.AReviewonAnti-StressActivityofPiperMethysticum.AsianJ.Pharm.Res.Dev.2020,8,
+130–136.[CrossRef]
+46. Darbar,S.D.;Saha,S.;Chattopadhyay,S.;Chattapadhyay,A.Anti-StressActivity(in-vivo)ofMultiHerbalCapsule-Trasina®in
+ExperimentalMurineModel.AsianJ.Pharm.Res.Dev.2020,8,52–58.
+47. Solati, K.; Heidari-Soureshjani, S.; Pocock, L. Effects and mechanisms of medicinal plants on stress hormone (cortisol): A
+sys-tematicreview.Worldfam.MiddleEast.J.Fam.Med.2017,15,117–123.[CrossRef]
+48. Terburg,D.;Syal,S.;ARosenberger,L.;Heany,S.;Phillips,N.;Gericke,N.;Stein,D.J.;VanHonk,J.AcuteeffectsofSceletium
+tortuosum(Zembrin),adual5-HTreuptakeandPDE4inhibitor,inthehumanamygdalaanditsconnectiontothehypothalamus.
+Neuropsychopharmacology2013,38,2708–2716.[CrossRef]
+49. Bennett,A.;López,V.;VanCamp,A.;Smith,C.Sceletiumtortuosumanddepression:Mechanismselucidated.PlantaMed.2016,81,
+S1–S381.[CrossRef]
+50. Hammen,C.StressandDepression.Annu.Rev.Clin.Psychol.2005,1,293–319.[CrossRef]
+51. WorldHealthOrganization(WHO).NewsRoom.FactSheets.Depression.Availableonline:https://www.who.int/news-room/
+fact-sheets/detail/depression(accessedon19February2021).
+52. Sasaki,K.;ElOmri,A.;Kondo,S.;Han,J.;Isoda,H.Rosmarinusofficinalispolyphenolsproduceanti-depressantlikeeffect
+throughmonoaminergicandcholinergicfunctionsmodulation.Behav.BrainRes.2013,238,86–94.[CrossRef]
+53. Li,Y.;Jiang,J.-G.Healthfunctionsandstructure–activityrelationshipsofnaturalanthraquinonesfromplants.FoodFunct.2018,9,
+6063–6080.[CrossRef]
+54. Abe,N.;Ali,Z.;Khan,I.StructureofNovelAlkaloidsfromSceletiumtortuosum.PlantaMed.2013,79.[CrossRef]
+55. Napoletano, M.; Fraire, C.; Santangelo, F.; Moriggi, E. Mesembrine is an inhibitor of PDE4 that follows structure-activity
+rela-tionshipofrolipram.Chemistry2001,2001,303–308,preprintarchive.
+56. Perviz,S.;Khan,H.;Pervaiz,A.PlantAlkaloidsasanEmergingTherapeuticAlternativefortheTreatmentofDepression.Front.
+Pharm.2016,7.[CrossRef]
+57. Khan,H.TherapeuticPotentialofPlantAlkaloidsasAntidepressant.Front.Clin.DrugRes.CNSNeurol.Disord.2017,5,250–267.
+[CrossRef]
+58. Shahrajabian,M.H.;Sun,W.;Soleymani,A.;Cheng,Q.Traditionalherbalmedicinestoovercomestress,anxietyandimprove
+mentalhealthinoutbreaksofhumancoronaviruses.Phytother.Res.2021,35,1237–1247.[CrossRef]
+59. Schell,R.SceletiumtortuosumandMesembrine: APotentialAlternativeTreatmentforDepression. Bachelor’sThesis,Scripps
+Colleges,Claremont,CA,USA,2014.
+60. Villarreal,M.L.;Sharma,A.;Cardoso-Taketa,A.;Garcia,G.Asystematicupdatedreviewofscientificallytestedselectedplants
+usedforanxietydisorders.Bot.Targets2012,2,21–39.[CrossRef]
+61. Maphanga, V.B.; Skalicka-Woz´niak, K.; Budzynska, B.; Enslin, G.M.; Viljoen, A.M. Screening selected medicinal plants for
+potentialanxiolyticactivityusinganinvivozebrafishmodel.Psychopharmacology2020,237,3641–3652.[CrossRef][PubMed]
+62. Kabli,N.;Nguyen,T.;Balboni,G.C.;Odowd,B.F.;George,S.R.Antidepressant-likeandanxiolytic-likeeffectsfollowingactivation
+oftheµ-δopioidreceptorheteromerinthenucleusaccumbens.Mol.Psychiatry2014,19,986–994.[CrossRef]
+63. Hafeez,Z.;Benoit,S.;Cakir-Kiefer,C.;Dary,A.;Miclo,L.Foodprotein-derivedanxiolyticpeptides:Theirpotentialroleinanxiety
+management.FoodFunct.2021,12,1415–1431.[CrossRef][PubMed]
+64. Li,G.;Nieman,A.N.;Mian,Y.;Zahn,N.M.;Mikulsky,B.N.;Poe,M.M.;Methuku,K.R.;Liu,Y.;Cook,J.M.;Stafford,D.C.;etal.A
+Structure-ActivityRelationshipComparisonofImidazodiazepinesBindingatKappa,Mu,andDeltaOpioidReceptorsandthe
+GABA Receptor.Molecules2020,25,3864.[CrossRef][PubMed]
+A
+65. Manda, V.K.; Avula, B.; Ashfaq, M.K.; Abe, N.; Khan, I.A.; Khan, S.I.Quantificationofmesembrineandmesembrenonein
+mouseplasmausingUHPLC-QToF-MS:Applicationtoapharmacokineticstudy.Biomed.Chromatogr.2017,31,e3815.[CrossRef]
+[PubMed]
+66. Loria,M.J.;Ali,Z.;Abe,N.;Sufka,K.J.;Khan,I.A.EffectsofSceletiumtortuosuminrats. J.Ethnopharmacol. 2014,155,731–735.
+[CrossRef][PubMed]
+67. Perrine,S.A.;Hoshaw,B.A.UnterwaldEM.Deltaopioidreceptorligandsmodulateanxiety-likebehaviorsintherat.Br.J.Pharm.
+2006,147,864–872.[CrossRef]
+68. Reay,J.;Wetherell,M.A.;Morton,E.;Lillis,J.;Badmaev,V.Sceletiumtortuosum(Zembrin®)amelioratesexperimentallyinduced
+anxietyinhealthyvolunteers.Hum.Psychopharmacol.Clin.Exp.2020,35,1–7.[CrossRef]
+
+## Page 14
+
+Molecules2021,26,2557 14of15
+69. Fountain,E.M.TheEffectsofSceletiumtortuosumintheChickAnxiety-DepressionModel.UndergraduateThesis,Universityof
+Mississippi,SallyMcDonnellBarksdaleHonorsCollege,Oxford,MS,USA,2016.
+70. Smith,M.T.;Crouch,N.R.;Gericke,N.;Hirst,M.PsychoactiveconstituentsofthegenusSceletiumNEBr. andotherMesem-
+bryanthemaceae:Areview.J.Ethnopharmacol.1996,50,119–130.[CrossRef]
+71. Brunetti,P.;Faro,A.F.L.;Tini,A.;Busardò,F.P.;Carlier,J.PharmacologyofHerbalSexualEnhancers:AReviewofPsychiatricand
+NeurologicalAdverseEffects.Pharmacology2020,13,309.[CrossRef]
+72. Bakalov, D.; Hadjiolova, R.; Pechlivanova, D.PathophysiologyofDepressionandNovelSourcesofPhytochemicalsforits
+Treatment—ASystematicReview.ActaMed.Bulg.2020,47,69–74.[CrossRef]
+73. Saura,C.A.;Valero,J.TheroleofCREBsignalinginAlzheimer’sdiseaseandothercognitivedisorders.Rev.Neurosci.2011,22,
+153–169.[CrossRef]
+74. Nathan,C.;Ding,A.NonresolvingInflammation.Cell2010,140,871–882.[CrossRef][PubMed]
+75. Setshedi,I.B.PhytochemicalIsolationofCompoundsfromthePlantSeleniumtortuosum.Ph.D.Thesis,UniversityofSouthAfrica
+(Unisa),Pretoria,SouthAfrica,2012.
+76. Setshed,I.I.;Peter,X.K.;Fouché,G.;Myer,M.;Dewar,J.IsolationofcompoundsfromSceletiumtortuosumandthedetectionof
+antimalarialactivityoftheisolatesandextracts.InProceedingsoftheCSIRConference2010,October2010,Pretoria,SouthAfrica;
+Availableonline:http://hdl.handle.net/10204/4316(accessedon23February2021).
+77. Setshedi,I.I.;Fouche,G.;Dewar,J.;Maharaj,V.;Myer,M.S.PhytochemicalisolationofcompoundsfromSceletiumtortuosumand
+activitytestingagainstPlasmodiumfalciparum.OnderstepoortJ.Vet.Res.2012,79.[CrossRef]
+78. Swart,A.C.;Smith,C.Modulationofglucocorticoid,mineralocorticoidandandrogenproductioninH295cellsbyTrimesem-ine™,
+amesembrine-richSceletiumextract.J.Ethnopharmacol.2016,177,35–45.[CrossRef]
+79. Bennett, A.C. Neuro- and Immunomodulatory Effects of Sceletium tortuosum. Master’s Thesis, University of Stellenbosch,
+Stellenbosch,SouthAfrica,2018.
+80. Chiu,S.;Gericke,N.;Farina-Woodbury,M.;Badmaev,V.;Raheb,H.;Terpstra,K.;Antongiorgi,J.;Bureau,Y.;Cernovsky,Z.;
+Hou,J.;etal.Proof-of-ConceptRandomizedControlledStudyofCognitionEffectsoftheProprietaryExtractSceletiumtortuosum
+(Zembrin)TargetingPhosphodiesterase-4inCognitivelyHealthySubjects:ImplicationsforAlzheimer’sDementia.Evid.Based
+Complement.Altern.Med.2014,68,25389443.
+81. Nell,H.;Siebert,M.;Chellan,P.;Gericke,N.ARandomized,Double-Blind,Parallel-Group,Placebo-ControlledTrialofExtract
+Sceletiumtortuosum(Zembrin)inHealthyAdults.J.Altern.Complement.Med.2013,19,898–904.[CrossRef]
+82. Meyer,G.M.;Wink,C.S.;Zapp,J.;Maurer,H.H.GC-MS,LC-MSn,LC-highresolution-MSn,andNMRstudiesonthemetab-olism
+andtoxicologicaldetectionofmesembrineandmesembrenone,themainalkaloidsofthelegalhigh“Kanna”isolatedfrom
+Sceletiumtortuosum.Anal.Bioanal.Chem.2015,407,761–778.[CrossRef]
+83. Fitzgerald,M.;Heinrich,M.;Booker,A.MedicinalPlantAnalysis:AHistoricalandRegionalDiscussionofEmergentComplex
+Techniques.Front.Pharm.2020,10.[CrossRef]
+84. Hunter,E.;Stander,M.;Kossmann,J.;Chakraborty,S.;Prince,S.;Peters,S.;Loedolff,B.Towardtheidentificationofaphy-
+tocannabinoid-likecompoundintheflowersofaSouthAfricanmedicinalplant(Leonotisleonurus).BMCRes.Notes2020,13,
+1–6.[CrossRef]
+85. VanWyk,A.;Prinsloo,G.Medicinalplantharvesting,sustainabilityandcultivationinSouthAfrica. Biol. Conserv. 2018,227,
+335–342.[CrossRef]
+86. Ozioma,E.-O.J.;Chinwe,O.A.N.HerbalMedicinesinAfricanTraditionalMedicine.Herb.Med.2019,10,191–214.[CrossRef]
+87. Fokunang, E.T.; Fonmboh, D.J.; Mballa, R.N.; Nyuyki, A.B.; Fokunang, L.B.; Kaba, N.; Abong, T.B.; Duerr, R.; Richard, E.;
+Ondoua,M.-T.A.;etal.PharmacovigilanceofNaturalHerbalMedicinesResearchforEfficacy,SafetyandQualityAssuranceof
+PhytomedicineProducts.J.Complement.Altern.Med.Res.2020,21–37.[CrossRef]
+88. Chinsamy,M.SouthAfricanTripleHeritageandPublicHealthcare.PULA:BotswanaJ.Afr.Stud.2017,31,1–15.
+89. Sankaramourthy, D.; Subramanian, K.; Sadras, S.R. Safety and Regulatory Issues on Traditional Medicine Entrusted Drug
+Discovery.InEvidenceBasedValidationofTraditionalMedicines;J.B.Metzler:Stuttgart,Germany,2021;pp.589–603.
+90. World Health Organization. General Guidelines for Methodologies on Research and Evaluation of Traditional Medicine; No.
+WHO/EDM/TRM/2000.1;WorldHealthOrganization:Geneva,Switzerland,2000.
+91. Liu, X.; Jiang, W.; Su, M.; Sun, Y.; Liu, H.; Nie, L.; Zang, H.QualityevaluationoftraditionalChinesemedicinesbasedon
+fin-gerprinting.J.Sep.Sci.2020,43,6–17.[CrossRef]
+92. Street,R.;Stirk,W.;VanStaden,J.SouthAfricantraditionalmedicinalplanttrade—Challengesinregulatingquality,safetyand
+efficacy.J.Ethnopharmacol.2008,119,705–710.[CrossRef]
+93. Ayeleso,T.B.;Ramachela,K.;Mukwevho,E.Areviewoftherapeuticpotentialsofsweetpotato:Pharmacologicalactivitiesand
+influenceofthecultivar.Trop.J.Pharm.Res.2017,15.[CrossRef]
+94. Rinschen,M.M.;Ivanisevic,J.;Giera,M.;Siuzdak,G.Identificationofbioactivemetabolitesusingactivitymetabolomics.Nat.Rev.
+Mol.CellBiol.2019,20,353–367.[CrossRef]
+95. Sotenjwa,V.Z.;Chen,W.;Veale,C.G.;Anokwuru,C.P.;Tankeu,S.Y.;Combrinck,S.;Kamatou,G.P.;Viljoen,A.M.Chemotypic
+variationofnon-volatileconstituentsofArtemisiaafra(Africanwormwood)fromSouthAfrica.Fitoterapia2020,147.[CrossRef]
+96. Djokam,M.;Sandasi,M.;Chen,W.;Viljoen,A.;Vermaak,I.HyperspectralImagingasaRapidQualityControlMethodforHerbal
+TeaBlends.Appl.Sci.2017,7,268.[CrossRef]
+
+## Page 15
+
+Molecules2021,26,2557 15of15
+97. Sandasi,M.;Chen,W.;Vermaak,I.;Viljoen,A.Non-destructivequalityassessmentofherbalteablendsusinghyperspectral
+imaging.Phytochem.Lett.2018,24,94–101.[CrossRef]
+98. Pudumo,J.;Chaudhary,S.;Chen,W.;Viljoen,A.;Vermaak,I.;Veale,C.HPTLCfingerprintingofCrotongratissimusleafextract
+withPreparativeHPLC-MS-isolatedmarkercompounds.S.Afr.J.Bot.2018,114,32–36.[CrossRef]
+99. Nsuala,B.N.;Kamatou,G.P.;Sandasi,M.;Enslin,G.;Viljoen,A.VariationinessentialoilcompositionofLeonotisleonurus,an
+importantmedicinalplantinSouthAfrica.Biochem.Syst.Ecol.2017,70,155–161.[CrossRef]
+

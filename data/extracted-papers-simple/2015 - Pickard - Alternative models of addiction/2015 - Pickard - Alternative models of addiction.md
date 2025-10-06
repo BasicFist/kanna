@@ -1,0 +1,96 @@
+## Page 1
+
+EDITORIAL
+published:13February2015
+PSYCHIATRY
+doi:10.3389/fpsyt.2015.00020
+Alternative models of addiction
+HannaPickard1*,SergeH.Ahmed2 andBennettFoddy3
+1UniversityofBirmingham,Birmingham,UK
+2UniversityofBordeaux:IMNCNRSUMR5293,Bordeaux,France
+3NewYorkUniversity,NewYork,NY,USA
+*Correspondence:h.pickard@gmail.com
+Editedandreviewedby:
+GiovanniAddolorato,CatholicUniversityofRome,Italy
+Keywords:drugs,addiction,disease,choice,compulsion,self-control,substanceabuse,substancedependence
+For much of the twentieth century,theories of addictive behav- In“AddictionisNotaBrainDisease(AnditMatters),”Levyargues
+iorandmotivationwerepolarizedbetweentwomodels.Thefirst thatwhileaddictiondoesproduceneurologicaldysfunction,this
+model viewed addiction as a moral failure for which addicts isnotenoughtomakeitadisease.InLevy’seyes,diseaseneces-
+are rightly held responsible and judged accordingly. The second sarilyinvolvesimpairment,andimpairmentmustbeunderstood
+model, in contrast, viewed addiction as a specific brain disease relativetothesocialandpracticalcontextinwhichaddictslive.In
+caused by neurobiological adaptations occurring in response to contrast,WakefieldandShmitz’sarticle“HowManyPeopleHave
+chronic drug or alcohol use, and over which addicts have no AlcoholUseDisorders?”pointsoutthatbyfocusingtooheavilyon
+choiceorcontrol.Asourcapacitytoobserveneurobiologicalphe- thenegativehealthcorrelatesofchronicalcoholuse,DSM-IVand
+nomenaimproved,thesecondmodelbecamescientificorthodoxy, DSM-Vdiagnosticcriteriariskdiagnosingnon-addictssuffering
+increasinglydominatingaddictionresearchandinformingpublic theill-effectsoflong-termusewithanaddictive“disease.”
+understandingsofaddiction.Thearticlesinthisresearchtopicaim Thesocialandpracticalcontextofaddictionisalsoemphasized
+to move beyond the polarization between the competing moral by other authors. It has long been known that cocaine-addicted
+anddiseasemodelsofaddiction. ratswillforegococaineifofferedalternativegoods,suchassugar
+In the opening article of this e-book“Addiction and Choice: orsaccharin.Zernigetal.’s(8)article“DyadicSocialInteraction
+Theory and New Data,”Heyman (1) examines new data on the asanAlternativeRewardtoCocaine”presentsdatademonstrat-
+ways that addicts recover,and argues that recovery from addic- ingthat,incertainexperimentalconditions,ratswillalsoforego
+tionisbetterpredictedbyamodelinwhichaddictschoosetouse cocainefortheopportunityofsame-sexsnuggling.Overall,these
+drugs,rather than one in which they are compelled to do so by findingsfurthershowthatdrugchoicesarenotdeterminedbythe
+adisease.Thisthemeisechoedinotherpapersinthiscollection. abilityofadrugtodirectlyactivateand/orsensitizethereinforcing
+SatelandLilienfeld(2)in“AddictionandtheBrain-DiseaseFal- andincentivesalienceneuronalpathwaysinthebrain.Thiscon-
+lacy”directly challenge the disease model,drawing on historical clusion is consistent with the general evolutionary view of drug
+andclinicaldatatoarguethataddictsrespondtoincentivesand useadvancedbyHagenetal.(9).Theirarticlenotesthatthemost
+usedrugsforreasons,andsoaddictivebehaviormustbeunder- currentlywidelyuseddrugs,likecannabis,cocaine,andnicotine,
+stood as a choice. In “Intertemporal Bargaining in Addiction,” areoriginallyplantchemicaldefensesthatevolvedtodetercon-
+Ainslie(3)repriseshislargebodyofworkontheinherentweak- sumption. To adapt, animals are likely to have evolved internal
+nesses of the human capacity for choice,exploring its relevance protectivemechanismsallowingthemtousedrugsinacontrolled
+to questions of the nature of responsibility and our justifica- manner.
+tioninholdingaddictsaccountableforaddictivebehaviorandits In“The Shame of Addiction,”Flanagan (10) argues that the
+consequences. first-personalexperienceofshame–typicallyasocialandmoral
+Other authors in this volume seek to understand the ways emotion–iscentraltounderstandinghumanaddictionandthe
+inwhichthesechoicescanbepathologicallyimpairedbyaddic- motivation addicts have to heal, but that shame can be distin-
+tion.Forexample,DillandHolton’s(4)article“TheAddictInUs guished from blame, allowing addiction to be conceived as an
+All”contrastsordinarychoiceswithwhattheycallthe“incentive aspectofpersonalagencywithoutreturningtothemoralmodel.
+salience”choices,whicharetypicalinaddictiveconsumption,and Inthefinalarticleofthise-book,Heymanetal.(11)presentdata
+involveextremecravingsfordrugsandstrongmotivationtocon- suggesting that years spent in school is a key predictor of illicit
+sume,evenwhenconsumptionisneitherexperiencednorjudged druguse,aftercontrollingforIQandimpulsivity,suggestingnot
+asdesirable.Hendenetal.(5)in“Addiction:ChoiceorCompul- onlyapotentialsocialcauseofaddictionbutalso,equally,asocial
+sion?” chart a course between the moral and disease model by solution.
+arguingthataddictivebehaviorcanbelabeledbothvoluntaryand Thee-bookalsocontainsarticlesexploringtheclassificationof
+compulsive,ifthisisunderstoodasinvolvingrepeateddecisions, addictionanditspotentialstatusasanaturalkind,theroleand
+which can lead to maladaptive and self-destructive behavioral extentofpleasureinexplanationsofaddiction,andvariousmore
+outcomes. unusualformsofaddiction,suchasworkaholism,whichwenat-
+Theimportanceofnegativeoutcomestounderstandingaddic- urallycharacterizeasinvolvinganeedforcontrol,asopposedto
+tionisemphasizedbybothLevy(6)andWakefieldandSchmitz(7). involvingalossofcontrol.
+www.frontiersin.org February2015|Volume6|Article20|1
+
+## Page 2
+
+Pickardetal. Alternativemodelsofaddiction
+Consideredasawhole,thearticlesinthisvolumedemonstrate 9.HagenEH,RouletteCH,SullivanRJ.Explaininghumanrecreationaluseof‘pes-
+thatwecanconceptualizeaddictionaschoice,whileavoidingboth ticides’:theneurotoxinregulationmodelofsubstanceusevs.thehijackmodel
+thescyllaof moralizationandthecharybdaof braindisease.By andimplicationsforageandsexdifferencesindrugconsumption.FrontPsychi-
+atry(2013)4:142.doi:10.3389/fpsyt.2013.00142
+doing so, they emphasize the need to give equal attention and
+10.FlanaganO.Theshameofaddiction.FrontPsychiatry(2013)4:120.doi:10.3389/
+weighttothehistorical,contextual,andbiologicalfactorsthatare
+fpsyt.2013.00120
+significant in addiction,to move forward in understanding and 11.HeymanG,DunnBJ,MignoneJ.Disentanglingthecorrelatesofdruguseina
+respondingtotheproblem.Addictionaschoicemaythusoffera clinicandcommunitysample:aregressionanalysisoftheassociationsbetween
+unifyingandintegrativeframeworkforfutureresearchinthefield. druguse,years-of-school,impulsivity,IQ,workingmemory,andpsychiatric
+symptoms.FrontPsychiatry(2014)5:70.doi:10.3389/fpsyt.2014.00070
+REFERENCES
+1.HeymanG.Addictionandchoice:theoryandnewdata.FrontPsychiatry(2013)
+4:31.doi:10.3389/fpsyt.2013.00031 ConflictofInterestStatement:Theauthorsdeclarethattheresearchwasconducted
+2.SatelS,LilienfeldSO.Addictionandthebrain-diseasefallacy.FrontPsychiatry intheabsenceofanycommercialorfinancialrelationshipsthatcouldbeconstrued
+(2014)4:141.doi:10.3389/fpsyt.2013.00141 asapotentialconflictofinterest.
+3.AinslieG.Intertemporalbargaininginaddiction.FrontPsychiatry(2013)4:63.
+doi:10.3389/fpsyt.2013.00063 Received:09January2015;accepted:31January2015;publishedonline:13February
+4.DillB,HoltonR.Theaddictinusall.FrontPsychiatry (2014)5:139.doi:10. 2015.
+3389/fpsyt.2014.00139 Citation:PickardH,AhmedSHandFoddyB(2015)Alternativemodelsofaddiction.
+5.HendenE,MelbergHO,RogebergO.Addiction:choiceorcompulsion?Front Front.Psychiatry6:20.doi:10.3389/fpsyt.2015.00020
+Psychiatry(2013)4:77.doi:10.3389/fpsyt.2013.00077 ThisarticlewassubmittedtoAddictiveDisordersandBehavioralDyscontrol,asection
+6.LevyN.Addictionisnotabraindisease(anditmatters).FrontPsychiatry(2013) ofthejournalFrontiersinPsychiatry.
+4:24.doi:10.3389/fpsyt.2013.00024 Copyright©2015Pickard,AhmedandFoddy.Thisisanopen-accessarticledistributed
+7.WakefieldJC,SchmitzMF.Howmanypeoplehavealcoholusedisorders?Using underthetermsoftheCreativeCommonsAttributionLicense(CCBY).Theuse,dis-
+theharmfuldysfunctionanalysistoreconcileprevalenceestimatesintwocom- tributionorreproductioninotherforumsispermitted,providedtheoriginalauthor(s)
+munitysurveys.FrontPsychiatry(2014)5:10.doi:10.3389/fpsyt.2014.00010 orlicensorarecreditedandthattheoriginalpublicationinthisjournaliscited,in
+8.ZernigG,KummerKK,PrastJM.Dyadicsocialinteractionasanalternative accordancewithacceptedacademicpractice.Nouse,distributionorreproductionis
+rewardtococaine.FrontPsychiatry(2013)4:100.doi:10.3389/fpsyt.2013.00100 permittedwhichdoesnotcomplywiththeseterms.
+FrontiersinPsychiatry|AddictiveDisordersandBehavioralDyscontrol February2015|Volume6|Article20|2
+
