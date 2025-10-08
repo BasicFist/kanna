@@ -1,0 +1,374 @@
+# AI/ML Model Registry for KANNA Thesis Project
+# Comprehensive inventory of available models and their use cases
+# Last updated: 2025-10-08
+# Models location: /run/media/miko/AYA/crush-models/hf-home/
+
+metadata:
+  project: "KANNA PhD Thesis - Sceletium tortuosum"
+  hardware:
+    gpu: "NVIDIA Quadro RTX 5000"
+    vram: "15.6 GB"
+    cuda: "13.0"
+  last_audit: "2025-10-08"
+
+# ═══════════════════════════════════════════════════════════════
+# TEXT GENERATION MODELS
+# ═══════════════════════════════════════════════════════════════
+
+text_generation:
+  qwen2.5-coder-7b:
+    name: "Qwen2.5-Coder-7B-Instruct"
+    family: "Qwen"
+    provider: "Alibaba Cloud"
+    hf_id: "Qwen/Qwen2.5-Coder-7B-Instruct"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--Qwen--Qwen2.5-Coder-7B-Instruct"
+
+    specifications:
+      parameters: "7B"
+      context_window: "32K tokens"
+      vram_fp16: "~14 GB"
+      vram_fp32: "~28 GB"
+      quantized: false
+
+    capabilities:
+      languages: ["en", "fr", "zh", "es", "de", "ja", "ko"]
+      specialties:
+        - "Code generation (Python, R, bash)"
+        - "Code completion and refactoring"
+        - "Technical documentation"
+        - "LaTeX/markdown generation"
+
+    use_cases:
+      - "Primary LLM for RAG generation"
+      - "Analysis script generation (R/Python)"
+      - "Thesis writing assistance"
+      - "Code debugging and optimization"
+
+    serving:
+      vllm: true  # Recommended for production
+      ollama: true  # Available for development
+      transformers: true  # Direct inference
+
+    benchmarks:
+      ranking: "#1 open-source code model (2025)"
+      code_quality: "Beats DeepSeek V3 in real-world usage"
+      context_handling: "Excellent (32K native)"
+
+    priority: "HIGH"
+    status: "PRODUCTION"
+    recommended_for: "All code generation and RAG tasks"
+
+  qwen2.5-coder-3b:
+    name: "Qwen2.5-Coder-3B-Instruct"
+    family: "Qwen"
+    provider: "Alibaba Cloud"
+    hf_id: "Qwen/Qwen2.5-Coder-3B-Instruct"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--Qwen--Qwen2.5-Coder-3B-Instruct"
+
+    specifications:
+      parameters: "3B"
+      context_window: "32K tokens"
+      vram_fp16: "~6 GB"
+      vram_fp32: "~12 GB"
+
+    use_cases:
+      - "Lightweight code generation"
+      - "Quick prototyping"
+      - "Low-latency tasks"
+
+    serving:
+      vllm: true
+      ollama: true
+      transformers: true
+
+    priority: "MEDIUM"
+    status: "AVAILABLE"
+    recommended_for: "Fast, lightweight tasks"
+
+  deepseek-coder-v2-lite:
+    name: "DeepSeek-Coder-V2-Lite-Instruct"
+    family: "DeepSeek"
+    provider: "DeepSeek AI"
+    hf_id: "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--deepseek-ai--DeepSeek-Coder-V2-Lite-Instruct"
+
+    specifications:
+      parameters: "16B"
+      context_window: "32K tokens"
+      vram_fp16: "~32 GB (TOO LARGE FOR GPU)"
+
+    capabilities:
+      specialties:
+        - "Mathematical reasoning"
+        - "Logical problem solving"
+        - "Scientific computation"
+
+    use_cases:
+      - "CPU inference via Ollama"
+      - "Mathematical proofs"
+      - "Complex reasoning tasks"
+
+    serving:
+      vllm: false  # Too large for 15.6 GB VRAM
+      ollama: true  # CPU inference
+      transformers: false
+
+    priority: "LOW"
+    status: "CPU-ONLY"
+    note: "Reserved for CPU inference due to size"
+
+  # Additional models for reference
+  nous-hermes-2-mistral-7b:
+    name: "Nous-Hermes-2-Mistral-7B-DPO"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--NousResearch--Nous-Hermes-2-Mistral-7B-DPO"
+    specifications:
+      parameters: "7B"
+      vram_fp16: "~14 GB"
+    use_cases: ["General chat", "Instruction following"]
+    priority: "LOW"
+    status: "BACKUP"
+
+  open-orca-mistral-7b:
+    name: "Mistral-7B-OpenOrca"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--Open-Orca--Mistral-7B-OpenOrca"
+    specifications:
+      parameters: "7B"
+      vram_fp16: "~14 GB"
+    use_cases: ["General tasks", "Reasoning"]
+    priority: "LOW"
+    status: "BACKUP"
+
+# ═══════════════════════════════════════════════════════════════
+# EMBEDDING MODELS
+# ═══════════════════════════════════════════════════════════════
+
+embeddings:
+  bge-m3:
+    name: "BGE-M3"
+    family: "BGE (BAAI General Embedding)"
+    provider: "Beijing Academy of Artificial Intelligence"
+    hf_id: "BAAI/bge-m3"
+    local_path: "TBD - needs download"
+
+    specifications:
+      dimensions: 1024
+      max_sequence_length: 8192  # tokens
+      model_size: "~2 GB"
+      languages: "100+"
+
+    capabilities:
+      multi_functionality: true  # Dense, lexical, multi-vector retrieval
+      multi_lingual: true
+      long_document: true  # Handles 8K tokens
+
+    use_cases:
+      - "PRIMARY embedding model for RAG"
+      - "Scientific paper embeddings"
+      - "Long document understanding"
+      - "Multi-lingual thesis support (French/English)"
+
+    training_data:
+      includes: "Scientific papers, Wikipedia, StackExchange"
+      optimized_for: "Academic and technical text"
+
+    benchmarks:
+      mteb_score: "State-of-art for academic text (2025)"
+      retrieval_accuracy: ">90% on scientific corpora"
+
+    priority: "CRITICAL"
+    status: "NEEDS DOWNLOAD"
+    download_command: "huggingface-cli download BAAI/bge-m3 --local-dir /run/media/miko/AYA/crush-models/hf-home/models--BAAI--bge-m3"
+
+    notes: |
+      Recommended upgrade from all-MiniLM-L6-v2
+      - 1024 dims vs 384 dims (2.7× more expressive)
+      - 8192 tokens vs 256 tokens (32× longer context)
+      - Trained on scientific papers
+
+  all-minilm-l6-v2:
+    name: "all-MiniLM-L6-v2"
+    family: "sentence-transformers"
+    provider: "Sentence Transformers"
+    hf_id: "sentence-transformers/all-MiniLM-L6-v2"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--sentence-transformers--all-MiniLM-L6-v2"
+
+    specifications:
+      dimensions: 384
+      max_sequence_length: 256  # tokens (limited)
+      model_size: "~90 MB"
+
+    use_cases:
+      - "Lightweight fallback"
+      - "Development/testing"
+      - "Quick prototypes"
+
+    priority: "LOW"
+    status: "DEPRECATED"
+    notes: "To be replaced by BGE-M3 for production"
+
+# ═══════════════════════════════════════════════════════════════
+# SPECIALIZED MODELS
+# ═══════════════════════════════════════════════════════════════
+
+specialized:
+  mineru-vlm:
+    name: "MinerU 2.5 VLM (1.2B)"
+    provider: "OpenDataLab"
+    hf_id: "opendatalab/MinerU2.5-2509-1.2B"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--opendatalab--MinerU2.5-2509-1.2B"
+
+    specifications:
+      parameters: "1.2B"
+      modality: "Vision-Language"
+      vram: "~2.5 GB"
+
+    use_cases:
+      - "PDF document understanding"
+      - "Layout analysis"
+      - "Visual element detection"
+
+    serving:
+      direct_transformers: true
+      mineru_integration: true
+
+    dependencies:
+      transformers: "4.49 (CRITICAL - not compatible with vLLM)"
+      note: "Must use 'kanna' conda environment"
+
+    priority: "HIGH"
+    status: "PRODUCTION"
+    isolation: "Separate conda environment required"
+
+  pdf-extract-kit:
+    name: "PDF-Extract-Kit 1.0"
+    provider: "OpenDataLab"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--opendatalab--PDF-Extract-Kit-1.0"
+    use_cases: ["PDF extraction", "Document parsing"]
+    priority: "MEDIUM"
+    status: "AVAILABLE"
+
+  layoutreader:
+    name: "LayoutReader"
+    provider: "Hantian"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--hantian--layoutreader"
+    use_cases: ["Layout analysis", "Reading order detection"]
+    priority: "MEDIUM"
+    status: "AVAILABLE"
+
+  whisper-large-v3-turbo:
+    name: "Whisper Large V3 Turbo"
+    provider: "OpenAI"
+    local_path: "/run/media/miko/AYA/crush-models/hf-home/models--openai--whisper-large-v3-turbo"
+    modality: "Audio transcription"
+    use_cases: ["Interview transcription", "Audio notes"]
+    priority: "LOW"
+    status: "AVAILABLE"
+
+# ═══════════════════════════════════════════════════════════════
+# MODEL CONFLICTS & RESOLUTIONS
+# ═══════════════════════════════════════════════════════════════
+
+conflicts:
+  transformers_version:
+    issue: "vLLM requires transformers ≥4.57.0, MinerU requires ≤4.49.0"
+    affected_models:
+      vllm_compatible:
+        - "qwen2.5-coder-7b"
+        - "qwen2.5-coder-3b"
+        - "bge-m3"
+      mineru_compatible:
+        - "mineru-vlm"
+        - "pdf-extract-kit"
+
+    solution:
+      type: "Separate conda environments"
+      environments:
+        kanna:
+          transformers: "4.49"
+          purpose: "MinerU, PDF extraction, formula recognition"
+          models: ["mineru-vlm", "pdf-extract-kit"]
+        vllm:
+          transformers: "4.57+"
+          purpose: "vLLM server, RAG pipeline, general inference"
+          models: ["qwen2.5-coder-7b", "bge-m3"]
+
+    coordination:
+      gpu_usage: "Only one environment active at a time"
+      switch_procedure: "Stop vLLM server before MinerU extraction"
+      automation: "Use gpu-workload-manager.sh script"
+
+# ═══════════════════════════════════════════════════════════════
+# DOWNLOAD PRIORITIES
+# ═══════════════════════════════════════════════════════════════
+
+download_queue:
+  critical:
+    - model: "BAAI/bge-m3"
+      size: "~2 GB"
+      reason: "Essential for RAG embeddings"
+      command: "huggingface-cli download BAAI/bge-m3"
+
+  optional:
+    - model: "BAAI/bge-reranker-v2-m3"
+      size: "~500 MB"
+      reason: "Cross-encoder re-ranking for precision"
+      priority: "Phase 2"
+
+# ═══════════════════════════════════════════════════════════════
+# SERVING MATRIX
+# ═══════════════════════════════════════════════════════════════
+
+serving_recommendations:
+  production_rag:
+    llm: "qwen2.5-coder-7b"
+    embedding: "bge-m3"
+    server: "vLLM"
+    environment: "vllm conda env"
+
+  development:
+    llm: "qwen2.5-coder-7b"
+    server: "Ollama"
+    environment: "Host system"
+
+  pdf_extraction:
+    model: "mineru-vlm"
+    backend: "Direct transformers"
+    environment: "kanna conda env"
+
+  lightweight_tasks:
+    llm: "qwen2.5-coder-3b"
+    server: "vLLM or Ollama"
+    environment: "vllm conda env"
+
+# ═══════════════════════════════════════════════════════════════
+# NOTES & REFERENCES
+# ═══════════════════════════════════════════════════════════════
+
+notes:
+  model_selection_criteria: |
+    1. Fits in 15.6 GB VRAM (Qwen 7B at 14GB limit)
+    2. Open-source and locally runnable (no API costs)
+    3. Multi-lingual support (French/English thesis)
+    4. State-of-art benchmarks (2025 comparisons)
+    5. Code generation excellence (Qwen > DeepSeek)
+
+  embedding_model_upgrade: |
+    BGE-M3 vs all-MiniLM-L6-v2:
+    - 1024 dims vs 384 dims (2.7× more expressive)
+    - 8192 vs 256 max tokens (32× longer documents)
+    - Scientific paper training data
+    - Multi-lingual (100+ languages)
+    Estimated retrieval improvement: 15-25%
+
+  vram_budget_allocation: |
+    Single GPU (15.6 GB) usage scenarios:
+    - Qwen 7B: 14 GB (model) + 1.5 GB (KV cache) = 15.5 GB ✓
+    - Qwen 3B: 6 GB (model) + 3 GB (KV cache) = 9 GB (headroom)
+    - MinerU VLM: 2.5 GB (can coexist with embeddings)
+    - BGE-M3 embeddings: 0.5 GB (can coexist with MinerU)
+
+references:
+  - "LLM Comparison 2025: https://www.sokada.co.uk/blog/comparing-the-best-llms-of-2025/"
+  - "BGE-M3 Paper: https://arxiv.org/abs/2402.03216"
+  - "Qwen 2.5 Tech Report: https://qwenlm.github.io/blog/qwen2.5/"
+  - "Embedding Models Benchmark: https://www.datastax.com/blog/best-embedding-models-information-retrieval-2025"

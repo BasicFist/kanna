@@ -1,0 +1,172 @@
+# vLLM Server Configuration for KANNA Thesis Project
+# Based on 2025 best practices for single-GPU inference
+# Model: Qwen2.5-Coder-7B-Instruct
+# Hardware: NVIDIA Quadro RTX 5000 (15.6 GB VRAM)
+# Last updated: 2025-10-08
+
+server:
+  host: "127.0.0.1"
+  port: 8000
+  api_type: "openai"  # OpenAI-compatible API endpoints
+  uvicorn_log_level: "info"
+
+model:
+  name: "Qwen/Qwen2.5-Coder-7B-Instruct"
+  path: "/run/media/miko/AYA/crush-models/hf-home/models--Qwen--Qwen2.5-Coder-7B-Instruct"
+  trust_remote_code: true
+  download_dir: null  # Use path above, don't download
+
+engine:
+  # ═══════════════════════════════════════════════════════════════
+  # GPU Memory Management (2025 Best Practices)
+  # ═══════════════════════════════════════════════════════════════
+  # Use 90% of VRAM for KV cache (optimal per vLLM docs 2025)
+  # Calculation: 15.6 GB * 0.90 = 14.04 GB available
+  # Model weights: ~14 GB (FP16), KV cache: ~1.5 GB
+  gpu_memory_utilization: 0.90
+
+  # Context window: Qwen2.5 native is 32K, start conservative
+  # Start with 16K to ensure stability, can increase if no OOM
+  max_model_len: 16384  # tokens (can increase to 32768 if stable)
+
+  # ═══════════════════════════════════════════════════════════════
+  # Parallelism Configuration
+  # ═══════════════════════════════════════════════════════════════
+  # Single GPU: no tensor parallelism overhead
+  tensor_parallel_size: 1
+  pipeline_parallel_size: 1
+
+  # ═══════════════════════════════════════════════════════════════
+  # Throughput Optimization (2025 Research)
+  # ═══════════════════════════════════════════════════════════════
+  # max_num_seqs: Concurrent sequences in batch
+  # Higher = better throughput, but more VRAM for KV cache
+  max_num_seqs: 256
+
+  # Chunked prefill: Balance prefill (compute-bound) and decode (memory-bound)
+  # 8192 is optimal for smaller models per 2025 vLLM research
+  max_num_batched_tokens: 8192
+  enable_chunked_prefill: true
+
+  # ═══════════════════════════════════════════════════════════════
+  # Memory Efficiency Features
+  # ═══════════════════════════════════════════════════════════════
+  # Prefix caching: Critical for RAG (reuse system prompt)
+  enable_prefix_caching: true
+
+  # Swap space: Safety net for memory spikes (uses CPU RAM)
+  swap_space: 4  # GB
+
+  # ═══════════════════════════════════════════════════════════════
+  # Performance Tuning
+  # ═══════════════════════════════════════════════════════════════
+  # FP16 for speed (VRAM-constrained, no need for FP32)
+  dtype: "float16"
+
+  # CUDA graphs for optimization
+  enforce_eager: false
+
+  # Keep performance monitoring
+  disable_log_stats: false
+
+  # Quantization (uncomment if using quantized models)
+  # quantization: "awq"
+  # quantization_param_path: null
+
+scheduling:
+  # Scheduling policy for requests
+  scheduler_type: "default"  # "default" or "priority"
+
+  # Delay factor for continuous batching
+  scheduler_delay_factor: 0.0
+
+  # Enable lora adapters if needed
+  enable_lora: false
+  max_loras: 1
+  max_lora_rank: 16
+
+safety:
+  # Disable safety checker for local inference
+  disable_safety_checker: true
+
+  # Token limits
+  max_tokens_per_request: 4096
+
+  # Rate limiting (tokens per minute)
+  # null = no limit for local use
+  rate_limit_tokens: null
+
+logging:
+  # Log directory
+  log_dir: "/home/miko/LAB/logs"
+  log_file: "vllm-server.log"
+
+  # Logging verbosity
+  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+
+  # Request logging
+  log_requests: true
+  log_responses: false  # Set true for debugging
+
+monitoring:
+  # Prometheus metrics endpoint
+  enable_metrics: true
+  metrics_port: 8001
+
+  # Health check endpoint
+  health_check_path: "/health"
+
+# ═══════════════════════════════════════════════════════════════
+# Model-Specific Configurations
+# ═══════════════════════════════════════════════════════════════
+# Alternative model configs (switch by changing model.name/path)
+
+# Qwen2.5-Coder-3B (lighter, faster)
+alt_models:
+  qwen-3b:
+    name: "Qwen/Qwen2.5-Coder-3B-Instruct"
+    path: "/run/media/miko/AYA/crush-models/hf-home/models--Qwen--Qwen2.5-Coder-3B-Instruct"
+    gpu_memory_utilization: 0.85  # Needs less VRAM
+    max_model_len: 32768  # Can use full context
+
+  # DeepSeek-Coder-V2-Lite (CPU only - too large for GPU)
+  deepseek-lite:
+    name: "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct"
+    path: "/run/media/miko/AYA/crush-models/hf-home/models--deepseek-ai--DeepSeek-Coder-V2-Lite-Instruct"
+    note: "16B model - use Ollama CPU inference instead"
+
+# ═══════════════════════════════════════════════════════════════
+# Notes & Documentation
+# ═══════════════════════════════════════════════════════════════
+notes:
+  memory_budget: |
+    NVIDIA Quadro RTX 5000: 15.6 GB VRAM
+    - Model weights (FP16): ~14 GB
+    - KV cache (90% util): ~1.5 GB
+    - System overhead: ~0.1 GB
+    Total: 15.6 GB (at capacity)
+
+  performance_expectations: |
+    Based on vLLM 2025 benchmarks:
+    - Throughput: 20-30 tokens/sec (single user)
+    - Latency: <100ms first token (with prefix caching)
+    - Batch throughput: 500+ tokens/sec (multiple users)
+    - Context: 16K-32K tokens supported
+
+  conflict_resolution: |
+    vLLM requires transformers >= 4.57.0
+    MinerU requires transformers <= 4.49.0
+    Solution: Separate conda environments
+    - 'vllm' env: For this server (transformers 4.57+)
+    - 'kanna' env: For MinerU (transformers 4.49)
+
+  optimization_tips: |
+    1. If OOM errors: Reduce max_model_len to 8192
+    2. If slow: Increase max_num_batched_tokens to 16384
+    3. For RAG: Keep enable_prefix_caching=true (reuses prompts)
+    4. Monitor GPU: nvidia-smi dmon -i 0 -s mu
+
+  references: |
+    - vLLM Optimization Guide: https://docs.vllm.ai/en/latest/performance/optimization.html
+    - Qwen 2.5 Tech Report: https://qwenlm.github.io/blog/qwen2.5/
+    - PagedAttention Paper: https://arxiv.org/abs/2309.06180

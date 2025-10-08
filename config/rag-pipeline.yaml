@@ -1,0 +1,544 @@
+# RAG Pipeline Configuration for KANNA Thesis Project
+# Semantic chunking + BGE-M3 embeddings + hybrid search + chemistry integration
+# Last updated: 2025-10-08
+# Research-backed configuration for scientific literature RAG
+
+pipeline:
+  name: "KANNA Scientific Literature RAG"
+  version: "1.0.0"
+  corpus_size: 142  # papers
+  total_words: 974000
+
+# ═══════════════════════════════════════════════════════════════
+# CHUNKING STRATEGY
+# ═══════════════════════════════════════════════════════════════
+
+chunking:
+  strategy: "semantic"  # Respects document structure (vs fixed-size)
+  implementation: "llamaindex"  # LlamaIndex SemanticSplitter
+
+  parameters:
+    chunk_size: 768  # tokens (optimal for scientific papers, research-backed)
+    chunk_overlap: 128  # tokens (16.7% overlap for context continuity)
+    buffer_size: 1  # sentences to look ahead
+    breakpoint_percentile_threshold: 95  # Semantic similarity cutoff
+
+  # Alternative: RecursiveCharacterTextSplitter (simpler fallback)
+  fallback:
+    strategy: "recursive_character"
+    implementation: "langchain"
+    chunk_size: 768
+    chunk_overlap: 128
+    separators: ["\n\n", "\n", ". ", " ", ""]
+
+  notes: |
+    Semantic chunking rationale (research-backed):
+    - 15-25% retrieval improvement over fixed-size chunking
+    - Respects paragraph/section boundaries in academic papers
+    - 768 tokens: Balance between context and specificity
+    - 128 overlap: Ensures no information loss at boundaries
+
+# ═══════════════════════════════════════════════════════════════
+# EMBEDDINGS
+# ═══════════════════════════════════════════════════════════════
+
+embeddings:
+  model: "BAAI/bge-m3"
+  provider: "Beijing Academy of Artificial Intelligence"
+
+  specifications:
+    dimensions: 1024
+    max_sequence_length: 8192  # tokens (32× longer than all-MiniLM-L6-v2)
+    model_size_gb: 2
+    languages: 100+  # Multi-lingual (French/English thesis support)
+
+  local_path: "/run/media/miko/AYA/crush-models/hf-home/models--BAAI--bge-m3"
+  download_command: "huggingface-cli download BAAI/bge-m3"
+
+  capabilities:
+    multi_functionality: true  # Dense + lexical + multi-vector retrieval
+    long_documents: true  # Handles 8K tokens per chunk
+    scientific_training: true  # Trained on scientific papers
+
+  performance:
+    mteb_score: "State-of-art for academic text (2025)"
+    expected_improvement: "15-25% over all-MiniLM-L6-v2"
+
+  upgrade_rationale: |
+    BGE-M3 vs all-MiniLM-L6-v2:
+    - 1024 dims vs 384 dims (2.7× more expressive)
+    - 8192 vs 256 max tokens (32× longer context)
+    - Trained on scientific papers, Wikipedia, StackExchange
+    - Multi-lingual (100+ languages) for French/English thesis
+
+# ═══════════════════════════════════════════════════════════════
+# VECTOR DATABASE
+# ═══════════════════════════════════════════════════════════════
+
+vector_db:
+  # Development: ChromaDB (simple, Python-native)
+  development:
+    backend: "chromadb"
+    version: "0.6.0"  # 2025 Rust rewrite (4× speedup)
+    persist_directory: "/home/miko/LAB/projects/KANNA/data/vector-db/chroma"
+    collection_name: "kanna_papers"
+
+    advantages:
+      - "Python-native (no separate server)"
+      - "4× faster in 2025 (Rust rewrite)"
+      - "Simple setup for PhD timeline"
+      - "Sufficient for 142 papers"
+
+  # Production migration path (Phase 2, if needed)
+  production:
+    backend: "qdrant"
+    advantages:
+      - "#1 in 2025 benchmarks"
+      - "24× compression (ScaNN)"
+      - "Distributed scaling"
+      - "Advanced filtering"
+    notes: "Migrate only if ChromaDB performance insufficient"
+
+# ═══════════════════════════════════════════════════════════════
+# RETRIEVAL STRATEGY
+# ═══════════════════════════════════════════════════════════════
+
+retrieval:
+  # Hybrid search: Vector + BM25 (best practice for academic literature)
+  strategy: "hybrid"
+
+  hybrid_search:
+    vector_weight: 0.7  # Semantic similarity (primary)
+    bm25_weight: 0.3   # Lexical matching (secondary)
+    fusion_method: "reciprocal_rank_fusion"  # RRF algorithm
+
+  parameters:
+    top_k: 5  # Chunks to retrieve
+    similarity_metric: "cosine"  # For vector search
+    min_similarity_threshold: 0.7  # Filter low-relevance chunks
+
+  # Re-ranking (optional, Phase 2)
+  reranking:
+    enabled: false  # Start simple, add later if needed
+    model: "BAAI/bge-reranker-v2-m3"  # Cross-encoder (500 MB)
+    top_n: 3  # Re-rank top 5 → select top 3
+    notes: "15-20% precision improvement, but adds latency"
+
+  # Metadata filtering (academic paper taxonomy)
+  filtering:
+    enabled: true
+    filter_types:
+      - "chapter"  # Filter by thesis chapter (1-8)
+      - "year_range"  # Date filtering (e.g., 2020-2025)
+      - "paper_type"  # Filter by study type
+      - "has_smiles"  # Chemistry-specific filtering
+      - "receptor_targets"  # Pharmacology filtering
+      - "botanical_taxonomy"  # Botany filtering
+
+# ═══════════════════════════════════════════════════════════════
+# CITATION EXTRACTION
+# ═══════════════════════════════════════════════════════════════
+
+citation:
+  # Tool-calling approach (26% improvement, 2025 research)
+  extraction_method: "tool-calling"
+  implementation: "langchain"
+
+  format:
+    style: "apa"  # [Author, Year] format
+    example: "[Gericke & Viljoen, 2008]"
+
+  validation:
+    cross_reference_zotero: true
+    bibliography_path: "literature/zotero-export/kanna.bib"
+    flag_unsupported: true  # Warn if LLM cites non-existent papers
+
+  tracking:
+    store_chunk_ids: true  # Link citations to specific chunks
+    store_paper_doi: true   # For easy lookup
+    store_page_numbers: false  # Not extracted yet (Phase 2)
+
+  quality_target:
+    attribution_accuracy: ">90%"  # Correct paper attribution
+    unsupported_statements: "<10%"  # Baseline GPT-4: 30% unsupported
+
+# ═══════════════════════════════════════════════════════════════
+# METADATA SCHEMA
+# ═══════════════════════════════════════════════════════════════
+
+metadata_schema:
+  # Core bibliographic metadata
+  core:
+    - name: "paper_id"
+      type: "string"
+      description: "Unique identifier (DOI or filename)"
+      required: true
+
+    - name: "title"
+      type: "string"
+      description: "Paper title"
+      required: true
+
+    - name: "authors"
+      type: "list[string]"
+      description: "Author names"
+      required: true
+
+    - name: "year"
+      type: "int"
+      description: "Publication year"
+      required: true
+      filterable: true
+
+    - name: "doi"
+      type: "string"
+      description: "Digital Object Identifier"
+      required: false
+
+    - name: "journal"
+      type: "string"
+      description: "Journal name"
+      required: false
+
+  # Thesis-specific metadata
+  thesis:
+    - name: "chapter"
+      type: "int"
+      description: "Relevant thesis chapter (1-8)"
+      required: true
+      filterable: true
+      values: [1, 2, 3, 4, 5, 6, 7, 8]
+
+    - name: "paper_type"
+      type: "string"
+      description: "Study type"
+      required: true
+      filterable: true
+      values: ["review", "empirical", "clinical", "case_study", "meta-analysis"]
+
+    - name: "primary_topic"
+      type: "string"
+      description: "Primary research area"
+      required: true
+      values: ["botany", "ethnobotany", "phytochemistry", "pharmacology", "clinical", "legal", "conservation"]
+
+  # Chemistry-specific metadata (Chapter 4)
+  chemistry:
+    - name: "has_smiles"
+      type: "bool"
+      description: "Contains chemical structures (SMILES)"
+      required: true
+      filterable: true
+
+    - name: "chemical_compounds"
+      type: "list[string]"
+      description: "Named compounds (e.g., mesembrine, tortuosamine)"
+      required: false
+      filterable: true
+
+    - name: "smiles_strings"
+      type: "list[string]"
+      description: "SMILES representations of compounds"
+      required: false
+      notes: "Extracted via RDKit from formulas"
+
+    - name: "compound_classes"
+      type: "list[string]"
+      description: "Chemical classes (e.g., alkaloid, terpenoid)"
+      required: false
+      values: ["alkaloid", "terpenoid", "flavonoid", "glycoside", "phenol"]
+
+  # Pharmacology-specific metadata (Chapter 4)
+  pharmacology:
+    - name: "receptor_targets"
+      type: "list[string]"
+      description: "Mentioned receptors"
+      required: false
+      filterable: true
+      values: [
+        "5-HT1A", "5-HT1B", "5-HT1D", "5-HT1E", "5-HT1F",
+        "5-HT2A", "5-HT2B", "5-HT2C",
+        "5-HT3", "5-HT4", "5-HT5A", "5-HT5B", "5-HT6", "5-HT7",
+        "CB1", "CB2", "PDE4", "MAO-A", "MAO-B"
+      ]
+
+    - name: "pharmacological_effects"
+      type: "list[string]"
+      description: "Reported effects"
+      required: false
+      values: ["anxiolytic", "antidepressant", "neuroprotective", "cognitive_enhancement", "sedative"]
+
+    - name: "has_ic50_data"
+      type: "bool"
+      description: "Contains IC50/Ki values"
+      required: false
+      filterable: true
+
+  # Botanical metadata (Chapter 2)
+  botany:
+    - name: "botanical_taxonomy"
+      type: "string"
+      description: "Taxonomic classification"
+      required: false
+      example: "Sceletium tortuosum (L.) N.E.Br."
+
+    - name: "morphological_traits"
+      type: "list[string]"
+      description: "Described plant traits"
+      required: false
+      values: ["leaf_morphology", "flower_structure", "growth_form", "root_system"]
+
+    - name: "geographic_location"
+      type: "string"
+      description: "Collection/study location"
+      required: false
+      example: "Namaqualand, South Africa"
+
+  # Ethnobotanical metadata (Chapter 3)
+  ethnobotany:
+    - name: "traditional_use"
+      type: "string"
+      description: "Documented traditional use"
+      required: false
+      example: "Anxiety, stress, appetite suppressant"
+
+    - name: "indigenous_community"
+      type: "string"
+      description: "Community knowledge source"
+      required: false
+      notes: "Anonymized per FPIC protocol"
+
+    - name: "preparation_method"
+      type: "string"
+      description: "Traditional preparation"
+      required: false
+      example: "Chewed, fermented, infusion"
+
+# ═══════════════════════════════════════════════════════════════
+# CHEMISTRY INTEGRATION
+# ═══════════════════════════════════════════════════════════════
+
+chemistry_integration:
+  # SMILES extraction from chemical formulas
+  smiles_extraction:
+    enabled: true
+    method: "rdkit"  # RDKit Chem.MolFromSmiles validation
+
+    sources:
+      - "chemical_formulas"  # From PDF extraction
+      - "iupac_names"  # IUPAC → SMILES conversion
+      - "pubchem_lookup"  # Fallback to PubChem API
+
+    validation:
+      sanitize_mol: true  # RDKit sanitization
+      remove_invalid: true  # Drop malformed SMILES
+
+    storage:
+      embed_in_metadata: true
+      separate_collection: false  # Store in main collection
+
+  # Molecular fingerprints for similarity search
+  molecular_fingerprints:
+    enabled: true
+    fingerprint_type: "morgan"  # Morgan (circular) fingerprints
+
+    parameters:
+      radius: 2  # Standard for drug-like molecules
+      n_bits: 2048  # Bit vector size
+      use_features: false  # Atom identity (not pharmacophore)
+
+    similarity_metric: "tanimoto"  # Tanimoto coefficient
+    threshold: 0.7  # For "similar compound" queries
+
+    use_cases:
+      - "Find papers discussing compounds similar to mesembrine"
+      - "Retrieve literature on alkaloids with shared scaffold"
+      - "Chemistry-aware RAG: Structure + text co-search"
+
+  # External database integration
+  external_databases:
+    coconut:
+      enabled: true
+      url: "https://coconut.naturalproducts.net/api"
+      use_case: "Query similar natural products"
+      rate_limit: "No limit (open API)"
+
+    pubchem:
+      enabled: true
+      wrapper: "pubchempy"
+      use_case: "CID lookup, property retrieval"
+      rate_limit: "5 requests/second"
+
+    chembl:
+      enabled: true
+      wrapper: "chembl_webresource_client"
+      use_case: "Target activity, ADMET data"
+      rate_limit: "No limit (open API)"
+
+# ═══════════════════════════════════════════════════════════════
+# LLM GENERATION
+# ═══════════════════════════════════════════════════════════════
+
+generation:
+  # Primary LLM: Qwen2.5-Coder-7B via vLLM
+  llm:
+    model: "Qwen/Qwen2.5-Coder-7B-Instruct"
+    server_url: "http://127.0.0.1:8000/v1"
+    api_type: "openai"  # OpenAI-compatible API
+
+  parameters:
+    temperature: 0.7  # Balance creativity and accuracy
+    max_tokens: 4096  # Long-form responses
+    top_p: 0.95
+    frequency_penalty: 0.0
+    presence_penalty: 0.0
+
+  # System prompts (thesis-specific)
+  system_prompts:
+    general: |
+      You are an AI assistant specialized in scientific literature analysis for a PhD thesis on Sceletium tortuosum (Kanna).
+      Your role is to synthesize information from academic papers, provide accurate citations, and help with analysis.
+
+      Key principles:
+      - Always cite sources using [Author, Year] format
+      - Distinguish between established facts and hypotheses
+      - Acknowledge uncertainty when evidence is limited
+      - Prioritize peer-reviewed sources over grey literature
+      - Flag potential conflicts of interest in studies
+
+    chemistry: |
+      You have expertise in phytochemistry and pharmacology.
+      When discussing chemical compounds:
+      - Use IUPAC nomenclature correctly
+      - Reference chemical structures (SMILES) when available
+      - Distinguish between in vitro, in vivo, and clinical data
+      - Note receptor binding affinities (IC50, Ki, EC50)
+      - Consider ADMET properties for drug-likeness
+
+    ethnobotany: |
+      You respect indigenous knowledge systems and FPIC (Free, Prior, Informed Consent) protocols.
+      When discussing traditional uses:
+      - Acknowledge community knowledge sovereignty
+      - Avoid extractive language
+      - Note cultural context and preparation methods
+      - Distinguish between documented and anecdotal evidence
+      - Never share identifiable information about communities
+
+# ═══════════════════════════════════════════════════════════════
+# EVALUATION METRICS (RAGAS)
+# ═══════════════════════════════════════════════════════════════
+
+evaluation:
+  framework: "ragas"  # RAG Assessment (RAGAS)
+  version: "0.5.0"
+
+  metrics:
+    - name: "context_precision"
+      description: "Relevance of retrieved chunks"
+      target: ">0.8"
+      formula: "Relevant chunks / Total retrieved chunks"
+
+    - name: "context_recall"
+      description: "Coverage of ground truth in context"
+      target: ">0.8"
+      formula: "Retrieved relevant info / Total relevant info"
+
+    - name: "faithfulness"
+      description: "LLM claims supported by context"
+      target: ">0.8"
+      formula: "Supported claims / Total claims"
+
+    - name: "answer_relevance"
+      description: "Response alignment with query"
+      target: ">0.8"
+      formula: "Query-answer semantic similarity"
+
+  test_set:
+    size: 50  # Manually curated query-answer pairs
+    distribution:
+      chapter_2_botany: 10
+      chapter_3_ethnobotany: 10
+      chapter_4_pharmacology: 15
+      chapter_5_clinical: 10
+      cross_chapter: 5
+
+  validation_frequency: "weekly"  # During active development
+
+# ═══════════════════════════════════════════════════════════════
+# PERFORMANCE OPTIMIZATION
+# ═══════════════════════════════════════════════════════════════
+
+performance:
+  # Caching for repeated queries
+  caching:
+    enabled: true
+    cache_embeddings: true  # Cache BGE-M3 embeddings
+    cache_retrieval: true   # Cache search results (5 min TTL)
+    cache_llm: false        # Don't cache LLM responses (novelty important)
+
+  # Batching for ingestion
+  batching:
+    enabled: true
+    batch_size: 10  # Papers per batch
+    parallel_workers: 4  # CPU cores for embedding
+
+  # Expected performance
+  targets:
+    ingestion_time: "30 min"  # For 142 papers
+    query_latency: "<2 sec"   # End-to-end (retrieval + generation)
+    throughput: ">10 queries/min"
+
+# ═══════════════════════════════════════════════════════════════
+# LOGGING & MONITORING
+# ═══════════════════════════════════════════════════════════════
+
+logging:
+  level: "INFO"
+  log_file: "/home/miko/LAB/logs/rag-pipeline.log"
+
+  log_components:
+    - "chunking_stats"  # Chunk count, avg size
+    - "embedding_time"  # Time per document
+    - "retrieval_time"  # Query latency
+    - "generation_time"  # LLM response time
+    - "citation_accuracy"  # Correct attributions
+
+  monitoring:
+    enable_prometheus: true
+    metrics_port: 8002
+    dashboard: "grafana"  # Optional
+
+# ═══════════════════════════════════════════════════════════════
+# NOTES & REFERENCES
+# ═══════════════════════════════════════════════════════════════
+
+notes:
+  design_philosophy: |
+    This RAG pipeline is optimized for PhD thesis research in interdisciplinary science:
+    - Semantic chunking respects academic paper structure
+    - BGE-M3 embeddings trained on scientific literature
+    - Hybrid search balances semantic and lexical matching
+    - Chemistry integration enables structure-aware queries
+    - FPIC compliance for ethnobotanical knowledge
+    - RAGAS evaluation ensures quality throughout development
+
+  key_research_sources:
+    - "RAG chunking strategies: LlamaIndex blog (2024)"
+    - "BGE-M3 paper: arxiv.org/abs/2402.03216"
+    - "RAGAS framework: arxiv.org/abs/2309.15217"
+    - "Citation accuracy in RAG: 26% improvement (2025 paper)"
+    - "Chemistry multi-modal: MoleculeSTM, MV-Mol (2024-2025)"
+
+  future_enhancements:
+    - "Phase 2: Re-ranking with bge-reranker-v2-m3"
+    - "Phase 2: Page number extraction for citations"
+    - "Phase 2: Multi-modal (images + text) for botanical figures"
+    - "Phase 3: GraphRAG for ethnobotanical knowledge graph"
+    - "Phase 3: Migration to Qdrant if ChromaDB insufficient"
+
+references:
+  - "LangChain RAG Documentation: https://python.langchain.com/docs/use_cases/rag"
+  - "ChromaDB Documentation: https://docs.trychroma.com/"
+  - "BGE-M3 HuggingFace: https://huggingface.co/BAAI/bge-m3"
+  - "RAGAS GitHub: https://github.com/explodinggradients/ragas"
+  - "RDKit Documentation: https://www.rdkit.org/docs/"

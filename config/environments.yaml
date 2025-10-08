@@ -1,0 +1,743 @@
+# Conda Environment Specifications for KANNA Thesis Project
+# Two-environment strategy: vllm (transformers ≥4.57) vs kanna (transformers ≤4.49)
+# Last updated: 2025-10-08
+# Critical: Separate environments required for transformers version conflicts
+
+project:
+  name: "KANNA PhD Thesis - Sceletium tortuosum"
+  python_version: "3.10"
+  strategy: "Two isolated conda environments for conflicting dependencies"
+
+# ═══════════════════════════════════════════════════════════════
+# ENVIRONMENT: vllm (Production RAG + LLM Serving)
+# ═══════════════════════════════════════════════════════════════
+
+environments:
+  vllm:
+    name: "vllm"
+    description: "Production vLLM server, RAG pipeline, general inference"
+    python: "3.10"
+
+    # Critical constraint: transformers ≥4.57.0 required by vLLM 0.11.0
+    transformers_version: ">=4.57.0"
+
+    purpose:
+      - "vLLM server for Qwen2.5-Coder-7B"
+      - "RAG pipeline (LangChain + ChromaDB)"
+      - "BGE-M3 embeddings"
+      - "Chemistry tools (RDKit, PubChemPy, ChEMBL)"
+      - "Phylogenetics (BioPython, IQ-TREE)"
+
+    # ─────────────────────────────────────────────────────────
+    # Core AI/ML Stack
+    # ─────────────────────────────────────────────────────────
+
+    core_ml:
+      # LLM Serving
+      - name: "vllm"
+        version: "==0.11.0"
+        channel: "pip"
+        notes: "High-throughput LLM inference, PagedAttention"
+
+      - name: "torch"
+        version: ">=2.1.0"
+        channel: "conda-forge"
+        notes: "PyTorch for vLLM, CUDA 12.x support"
+
+      - name: "transformers"
+        version: ">=4.57.0"
+        channel: "pip"
+        notes: "CRITICAL: vLLM dependency, incompatible with MinerU"
+
+      # RAG Stack
+      - name: "langchain"
+        version: ">=0.1.0"
+        channel: "pip"
+        notes: "RAG orchestration, document loaders, text splitters"
+
+      - name: "langchain-community"
+        version: "latest"
+        channel: "pip"
+        notes: "Community integrations (ChromaDB, vLLM)"
+
+      - name: "langchain-openai"
+        version: "latest"
+        channel: "pip"
+        notes: "OpenAI-compatible API support for vLLM"
+
+      - name: "llama-index"
+        version: ">=0.9.0"
+        channel: "pip"
+        notes: "Semantic chunking (SemanticSplitter)"
+
+      # Vector Database
+      - name: "chromadb"
+        version: ">=0.6.0"
+        channel: "pip"
+        notes: "Vector database (2025 Rust rewrite, 4× speedup)"
+
+      # Embeddings
+      - name: "sentence-transformers"
+        version: ">=2.2.0"
+        channel: "pip"
+        notes: "BGE-M3 embeddings support"
+
+    # ─────────────────────────────────────────────────────────
+    # Cheminformatics & Natural Products
+    # ─────────────────────────────────────────────────────────
+
+    chemistry:
+      - name: "rdkit"
+        version: ">=2023.09.1"
+        channel: "conda-forge"
+        notes: "MUST install via conda (not pip), SMILES, fingerprints"
+
+      - name: "pubchempy"
+        version: ">=1.0.5"
+        channel: "pip"
+        notes: "PubChem PUG REST API wrapper"
+
+      - name: "chembl_webresource_client"
+        version: ">=0.10.0"
+        channel: "pip"
+        notes: "ChEMBL database Python client"
+
+      - name: "openbabel"
+        version: ">=3.1.0"
+        channel: "conda-forge"
+        notes: "Chemical format conversions (optional)"
+
+    # ─────────────────────────────────────────────────────────
+    # Bioinformatics & Phylogenetics
+    # ─────────────────────────────────────────────────────────
+
+    bioinformatics:
+      - name: "biopython"
+        version: ">=1.81"
+        channel: "conda-forge"
+        notes: "Phylogenetic tree construction, sequence alignment"
+
+      - name: "iqtree"
+        version: ">=2.3.0"
+        channel: "bioconda"
+        notes: "Maximum-likelihood phylogenetic inference (optional CLI)"
+
+    # ─────────────────────────────────────────────────────────
+    # Scientific Computing & ML
+    # ─────────────────────────────────────────────────────────
+
+    scientific:
+      - name: "numpy"
+        version: ">=1.24.0"
+        channel: "conda-forge"
+
+      - name: "pandas"
+        version: ">=2.0.0"
+        channel: "conda-forge"
+
+      - name: "scikit-learn"
+        version: ">=1.3.0"
+        channel: "conda-forge"
+        notes: "QSAR modeling, ML pipelines"
+
+      - name: "scipy"
+        version: ">=1.11.0"
+        channel: "conda-forge"
+
+      - name: "matplotlib"
+        version: ">=3.7.0"
+        channel: "conda-forge"
+
+      - name: "seaborn"
+        version: ">=0.12.0"
+        channel: "conda-forge"
+
+      # Deep Learning (optional, for future extensions)
+      - name: "xgboost"
+        version: ">=2.0.0"
+        channel: "conda-forge"
+        notes: "Gradient boosting for QSAR models"
+
+      - name: "shap"
+        version: ">=0.42.0"
+        channel: "pip"
+        notes: "Model interpretation (SHAP values)"
+
+    # ─────────────────────────────────────────────────────────
+    # NLP & Text Processing
+    # ─────────────────────────────────────────────────────────
+
+    nlp:
+      - name: "spacy"
+        version: ">=3.6.0"
+        channel: "conda-forge"
+        notes: "Botanical trait extraction, NER"
+
+      - name: "nltk"
+        version: ">=3.8.0"
+        channel: "conda-forge"
+
+      - name: "beautifulsoup4"
+        version: ">=4.12.0"
+        channel: "conda-forge"
+        notes: "HTML parsing for web scraping"
+
+      - name: "lxml"
+        version: ">=4.9.0"
+        channel: "conda-forge"
+
+    # ─────────────────────────────────────────────────────────
+    # Utilities & Infrastructure
+    # ─────────────────────────────────────────────────────────
+
+    utilities:
+      - name: "jupyter"
+        version: ">=1.0.0"
+        channel: "conda-forge"
+
+      - name: "jupyterlab"
+        version: ">=4.0.0"
+        channel: "conda-forge"
+
+      - name: "ipywidgets"
+        version: ">=8.0.0"
+        channel: "conda-forge"
+
+      - name: "requests"
+        version: ">=2.31.0"
+        channel: "conda-forge"
+
+      - name: "pyyaml"
+        version: ">=6.0.0"
+        channel: "conda-forge"
+
+      - name: "python-dotenv"
+        version: ">=1.0.0"
+        channel: "pip"
+
+      - name: "tqdm"
+        version: ">=4.66.0"
+        channel: "conda-forge"
+
+      - name: "pydantic"
+        version: ">=2.0.0"
+        channel: "pip"
+
+      - name: "fastapi"
+        version: ">=0.104.0"
+        channel: "pip"
+        notes: "Optional: API endpoints for RAG queries"
+
+      - name: "uvicorn"
+        version: ">=0.24.0"
+        channel: "pip"
+
+    # ─────────────────────────────────────────────────────────
+    # Monitoring & Logging
+    # ─────────────────────────────────────────────────────────
+
+    monitoring:
+      - name: "prometheus-client"
+        version: ">=0.18.0"
+        channel: "pip"
+        notes: "Metrics collection for vLLM server"
+
+      - name: "loguru"
+        version: ">=0.7.0"
+        channel: "pip"
+        notes: "Better logging (optional)"
+
+    # ─────────────────────────────────────────────────────────
+    # RAG Evaluation
+    # ─────────────────────────────────────────────────────────
+
+    evaluation:
+      - name: "ragas"
+        version: ">=0.5.0"
+        channel: "pip"
+        notes: "RAG evaluation framework"
+
+    # ─────────────────────────────────────────────────────────
+    # Models to Serve
+    # ─────────────────────────────────────────────────────────
+
+    models:
+      - "Qwen/Qwen2.5-Coder-7B-Instruct"
+      - "Qwen/Qwen2.5-Coder-3B-Instruct"
+      - "BAAI/bge-m3"
+
+    # ─────────────────────────────────────────────────────────
+    # Setup Commands
+    # ─────────────────────────────────────────────────────────
+
+    setup:
+      create: |
+        conda create -n vllm python=3.10 -y
+        conda activate vllm
+
+      install_conda: |
+        # Core dependencies via conda (crucial for compatibility)
+        conda install -c conda-forge \
+          rdkit \
+          biopython \
+          numpy \
+          pandas \
+          scikit-learn \
+          scipy \
+          matplotlib \
+          seaborn \
+          jupyter \
+          jupyterlab \
+          spacy \
+          nltk \
+          beautifulsoup4 \
+          lxml \
+          requests \
+          pyyaml \
+          tqdm \
+          xgboost \
+          -y
+
+        # Bioconda (optional)
+        conda install -c bioconda iqtree -y
+
+      install_pip: |
+        # vLLM + transformers
+        pip install vllm==0.11.0
+        pip install "transformers>=4.57.0"
+
+        # RAG stack
+        pip install langchain langchain-community langchain-openai
+        pip install "llama-index>=0.9.0"
+        pip install "chromadb>=0.6.0"
+        pip install "sentence-transformers>=2.2.0"
+
+        # Chemistry
+        pip install "pubchempy>=1.0.5"
+        pip install "chembl_webresource_client>=0.10.0"
+
+        # ML & Evaluation
+        pip install "shap>=0.42.0"
+        pip install "ragas>=0.5.0"
+
+        # Utilities
+        pip install python-dotenv pydantic "fastapi>=0.104.0" "uvicorn>=0.24.0"
+        pip install prometheus-client loguru
+
+      download_models: |
+        # Download BGE-M3 embeddings
+        huggingface-cli download BAAI/bge-m3 --local-dir /run/media/miko/AYA/crush-models/hf-home/models--BAAI--bge-m3
+
+        # Download spaCy model
+        python -m spacy download en_core_web_sm
+
+      verify: |
+        # Verify critical packages
+        python -c "from rdkit import Chem; print('✓ RDKit OK')"
+        python -c "import vllm; print(f'✓ vLLM {vllm.__version__}')"
+        python -c "import transformers; print(f'✓ Transformers {transformers.__version__}')"
+        python -c "import langchain; print('✓ LangChain OK')"
+        python -c "import chromadb; print('✓ ChromaDB OK')"
+        python -c "from Bio import Phylo; print('✓ BioPython OK')"
+
+# ═══════════════════════════════════════════════════════════════
+# ENVIRONMENT: kanna (PDF Extraction + Specialized Models)
+# ═══════════════════════════════════════════════════════════════
+
+  kanna:
+    name: "kanna"
+    description: "MinerU PDF extraction, formula recognition, specialized VLMs"
+    python: "3.10"
+
+    # Critical constraint: transformers ≤4.49.0 required by Unimernet/MinerU
+    transformers_version: "<=4.49.0"
+
+    purpose:
+      - "MinerU PDF extraction with VLM models"
+      - "Formula recognition (Unimernet)"
+      - "pdfplumber fallback extraction"
+      - "Isolated from vLLM to avoid conflicts"
+
+    # ─────────────────────────────────────────────────────────
+    # PDF Extraction Stack
+    # ─────────────────────────────────────────────────────────
+
+    pdf_extraction:
+      - name: "mineru"
+        version: "latest"
+        channel: "pip"
+        install: "pip install uv && uv pip install -U 'mineru[core]'"
+        notes: "MinerU 2.5, requires transformers ≤4.49.0"
+
+      - name: "magic-pdf"
+        version: "latest"
+        channel: "pip"
+        notes: "Alternative CLI for MinerU"
+
+      - name: "transformers"
+        version: "==4.49.0"
+        channel: "pip"
+        notes: "CRITICAL: Pinned for Unimernet compatibility"
+
+      - name: "pdfplumber"
+        version: ">=0.10.0"
+        channel: "pip"
+        notes: "Fallback for simple PDFs, 100% success rate"
+
+      - name: "pymupdf"
+        version: ">=1.23.0"
+        channel: "pip"
+        notes: "PDF parsing library"
+
+      - name: "pypdf"
+        version: ">=3.17.0"
+        channel: "pip"
+        notes: "Alternative PDF library"
+
+    # ─────────────────────────────────────────────────────────
+    # Specialized VLM Models
+    # ─────────────────────────────────────────────────────────
+
+    models_specialized:
+      - name: "MinerU VLM 1.2B"
+        hf_id: "opendatalab/MinerU2.5-2509-1.2B"
+        purpose: "PDF document understanding, layout analysis"
+        vram: "~2.5 GB"
+
+      - name: "PDF-Extract-Kit 1.0"
+        hf_id: "opendatalab/PDF-Extract-Kit-1.0"
+        purpose: "PDF extraction, document parsing"
+
+      - name: "LayoutReader"
+        hf_id: "hantian/layoutreader"
+        purpose: "Layout analysis, reading order detection"
+
+      - name: "Unimernet (formula recognition)"
+        notes: "Integrated in MinerU, requires transformers 4.49"
+
+    # ─────────────────────────────────────────────────────────
+    # Shared Chemistry Tools (RDKit)
+    # ─────────────────────────────────────────────────────────
+
+    chemistry_shared:
+      - name: "rdkit"
+        version: ">=2023.09.1"
+        channel: "conda-forge"
+        notes: "SMILES validation post-extraction"
+
+      - name: "biopython"
+        version: ">=1.81"
+        channel: "conda-forge"
+        notes: "Sequence analysis for extracted data"
+
+    # ─────────────────────────────────────────────────────────
+    # Scientific Computing (minimal)
+    # ─────────────────────────────────────────────────────────
+
+    scientific_minimal:
+      - name: "numpy"
+        version: ">=1.24.0"
+        channel: "conda-forge"
+
+      - name: "pandas"
+        version: ">=2.0.0"
+        channel: "conda-forge"
+
+      - name: "pillow"
+        version: ">=10.0.0"
+        channel: "conda-forge"
+        notes: "Image processing for PDF figures"
+
+    # ─────────────────────────────────────────────────────────
+    # Utilities
+    # ─────────────────────────────────────────────────────────
+
+    utilities_minimal:
+      - name: "jupyter"
+        version: ">=1.0.0"
+        channel: "conda-forge"
+
+      - name: "requests"
+        version: ">=2.31.0"
+        channel: "conda-forge"
+
+      - name: "pyyaml"
+        version: ">=6.0.0"
+        channel: "conda-forge"
+
+      - name: "tqdm"
+        version: ">=4.66.0"
+        channel: "conda-forge"
+
+    # ─────────────────────────────────────────────────────────
+    # Setup Commands
+    # ─────────────────────────────────────────────────────────
+
+    setup:
+      create: |
+        conda create -n kanna python=3.10 -y
+        conda activate kanna
+
+      install_conda: |
+        # Minimal conda dependencies
+        conda install -c conda-forge \
+          rdkit \
+          biopython \
+          numpy \
+          pandas \
+          pillow \
+          jupyter \
+          requests \
+          pyyaml \
+          tqdm \
+          -y
+
+      install_pip: |
+        # CRITICAL: Install transformers 4.49 FIRST
+        pip install "transformers==4.49.0"
+
+        # Install MinerU (will respect transformers constraint)
+        pip install uv
+        uv pip install -U "mineru[core]"
+
+        # Fallback PDF tools
+        pip install "pdfplumber>=0.10.0"
+        pip install "pymupdf>=1.23.0"
+        pip install "pypdf>=3.17.0"
+
+      configure_mineru: |
+        # Create MinerU config directory
+        mkdir -p ~/.config/mineru
+
+        # Copy config template
+        cp ~/LAB/projects/KANNA/tools/templates/mineru.json ~/.config/mineru/mineru.json
+
+        # Create symlink for legacy location
+        ln -sf ~/.config/mineru/mineru.json ~/magic-pdf.json
+
+      verify: |
+        # Verify transformers version (CRITICAL)
+        python -c "import transformers; v=transformers.__version__; assert v.startswith('4.49'), f'Wrong version: {v}'; print(f'✓ Transformers {v}')"
+
+        # Verify MinerU
+        which mineru || which magic-pdf
+
+        # Verify chemistry tools
+        python -c "from rdkit import Chem; print('✓ RDKit OK')"
+        python -c "from Bio import SeqIO; print('✓ BioPython OK')"
+
+        # Test pdfplumber
+        python -c "import pdfplumber; print('✓ pdfplumber OK')"
+
+# ═══════════════════════════════════════════════════════════════
+# CONFLICT RESOLUTION
+# ═══════════════════════════════════════════════════════════════
+
+conflict_resolution:
+  transformers_version:
+    issue: "vLLM requires transformers ≥4.57.0, MinerU requires ≤4.49.0"
+
+    affected_packages:
+      vllm_requires:
+        - "vllm==0.11.0 → transformers>=4.57.0"
+        - "Qwen2.5-Coder-7B → latest transformers"
+        - "BGE-M3 → sentence-transformers (compatible)"
+
+      mineru_requires:
+        - "mineru → transformers<=4.49.0"
+        - "Unimernet (formula OCR) → transformers 4.49"
+        - "MinerU VLM 1.2B → transformers 4.49"
+
+    solution:
+      strategy: "Separate conda environments (only viable solution)"
+
+      workflow: |
+        # Scenario 1: RAG query (use vllm env)
+        conda activate vllm
+        python tools/scripts/rag-query.py "mesembrine 5-HT2A binding"
+
+        # Scenario 2: PDF extraction (use kanna env)
+        conda activate kanna
+        python tools/scripts/extract-pdfs-mineru-batch-simple.sh
+
+        # Scenario 3: GPU workload manager (automatic switching)
+        bash tools/scripts/gpu-workload-manager.sh --task rag  # Activates vllm
+        bash tools/scripts/gpu-workload-manager.sh --task pdf  # Activates kanna
+
+    gpu_coordination:
+      constraint: "Only one environment can use GPU at a time"
+      procedure:
+        - "Stop vLLM server before MinerU extraction"
+        - "Use gpu-workload-manager.sh for automatic switching"
+        - "Monitor GPU: nvidia-smi dmon -i 0 -s mu"
+
+  no_shared_vllm:
+    issue: "Cannot use vLLM in kanna environment"
+    reason: "transformers 4.49 is too old for vLLM 0.11.0"
+    workaround: "Use direct transformers inference for MinerU VLM backend (but causes OOM)"
+
+  oom_risk:
+    issue: "MinerU VLM backend tries to allocate 114 GB on 16 GB GPU"
+    mitigation: "Use pipeline backend (non-VLM) for MinerU in production"
+
+# ═══════════════════════════════════════════════════════════════
+# USAGE PATTERNS
+# ═══════════════════════════════════════════════════════════════
+
+usage_patterns:
+  daily_workflow:
+    morning: |
+      # Start vLLM server for RAG queries
+      conda activate vllm
+      bash tools/scripts/vllm-server-start.sh
+
+    writing_session: |
+      # Query RAG while writing thesis
+      conda activate vllm
+      python tools/scripts/rag-query.py "traditional uses Khoisan"
+
+    pdf_processing: |
+      # Stop vLLM, switch to kanna for extraction
+      bash tools/scripts/vllm-server-stop.sh
+      conda activate kanna
+      bash tools/scripts/extract-pdfs-mineru-production.sh
+
+    evening: |
+      # Restart vLLM for overnight RAG ingestion
+      conda activate vllm
+      bash tools/scripts/vllm-server-start.sh
+
+  environment_selection:
+    use_vllm_when:
+      - "Running vLLM server"
+      - "RAG queries (LangChain + ChromaDB)"
+      - "Embedding generation (BGE-M3)"
+      - "QSAR modeling (RDKit + scikit-learn)"
+      - "Phylogenetic analysis (BioPython)"
+      - "Any task requiring transformers ≥4.57"
+
+    use_kanna_when:
+      - "PDF extraction with MinerU"
+      - "Formula recognition (Unimernet)"
+      - "Layout analysis (LayoutReader)"
+      - "Any task requiring transformers ≤4.49"
+
+# ═══════════════════════════════════════════════════════════════
+# TESTING & VALIDATION
+# ═══════════════════════════════════════════════════════════════
+
+testing:
+  vllm_env_test:
+    commands: |
+      conda activate vllm
+
+      # Test vLLM
+      python -c "import vllm; print(f'vLLM {vllm.__version__}')"
+
+      # Test transformers version
+      python -c "import transformers; assert transformers.__version__ >= '4.57.0'"
+
+      # Test RAG stack
+      python -c "import langchain, chromadb, sentence_transformers; print('RAG OK')"
+
+      # Test chemistry
+      python -c "from rdkit import Chem; mol=Chem.MolFromSmiles('CCO'); print('RDKit OK')"
+
+      # Test server
+      curl http://127.0.0.1:8000/health
+
+  kanna_env_test:
+    commands: |
+      conda activate kanna
+
+      # Test transformers version (CRITICAL)
+      python -c "import transformers; v=transformers.__version__; assert v.startswith('4.49'), f'Wrong: {v}'"
+
+      # Test MinerU
+      mineru --version || magic-pdf --version
+
+      # Test chemistry
+      python -c "from rdkit import Chem; print('RDKit OK')"
+
+      # Test PDF tools
+      python -c "import pdfplumber; print('pdfplumber OK')"
+
+# ═══════════════════════════════════════════════════════════════
+# TROUBLESHOOTING
+# ═══════════════════════════════════════════════════════════════
+
+troubleshooting:
+  wrong_transformers_version:
+    symptom: "ImportError: cannot import name 'AutoVideoProcessor'"
+    diagnosis: "Wrong transformers version for environment"
+    fix: |
+      # Verify current version
+      python -c "import transformers; print(transformers.__version__)"
+
+      # If wrong, reinstall correct version
+      pip uninstall transformers -y
+
+      # For vllm env:
+      pip install "transformers>=4.57.0"
+
+      # For kanna env:
+      pip install "transformers==4.49.0"
+
+  conda_env_not_found:
+    symptom: "CondaEnvironmentNotFoundError"
+    fix: |
+      # List environments
+      conda env list
+
+      # Create if missing
+      bash tools/scripts/setup-vllm-env.sh
+
+  gpu_oom:
+    symptom: "CUDA out of memory"
+    diagnosis: "Multiple models loaded simultaneously"
+    fix: |
+      # Check GPU usage
+      nvidia-smi
+
+      # Stop vLLM server
+      bash tools/scripts/vllm-server-stop.sh
+
+      # Use gpu-workload-manager.sh
+      bash tools/scripts/gpu-workload-manager.sh --task pdf
+
+  rdkit_import_error:
+    symptom: "ModuleNotFoundError: No module named 'rdkit'"
+    diagnosis: "RDKit not installed via conda"
+    fix: |
+      # MUST use conda, not pip
+      conda activate vllm  # or kanna
+      conda install -c conda-forge rdkit -y
+
+# ═══════════════════════════════════════════════════════════════
+# NOTES & REFERENCES
+# ═══════════════════════════════════════════════════════════════
+
+notes:
+  design_rationale: |
+    Two-environment strategy is the ONLY viable solution for this project:
+    - vLLM 0.11.0 absolutely requires transformers ≥4.57.0
+    - MinerU/Unimernet absolutely requires transformers ≤4.49.0
+    - No compromise solution exists
+    - Separate environments ensure no conflicts
+    - GPU coordination via workload manager
+
+  environment_size:
+    vllm: "~8 GB (all dependencies)"
+    kanna: "~4 GB (minimal dependencies)"
+    models: "Stored separately on /run/media/miko/AYA/ (shared)"
+
+  future_considerations:
+    - "Phase 2: Consider Qdrant (separate Docker container)"
+    - "Phase 2: MinerU may update transformers compatibility"
+    - "Phase 3: Consolidate if transformers conflict resolved"
+
+references:
+  - "vLLM Documentation: https://docs.vllm.ai/"
+  - "MinerU GitHub: https://github.com/opendatalab/MinerU"
+  - "RDKit Installation: https://www.rdkit.org/docs/Install.html"
+  - "Conda Environment Management: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html"
