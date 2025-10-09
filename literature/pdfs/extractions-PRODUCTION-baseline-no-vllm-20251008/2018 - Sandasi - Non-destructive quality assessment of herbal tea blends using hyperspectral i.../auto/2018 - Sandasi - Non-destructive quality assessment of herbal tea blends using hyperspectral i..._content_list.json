@@ -1,0 +1,346 @@
+[
+    {
+        "type": "text",
+        "text": "Non-destructive quality assessment of herbal tea blends using hyperspectral imaging ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maxleene Sandasia, Weiyang Chena, Ilze Vermaaka,b, Alvaro Viljoena,b,⁎ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Department of Pharmaceutical Sciences, Tshwane University of Technology, Private Bag X680, Pretoria 0001, South Africa b SAMRC Herbal Drugs Research Unit, Tshwane University of Technology, Private Bag X680, Pretoria 0001, South Africa ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A R T I C L E I N F O ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A B S T R A C T ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nCyclopia genistoides   \nSceletium tortuosum   \nHerbal tea   \nHyperspectral imaging   \nChemometrics   \nQuality control ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The consumption of herbal teas is increasing as consumers become more appreciative of the health benefits. Herbal tea blends comprise of two or more plant species blended to improve taste and multiply the health benefits. Quality control (QC) of herbal teas like other nutraceuticals, is important to ensure safety and efficacy. Current QC methods are chromatography-based and require destructive sample preparation using solvents. In this study, hyperspectral imaging is applied as a fast and non-destructive method for the quality control of herbal tea blends. The technique combines conventional spectroscopy and digital imaging to gather chemical information and visualise spatial distribution of chemical constituents within a matrix. Certified raw materials (Sceletium tortuosum and Cyclopia genistoides) and herbal tea blends were acquired from Parceval Pty (Ltd). Hyperspectral images of the raw material and tea blends were captured on a SisuChema® SWIR (short wave infrared) hyperspectral pushbroom imaging system using ChemaDAQ® software. The images were analysed using Evince® multivariate analysis software 2.4.0. Principal component analysis (PCA) revealed $5 4 . 2 \\%$ chemical variation between S. tortuosum and C. genistoides raw materials. A partial least squares-discriminant analysis (PLS-DA) model with predictive ability of $9 5 . 8 \\%$ was developed. Based on pixel classification, it was possible to visualise the tea blend constituents as S. tortuosum and C. genistoides and quantitatively predict C. genistoides as the major constituent $( > 9 7 \\% )$ while S. tortuosum was present in lower amounts $( < 3 \\% )$ . The predictions confirm that HSI is a potentially favourable visual tool for the quality assessment of herbal tea blends. However, due to low instrument sensitivity quantitative determinations showed some deviation from the company formulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 2,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Second only to water, tea is the most widely consumed beverage worldwide. It is a pleasant, popular, economical, socially acceptable beverage savoured by hundreds of millions of people across the globe and its consumption reflects local preferences and traditions (Tea USA, 2015; Trevisanato and Kim, 2000). In the USA on any given day, more than half of the American population drinks tea and it can be found in nearly $8 0 \\%$ of all US households. Black and green tea imports in the US totalled 28 million pounds with an estimated wholesale value of about $\\$ 12$ billion in 2016 (Tea USA, 2015). In Europe, tea consumption totals 229 thousand tonnes in 2015 with the United Kingdom as the main market with consumption amounting to 113 thousand tonnes. The four countries with the highest per capita tea consumption in Europe in 2015 included Ireland $( 2 . 2 \\mathrm { k g } )$ , the UK $( 1 . 9 \\mathrm { k g } )$ , Poland $( 1 \\mathrm { k g } )$ and The Netherlands $( 0 . 8 \\mathrm { k g } )$ (CBI, 2017). Tea is prepared exclusively from Camellia sinensis (L.) Kuntze (Theaceae) leaves by brewing in hot water and the processing of the leaves determine whether the teas are black, green or white (Trevisanato and Kim, 2000). Herbal teas should more accurately be referred to as tisanes/infusions as opposed to ‘teas’, as they are prepared from the leaves, bark, roots, berries, seeds and spices of various plant species (Sponagle, 2016). However, they are commonly known and referred to by consumers and researchers alike as herbal teas. The consumption of green, herbal and fruit teas increased in popularity in all European markets as a result of consumer awareness of the health benefits associated with these teas (CBI, 2017). Three herbal teas including rooibos, Yerba mate and honeybush, surged into popularity from obscurity to being on about every tea vendor’s product list partly due to the successful marketing and partly due to concerns about the caffeine content of true tea (JaseTea, 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Honeybush is used as a collective name to refer to several species of Cyclopia, endemic to the Western and Eastern Cape Provinces of South Africa. Cyclopia genistoides (L.) R.Br. (Fabaceae) was the first of the Cyclopia species to be used as a tea, it was used as a substitute for tea and it is the most common honeybush tea plant. Early reports documented its medicinal properties as a restorative and as an expectorant in chronic catarrh and pulmonary tuberculosis. Honeybush is caffeinefree with a low tannin content and it contains a wealth of polyphenolic compounds. Research has shown that C. genistoides is high in mangiferin, isomangiferin and hesperidin content (Fig. 1) and it has antioxidant, anti-mutagenic/anticancer, oestrogenic and hepatoprotective properties (Joubert et al., 2008a,b; Joubert et al., 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcab51ea68df37e7b3a46b3f7fd0ce590282732369c22e4f33ee6d185802d125.jpg",
+        "img_caption": [
+            "Fig. 1. Chemical structures of marker compounds present in S. tortuosum (mesembrine, mesembranol, mesembrenone and mesembrenol) and C. genistoides (mangiferin, isomangiferin and hesperidin). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d219ef57d35399d866b0e500c347a45d308e766d4e13dc7bc85c0259aa661c4.jpg",
+        "img_caption": [
+            "Fig. 2. a) Raw image of the two species prior to multivariate analysis, b) PCA score image (t1) demonstrating distinct colour amplitudes for the two species and c) the corresponding scatter plot (t1 vs t2) showing distinct pixel clusters for the two species. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Khoi of the Karoo referred to Sceletium tortuosum (L.) N.E. Br. (Mesembryanthemaceae) as “kougoed”, referring to their habit of chewing (Afrikaans $\\mathbf { \\tau } = \\mathbf { k o u } \\dot { \\mathbf { \\eta } }$ ) on this plant to become intoxicated while farmers used it is a sedative in the form of a decoction or tincture. Since then, significant advances have been made in terms of Sceletium research, commercialisation and marketing. Sceletium contains alkaloids such as mesembrine, mesembrenol, mesembranol and mesembrenone (Fig. 1) responsible for the psychoactive properties. In vitro studies have confirmed serotonin-uptake inhibitory properties and phosphodiesterase (PDE-4) inhibition while in vivo studies confirmed anti-anxiety and sedative effects (Gericke and Viljoen, 2008). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tea blends are produced to improve the taste and increase the health benefits, but this also increases the complexity of the sample and therefore the quality control measures applied. Consumers expect and demand food products of high quality and safety which emphasises the importance of implementing quality inspection systems to ensure the safe production of food and the correct labelling of products (Wu and Sun, 2013). Popular analytical methods used in quality control such as high performance liquid chromatography (HPLC) and mass spectrometry (MS) are highly selective, reproducible, accurate and have low detection limits (Breithaupt, 2004). However, they require sample preparation, and are time-consuming and destructive. Optical sensing technologies such as hyperspectral imaging (HSI) are potential tools for non-destructive analysis and can integrate spectroscopic and imaging techniques into a system which can acquire a spatial map of spectral variation. A hyperspectral image consists of two-dimensional spatial information $( \\mathbf { x } ,$ rows and y, columns) and spectral information (of wavelengths). The cube is made up of sub-images of the same object at different spectral wavelength bands and each sub-image provides the spatial distribution of the spectral intensity at a certain wavelength. Hyperspectral images consist of an enormous amount of data which necessitates the use of chemometric algorithms for data mining. Using these methods, useful information to establish the relationship between data and the attributes of tested samples can be extracted and qualitative classification and quantitative regression can be performed (Wu and Sun, 2013). Vibrational spectroscopy in combination with chemometric data analysis has been used successfully in the quality control of teas. For example, the origin of green tea was determined using near infrared spectroscopy and partial least squares regression (PLS) analysis (Zhuang et al., 2017); the caffeine content of instant green tea powder and granules was determined using near infrared spectroscopy and PLSfirst derivative plus straight line subtraction (Sinija and Mishra, 2009); and, hyperspectral imaging and partial least squares discriminant analysis (PLS-DA) has been applied in the quality assessment of herbal tea blends (Djokam et al., 2017). In this study, the benefit of using HSI in combination with chemometric data modeling for the quality control of herbal tea blends was demonstrated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Results and discussion ",
+        "text_level": 3,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Hyperspectral imaging ",
+        "text_level": 4,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1. Chemical distinction of raw materials ",
+        "text_level": 4,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Images with a pixel size of $2 5 6 \\times 3 2 0$ and a pixel depth of 14 bits/ pixel were acquired with the HSI camera. Each sample comprised of approximately 14750 pixels. The RGB image in Fig. 2a displayed mainly physical characteristics of the powders and therefore required chemometric processing for chemical profiles to be revealed. Further image processing focused on the highlighted middle regions in the image, to ensure complete removal of background and edge effects. Following image clean-up, exclusion of ‘noisy’ wave regions, mean centering and SNV pre-treatment, a three component PCA model was developed. The total chemical variation modelled with 3PCs was $8 8 . 7 \\%$ $( \\mathrm { R } ^ { 2 } \\mathrm { X } _ { \\mathrm { c u m } } = 0 . 8 8 7 )$ . Principal component analysis effectively differentiated the two species using NIR spectral information between 1000 and $2 5 0 0 \\mathrm { n m }$ as illustrated in the t1 score image (Fig. 2b). Distinct colour amplitudes were observed for the two species with S. tortuosum showing a uniformly deep red colour while C. genistoides exhibited chemical heterogeneity with a yellow-blue profile. The corresponding scatter plot displayed two pixel clusters also coloured according to amplitude (Fig. 2c). The greatest variation of $5 4 . 2 \\%$ was modelled along PC1 which separated the pixels representing S. tortuosum and C. genistoides. The heterogeneous nature of C. genistoides was also observed along PC2 as pixels spanned both positive $( \\mathrm { P C } 2 ^ { + } \\bar { } .$ ) and negative $( { \\mathrm { P C } } 2 ^ { - } )$ ) quadrants. A loadings line plot (not shown) assisted in identifying high weighted loadings in the region 1874–2061 nm (positive loadings) and 2061–2248, 1436 and $2 1 2 3 \\mathrm { n m }$ (negative loadings) as variables contributing significantly to chemical differences between the two species. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/72962c057cd407c7dce3e9047a7d44ff597f41b3c0628a1aeaf932f8bfdd5191.jpg",
+        "img_caption": [
+            "Fig. 3. a) PLS-DA scatter plot showing pixel classification and the corresponding score image in the calibration set and b) average spectra of S. tortuosum and C. genistoides showing differences in the NIR region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The predictive ability of the PCA model was determined to be $8 6 . 4 \\%$ $( \\mathrm { Q } _ { \\mathrm { c u m } } ^ { 2 } = 0 . 8 6 4 )$ confirming the reliability of the model to qualitatively differentiate between the two species. The analysis resulted in the holistic, non-destructive distinction of two raw materials without prior chemical knowledge. The NIR region is a powerful tool for chemical characterisation of organic compounds which assists in the quality control of various products in the food, agriculture and pharmaceutical industries. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2. Prediction of tea blend constituents ",
+        "text_level": 4,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Of particular importance in the quality control of herbal tea blends is the correct identification and quantification of constituents in a fast and non-destructive manner. This aspect was achieved by developing a PLS-DA model and the results are presented in Fig. 3. Similar to PCA, two pixel clusters were observed which separated along PLS factor 1 with rotation and modelled chemical variation of $5 2 . 8 \\%$ (Fig. 3a). Cumulative variation using three PLS factors was $8 2 . 0 \\%$ $( \\mathrm { R } ^ { 2 } \\mathrm { X } _ { \\mathrm { c u m } } = 0 . 8 2 0 )$ and the predictive ability of the model was $9 5 . 8 \\%$ $( \\mathrm { Q ^ { 2 } Y _ { c u m } } = 0 . 9 5 8 )$ . The pixels were classified according to species and a differentiating colour assigned to each class. The corresponding Yimage of the powders is displayed next to the scatter plot illustrating $1 0 0 \\%$ classification of the raw materials. The average spectra of the two species showed minor differences in the spectral signatures due to combinations of vibrational modes and overlapping signals in the NIR region (Fig. 3b). Based on pixel classification, it was possible to introduce a prediction image into the PLS-DA model and confirm the presence of the two raw materials in the five batches. Fig. 4a is the RGB image of the prediction set comprising two external test set samples and the five batches of tea blends. The images visually demonstrate that the test samples were correctly identified as $C .$ . genistoides (test 1) and S. tortuosum (test 2) each with a $1 0 0 \\%$ pixel classification identical to the original raw material (Fig. 4b; Table 2). This result provided additional confirmation that the model could accurately predict the identities of tea blend constituents. The five batches (in triplicate), were predicted to contain only the two raw materials and no other contaminants or adulterants as visualised in the prediction image. Quantitatively, C. genistoides was predicted to be present in higher amounts $( > 9 7 \\%$ ; $9 7 . 1 0 { - } 9 9 . 5 0 \\% \\mathrm { ~ }$ ) while S. tortuosum occurred in lower quantities $( < 3 \\%$ ; $0 . 5 0 { - } 2 . 9 0 \\% )$ in all five batches (Fig. 4b; Table 2). Although the quantification results were close to the stated company formulation of $9 6 \\%$ for C. genistoides and $4 \\%$ for S. tortuosum, there was considerable deviation from the actual values for some batches. Previous research to determine the sensitivity of HSI for quantitative determinations has yielded varying results (Kamruzzaman et al., 2014; Shafiee et al., 2016; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/97ab71fc2aa02956c31f2fbc782ea58b04bd216497a2f0aa3ebe38e12473e86e.jpg",
+        "img_caption": [
+            "Fig. 4. Visualisation maps of the prediction set samples following image acquisition to give (a) RGB image and (b) class predictions based on PLS-DA model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tankeu et al., 2016). It is however clear that the technique has appreciable sensitivity which can be improved by feature selection techniques to reduce data redundancy and identify the most discriminating regions to include in the models. However, additional model refining should be guided by the quality control needs of the industry concerned. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2. Marker identification using UPLC–MS ",
+        "text_level": 4,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The majority of quality control protocols are based on chromatography methods that have a long-standing reputation of high sensitivity, selectivity and reproducibility. In this study, UPLC–MS was used to confirm the HSI findings. The UPLC–MS profile observed confirmed the identity of the raw material as S. tortuosum. Method 1, for S. tortuosum revealed the presence of three out of four marker alkaloids that have been widely reported to occur in this species (Fig. 5a). Mesembrine ( $\\ R t \\ 4 . 8 5 \\mathrm { m i n }$ ; $m / z$ 290.1609) was identified as the major compound while mesembrenone ( $R t \\ 4 . 0 5 \\mathrm { m i n }$ ; $m / z$ 288.1460) and mesembranol $( R t 3 . 8 2 \\mathrm { m i n }$ ; $m / z$ 292.1764) (Harvey et al., 2011; Shikanga et al., 2011) occurred at lower levels. The absence of mesembrenol which usually co-occurs with the other alkaloids could be due to chemotypic variation which has been previously reported for chemotypes from various geographical locations (Herre, 1971; Shikanga et al., 2012a,b; Smith et al., 1998). Method 2 for C. genistoides revealed a complex chemical profile and three major compounds were identified as mangiferin $( R t 2 . 6 5 \\mathrm { m i n }$ ; $m / z$ 422.3300), isomangiferin (Rt $2 . 8 4 \\mathrm { m i n }$ ; m/z 422.3300) and hesperidin $( R t ~ 4 . 6 7 \\mathrm { m i n }$ ; m/z 610.1898) (Fig. 5b). The observed profile is consistent with previous reports that referenced the compounds as chemical markers for Cyclopia species including C. genistoides (Joubert et al., 2003; Joubert et al., 2008a,b) confirming the identity of the second raw material. Following chemotaxonomic verification of the raw materials, the two methods were used to profile five tea blend batches for the presence of the identified marker compounds. A representative chemical profile of the tea blends using method 1 (S. tortuosum) confirmed the presence of all three marker compounds (Fig. 5c). As the method was optimised for S. tortuosum, the three alkaloids are more prominent while hesperidin and mangiferin are detected at very low levels. Qualitatively, the profile is a good indication of the quality of the tea blends as it confirms the presence of the two raw material constituents. Using method 2, it was possible to confirm the presence of C. genistoides in the tea blend as mangiferin, isomangiferin and hesperidin could be identified (Fig. 5d). However the marker compounds for S. tortuosum could not be detected using method 2 which was optimised for C. genistoides. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Conclusions ",
+        "text_level": 3,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HSI in combination with chemometric data analysis is a powerful visual tool for qualitative assessment of herbal tea blends. It is nondestructive and it provides visual confirmation of not only the species included in the tea blend, but also the relative proportion of each raw material present. Although UPLC–MS is a powerful, sensitive quality control tool, in this study the limitations regarding analysis of polyherbal mixtures were demonstrated. Where more than one plant species is used, there is a need to develop and optimise a method for each component species which is time consuming. Additionally, there are no guarantees that the developed method can be used to profile other species in the mixture. Secondly, quantitative determination of species in a mixture may be biased depending on the method used. Using UHPLC–MS, it is not possible to determine the relative percentage of each of the raw material component within the blend. Hence, the advantages of using holistic approaches such as hyperspectral imaging for quality analysis of polyherbal mixtures including herbal tea blends cannot be overemphasised. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Experimental ",
+        "text_level": 3,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1. Plant material ",
+        "text_level": 4,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Authentic raw material (S. tortuosum and C. genistoides) and five batches of herbal tea blends (Honeybush-Sceletium) were provided in pulverised form by Parceval Pty (Ltd), South Africa. Voucher specimens of the raw material and tea blends were retained in the Department of Pharmaceutical Sciences at the Tshwane University of Technology in South Africa. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2. Hyperspectral imaging ",
+        "text_level": 4,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pulverised material was imaged without further processing. The calibration image comprised of replicates of the raw material, S. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fcae37e25849e557d50ee77481009e3063629fdec7e8defbb5ba517cab15966.jpg",
+        "img_caption": [
+            "Fig. 5. UPLC–MS chromatograms showing marker compounds for a) Sceletium tortuosum, b) Cyclopia genistoides, c) Honeybush-Sceletium tea blend-method 1 and d) Honeybush-Sceletium tea blend-method 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "tortuosum and C. genistoides, evenly spread on plain paper and the surfaces levelled with a spatula. The prediction image comprised of aliquots of the five tea blend batches replicated to give a total of 15 blend images. Two ‘test’ authentic raw materials were included in the prediction image to validate the prediction ability of the model as the identities were known. Hyperspectral images were acquired on a SisuChema® SWIR (short wave infrared) hyperspectral pushbroom imaging system (Specim, Spectral Imaging Ltd., Oulu, Finland) using ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e1fdc8ed9473961fabe952609d5ac81381b54712f3f8b196af72a8fa554fb62.jpg",
+        "table_caption": [
+            "Table 1 Chromatographic conditions used to analyse tea blends and constituent raw materials. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>UPLC-MS conditions</td><td>Sceletium tortuosum (Method 1)</td><td>Cyclopia genistoides (Method 2)</td></tr><tr><td>Column</td><td>Acquity UPLC BEH C1g column (150 mm × 2.1 mm,i.d.,1.7 μm particle size) maintained at 30C</td><td>Acquity UPLC BEH C1g column (150 mm × 2.1 mm,i.d.,1.7μm particle size) maintained at 40C</td></tr><tr><td>Mobile phase</td><td>Solvent A: 0.1% ammonium hydroxide Solvent B: 90% acetonitrile</td><td>Solvent A: 0.1% formic acid Solvent B:acetonitrile Flow rate: 0.3 ml/min</td></tr><tr><td>Gradient elution</td><td>Flow rate of 0.3 ml/min Initial ratio was 80% A: 20% B to 60% A: 40% B in 2 min,changed to 50% A: 50% B in 4.5 min,and back to initial ratio in O.2 min,system</td><td>Initial ratio was 90%A: 10%B,changed to 65%A: 35% B in 5.0 min,changed to 50% A: 50%B in1.0 min,to 20%A:80% B in1.0 min,keeping for1.5 min and back to initial ratio in O.5 min,system equilibrated for 2.0 min</td></tr><tr><td>Total run time</td><td>equilibrated for 1.8 min 8.5 min</td><td>11 min</td></tr><tr><td>Injection volume Electrospray mode</td><td>5 μl (full-loop injection) Positive ion</td><td>5 μl (full-loop injection) Positive ion</td></tr><tr><td>Desolvation gas</td><td>Nz at 500°C Flow rate of 600 l/h</td><td>Nz at 450°C; Flow rate of 600 l/h.</td></tr><tr><td>Voltage settings</td><td>Source temperature of 100 ℃ Capillary voltage at 3500 V</td><td>Source temperature of 100 ℃ Capillaryvoltageat 3500 V</td></tr><tr><td>Data collection</td><td>Sampling cone voltages at 35 V Extraction cone voltage at 4 V Between 100 and 1000 m/z</td><td>Sampling cone voltages at 50 V Extraction cone voltage at 4 V Between 100 and 1200m/z</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChemaDAQ® software version 3.62.183.19. The imaging system comprised of an imaging spectrograph coupled to a 2D array mercury–cadmium–telluride (HgCdTe) detector with a light source of quartz halogen lamps. A high magnification lens with a field of view of $5 0 \\mathrm { m m }$ and a spatial resolution of $1 5 0 \\mu \\mathrm { m }$ was used. Images were captured in the near infrared range between 920 and $2 5 1 4 \\mathrm { n m }$ with a spectral resolution of $6 { - } 7 \\mathrm { n m }$ . The frame rate was $1 0 0 H z$ at an exposure of $3 . 0 \\mathrm { m s }$ . The samples were staged on a moving tray beneath the camera, and by line-scanning across the samples the camera measured the full spectra of each individual point of the sample area. Internal dark and white references were used for image calibration and to correct for variation in sample illumination from dark current from the camera and noise from uneven light intensity of different wavelength bands (Pavurala et al., 2017; Wilczyński et al., 2016). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3. Principal component analysis (PCA) ",
+        "text_level": 4,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Following image acquisition, the calibration image was exported to Evince® software 2.4.0 (Prediktera AB, Umea, Sweden) for chemometric analysis. The image was automatically calibrated for white and dark references and reflectance values were converted to pseudo-absorbance. Spectral unfolding was performed, which re-arranged the threedimensional hypercube into a two-dimensional matrix by appending the two spatial dimensions. Principal component analysis (PCA) was performed on the data matrix to determine chemical variation between the two raw material species. The data was normalised by mean centering and the variation between the species was modelled. Image clean-up was performed to remove background, edge effects and dead pixels. To minimise the influence of physical properties and other artefacts, spectral pre-processing methods such as multiplicative scatter correction (MSC), standard normal variate (SNV) and Savitsky–Golay smoothing were investigated (Barnes et al., 1989). The method that revealed the greatest chemical variation in the dataset was selected. Uninformative regions at the beginning $( 9 2 0 - 9 9 6 \\mathrm { n m } )$ of the spectra were excluded from the dataset. The final model was fitted and plots that included a score image plot, pixel scatter plot, loadings line plot and a model overview plot were used to interpret the results (Wu and Sun, 2013). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4. Partial least squares-discriminant analysis (PLS-DA) ",
+        "text_level": 4,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to use the calibration image to predict tea blend constituents, a partial least squares-discriminant analysis (PLS-DA) model was developed from the PCA calibration model. Partial least squaresdiscriminant analysis is a supervised classification method where classes are assigned to observations/pixels and the information is used to predict classes in unknown components. In this study, the raw materials were each assigned to a class by selecting corresponding pixels within the score image representing each species. Each class (species) was assigned a different colour which was reflected in both the Y-image and the pixel scatter plot. Seven rounds of cross-validation were performed using the random selection method and the modelled variation related to the different classes $\\mathrm { R } ^ { 2 } \\mathrm { X }$ cum) together with the predictive ability of the model $\\operatorname { \\mathrm { { ( } Q ^ { 2 } X } }$ cum) were obtained. The cross validation parameter $\\operatorname { Q } ^ { 2 } \\mathrm { X }$ cum was assessed to confirm the suitability of the model for predictions where; $Q ^ { 2 } X \\mathrm { c u m } < 5 0 \\%$ implies poor predictive ability and vice-versa. Furthermore validation was performed by including an external ‘test-set’ comprising of known raw material samples. The developed PLS-DA model was used to predict raw material constituents in the prediction set and further determine the relative proportions of each raw material in the tea blends (Djokam et al., 2017). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/18aae21d633e17ae7d35914bbc68ee631016102ffb68d211574e6e4413286a91.jpg",
+        "table_caption": [
+            "Table 2 Quantitative predictions of tea blend constituents and test samples expressed as percentage pixel abundance. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sample ID</td><td colspan=\"4\">Percentage pixel abundance</td></tr><tr><td>Cyclopia genistoides</td><td>Sceletium tortuosum</td><td>No class</td><td>Total</td></tr><tr><td>Test1 (C. genistoides)</td><td>100</td><td>0</td><td>0.00</td><td>100</td></tr><tr><td>Test 2 (S. tortuosum)</td><td>0</td><td>100</td><td>0.00</td><td>100</td></tr><tr><td>Blend 1.1</td><td>98.76</td><td>1.24</td><td>0.00</td><td>100</td></tr><tr><td>Blend 1.2</td><td>98.80</td><td>1.20</td><td>0.00</td><td>100</td></tr><tr><td>Blend 1.3</td><td>99.10</td><td>0.90</td><td>0.00</td><td>100</td></tr><tr><td>Blend 2.1</td><td>99.21</td><td>0.79</td><td>0.00</td><td>100</td></tr><tr><td>Blend 2.2</td><td>99.04</td><td>0.96</td><td>0.00</td><td>100</td></tr><tr><td>Blend 2.3</td><td>98.40</td><td>1.60</td><td>0.00</td><td>100</td></tr><tr><td>Blend 3.1</td><td>97.95</td><td>2.04</td><td>0.01</td><td>100</td></tr><tr><td>Blend 3.2</td><td>97.90</td><td>2.10</td><td>0.00</td><td>100</td></tr><tr><td>Blend 3.3</td><td>99.10</td><td>0.90</td><td>0.00</td><td>100</td></tr><tr><td>Blend 4.1</td><td>98.91</td><td>1.09</td><td>0.00</td><td>100</td></tr><tr><td>Blend 4.2</td><td>99.50</td><td>0.50</td><td>0.00</td><td>100</td></tr><tr><td>Blend 4.3</td><td>97.10</td><td>2.90</td><td>0.00</td><td>100</td></tr><tr><td>Blend 5.1</td><td>99.01</td><td>0.99</td><td>0.00</td><td>100</td></tr><tr><td>Blend 5.2</td><td>99.30</td><td>0.70</td><td>0.00</td><td>100</td></tr><tr><td>Blend 5.3</td><td>97.38</td><td>2.62</td><td>0.00</td><td>100</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.5. Ultra-performance liquid chromatography coupled to mass spectrometry ",
+        "text_level": 4,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The pulverised raw materials and tea blends were weighed $( 1 . 5 g$ each) and transferred into conical flasks. A volume of $2 3 7 \\mathrm { m l }$ (8 oz) boiling water was added to each flask and stirred continuously for $2 5 \\mathrm { m i n }$ . The infusions were drawn, filtered through a $0 . 2 \\mu \\mathrm { m }$ syringe filter and injected into the instrument. UPLC–MS analyses were performed on a Waters Acquity® ultra performance liquid chromatographic system with PDA detector (Waters, Milford, MA, USA). Due to the presence of two different plants in the tea blends it was not possible to develop a single method that would optimally profile the two species. Consequently, the two species were profiled using two different methods which were also used to determine the presence of marker molecules in the tea blends. The modified method of Shikanga et al. (2012a,b) was used to analyse S. tortuosum and the tea blends while the method of Djokam et al. (2017) was used to analyse C. genistoides and the tea blends (Table 1). MassLynx™ software 4.1 was used to acquire and process all chromatographic data. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Authors’ contributions ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MS designed and performed the experiments, analysed the data and is the first author of the manuscript. WC developed the UPLC–MS methods and analysed the data. IV analysed the data and contributed to the writing of the manuscript. AV conceived the concept and designed the experiments and contributed to editing of the manuscript. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful to Parceval Pty Ltd (South Africa) for supplying the material analysed in this study. Dr Sushil Kumar Chaudhary is acknowledged for assisting with drawing the chemical structures included in the manuscript. This work was financially supported by the National Research Foundation (South Africa), Department of Science and Technology (South Africa) and the Tshwane University of Technology. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Barnes, R.J., Dhanoa, M.S., Lister, S.J., 1989. Standard normal variate transformation and de-trending of near-infrared diffuse reflectance spectra. Appl. Spectrosc. 43, 772–777.   \nBreithaupt, D.E., 2004. Simultaneous HPLC determination of carotenoids used as food coloring additives: applicability of accelerated solvent extraction. Food Chem. 86, 449–456.   \nCentre for the Promotion of Imports (CBI), 2017. What Is the Demand for Tea in Europe? (Available at: https://www.cbi.eu/market-information/tea/trade-statistics/ Accessed on: 05 October, 2017).   \nDjokam, M., Sandasi, M., Chen, W., Viljoen, A., Vermaak, I., 2017. Hyperspectral imaging as a rapid quality control method for herbal tea blends. Appl. Sci. 7, 268–284.   \nGericke, N., Viljoen, A.M., 2008. Sceletium − a review update. J. Ethnopharmacol. 119, 653–663.   \nHarvey, A.L., Young, L.C., Viljoen, A.M., Gericke, N.P., 2011. Pharmacological actions of South African medicinal and functional food plant Sceletium tortuosum and its principle alkaloids. J. Ethnopharmacol. 137, 1124–1129.   \nHerre, H., 1971. The Genera of the Mesembryanthemaceae. Tafelberg-Uitgewers, Cape Town.   \nJaseTea, 2015. The Rise in Popularity of Herbal Infusions (Aka Herbal Teas). (Available at: https://jasetea.com/2015/05/08/the-rise-in-popularity-of-herbal-infusions-akaherbal-teas/ Accessed on: 03 October, 2017).   \nJoubert, E., Otto, F., Grüner, S., Weinreich, B., 2003. Reversed-phase HPLC determination of mangiferin: isomangiferin and hesperidin in Cyclopia and the effect of harvesting date on the phenolic composition of C. genistoides. Eur. Food Res. Technol. 216, 270–273.   \nJoubert, E., Gelderblom, W.C.A., Louw, A., De Beer, D., 2008a. South African herbal teas: Aspalathus linearis, Cyclopia spp. and Athrixia phylicoides −a review. J. Ethnopharmacol. 119, 376–412.   \nJoubert, E., Richards, E.S., Van der Merwe, J.D., De Beer, D., Manley, M., Gelderblom, W.C.A., 2008b. Effect of species variation and processing on phenolic composition and in vitro antioxidant activity of aqueous extracts of Cyclopia spp. (honeybush tea). J. Agric. Food Chem. 56, 954–963.   \nJoubert, E., Joubert, M.E., Bester, C., De Beer, D., De Lange, J.H., 2011. Honeybush (Cyclopia spp.): from local cottage industry to global markets −the catalytic and supporting role of research. S. Afr. J. Bot. 77, 887–907.   \nKamruzzaman, M., Haque, M.E., Ali, M.R., 2014. Hyperspectral imaging technique for offal quantification in minced meat. JBAU 12, 189–194.   \nPavurala, N., Xu, X., Krishnaiah, Y.S.R., 2017. Hyperspectral imaging using near infrared spectroscopy to monitor coat thickness uniformity in the manufacture of a transdermal drug delivery system. Int. J. Pharm. 523, 281–290.   \nShafiee, S., Polder, G., Minaei, S., Moghadam-Charkari, N., Van Ruth, S., Kuś, P.M., 2016. Detection of honey adulteration using hyperspectral imaging. IFAC-PapersOnLine 16, 311–314.   \nShikanga, E.A., Viljoen, A., Combrinck, S., Marston, A., 2011. Isolation of Sceletium alkaloids by high-speed countercurrent chromatography. Phytochem. Lett. 4, 190–193.   \nShikanga, E.A., Kamatou, G.P.P., Chen, W., Combrinck, S., Viljoen, A.M., 2012a. Validated RP-UHPLC PDA and GC–MS methods for the analysis of psychoactive alkaloids in Sceletium tortuosum. S. Afr. J. Bot. 82, 99–107.   \nShikanga, E.A., Viljoen, A.M., Combrinck, S., Marston, A., Gericke, N., 2012b. The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations. Biochem. Syst. Ecol. 44, 364–373.   \nSinija, V.R., Mishra, H.N., 2009. FT-NIR spectroscopy for caffeine estimation in instant green tea powder and granules. LWT −Food Sci. Technol. 42, 998–1002.   \nSmith, M.T., Crouch, N.R., Hirst, M., 1998. The distribution of mesembrine alkaloids in selected TAXA of the Mesembryanthemaceae and their modification in the Sceletium derived ‘Kougoed’. Pharm. Biol. 36, 173–179.   \nSponagle, M., 2016. Your Herbal Tea Isn’t Really Tea. (Available at: http://www. thekitchn.com/whats-the-difference-between-tea-and-tisane-231011 Accessed on: 05 October, 2017).   \nTankeu, S., Vermaak, I., Chen, W., Sandasi, M., Viljoen, A., 2016. Differentiation between two fang ji herbal medicines, Stephania tetrandra and the nephrotoxic Aristolochia fangchi, using hyperspectral imaging. Phytochemistry 122, 213–222.   \nTea USA, 2015. Tea Fact Sheet 2016–17. (Available at: http://www.teausa.com/14655/ tea-fact-sheet. Accessed on 5 October, 2017).   \nTrevisanato, S.I., Kim, Y.-I., 2000. Tea and health. Nutr. Rev. 58, 1–10.   \nWilczyński, S., Koprowski, R., Marmion, M., Duda, P., Błońska-Fajfrowska, B., 2016. The use of hyperspectral imaging in the VNIR (400–1000 nm) and SWIR range (1000–2500 nm) for detecting counterfeit drugs with identical API composition. Talanta 160, 1–8.   \nWu, D., Sun, D.-W., 2013. Advanced applications of hyperspectral imaging technology for food quality and safety analysis and assessment: a review — Part I: fundamentals. Innov. Food Sci. Emerg. Technol. 19, 1–14.   \nZhuang, X., Wang, L., Chen, Q., Wu, X.Y., Fang, J.X., 2017. Identification of green tea origins by near-infrared (NIR) spectroscopy and different regression tools. Sci. China Technol. Sc. 60, 84–90. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

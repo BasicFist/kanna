@@ -9,7 +9,8 @@
       "Bash(ls:*)",
       "Bash(docker:*)",
       "mcp__context7__resolve-library-id",
-      "mcp__context7__get-library-docs"
+      "mcp__context7__get-library-docs",
+      "mcp__perplexity__perplexity_search"
     ],
     "deny": [],
     "ask": []

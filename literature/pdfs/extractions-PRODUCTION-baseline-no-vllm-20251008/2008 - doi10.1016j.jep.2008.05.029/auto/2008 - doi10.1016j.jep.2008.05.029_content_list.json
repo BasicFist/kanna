@@ -1,0 +1,560 @@
+[
+    {
+        "type": "text",
+        "text": "Review ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A broad review of commercially important southern African medicinal plants B.-E. van Wyk ∗ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Botany and Plant Biotechnology, University of Johannesburg, P.O. Box 524, Auckland Park 2006, South Africa ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a r t i c l e i n f o ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 8 May 2008   \nReceived in revised form 14 May 2008   \nAccepted 16 May 2008   \nAvailable online 3 June 2008 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nBiosystematics   \nChemical variation   \nCommercial development   \nMedicinal plants   \nSouthern Africa   \nTaxonomy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a b s t r a c t ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aims of the study: Commercially important indigenous medicinal plants of southern Africa are reviewed in the context of fundamental knowledge about their ethnobotany, phylogeny, genetics, taxonomy, biochemistry, chemical variation, reproductive biology and horticulture. The aim is to explore the rapidly increasing number of scientific publications and to investigate the need for further research. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods: The Scopus (Elsevier) reference system was used to investigate trends in the number of scientific publications and patents in 38 medicinal plant species. Fifteen species of special commercial interest were chosen for more detailed reviews: Agathosma betulina, Aloe ferox, Artemisia afra, Aspalathus linearis, Cyclopia genistoides, Harpagophytum procumbens, Hoodia gordonii, Hypoxis hemerocallidea, Lippia javanica, Mesembryanthemum tortuosum, Pelargonium sidoides, Siphonochilus aethiopicus, Sutherlandia frutescens, Warburgia salutaris and Xysmalobium undulatum. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: In recent years there has been an upsurge in research and development of new medicinal products and new medicinal crops, as is shown by a rapid increase in the number of scientific publications and patents. Despite the fact that an estimated $1 0 \\%$ of the plant species of the world is found in southern Africa, only a few have been fully commercialized and basic scientific information is often not available. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: The limited available information indicates that some of the plants display remarkable regional variation in morphological, genetic and chemical characters that should be more thoroughly investigated. Basic biological information is needed to guide the rapidly accelerating commercialization process, especially the selection of superior clones, the development of new cultivars and the standardization of raw materials. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2008 Elsevier Ireland Ltd. All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction 343   \n2. Commercialized indigenous plant species 343   \n3. Biosystematic and chemotaxonomic studi 343   \n3.1. Agathosma betulina (P.J. Bergius) Pillans (Rutaceae)-round leaf buchu . 346   \n3.2. Aloe ferox Mill. (Asphodelaceae bitter aloe, Cape alo 347   \n3.3. Artemisia afra Jacq. ex Willd. -wild wormwood 347   \n3.4. Aspalathus linearis (Burm.f.) (Fabaceae)-rooibos tea 347   \n3.5. Cyclopia genistoides (L.) R.B oneybush tea 348   \n3.6. Harpagophytum procumb x Meissn. (Pedaliaceae)-devil’s claw . 348   \n3.7. Hoodia gordonii (Mas pocynaceae)-hoodia, ghaap . 348   \n3.8. Hypoxis hemerocallid ypoxidaceae)-inkomfe, “African potato”. 348   \n3.9. Lippia javanica (B -fever te 349   \n3.10. Mesembryanthe tortuosum (L.) N.E. Br.] (Mesembryanthemaceae)-sceletium, kougoed. 349   \n3.11. Pelargonium sidoides D aloabo, raba 349   \n3.12. Siphonochilus aethiopicus giberaceae)-African ginge 350   \n3.13. Sutherlandia frutescens ( rutescens (L.) Goldblatt & J.C.Manning] (Fabaceae)-cancer bush, sutherlandia . 350   \n3.14. Warburgia salutaris (Bertol.f.) nell ceae)-pepperbark tree . 351   \n3.15. Xysmalobium undulatum (L.) W.T.Aiton (Apocynaceae)-uzara 351 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 2,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Africa, and especially southern Africa, has a rich diversity of plants. Recent statistics show that about $2 5 \\%$ of the total number of higher plants in the world is found in Africa south of the Sahara. According to the “African Plant Checklist and Database Project” (Klopper et al., 2006), a total of 50,136 angiosperm taxa occur in tropical Africa and southern Africa. This figure is based on a recent merging of two major data bases—EPFAT (Enumération des plantes à fleurs d’Afrique) and FSA (Flora of southern Africa). The combined checklist shows a total of 32,424 taxa in tropical Africa and 22,755 taxa in southern Africa. A useful reference book on the medicinal plants of the whole of the African continent (Neuwinger, 2000) lists more than 5400 medicinal plant taxa and over 16,300 medicinal uses. It is generally accepted (e.g. Geldenhuys and Van Wyk, 2002) that natural resources will play a major role in the socioeconomic development of the African continent. The angiosperm species count for southern Africa (Germishuizen and Meyer, 2003) is 21,817 and the count for the Cape Floristic Region (Goldblatt and Manning, 2001) is 8888. Van Wyk and Gericke (2000) estimated that about 3000 medicinal plants are regularly used in southern Africa. An annotated checklist of traditional medicinal plants of southern Africa (Arnold et al., 2002) gives a total of 3481 plant taxa, of which 2942 are administered to people only. Basic information about the most widely used species can be found in Van Wyk et al. (1997), Van Wyk and Gericke (2000) and Diederichs (2006). This diversity represents a very valuable resource, not only for commercial development but also for basic scientific study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is aimed at reviewing southern African medicinal plants that are currently of particular interest in new product development. Basic researches relating to 15 commercially highly relevant species in South Africa are briefly reviewed. The aim is to show the potential value and application of fundamental knowledge, to explore the rapidly accelerating numbers of scientific publications and to highlight the need for further biosystematic research on southern African plants. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Commercialized indigenous plant species ",
+        "text_level": 2,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Of the estimated 3000 medicinal plant species that are regularly used in traditional medicine in South Africa, only about 38 indigenous species have been commercialized to some extent (i.e. they are available as processed materials in modern packaging and in various dosage forms as teas, tinctures, tablets, capsules or ointments). Several others are also produced for multi-million Rand informal markets (Cunningham, 1988; Mander, 1998; Williams et al., 2000). A useful review of various aspects of the commercialization process in South Africa is given by Diederichs (2006). The major commercialized species are listed in Table 1, together with basic ethnobotanical information and some key references. The list includes indigenous species that are widely distributed in Africa and that have been extensively commercialized in other parts of Africa and/or in other parts of the world (e.g. Adansonia digitata, Centella asiatica, Kigelia africana, Prunus africana and Trichilia emetica). Also included are two famous and popular herbs of Ayurvedic medicine that have hitherto been of limited commercial interest in South Africa (Centella asiatica and Withania somnifera). Wildharvested material of Merwilla plumbea (Lindl.) Speta (syn. Scilla natalensis Planch.), Bowiea volubilis Harv. ex Hook.f. and several other important medicinal plant species is traded in large volumes on local markets but have as yet only been formally commercialized to a limited extent. Several of the plants listed in Table 1 are endemic to southern Africa and some of them are treated in detailed reviews in this volume. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to gain some insight into the scientific and/or commercial interest in South African medicinal plants, a literature search was conducted with the well-known Scopus literature reference system maintained by Elsevier. Using the scientific names of the species and the “quick search” option, varying numbers of “hits” were obtained for those species listed in Table 1. The searches were carefully executed to include main synonyms and other commercial species of the same genus where relevant (e.g. Cyclopia). The results are summarized in Table 2, which outlines the number of scientific publications and the number of citation in patents in recent years. The general trend is one of an increasing number of papers and citations since 1995, although this is not true for all the species. The popularity of Centella asiatica and Withania somnifera in Ayurvedic medicine is reflected in the large number of citations and publications over many years. Relatively large numbers are also seen for those species that are well established in tropical Africa as important medicinal plants (e.g. Adansonia digitata, Kigelia africana and Prunus africana). These species have been of limited commercial interest in South Africa despite their popularity elsewhere. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 2 reveals a rapid increase in the number of publications and patent citations for several indigenous species that were scientifically practically unknown and unstudied prior to 1995. Raw material of some species has only become available in commercial quantities in recent years, so that the number of ethnopharmacological studies has sharply increased since 1995. This trend was discussed by Light et al. (2005, and references cited therein) and is also reflected in review papers in this volume. In several cases, the number of scientific papers published since 2006 (i.e., a period of just over 2 years) already exceed those published in the preceding 5-year periods of 1995–2000 and 2001–2005. Notable examples are Cyclopia genistoides, Euclea natalensis, Hoodia gordonii, Hypoxis hemerocallidea, Pelargonium sidoides and Sutherlandia frutescens. Rapid recent increases in the number of patent citations are also evident, especially for Adansonia, Aspalathus, Cyclopia, Harpagophytum, Hoodia, Mesembryanthemum, Pelargonium and Sutherlandia. Well-known commercialized species such as Harpagophytum procumbens and Aloe ferox has been the subject of scientific investigation over many years. The decreasing trend in Mesembryanthemum tortuosum is due an early interest in the unique alkaloids of these plants and a rather slow pace of commercialization. Recent research and development activity is also reflected in the data for some well-established commercial species, including Aspalathus linearis and Xysmalobium undulatum (both of which were first commercialized more than 100 years ago). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Biosystematic and chemotaxonomic studies ",
+        "text_level": 2,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A summary of published information on a selection of 15 commercially relevant medicinal plants of South Africa (see Fig. 1 and Tables 1 and 2) is given below. General information about these plants can be obtained from Watt and Breyer-Brandwijk (1962), Hutchings et al. (1996), Van Wyk et al. (1997), Van Wyk and Gericke (2000) and Van Wyk and Wink (2004). Each of the species is briefly discussed, with emphasis on what is known about their ethnobotany, basic biology and especially their biosystematics, including taxonomic, genetic and chemical variation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a7f98b147a249c804c2235dc3caeace119992700bcb3b2fa12977aa134dc8a6.jpg",
+        "table_caption": [
+            "Table 1 Indigenous South African medicinal plants of current interest in product development (locally and elsewhere) "
+        ],
+        "table_footnote": [
+            "Names of species treated in this review are shown in bold. General references: [1] = Watt and Breyer-Brandwijk (1962); [2] $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ Hutchings et al. (1996); [3] $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ Van Wyk et al. (1997); [4] = Van Wyk and Gericke (2000); [5] $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ Van Wyk and Wink (2004); [6] $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ reviews elsewhere in this volume. "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Main traditional uses in South Africa (traditional uses elsewhere or modern uses, if different, in brackets)</td><td>Key references and monographs</td></tr><tr><td>Adansonia digitata L.</td><td>Fever, diarrhoea, haemoptysis, hiccup remedy (urinary disorders)</td><td>[1],[2], [3], [4]</td></tr><tr><td>Agathosma betulina (P.J.Bergius) Pillans</td><td>Stomach complaints, bitter tonic,wound-healing, traditional antiseptic and cosmetic (diuretic, urinary tract disinfectant, flavourant)</td><td>[1], [2],[3], [4],[5]</td></tr><tr><td>Aloe ferox Mill.</td><td>Biters: laxative, bitter tonic; gel: wound-healing (health drink,cosmetic)</td><td>[1],[2], [3], [4], [5],</td></tr><tr><td>Artemisia afra Jacq. ex Willd.</td><td>Colds and influenza, stomach ailments, bitter tonic,analgesic,anthelmintic,</td><td>[6] [1], [2], [3], [4], [5]</td></tr><tr><td>Aspalathus linearis (Burm.f.)R.Dahlgren</td><td>traditional inhalant fora blocked nose Antispasmodic,traditional milk substitute for infants prone to colic, health drink</td><td>[1],[2], [3], [4],[5],</td></tr><tr><td>Athrixia phylicoidesDC.</td><td>Health tea, aphrodisiac</td><td>[6] [4], [6]</td></tr><tr><td>Bulbine frutescens (L.) Willd.</td><td>Wounds,burns,rashes,itche</td><td>[1], [2], [3], [4]</td></tr><tr><td>Carpobrotusedulis (L.) L.Bolus</td><td>Gargle for mouth and throat infections,dysentery,digestive ailments, tuberculosis, diuretic, styptic; topical application against eczema, wounds,</td><td>[1], [2], [3], [4]</td></tr><tr><td>Centella asiatica (L.) Urb.</td><td>burns General tonic,leprosy,wounds and cancer (venotonic,prevention of scar tissue</td><td>[1], [2],[3], [4], [5]</td></tr><tr><td>Cyclopia genistoides (L.) R.Br.</td><td>formation,adaptogen,acne,allergies) Health drink, digestive,stomachic (antioxidant)</td><td>[1],[2], [3],[4],[5]</td></tr><tr><td>Dodonaea viscosa (Jacq.) var. angustifolia (L.f.) Benth,</td><td>Fever, colds, influenza, stomach ailments,measles,gargle for sore throat and oral thrush, pneumonia,tuberculosis, topical anti-pruritic</td><td>[1], [2],[3], [4]</td></tr><tr><td>Elytropappus rhinocerotus (L.f.) Less.</td><td>Indigestion, dyspepsia, ulcers, stomach cancer, fumigant against influenza;</td><td>[1], [2],[3], [4]</td></tr><tr><td>Eriocephalus africanus L.</td><td>appetite stimulant, bitter tonic Diaphoretic, diuretic,stomach ache</td><td>[1], [2], [3], [4]</td></tr><tr><td>Euclea natalensis A.DC.</td><td>Bronchitis, chest ailments, pleurisy,asthma, urinary tract infections,toothache, headache, toothbrush sticks</td><td>[1], [2], [4]</td></tr><tr><td>Eucomis autumnalis (Mill.) Chit.</td><td>Urinary diseases,stomach ache, diarrhoea, enema for low back pain and healing</td><td>[1], [2], [3], [4]</td></tr><tr><td>Gunnera perpensa L.</td><td>of fractures Antenatal and postnatal medicine, uterotonic,stomach ailments, menstrual pain,stomach bleeding, rheumatic fever, topical application for wounds and</td><td>[1], [2],[3], [4]</td></tr><tr><td>Harpagophytum procumbens(Burch.) DC.ex Meisn.</td><td>psoriasis Antirheumatic,anti-inflammatory, weakly analgesic, bitter tonic,</td><td>[1],[2],[3], [4], [5]</td></tr><tr><td>Heteropyxis natalensis Harv.</td><td>wound-healing Leaves for colds, weaning; roots for nose bleeds and bleeding gums, menorrhagia</td><td>[1], [2],[3], [4]</td></tr><tr><td>Hoodia gordonii (Masson) Sweet ex Decne</td><td>Appetite and thirst supressant</td><td>[1],[2],[3], [4],[5], [6]</td></tr><tr><td>Hypoxis hemerocallidea Fisch.& Avé-Lall.</td><td>Emetic to treat bladder disorders,dizzinessand insanity, traditional tonic,</td><td>[1],[2],[3], [4],[5],</td></tr><tr><td>Kigelia africana (Lam.) Benth.</td><td>prostate hyperplasia Powdered fruit applied to treat sores,wounds and rheumatism; bark used to</td><td>[6] [1],[2],[3], [4],[5]</td></tr><tr><td>Leonotis leonurus (L.) R.Br.</td><td>treat dysentery and stomach ailments (skin care,cosmetic) Coughs,colds,influenza,asthma, bronchitis, high blood pressure,headache,</td><td>[1], [2], [3], [4], [6]</td></tr><tr><td>Lippia javanica (Burm.f.) Spreng.</td><td>viral hepatitis; topcally applied to treat skin disorders and cramps Fever, cough,colds, bronchitis,influenza, measles,rashes, malaria,stomach</td><td>[1],[2],[3], [4], [5]</td></tr><tr><td>Lobostemon fruticosus (L.) H.Buek.</td><td>ailments, headache (insect repellent) Wound-healing, traditional multi-purpose plaster, ringworm</td><td>[1], [2], [3], [4]</td></tr><tr><td>Mesembryanthemum tortuosum L.(syn.Sceletium tortuosum)</td><td>Hypnotic, sedative</td><td>[1], [4], [5], [6]</td></tr><tr><td>Ocotea bullata (Burch.) Baill.</td><td>Headache,diarrhoea; emetic for emotional and nervous disorders</td><td>[1], [2], [3], [4]</td></tr><tr><td>Olea europaea L. subsp. africana (Mill.) P.S.Green</td><td>Anti-hypertensive,diuretic, tonic,diarrhoea,sore throat</td><td>[1],[2],[3],[4]</td></tr><tr><td>Pelargonium sidoides DC.</td><td>Tuberculosis, diarrhoea (bronchitis,infections of the upper respiratory tract)</td><td>[1], [2], [3], [4], [5],</td></tr><tr><td>Prunus africana (Hook.f.) Kalkman</td><td>Chest pain,benign prostate hyperplasia</td><td>[6] [1],[2],[3],[4],[5]</td></tr><tr><td>Sclerocarya birrea (A.Rich.) Hochst.</td><td>Stomach ailments,diarrhoea, dysentery, fever, malaria, general tonic (diabetes)</td><td>[1],[2], [3], [4]</td></tr><tr><td>Securidaca longepedunculata Fresen</td><td>Cough,chest complaints, rheumatism, tootache, headache,wounds and sores, rheumatism (traditional panacea, general tonic, antirheumatic,antitussive)</td><td>[1],[2],[3], [4], [5]</td></tr><tr><td>Siphonochilusaethiopicus(Schweinf.)B.L.Burtt</td><td>Colds,cough, influenza,hysteria, pain, asthma, dysmenorrhoea,</td><td>[1], [2], [3], [4],[5],</td></tr><tr><td>Sutherlandia frutescens (L.) R.Br.</td><td>anti-inflammatory, bronchodilatory, traditional antimalarial Adaptogenic tonic, traditional general tonic, traditional cancer tonic, skin</td><td>[6]</td></tr><tr><td></td><td>disorders,eye disorders,diabetes,numerous otherailments</td><td>[1], [2], [3], [4], [5], [6]</td></tr><tr><td>Trichilia emetica Vahl</td><td>Stomachailments,dysentry,kidneyailments,indigestion,fever,parasites; poultices for bruisesand eczema;seed oil for rheumatism</td><td>[1], [2], [3], [4]</td></tr><tr><td>Tulbaghia violacea Harv.</td><td>Colds, fever,asthma, tuberculosis</td><td>[1],[2], [3], [4]</td></tr><tr><td>Warburgia salutaris (Bertol.f.) Chiov.</td><td>Coughs,colds,chest ailments, influenza, rheumatism, malaria,venereal diseases, headache, toothache, gastric ulcers (antibiotic, general tonic)</td><td>[1], [2], [3], [4], [5]</td></tr><tr><td>Withania somnifera (L.) Dunal</td><td>Leaves: poultices to treat wounds,sores,abscesses,inflammation, haemorrhoids, rheumatism, syphilis; roots: asthma,tonic (sedative,</td><td>[1], [2], [3], [4]</td></tr><tr><td>Xysmalobiumundulatum (L.)W.T.Aiton</td><td>adaptogenic tonic) Diarrhoea,dysentery,stomach cramps,headache,oedema, dysmenorrhoea;</td><td>[1], [2], [3], [4],[5]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e29552eda3eea5789e3ce8ac64f029a7be94a2775e3022f1dc927f1b77bea30.jpg",
+        "table_caption": [
+            "Table 2 el pril2008 ",
+            ""
+        ],
+        "table_footnote": [
+            "The 15 species discussed in this review are shown in bold. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Species</td><td colspan=\"5\">Number of citations in publications</td><td colspan=\"7\">Number of citations in patents</td></tr><tr><td><1990</td><td>1990-1995</td><td>1996-2000</td><td>2001-2005</td><td>2006-2008</td><td>Total</td><td><1990</td><td>1990-1995</td><td></td><td>1996-2000</td><td>2001-2005</td><td>2006-2008 Total</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Adansonia digitata</td><td>12</td><td>18</td><td>25</td><td>45</td><td>31 6</td><td>131 11</td><td>0</td><td>0 0</td><td>6 1</td><td>16 1</td><td>26</td><td>51 11</td></tr><tr><td>Agathosma betulina</td><td>0 3</td><td>0</td><td>2 7</td><td>3 22</td><td>14</td><td>55</td><td>19</td><td>12</td><td>27</td><td>58</td><td>8 51</td><td>167</td></tr><tr><td>Aloe ferox</td><td></td><td>9</td><td></td><td></td><td>10</td><td>42</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td></td></tr><tr><td>Artemisia afra</td><td>1</td><td>1</td><td>13</td><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td></tr><tr><td>Aspalathus linearis</td><td>3</td><td>9</td><td>22</td><td>33</td><td>22</td><td>89</td><td>1</td><td>16</td><td>25</td><td>70</td><td>93</td><td>204</td></tr><tr><td>Athrixia phylicoides</td><td>00·</td><td>0</td><td>0</td><td>179</td><td>７２</td><td>8</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>Bulbine frutescens</td><td></td><td>1</td><td>1</td><td></td><td></td><td>11</td><td>0 0</td><td>0</td><td>1</td><td>42</td><td>1</td><td>6</td></tr><tr><td>Carpobrotus edulis</td><td>4</td><td>4</td><td>10</td><td>19</td><td>6</td><td>43</td><td></td><td></td><td>1</td><td></td><td>1</td><td>4</td></tr><tr><td>Centella asiatica</td><td>56</td><td>38</td><td>77</td><td>169</td><td>101</td><td>439</td><td>24</td><td>38</td><td>184</td><td>441</td><td>389</td><td>1076</td></tr><tr><td>Cyclopia genistoides</td><td>0</td><td>2</td><td>6</td><td>9</td><td>10</td><td>27</td><td>0</td><td>0</td><td>1</td><td>8</td><td>12</td><td>21</td></tr><tr><td>Dodonaea angustifolia</td><td>1</td><td>0</td><td>32</td><td>10</td><td>65</td><td>20 12</td><td>0 0</td><td></td><td>0</td><td>2</td><td>1</td><td>3２</td></tr><tr><td>Elytropappus rhinocerotus</td><td>1</td><td>0</td><td></td><td>3</td><td>4</td><td>28</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td></td></tr><tr><td>Eriocephalus africanus</td><td>0</td><td>5</td><td>10</td><td>9</td><td>10</td><td>27</td><td>0</td><td>0</td><td>2</td><td>6</td><td>4</td><td>12</td></tr><tr><td>Euclea natalensis</td><td>2</td><td>4</td><td>5</td><td>6</td><td></td><td></td><td></td><td>0</td><td>5</td><td>62</td><td>36</td><td>103</td></tr><tr><td>Eucomis autumnalis</td><td>3</td><td>2</td><td>2</td><td>17</td><td>8 3</td><td>32 12</td><td>0 0</td><td>1</td><td>2</td><td>2</td><td>6</td><td>11</td></tr><tr><td>Gunnera perpensa</td><td>0</td><td>0 13</td><td>1</td><td>8</td><td>50</td><td>264</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>Harpagophytum procumbens</td><td>41 0</td><td>1</td><td>41</td><td>119</td><td>5</td><td>8</td><td>0</td><td>5</td><td>28</td><td>59</td><td>72</td><td>166</td></tr><tr><td>Heteropyxis natalensis</td><td>0</td><td>0</td><td>1</td><td>1</td><td></td><td>23</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>Hoodia gordonii</td><td>7</td><td>8</td><td>0</td><td>6</td><td>17 18</td><td>52</td><td>11</td><td>0</td><td>3</td><td>82</td><td>180</td><td>265</td></tr><tr><td>Hypoxis hemerocallidea</td><td>9</td><td>6</td><td>4 9</td><td>15</td><td>15</td><td>61</td><td>1</td><td>5 1</td><td>5</td><td>38</td><td>19</td><td>78</td></tr><tr><td>Kigelia africana</td><td>4</td><td>0</td><td></td><td>22</td><td>6</td><td>20</td><td>0</td><td>0</td><td>5</td><td>26</td><td>8</td><td>41</td></tr><tr><td>Leonotis leonurus Lippia javanica</td><td>3</td><td>3</td><td>2 4</td><td>8 12</td><td>6</td><td>20</td><td>0</td><td>0</td><td>211</td><td>4</td><td>232</td><td>8</td></tr><tr><td></td><td>0</td><td>0</td><td>8</td><td>3</td><td>3</td><td>14</td><td>0</td><td>0</td><td>1</td><td>1</td><td></td><td>5</td></tr><tr><td>Lobostemon fruticosum</td><td>21</td><td>11</td><td>13</td><td>6</td><td>4</td><td>55</td><td>1</td><td>0</td><td>4</td><td>1</td><td>3</td><td>5</td></tr><tr><td> Mesembryanthemum tortuosum</td><td>0</td><td></td><td>7</td><td>7</td><td>0</td><td>16</td><td>0</td><td>0</td><td></td><td>7</td><td>9</td><td>21</td></tr><tr><td>Ocotea bullata</td><td>4</td><td>22–</td><td>9</td><td>16</td><td>3</td><td>33</td><td>0</td><td>0</td><td>0 1</td><td>0 3</td><td>04</td><td>。</td></tr><tr><td>Olea europaea subsp.africana</td><td>0</td><td>2</td><td>7</td><td>20</td><td>39</td><td>68</td><td>0</td><td>0</td><td>2</td><td>5</td><td></td><td>8</td></tr><tr><td>Pelargoniumsidoides</td><td>5</td><td>1</td><td>18</td><td>32</td><td>12</td><td>68</td><td>8</td><td>0</td><td>4</td><td>33</td><td>12 14</td><td>19</td></tr><tr><td>Prunus africana</td><td>1</td><td>7</td><td>11</td><td>40</td><td>42</td><td>101</td><td>0</td><td>。</td><td>2</td><td></td><td></td><td>59</td></tr><tr><td>Sclerocarya birrea</td><td>3</td><td>1</td><td>5</td><td>13</td><td>14</td><td>36</td><td>0 0</td><td>0 0</td><td>0</td><td>3 1</td><td>7 0</td><td>12 1</td></tr><tr><td>Securidaca longepedunculata Siphonochilus aethiopicus</td><td>0 0</td><td>0 0</td><td>6 2</td><td>11 27</td><td>1 12</td><td>18 35</td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5a23f0be568cf644664e23a655d866f94bc44880213e40a30aecd7c442e6e06.jpg",
+        "img_caption": [
+            "Fig. 1. Southern African medicinal plants of current interest in product and crop development. 1st row (from left to right): Agathosma betulina, Aloe ferox, Artemisia afra, Aspalathus linearis; 2nd row: Cyclopia genistoides, C. maculata, Harpagophytum procumbens, Hoodia gordonii; 3rd row: Hypoxis hemerocallidea, Lippia javanica, Mesembryanthemum tortuosum, Pelargonium sidoides; 4th row: Siphonochilus aethiopicus, Sutherlandia frutescens, Warburgia salutaris and Xysmalobium undulatum. Photographer: B.-E. van Wyk. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1. Agathosma betulina (P.J. Bergius) Pillans (Rutaceae)-round leaf buchu ",
+        "text_level": 3,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Buchu is an important plant in the Khoi-San tradition (Van Wyk and Gericke, 2000) and still enjoys a great reputation as a general health tonic, diuretic and mild urinary antiseptic. The essential oil is a valuable flavour product (similar to cassis) and is probably responsible for the antispasmodic, antiseptic and diuretic activities (Wichtl and Bisset, 2000; Lis-Balchin et al., 2001). Isomenthone and diosphenol are the major volatile compounds (Kaiser et al., 1975; Posthumus et al., 1996). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Buchu is a resprouting shrub endemic to the Cape. Revisions by Pillans (1950) and Spreeth (1976) clarified the taxonomy of Agathosma betulina and related species but no published biosystematic studies are available. The essential oil components are well known (e.g. Kaiser et al., 1975; Posthumus et al., 1996) but the chemotaxonomic study of Collins et al. (1996) was the first to provide details of a chemical distinction between Agathosma betulina and the closely related Agathosma crenulata (L.) Pillans (oval leaf buchu), as well as their putative hybrids. Agathosma crenulata is less desirable because of potentially harmful levels of pulegone, which occur as the main compound in Agathosma crenulata oil (more than $30 \\%$ ) but less than $5 \\%$ in Agathosma betulina oil. No information is available on the variation in the main flavonoids (diosmin and hesperidin) despite their importance in quality control of buchu products (El-Shafae and El-Domiaty, 2001). Aspects of the autecology, genetics and chemical variation in Agathosma betulina are currently under investigation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2. Aloe ferox Mill. (Asphodelaceae)-bitter aloe, Cape aloe ",
+        "text_level": 3,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Aloe ferox is one of only a few plants depicted in San rock paintings (Reynolds, 1950). The bitter latex, tapped from the leaves by a traditional method and exported to Europe since 1761 (Marloth, 1915; Kruger and Beyers, 1977; Robertson, 1979; Forbes, 1986), is known commercially as “Cape aloes”. It has a long history of use in Africa and Europe as laxative medicine and is considered to have bitter tonic, anti-arthritic and anti-inflammatory properties (Newall et al., 1996; Blumenthal et al., 1998; Wichtl and Bisset, 2000; ESCOP, 2003). The laxative effect is due to anthroneC-glycosides, of which aloin (syn. barbaloin) is the main compound (Van Wyk et al., 1995). Aloin occurs in tapped and dried leaf juice of Aloe ferox (so-called “Cape aloes”) as a 1:1 mixture of aloin A and aloin B, at levels of about $10 \\mathrm { - } 2 8 \\%$ dry weight (Van Wyk et al., 1995). In recent years, the inner leaf parenchyma has become popular for skin care products and tonic drinks. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The taxonomy of Aloe ferox is well known (Reynolds, 1950; Glen and Hardy, 2000; Van Wyk and Smith, 2003) and the species limits have been broadened to include Aloe candelabrum A.Berger, which is morphologically and chemically almost identical (Viljoen et al., 1996). Variation in the phenolic compounds is well studied (Van Wyk et al., 1995). The gel polysaccharides are known to be of the arabinogalactan and rhamnogalacturonan types (Mabusela et al., 1990) but hardly any research has been done on the leaf gel components or their claimed biological activities. Aloe ferox gel differs substantially from that of Aloe vera L. (notably in the absence of acetylated sugars) but limited details are available (O’Brien, 2006; unpublished M.Sc. Thesis, University of Johannesburg). Only wildcrafted material is currently used, apparently without any damage to natural populations (Newton and Vaughan, 1996), but the situation may change if there is a strong increase in demand. It may be possible to develop selections and cultivars with superior growth and quality. Some genetic markers have been studied (Van der Bank et al., 1995a; Van der Bank and Van Wyk, 1996); markers such as RFPL, applied to gel identification of Aloe species by Shioda et al. (2003), may be useful to guide selection work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3. Artemisia afra Jacq. ex Willd. (Asteraceae)-wild wormwood ",
+        "text_level": 3,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This plant is one of the oldest and best-known of all the indigenous medicines in southern Africa and further north, up to Ethiopia. An exceptionally wide diversity of uses has been recorded (Dykman, 1908; Watt and Breyer-Brandwijk, 1962; Hutchings et al., 1996; Van Wyk et al., 1997; Neuwinger, 2000; Von Koenen, 2001), including the treatment of colds, influenza, cough, sore throat, asthma, pneumonia, blocked nose, stomach ailments, colic, flatulence, constipation, gastritis, poor appetite, heartburn, internal parasites, measles, headache, earache, gout, diabetes, malaria and wounds. The plant is a popular bitter tonic and appetite stimulant in the Cape region of South Africa (Dykman, 1908; Rood, 1994; Thring and Weitz, 2006). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The volatile oil is exceptionally variable (Graven et al., 1990; Lawrence, 1996; Viljoen et al., 2006), depending on the geographical origin. It is considered to be a useful substitute for armois oil. Often present are 1,8-cineole (eucalyptol), $ { \\alpha }$ -thujone, $\\beta$ -thujone, camphor and borneol, together with some sesquiterpenoids such as chrysanthenyl acetate. Ethiopean oil yielded yomogi alcohol and artemisyl acetate as dominant constituents (Worku and Rubiolo, 1996). Several sesquiterpene lactones (guaianolides and glaucolides) have been isolated from above-ground parts (Jakupovic et al., 1988). Non-volatile constituents also include triterpenes $\\scriptstyle ( \\alpha -$ amyrin, $\\beta$ -amyrin and friedelin) and alkanes (ceryl cerotinate and $N \\cdot$ -nonacosane) (Silbernagel et al., 1990), as well as surface flavonoids (methyl ethers of luteolin) (Wollenweber et al., 1989). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Artemisia afra has demonstrated antimicrobial (Graven et al., 1992; Gundidza, 1993; Rabe and Van Staden, 1997; Mangena and Muyima, 1999; Huffman et al., 2002; Jäger, 2003; Motsei et al., 2003; Van Vuuren and Viljoen, 2006; Viljoen et al., 2006; Vagionas et al., 2007), antioxidant (Graven et al., 1992; Burits et al., 2001), antimalarial (Weenen et al., 1990; Kraft et al., 2003; Clarkson et al., 2004; Gathirwa et al., 2007), anti-nematodal (McGaw et al., 2000), cardiovascular (hypotensive) (Guantai and Addae-Mensah, 1999), cytotoxic (Jenett-Siems et al., 2002) and sedative (Nielsen et al., 2004; Stafford et al., 2005) effects. Acute and chronic toxicity was studied by Mukinda and Syce (2007), who recorded acute intraperitoneal and oral $\\mathrm { L D } _ { 5 0 }$ values in mice of respectively 2.45 and $8 . 9 6 \\mathrm { g } / \\mathrm { k g }$ of aqueous Artemisia extract (which represented $1 0 \\%$ of the herb, w/w). In rats, a low chronic toxicity potential was demonstrated over a period of 3 months, with daily doses of 0.1 and $1 . 0 \\mathrm { g / k g }$ of aqueous extract. The chemotype of Artemisia and the level of thujone were not recorded. In humans, high doses of thujone can cause confusion, convulsions and coma but selected chemotypes (especially low thujone clones) are already grown on a small scale. The molecular genetics of Artemisia afra is currently under investigation in an attempt to gain insight into the regulatory mechanisms of artemisinin biosynthesis. In a comparison of Artemisia afra and A. annua, Van der Kooy et al. (2008) showed the value of a metabolomics approach for quality control purposes. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4. Aspalathus linearis (Burm.f.) R. Dahlgren (Fabaceae)-rooibos tea ",
+        "text_level": 3,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rooibos tea is a traditional herbal tea of the Khoi-San people of the Cedarberg region of the Cape. Commercialization started in 1904 and in 2003 exports to Germany alone exceeded local consumption. Rooibos tea has become popular as a health drink (Watt and Breyer-Brandwijk, 1962; Van Wyk et al., 1997; Burger and Wachter, 1998; Van Wyk and Gericke, 2000; Van Wyk and Wink, 2004) and as an ingredient in cosmetics. There is increasing evidence of anti-mutagenic and antioxidant effects (Von Gadow et al., 1997; Standley et al., 2001; Joubert et al., 2003; Marnewick et al., 2003, 2005). An animal study suggested the prevention of agerelated accumulation of lipid peroxidases in the brain (Inanami et al., 1995). Effects on cell division (Lamoˇs ová et al., 1997) and dermatological conditions (Shindo and Kato, 1991) suggest a rationale for the cosmetic use of rooibos tea extracts. See this volume for a more detailed review. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Aspalathus linearis is exceptionally variable in its morphology (Dahlgren, 1968, 1988) and phenolic chemistry (Rabe et al., 1994; Van Heerden et al., 2003). The chalcone aspalathin is the main phenolic compound and is used for quality control (Joubert, 1996; Bramati et al., 2002, 2003). The level varies greatly, from $1 \\mathrm { m g / g }$ for fermented tea up to $5 0 \\mathrm { m g / g }$ for green (unfermented) tea. The species is morphologically diverse and several different flavonoids are found in the main wild tea types. Considerable genetic diversity was detected by Van der Bank et al. (1995b). Only the so-called Red type or Rocklands type is cultivated, but there is a renewed interest in harvesting some of the wild types for niche markets (Van Wyk et al., 1997). In view of the large variation in the phenolic compounds of wild tea types (Van Heerden et al., 2003), the metabolomics approach may be useful in exploring the chemical rationale behind quality and flavour. Aspects of the seed biology, especially the relation between seed structure, dormany, germination and early seedling growth, were studied by Kelly and Van Staden (1985, 1987). Studies of the autecology and the role of fire in the regeneration of populations could be of value in further crop development. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5. Cyclopia genistoides (L.) R.Br. (Fabaceae)-honeybush tea ",
+        "text_level": 3,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Honeybush tea is a health beverage that has been wildharvested in parts of the Cape for centuries. The original product was made from Cyclopia genistoides (Marloth, 1925), a small shrub with narrow leaflets. The industry is small but is rapidly expanding, largely due to the work of De Lange (1997), who developed four species (Cyclopia genistoides, Cyclopia intermedia E. Mey., Cyclopia subternata Vogel and Cyclopia sessilifolia Eckl. & Zeyh.) into crop plants. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A detailed revision of the genus Cyclopia (Schutte, 1997) has resolved the species concepts but no biosystematic studies have yet been undertaken. As is the case with Aspalathus linearis, the fire-survival strategy (Schutte et al., 1995) and reproductive biology of these fynbos plants needs further study. Some species and populations are resprouters (they survive fire and sprout from the woody base) while others are reseeders—they are killed by fire and re-establish from seed. The seed physiology and seed germination of Cyclopia have been studied in detail (Sutcliffe and Whitehead, 1995; Whitehead and Sutcliffe, 1995) and some of the principles are already applied in commercial propagation. The phenolic constituents of honeybush tea were first studied by De Nysschen et al. (1996), who identified mangiferin and two flavonoids as the main compounds in practically all the species. Further work by Ferreira et al. (1998) described the total phenolic complexity in more detail, including the polyphenols in Cyclopia intermedia (Kamara et al., 2003). Metabolomics may be a useful approach to learn more about the relation between chemical compounds, flavour profiles, processing methods and tea quality. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6. Harpagophytum procumbens (Burch.) DC. ex Meissn. (Pedaliaceae)-devil’s claw ",
+        "text_level": 3,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Devils claw is an important traditional medicine and tonic of the indigenous people of the countries surrounding the Kalahari region of southern Africa (Angola, Botswana, Namibia, South Africa and Zimbabwe) but there is a surprising lack of historical records (Van Wyk et al., 1997; Van Wyk and Gericke, 2000). Dried secondary roots of this widely distributed perennial are used, mainly against arthritis, painful joints, dyspepsia and loss of appetite (Newall et al., 1996; Blumenthal et al., 1998; Wichtl and Bisset, 2000; ESCOP, 2003). Clinical studies, reviewed by Wegener (2000), Chrubasik et al. (2003) and Gagnier et al. (2004) have confirmed the mild analgesic and anti-inflammatory properties, usually ascribed to the iridoid glycosides (mainly harpagoside, with smaller amounts of harpagide and procumbide). Commercial product contains between $0 . 5 \\%$ and $3 \\%$ harpagoside. Other compounds (such as phytosterols and sugars) may also play a role, as total extracts are more active than the individual iridoids (Fiebich et al., 2001; Kaszkin et al., 2004). A paper by Stewart and Cole (2005) gives details about all aspects of the product and its commercial harvesting. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The basic taxonomy of Harpagophytum is known (Ihlenfeldt and Hartmann, 1970), but there is a need for biosystematic studies. The circumscription of some of the species and infraspecific taxa is not clear and the full morphological and chemical diversity remains to be explored. The taxa described by Ihlenfeldt and Hartmann (1970) include two species and five subspecies: Harpagophytum procumbens subsp. procumbens, Harpagophytum procumbens subsp. transvaalensis Ihlenf. & H.Hartm., Harpagophytum zeyheri Decne. subsp. zeyheri, Harpagophytum zeyheri subsp. schijffii Ihlenf. & H.Hartm. and Harpagophytum zeyheri subsp. sublobatum (Engl.) Ihlenf. & H.Hartm. Studies in our laboratory showed that harpagoside may be completely absent from some populations of H. zeyheri despite the fact that this species is regarded as an acceptable alternative to Harpagophytum procumbens (Czygan and Krüger, 1977). Chemical variation at population level should be studied over the entire distribution range of the various taxa. Several studies have focused on the sustainability of harvesting and propagation methods but a deeper understanding of the autecology and reproductive biology of Harpagophytum species will be of considerable value as a source of basic information to guide ongoing crop development and propagation protocols. Recently there has been a considerable amount of tissue culture work done on Harpagophytum by the Plant Research Centre, University of KwaZulu-Natal in Pietermaritzburg, as well as crop development work by the University of Munster, Germany. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.7. Hoodia gordonii (Masson) Sweet ex Decne (Apocynaceae)-hoodia, ghaap ",
+        "text_level": 3,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The use of Hoodia species to suppress hunger and thirst appears to be an ancient and widespread practise of the Khoi-San people that was first recorded by Marloth (1932). The appetite-suppressant effect is due to a patented pregnane compound known as P57 (Van Heerden et al., 1998). Hoodia has become an interesting test case for the idea of financial compensation to rural communities for intellectual property rights (in this case, benefit-sharing with KhoiSan communities). The USA-based company Pfiser has announced that they are not proceeding with clinical trials to develop an anti-obesity drug but large-scale commercial developments are nevertheless underway. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The genus Hoodia has been taxonomically revised by Whyte and Sloane (1937) and more recently by Bruyns (1993), with contributions on the nomenclature published by Plowes (1992, 1996). The species are beautifully illustrated and described in a recent book on the Stapelieae (Bruyns, 2005). Hoodia species are known to have small and widely dispersed populations that make them vulnerable to overexploitation. The distinct morphological differences between populations may also be reflected in chemical patterns but no chemotaxonomic or biosystematic information has hitherto been published. A detailed review is published elsewhere in this volume. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.8. Hypoxis hemerocallidea Fisch. & C.A. Mey. (Hypoxidaceae)-inkomfe, “African potato” ",
+        "text_level": 3,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The so-called African potato (a recent name created for commercial reasons) is a well-known Sotho and Zulu medicinal plant but surprisingly little traditional knowledge has been documented. Weak infusions and decoctions are taken as tonics against wasting diseases, including tuberculosis and cancer (Van Wyk and ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Gericke, 2000). Hypoxis has been used traditionally for benign prostatic hypertrophy and urinary tract infections, and as a laxative and vermifuge (Van Wyk et al., 1997). The traditional use for benign prostatic hypertrophy is ascribed to sitosterols (mainly $\\beta$ - sitosterol), which decrease testosterone levels through inhibition of $5 \\mathrm { - } \\alpha$ reductase, or by decreasing the binding of dihydrotestosterone within the prostate (Bruneton, 1999). The so-called “African potato” or inkomfe (Hypoxis hemerocallidea) has become a household name (Drewes and Horn, 1999) but extracts of the plant, including rooperol (Drewes et al., 1984) are no longer used for its patented (Drewes and Liebenberg, 1983) application against cancer. Likewise, the phytosterols used in immune-boosting products are no longer obtained from Hypoxis hemerocallidea (Pegel, 1973, 1997) but the corms of the plant are nevertheless processed on a small scale for various traditional tonics. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Taxonomic studies of Hypoxis are underway (Singh, 2003, cited in Germishuizen and Meyer, 2003) but the morphological, chemical and genetic diversity in Hypoxis hemerocallidea (formerly known as H. rooperi) remains unexplored. The plant is easy to grow but difficult to propagate, so that fundamental studies relating to the reproductive biology and seed physiology are obvious priorities. A considerable amount of work has already been done on tissue culture and seed germination (Page and Van Staden, 1984, 1986, 1987; Hammerton and Van Staden, 1988; Hammerton et al., 1989). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.9. Lippia javanica (Burm.f.) Spreng. (Verbenaceae)-fever tea ",
+        "text_level": 3,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lippia javanica is widely used as a tea to treat fever, coughs, colds and bronchitis (Watt and Breyer-Brandwijk, 1962; Smith, 1966; Hutchings et al., 1996; Van Wyk et al., 1997; Van Wyk and Gericke, 2000). Other traditional uses that have been recorded include stomach problems, influenza, measles, malaria and headache (Hutchings and Van Staden, 1994; Van Wyk et al., 1997; Van Wyk and Gericke, 2000). Strong infusions are also used topically to treat rashes, scabies and lice. Hot leaf infusions (sometimes with milk) are taken as a general health tea. A review of the traditional uses, chemistry and pharmacology was presented by Pascual et al. (2001). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This highly aromatic plant is rich in volatile oil that contains carvone, myrcene, myrcenone, caryophyllene, linalool, $p$ -cymene, piperitenone, ipsenone and ipsdienone (e.g. Neidlein and Staehle, 1974; Mwangi et al., 1992; Chagonda et al., 2000; Manenzhe et al., 2004; Viljoen et al., 2005). The oil composition varies considerably within and between populations and five different chemotypes were identified by Viljoen et al. (2005), with myrcenone, carvone, piperitenone, ipsenone or linalool, respectively as main compounds. The related Lippia scaberrima Sond. is also used in much the same way but the oil contains mainly carvone, 1,8-cineole and limonene (Combrinck et al., 2006). Iridoid glycosides (Rimpler and Sauerbier, 1986) and toxic triterpenoids (icterogenins) such as lantadene A and icterogenin have been detected in some Lippia species (Barton and De Mayo, 1954). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The essential oil of Lippia javanica shows moderate antimicrobial activity against respiratory pathogens (Manenzhe et al., 2004; Viljoen et al., 2005) and promising anti-inflammatory activity (Frum and Viljoen, 2006). It may be interesting to study the possible role of non-volatile components, especially in terms of fever-reducing and possible pain-relieving activities. Animal poisoning and photosensitisation have been ascribed to the icterogenins (Watt and Breyer-Brandwijk, 1962; Van Wyk et al., 2002; Kellerman et al., 2005). The oil has moderate repellent activity against mosquitoes (Omolo et al., 2004). The paper by Viljoen et al. (2005) has highlighted the need for chemotaxonomic and biosystematic studies. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.10. Mesembryanthemum tortuosum L. [syn. Sceletium tortuosum (L.) N.E. Br.] (Mesembryanthemaceae)-sceletium, kougoed ",
+        "text_level": 3,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Kougoed, kanna, channa or sceletium is a traditional sedative of the Khoi-San people of the dry western regions of South Africa. The uses and properties of the plant have been known ever since it was first documented by the Cape Governor, Simon van Stel, in 1685 (Hartwich, 1911; Zwicky, 1914; Watt and Breyer-Brandwijk, 1962; Watt, 1967; De Wet and Pheiffer, 1979; Forbes, 1986; Smith et al., 1996a; Van Wyk and Gericke, 2000; Van Wyk and Wink, 2004; Scott and Hewett, 2008) but it is only recently that crop and product development have been initiated. The activity of the plant is ascribed to mesembrine and other alkaloids, which have been shown to act as serotonin reuptake inhibitors (Gericke and Van Wyk, 1997). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The plant is a small, short-lived perennial succulent with fleshy leaves that become papery and sceletonised in the dry season, hence the scientific name Sceletium. A large number of doubtful species have been described but a detailed taxonomic revision is available (Gerbaulet, 1996). At the generic level, the relationships and age of basal lineages within the family (and specifically the subfamily Mesembryanthemoideae) have been reported by Klak et al. (2004). A recent study has shown that the entire subfamily represents a single genus (Klak et al., 2007) and all the existing genera were formally subsumed under the genus Mesembryanthemum. A survey of alkaloids in the family (Smith et al., 1996a; Gaffney, 2006) showed that several genera and species produce alkaloids. The species of commercial interest is Mesembryanthemum tortuosum, a highly variable plant with a wide distribution range (Gerbaulet, 1996). It differs from the seven close relatives in having straight secondary veins, prominent idioblasts, incurved leaf tips and imbricate leaves (Gerbaulet, 1996). Variation studies in our laboratory has shown that some populations of Mesembryanthemum tortuosum are practically devoid of mesembrine-type alkaloids, while others have high yields of up to $2 . 4 \\%$ of dry weight. As with so many African plants, the full morphological, chemical and genetic diversity of the species remains unknown, despite commercial interests. A more detailed review of Mesembryanthemum tortuosum can be found elsewhere in this volume. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.11. Pelargonium sidoides DC. (Geraniaceae)-umckaloabo, rabas ",
+        "text_level": 3,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Traditional knowledge about this commercially important plant is poorly recorded (Smith, 1895; Van Wyk and Gericke, 2000). The ethnobotanical and commercial history of the plant is reviewed by Brendler and Van Wyk (this volume). The tuberous roots are the raw material for an important German phytomedicine used mainly to treat acute bronchitis and infections of the upper respiratory tract (e.g. Matthys et al., 2003; Agbabiaka et al., 2008). Various biological activities have been reported, including immune stimulation (Kayser et al., 2001), NO-induction and antibiotic effects (Kayser and Kolodziej, 1997; Kolodziej et al., 2003). Recent studies showed clinically significant effects on nasal epithelial cells (Neugebauer et al., 2005) and activity against mycobacteria (Seidel and Taylor, 2004; Mativandlela et al., 2007). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The medicinal properties are ascribed to at least eight different coumarins, of which umckalin and 5,6,7-methoxycoumarin are useful marker compounds (Kayser and Kolodziej, 1994, 1995, 1997; Kolodziej and Kayser, 1998; Kayser et al., 2001). Also present in the roots are gallic acids and methyl esters of gallic acids, as well as flavonoids (quercetin), flavan-3-ols (catechin, gallocatechin) and phytosterols (sitosterol-3-gluoside). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The plant is a small perennial herb with tuberous rhizomes, rounded to heart-shaped and slightly silky leaves on long petioles, and small tubular flowers that are dark maroon red to almost black (Van der Walt, 1988; Dreyer and Marais, 2000; Van Wyk and Wink, 2004). The closely related Pelargonium reniforme is morphologically very similar but has pink flowers (Van der Walt, 1977; Dreyer and Marais, 2000). Morphological distinction of the dried product is extremely difficult, so that chemical analysis is the only reliable method. The major constituents in Pelargonium sidoides are umckalin and its 7-O-methylether $( = 5 , 6 , 7 .$ - trimethoxycoumarin) but these compounds are characteristically low or absent in Pelargonium reniforme (Kolodziej and Kayser, 1998). Aspects of the micropropagation and morphological diversity of the species were reported by Lewu et al. (2006, 2007). A detailed study by White et al. (2008) has given valuable new insights into the effects of environmental stimuli on the level of umckalin in roots of wild and cultivated plants. No published information is as yet available on the basic biology, biosystematics and genetic diversity of Pelargonium sidoides and its relation with Pelargonium reniforme despite the commercial importance of these plants. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.12. Siphonochilus aethiopicus (Schweinf.) B.L.Burtt (Zingiberaceae)-African ginger ",
+        "text_level": 4,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "African ginger is one of the most important and most popular of all traditional medicinal plants of southern Africa (Watt and Breyer-Brandwijk, 1962; Van Wyk et al., 1997; Van Wyk and Gericke, 2000; Van Wyk and Wink, 2004). The rhizomes and roots are used for a variety of ailments, including coughs, colds, asthma, headache, candida and malaria (Watt and Breyer-Brandwijk, 1962; Van Wyk et al., 1997; Van Wyk and Gericke, 2000; Crouch et al., 2000). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "African ginger is a deciduous geophyte with large, hairless leaves, a cone-shaped rhizome and spectacular pink flowers. Most plants are bisexual, and they have much larger flowers than female plants. The small, berry-like fruits are borne below or above the ground (Kam, 1980; Gordon-Gray et al., 1989; Smith, 1998; Van Wyk et al., 1997; Van Wyk and Gericke, 2000; Crouch et al., 2000; Van Wyk and Wink, 2004). The plant is morphologically uniform but genetically very polymorphic (Makhuvha et al., 1997). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "No comprehensive taxonomic studies have yet been done on the genus Siphonochilus and related genera and available knowledge comes mainly from Flora treatments (Smith, 1998). The exact distribution of the species in Africa remains poorly known and no comprehensive distribution maps have yet been published. The main commercial species, Siphonochilus aethiopicus, is relatively well known as a result of its popularity in traditional medicine and concerns about it conservation status. It is often quoted as being locally extinct in some parts of South Africa as a result of overexploitation. However, the plant is exceptionally easy to propagate and cultivate, so that small-scale cultivation is already underway. Aspects of the reproductive biology were studied by Gordon-Gray et al. (1989) but much interesting work remains to be done. The major chemical constituents are sesquiterpenoids of the furanoid type (Van Wyk et al., 1997; Holzapfel et al., 2002) and chemical variation studies are ongoing. The composition of the essential oil was described by Viljoen et al. (2002). It contains high concentrations (up to $0 . 2 \\%$ of dry weight) of a single compound loosely referred to as Siphonochilus sesquiterpenoid or siphonochilone (Van Wyk et al., 1997; Holzapfel et al., 2002; Viljoen et al., 2002). Extreme genetic diversity was observed in a natural population (Makhuvha et al., 1997), allowing for genetic fingerprinting at the clonal level. Further work showed that most of the southern provenances represent a single clone (Makhuvha et al., unpublished results) confirming traditional knowledge (C. Mutwa, personal communication to BEvW) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "that African ginger (isiphephetho in isiZulu) is an ancient Zulu crop plant of tropical African origin. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.13. Sutherlandia frutescens (L.) R.Br. [syn. Lessertia frutescens (L.) Goldblatt & J.C.Manning] (Fabaceae)-cancer bush, sutherlandia ",
+        "text_level": 4,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The traditional claim that cancer bush “can be used for almost any disease” is perhaps the reason why this plant has never in the past received the serious attention that it deserved. The wide diversity of historical uses has been documented by Smith (1895), Watt and Breyer-Brandwijk (1962) and in more detail by Van Wyk and Albrecht (this volume). The plant is widely used by many cultural groups for fever, poor appetite, unspecified wasting diseases, indigestion, gastritis, oesophagitis, peptic ulcer, dysentery, cancer tonic (prevention and treatment), diabetes, colds, influenza, cough, asthma, chronic bronchitis, kidney and liver conditions, rheumatism, heart failure, urinary tract infections and stress and anxiety. Recent clinical anecdotes suggest dramatic improvements in the quality of life in HIV/AIDS patients, apparently by counter-acting the muscle-wasting (cachexia) effect of AIDS. A detailed safety study has been completed by the Medicine Research Council of South Africa, showing no signs of toxicity in more than 50 parameters tested (Seier et al., 2002). Like-wise, a clinical (phase I) study (Johnson et al., 2007) found that $8 0 0 \\mathrm { m g } ,$ /day was well tolerated, with no indications of toxicity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chemical compounds isolated from the plant include pinitol, triterpenoid saponins (e.g. SU1), flavonoids and several free amino acids, including l-canavanine and GABA. Canavanine is a potent l-arginine antagonist and has documented anticancer (Swaffar, 1995; Crooks and Rosenthal, 1994) and antiviral activity, including inhibition of the influenza virus and retroviruses (Green, 1988). Canavanine is also an inhibitor of nitric oxide synthase and has potential for the treatment of septic shock. Pinitol is a known anti-diabetic agent that may have an application in treating wasting in cancer and AIDS (Ostlund and Sherman, 1996). Possible anti-diabetic uses have been reviewed by Sia (2004). GABA is an inhibitory neurotransmitter that could partly account for the use of Sutherlandia for anxiety and stress (Moteetee and Van Wyk, 2007). Recent studies have reported anti-cancer and antimutagenic effects (Tai et al., 2004; Reid et al., 2006; Stander et al., 2007), anti-HIV activity (Harnett et al., 2005) as well as stressrelieving properties (Prevoo et al., 2004; Smith and Myburgh, 2004). The complex mixtures of saponins and flavonoids are the subject of ongoing studies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sutherlandia represents an intricate species complex with countless regional forms, genotypes and chemotypes. The basic taxonomy of Phillips and Dyer (1934) was revised by Moshe (1998), who recognized only two species, with several subspecies. Goldblatt and Manning (2000) reduced the genus into synonymy under Lessertia, and made the new combination Lessertia frutescens (L.) Goldblatt & J.C. Manning. This may be correct, but there are as yet no convincing morphological or molecular systematic studies to show that Sutherlandia is indeed nested within the genus Lessertia as the proposed new classification system suggests. Both names (Sutherlandia frutescens and Lessertia frutescens) are therefore widely used for the same plant. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Genetic diversity in Sutherlandia was explored using enzyme electrophoresis (Moshe et al., 1998). It was found that the distinct morphological diversity (especially in fruit characters) is not reflected in the enzyme patterns. However, the idea that some hairy forms of Sutherlandia frutescens resulted from introgression with Sutherlandia tomentosa Eckl. & Zeyh. was supported by the study. The complexity in terpenoid and flavonoid patterns was first reported by Moshe (1998) and further work is ongoing. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.14. Warburgia salutaris (Bertol.f.) Chiov. (Canellaceae)-pepperbark tree ",
+        "text_level": 4,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Knowledge about this traditional medicine is surprisingly poorly recorded considering its obvious importance and popularity. It is one of the great tonics and panaceas of southern Africa—the specific name salutaris means “salutory to health”. The bark is usually taken orally in a powdered form, or as infusions and decoctions. Warburgia is used as a tonic for all health conditions, including fever, malaria, colds, influenza, venereal diseases, abdominal pain, constipation, cancer, rheumatism, stomach ulcers, headache, as an expectorant in coughs, and as a natural antibiotic to treat chest infections (Hutchings et al., 1996; Van Wyk and Gericke, 2000). Tablets made from the leaves are used as a natural antibiotic, thought to be effective against oral and oesophageal thrush. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The basic taxonomy of Warburgia species was revised by Verdcourt (1955, 1990) and Codd (1976) but the relationships between the species and subspecies have remained poorly known. The described taxa are Warburgia elongata Verdc., Warburgia salutaris, Warburgia stuhlmannii Engl., Warburgia ugandensis Sprague subsp. ugandensis and Warburgia ugandensis subsp. longifolia Verdc. There are no modern studies exploring the circumscription and status of these taxa, but work is underway at the University of KwaZulu-Natal to study the genetic variation in Warburgia. Preliminary results revealed genetic differences in support of the idea of three taxa. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The bark contains drimane sesquiterpenoids such as warburganal and polygodial, both of which are known to be active against candida. Polygodial is potentially useful in clinical medicine as an adjuvant to treatment with antibiotics and antifungals that have poor membrane permeability (Iwu, 1993). The compounds found in Warburgia salutaris (Mashimbye et al., 1999) include warburganal, mukaadial, salutarisolide, polygodial and isopolygodial, as well as muzigadial (Rabe and Van Staden, 2000). There are numerous phytochemistry reports based on single samples but possible differences between populations and species have hardly received any attention. Kioy et al. (1990) found no consistent differences in the sesquiterpenes and leaf volatile oils between Warburgia ugandensis and Warburgia stuhlmannii. A thorough biosystematic study of the genus Warburgia over its entire distribution range in Africa would clearly yield useful results. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.15. Xysmalobium undulatum (L.) W.T.Aiton (Apocynaceae)-uzara ",
+        "text_level": 4,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This important medicinal plant has a long history of traditional and commercial use, not only in South Africa (where it has been cultivated since 1904), but also in Germany, where it was introduced into the pharmaceutical market in 1911 (Ghorbani et al., 1997). The traditional uses have been recorded by Thunberg (Forbes, 1986), Watt (1935), Watt and Breyer-Brandwijk (1962), Pujol (1990), Hutchings and Van Staden (1994), Hutchings et al. (1996), Van Wyk et al. (1997) and Von Koenen (2001). Decoctions of the bitter roots have been used since early times for stomach cramps, diarrhoea, colic and afterbirth cramps, while powdered root is sniffed to treat headache and hysteria or applied to wounds and abscesses. In Germany, extracts are used commercially against non-specific, acute diarrhoea. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The active ingredients are cardenolide glycosides, the structures of which were finally elucidated by Ghorbani et al. (1997). Uzarin and xysmalorin are the major compounds, with smaller amounts of allouzarin and alloxysmalorin. These glycosides are known for their inhibitory effect on intestinal motility and their digitalis-like effects on the heart at high doses (e.g. Wichtl and Bisset, 2000). Recent investigations focused on antibacterial and antifungal activity (Buwa and Van Staden, 2006), possible CNS-activity (Stafford et al., 2005), antibacterial, antioxidant and fibroblast growth stimulation activities (Steenkamp et al., 2004), serotonin reuptake inhibition (Nielsen et al., 2004) and antiplasmodial activity (Clarkson et al., 2004). The extent of variation in the main cardiac glycosides is not yet known. A paper dealing with Xysmalobium undulatum is included in this volume. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The commercialization of southern African medicinal plants is a process that has been rapidly gaining momentum during the last 10 years. Before 1995, only nine of the 15 plants reviewed here have been developed to any extent. These are Agathosma betulina, Aloe ferox, Aspalathus linearis, Cyclopia species, Harpagophytum procumbens, Hypoxis hemerocallidea, Lippia javanica, Pelargonium sidoides and Xysmalobium undulatum). The remaining six (Artemisia afra, Hoodia gordonii, Mesembryanthemum tortuosum, Siphonochilus aethiopicus, Sutherlandia frutescens and Warburgia salutaris) are newcomers to the formal pharmaceutical market. The recent commercial interests in these species have also sparked a rapid increase in scientific research. Twelve years ago, there were hardly any scientific papers on the pharmaceutical activity of these plants, as is shown in Table 2. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The need for fundamental studies, and specifically the biosystematics of commercially relevant species, was discussed by Van Wyk (1996) who proposed that “biosystematics can play an important role to ensure that we grasp the commercial opportunities provided by our genetically diverse flora”. These sentiments were echoed by Smith et al. (1996b), who provided a list of activities of the Plant Systematics Stimulation Programme (later the Working Group for Plant Systematics) to promote systematics research and concluded that “With its unsurpassed botanical diversity, southern Africa holds natural resources of global significance”. The development of medicinal plants species into new products and new crops is a complicated process that requires a multidisciplinary approach, involving biosystematics, ethnobotany, organic chemistry, pharmacology and horticulture. There is a need for taxonomic and systematic studies of the plants and their relatives in order to better understand the full genetic and metabolic diversity at population and clonal levels, ethnobotanical studies to document and explore the socio-cultural context of the medicinal plants, chemical studies to identify the active chemical compounds or marker compounds, pharmacological studies to determine the mode of action, horticultural or autecological studies to find out if the plants are suitable for large-scale production or sustainable harvesting and finally, studies of the reproductive biology of the plants to develop propagation protocols and to guide crop development. The starting point for new innovations in the future will be fundamental biological knowledge about the species, including their phylogeny, taxonomy, genetics, chemical variation and reproductive biology. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This review is based on a lecture presented at a symposium on African plants during the 2005 Annual Meeting of the Botanical Society of Japan in Toyama, organized by Prof Toshiya Muranaka (RIKEN Plant Science Center and Yokohama City University). Funding by the National Research Foundation of South Africa and the University of Johannesburg for ethnobotanical and chemosystematic studies of South African medicinal plants is gratefully acknowledged. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Agbabiaka, T.B., Guo, R., Ernst, E., 2008. Pelargonium sidoides for acute bronchitis: a systematic review and meta-analysis. Phytomedicine 15, 378–385.   \nArnold, T.H., Prentice, C.A., Hawker, L.C., Snyman, E.E., Tomalin, M., Crouch, N.R., Pottas-Bircher, C., 2002. Medicinal and Magical Plants of Southern Africa: An Annotated Checklist Strelitzia 13. National Botanical Institute, Pretoria.   \nBarton, D.H.R., De Mayo, P., 1954. Triterpenoids. Part XV. The constitution of icterogenin, a physiologically active triterpenoid. Journal of the Chemical Society 1954, 887–900.   \nBlumenthal, M., Busse, W.R., Goldberg, A., Gruenewald, J., Hall, T., Riggins, C.W., Rister, R.S. (Eds.), 1998. The Complete German Commission E Monographs. American Botanical Council, Austin, Texas, ISBN 0-9655555-0-X.   \nBramati, L., Minoggio, M., Gardana, C., Simonetti, P., Mauri, P., Pietta, P., 2002. Quantitative characterization of flavonoid compounds in Rooibos tea (Aspalathus linearis) by LC-UV/DAD. Journal of Agricultural and Food Chemistry 50, 5513–5519.   \nBramati, L., Aquilano, F., Pietta, P., 2003. Unfermented rooibos tea: quantitative characterization of flavonoids by HPLC-UV and determination of the total antioxidant activity. Journal of Agricultural and Food Chemistry 51, 7472– 7474.   \nBruneton, J., 1999. Pharmacognosy, Phytochemistry, Medicinal plants, 2nd ed. Lavoisier, Paris, ISBN 2-7430-0028-7.   \nBruyns, P.V., 1993. A revision of Hoodia and Lavrania (Asclepiadaceae-Stapelieae). Botanische Jahrbücher für Systematik 115, 145–270.   \nBruyns, P.V., 2005. Stapeliads of Southern Africa and Madagascar, vols. 1 and 2. Umdaus Press, Hatfield. ISBN 1-919766-37-5 (vol. 1), ISBN 1-919766-38-3 (vol. 2).   \nBurger, A., Wachter, H. (Eds.), 1998. Hunnius Pharmazeutisches Wörterbuch, 8th ed. Walter de Gruyter, Berlin, ISBN 3-11-015792-6.   \nBurits, M., Asres, K., Bucar, F., 2001. The antioxidant activity of the essential oils of Artemisia afra, Artemisia abyssinica and Juniperus procera. Phytotherapy Research 15, 103–108.   \nBuwa, L.V., Van Staden, J., 2006. Antibacterial and antifungal activity of traditional medicinal plants used against venereal diseases in South Africa. Journal of Ethnopharmacology 103, 139–142.   \nChagonda, L.S., Makanda, C.D., Chalchat, J., 2000. Essential oils of wild and cultivated Lippia javanica (Spreng.) and L. oatessi (Rolfe) from Zimbabwe. Journal of Essential Oil Research 12, 1–6.   \nChrubasik, S., Conradt, C., Black, A., 2003. The quality of clinical trials with Harpagophytum procumbens. Phytomedicine 10, 613–623.   \nClarkson, C., Maharaj, V.J., Crouch, N.R., Grace, O.M., Pillay, P., Matsabisa, M.G., Bhagwandin, N., Smith, P.J., Folb, P.I., 2004. In vitro antiplasmodial activity of medicinal plants native to or naturalised in South Africa. Journal of Ethnopharmacology 92, 177–191.   \nCodd, L.E., 1976. Canellaceae. Flora of Southern Africa 22, 39–41. Botanical Research Institute, Pretoria.   \nCollins, N.F., Graven, E.H., Van Beek, T.A., Lelyveld, G.P., 1996. Chemotaxonomy of commercial buchu species (Agathosma betulina and A. crenulata). Journal of Essential Oil Research 8, 223–228.   \nCombrinck, S., Bosman, A.A., Botha, B.M., Du Plooy, W., McCrindle, R.I., Retief, E., 2006. Effects of post-harvest drying on the essential oil and glandular trichomes of Lippia scaberrima Sond. Journal of Essential Oil Research 18, 80–84.   \nCrooks, P.A., Rosenthal, G.A., 1994. Use of l-canavanine as a chemotherapeutic agent for the treatment of pancreatic cancer. United States Patent no. 5,552,440 (filed 5 December).   \nCrouch, N.R., Lötter, M.C., Krynauw, S., Pottas-Bircher, C., 2000. Siphonochilus aethiopicus (Zingiberaceae), the Prized Indungulu of the Zulu—an overview. Herbertia 55, 115–129.   \nCunningham, A.B., 1988. An investigation of the herbal medicine trade in Natal/KwaZulu. Investigational Report No. 29. Institute for Natural Resources, University of KwaZulu-Natal, Pietermaritzburg.   \nCzygan, F.-C., Krüger, A., 1977. Pharmazeutisch-biologische Untersuchungen der Gattung Harpagophytum. Planta Medica 31, 305–307.   \nDahlgren, R., 1968. Revision of the genus Aspalathus. II. The species with ericoid and pinoid leaflets. Subgenus Nortieria. With remarks on Rooibos Tea Cultivation. Botaniska Notiser 121, 165–208.   \nDahlgren, R., 1988. Crotalarieae (Aspalathus). Flora of Southern Africa 16,3 1–430. Botanical Research Institute, Pretoria.   \nDe Lange, H., 1997. Honeybush tea-information-19 May 1997. National Botanical Institute, Claremont, in Afrikaans.   \nDe Nysschen, A.M., Van Wyk, B.-E., Van Heerden, F.R., Schutte, A.L., 1996. The major phenolic compounds in the leaves of Cyclopia species (honeybush tea). Biochemical Systematic and Ecology 24, 243–246.   \nDe Wet, G.C., Pheiffer, R.H. (Eds.), 1979. Simon van der Stel’s journey to Namaqualand in 1685. Human & Rossouw, Cape Town.   \nDiederichs, E. (Ed.), 2006. Commercialising Medicinal Plants. A Southern African guide. Sun Press, Stellenbosch, ISBN 1-919980-83-0.   \nDrewes, S.E., Hall, A.J., Learmonth, R.A., Upfold, U.J., 1984. Isolation of hypoxoside from Hypoxis rooperi and synthesis of (E)-1,5-bis(3′,4′-dimethoxyphenyl) pent4-en-1-yne. Phytochemistry 23, 1313–1316.   \nDrewes, S.E., Horn, M.M., 1999. The ‘African Potato’. Hypoxis hemerocallidea-myth or miracle muthi? Plant Life 20, 29.   \nDrewes, S.E., Liebenberg, R.W., 1983. Extracts of plants from the Hypoxidaceae family for treatment of cancer. European Patent EP 92226 (filed 26 October).   \nDreyer, L.L., Marais, E.M., 2000. Section Reniformia, a new section in the genus Pelargonium (Geraniaceae). South African Journal of Botany 66, 44–51.   \nDykman, E.J., 1908. De Suid Afrikaanse Kook-, Koek- en Resepte Boek, 14th improved impression. Paarl Printers Ltd., Paarl (Cape Colony), South Africa.   \nEl-Shafae, A.M., El-Domiaty, M.M., 2001. Improved LC methods for the determination of diosmin and/or hesperidin in plant extracts and pharmaceutical formulations. Journal of Pharmaceutical and Biomedical Analysis 26, 539–545.   \nESCOP (Ed.), 2003. Monographs on the Medicinal Uses of Plant Drugs, 2nd ed. European Scientific Cooperative on Phytotherapy, Exeter.   \nFerreira, D., Kamara, B.I., Brandt, E.V., Joubert, E., 1998. Phenolic compounds from Cyclopia intermedia (honeybush tea). Journal of Agricultural and Food Chemistry 46, 3406–3410.   \nFiebich, B.L., Heinrich, M., Hiller, K.O., Kammerer, N., 2001. Inhibition of TNF-alpha synthesis in LPS-stimulated primary human monocytes by Harpagophytum extract SteiHap 69. Phytomedicine 8, 28–30.   \nForbes V.S. (Ed.), 1986. Carl Peter Thunberg Travels at the Cape of Good Hope 1772–1775. Van Riebeeck Society Cape Town, ISBN: 0620109815.   \nFrum, Y., Viljoen, A.M., 2006. In vitro 5-lipoxygenase activity of three indigenous South African aromatic plants used in traditional healing and the stereospecific activity of limonene in the 5-lipoxygenase assay. Journal of Essential Oil Research 18, 85–88.   \nGaffney, C.D., 2006. A Study of Mesembryanthemaceae Alkaloids. M.Sc. Thesis (Chemistry). University of Johannesburg.   \nGagnier, J.J.S., Chrubasik, S., Manheimer, E., 2004. Harpagophytum procumbens for osteoarthritis and low back pain: a systematic review. BMC Complementary and Alternative Medicine 4, 13–22.   \nGathirwa, J.W., Rukunga, G.M., Njagi, E.N.M., Omar, S.A., Guantai, A.N., Muthaura, C.N., Mwitari, P.G., Ndiege, I.O., 2007. In vitro anti-plasmodial and in vivo antimalarial activity of some plants traditionally used for the treatment of malaria by the Meru community in Kenya. Journal of Natural Medicines 61, 261–268.   \nGeldenhuys, C.J., Van Wyk, B.-E., 2002. Indigenous biological resources of Africa. In: Baijnath, H., Singh, Y. (Eds.), Rebirth of Science in Africa. Umdaus Press, Hatfield, ISBN 1-919766-23-5.   \nGerbaulet, M., 1996. Revision of the genus Sceletium N. E. Br. (Aizoaceae). Botanische Jahrbücher für Systematik 118, 9–24.   \nGericke, N., Van Wyk, B-E., 1997. Pharmaceutical compositions containing mesembrine and related compounds. PCT/GB97/01493 (filed 3 June).   \nGermishuizen, G., Meyer, N.L. (Eds.), 2003. Plant of Southern Africa: An Annotated Checklist. Strelitzia 14. National Botanical Institute, Pretoria.   \nGhorbani, M., Kaloga, M., Frey, H.-H., Mayer, G., Eich, E., 1997. Phytochemical reinvestigation of Xysmalobium undulatum roots (Uzara). Planta Medica 63, 343–346.   \nGlen, H.F., Hardy, D.S., 2000. Aloaceae. Flora of Southern Africa, vol. 5. Part 1. Fascicle 1: Aloaceae (First part): Aloe. National Botanical Institute, Pretoria.   \nGoldblatt, P., Manning, J., 2000. Cape Plants. A Conspectus of the Cape Flora of South Africa. Strelitzia 9. National Botanical Institute, Pretoria.   \nGordon-Gray, K.D., Cunningham, A.B., Nichols, G.R., 1989. Siphonochilus aethiopicus (Zingiberaceae): observations on floral and reproductive biology. South African Journal of Botany 55, 281–287.   \nGraven, E.H., Webber, L., Venter, M., Gardner, J.B., 1990. The development of Artemisia afra (Jacq.) as a new essential oil crop. Journal of Essential Oil Research 2, 215–220.   \nGraven, E.H., Deans, S.G., Svoboda, K.P., Mavi, S., Gundidza, M.G., 1992. Antimicrobial and antioxidative properties of the volatile (essential) oil of Artemisia afra Jacq. Flavour and Fragrance Journal 7, 121–123.   \nGreen, M.H., 1988. Method of treating viral infections with amino acid analogs. United States Patent no. 5,110,600 (filed 25 January).   \nGuantai, A.N., Addae-Mensah, I., 1999. Cardiovascular effect of Artemisia afra and its constituents. Pharmaceutical Biology 37, 351–356.   \nGundidza, M., 1993. Antifungal activity of essential oil from Artemisia afra Jacq. Central African Journal of Medicine 39, 140–142.   \nHammerton, R.D., Van Staden, J., 1988. Seed germination of Hypoxis hemerocallidea. South African Journal of Botany 54, 277–280.   \nHammerton, R.D., Smith, M.T., Van Staden, J., 1989. Factors influencing seed variability and germination in Hypoxis hemerocallidea. Seed Science and Technology 17, 613–624.   \nHarnett, S.M., Oosthuizen, V., Van de Venter, M., 2005. Anti-HIV activities of organic and aqueous extracts of Sutherlandia frutescens and Lobostemon trigonus. Journal of Ethnopharmacology 96, 113–119.   \nHartwich, C., 1911. Die menschlichen Genussmittel; Ihre Herkunft, Verbreitung, Geschichte, Anwendung, Bestandteile und Wirkung. Chr. Herm., Leipzig.   \nHolzapfel, C.W., Marais, W., Wessels, P.L., Van Wyk, B.-E., 2002. Furanoterpenoids from Siphonochilus aethiopicus. Phytochemistry 59, 405–407.   \nHuffman, A., Klepser, M.E., Ernst, E.J., Keele, D., Roling, E., Viljoen, A.M., 2002. Susceptibility of opportunistic bacteria and yeasts to the volatile oils of Artemisia afra, Lippia javanica, Lippia scaberrima, Myrothamnus flabellifolius and Osmitopsis asteriscoides. Journal of Infectious Disease Pharmacotherapy 5, 43–50.   \nHutchings, A., Scott, A.H., Lewis, G., Cunningham, A., 1996. Zulu Medicinal Plants. Natal University Press, Pietermaritzburg, ISBN 0-86980-923-7.   \nHutchings, A., Van Staden, J., 1994. Plants used for stress-related ailments in traditional Zulu, Xhosa and Sotho medicine. Part 1. Plants used for headaches. Journal of Ethnopharmacology 43, 89–124.   \nIhlenfeldt, H.-D., Hartmann, H., 1970. Die Gattung Harpagophytum (Burch) DC. ex Meissn. Mitteilungen aus dem Institut für Allgemeine Botanik in Hamburg 13, 15–69.   \nInanami, O., Asanuma, T., Inukai, N., Jin, T., Shimokawa, S., Kasai, N., Nakano, M., Sato, F., Kuwabara, M., 1995. The suppression of age-related accumulation of lipid peroxides in the rat brain by administration of rooibostea (Aspalathus linearis). Neuroscience Letters 196, 85–88.   \nIwu, M.M., 1993. Handbook of African Medicinal Plants. CRC Press, Boca Raton.   \nJäger, A.K., 2003. Evaluation of antibacterial activity of traditionally prepared South African remedies for infections. South African Journal of Botany 69, 595–598.   \nJakupovic, J., Klemeyer, H., Bohlmann, F., Graven, E.H., 1988. Glaucolides and guaianolides from Artemisia afra. Phytochemistry 27, 1129–1133.   \nJenett-Siems, K., Kohler, I., Kraft, C., Beyer, G., Melzig, M.F., Eich, E., 2002. Cytotoxic constituents from Exostema mexicanum and Artemisia afra, two traditionally used plant remedies. Pharmazie 57, 351–352.   \nJohnson, Q., Syce, J., Nell, H., Rudeen, K., Folk, W.R., 2007. A randomized, double-blind, placebo-controlled trial of Lessertia frutescens in healthy adults. PLoS Clinical Trials 2 (4), art. no. e16.   \nJoubert, E., 1996. HPLC quantification of the dihydrochalcones, aspalathin and nothofagin in rooibos tea (Aspalathus linearis) as affected by processing. Food Chemistry 55, 403–411.   \nJoubert, E., Winterton, P., Britz, T.J., Ferreira, D., 2003. Superoxide anion and \u0002,\u0002- diphenyl- $_ { \\cdot \\mathsf { \\{ \\{ \\beta \\} } } $ -picrylhydrazyl radical scavanging capacity of rooibos (Aspalathus linearis) aqueous extracts, crude phenolic fractions, tannin and flavonoids. Food Research International 37, 133–138.   \nKaiser, R., Lamparsky, D., Schudel, P., 1975. Analysis of buchu leaf oil. Journal of Agricultural and Food Chemistry 23, 943–950.   \nKam, Y.K., 1980. Taxonomic studies in the genus Kaempferia (Zingiberaceae). Notes of the Royal Botanic Garden (Edinburgh) 39, 1–12.   \nKamara, B.I., Brandt, E.V., Ferreira, D., Joubert, E., 2003. Polyphenols from honeybush tea (Cyclopia intermedia). Journal of Agricultural and Food Chemistry 51, 3874–3879.   \nKaszkin, M., Beck, K.F., Koch, E., Erdelmeier, C., Kusch, S., Pfeilschifter, J., Loew, D., 2004. Downregulation of iNOS expression in rat mesangial cells by special extracts of Harpagophytum procumbens derives from harpagoside-dependent and independent effects. Phytomedicine 11, 585–595.   \nKayser, O., Kolodziej, H., 1994. P14 Coumarins from medicinally used roots of Pelargonium sidoides. European Journal of Pharmaceutical Sciences 2, 122.   \nKayser, O., Kolodziej, H., 1995. Highly oxygenated coumarins from Pelargonium sidoides. Phytochemistry 39, 1181–1185.   \nKayser, O., Kolodziej, H., 1997. Antibacterial activity of extracts and constituents of Pelargonium sidoides and Pelargonium reniforme. Planta Medica 63, 508–510.   \nKayser, O., Kolodziej, H., Kideren, A.F., 2001. Immunomodulatory principles of Pelargonium sidoides. Phytotherapy Research 15, 122–126.   \nKellerman, T.S., Coetzer, J.A.W., Naudé, T.W., Botha, C.J., 2005. Plant Poisonings and Mycotoxicoses of Livestock in Southern Africa. Oxford University Press, Oxford, ISBN-13: 978-0-19-576134-4.   \nKelly, K.M., Van Staden, J., 1985. Effect of acid scarification on seed coat structure, germination and seedling vigour of Aspalathus linearis. Journal of Plant Physiology 121, 37–45.   \nKelly, K.M., Van Staden, J., 1987. The lens as the site of permeability in the papilionoid seed, Aspalathus linearis. Journal of Plant Physiology 128, 395–404.   \nKioy, D., Gray, A.I., Waterman, P.G., 1990. A comparative study of the stembark drimane sesquiterpenes and leaf volatile oils of Warburgia ugandensis and W. stuhlmannii. Phytochemistry 29, 3535–3538.   \nKlak, C., Reeves, G., Hedderson, T., 2004. Unmatched tempo of evolution in Southern African semi-desert ice plants. Nature 427, 63–65.   \nKlak, C., Bruyns, P.V., Hedderson, T.A.J., 2007. A phylogeny and new classification for Mesembryanthemoideae (Aizoaceae). Taxon 56, 737–756.   \nKlopper, R.R., Chatelain, C., Bänninger, V., Habashi, C., Steyn, H.M., De Wet, B.C., Arnold, T.H., Gautier, L., Smith, G.F., Spichiger, R., 2006. Checklist of the flowering plants of Sub-Saharan Africa. An index of accepted names and synonyms. South African Botanical Diversity Network Report No. 42. SABONET, Pretoria.   \nKolodziej, H., Kayser, O., 1998. Pelargonium sidoides DC. Zeitschrift für Phytotherapie 19, 141–151.   \nKolodziej, H., Kayser, O., Radtke, O.A., Kiderlen, A.F., Koch, E., 2003. Pharmacological profile of extracts of Pelargonium sidoides and their constituents. Phytomedicine 10, 18–24.   \nKraft, C., Jenett-Siems, K., Siems, K., Jakupovic, J., Mavi, S., Bienzle, U., Eich, E., 2003. In vitro antiplasmodial evaluation of medicinal plants from Zimbabwe. Phytotherapy Research 17, 123–128.   \nKruger, D.W., Beyers, G.J., 1977. Dictionary of South African Biography, vol. 3. Tafelberg Publishers, Cape Town, pp. 231–232.   \nLamoˇs ová, D., Juráni, M., Greksák, M., Nakano, M., Vaneková, M., 1997. Effect of rooibos tea (Aspalathus linearis) on chick skeletal muscle cell growth in culture. Comparative Biochemistry and Physiology, Part C: Pharmacology, Toxicology, Endocrinology 116, 39–45.   \nLawrence, B.M., 1996. Artemisia afra oil. Perfumer and Flavorist 21, 37.   \nLewu, F.B., Grierson, D.S., Afolayan, A.J., 2006. Clonal propagation of Pelargonium sidoides: a threatened medicinal plant of South Africa. African Journal of Biotechnology 5, 123–125.   \nLewu, F.B., Grierson, D.S., Afolayan, A.J., 2007. Morphological diversity among accessions of Pelargonium sidoides DC. in the Eastern Cape, South Africa. Genetic Resources and Crop Evolution 54, 1–6.   \nLight, M.E., Sparg, S.G., Stafford, G.I., Van Staden, J., 2005. Riding the wave: South Africa’s contribution to ethnopharmacological research over the last 25 years. Journal of Ethnopharmacology 100, 127–130.   \nLis-Balchin, M., Hart, S., Simpson, E., 2001. Buchu (Agathosma betulina and A. crenulata, Rutaceae) essential oils: Their pharmacological action on guinea-pig ileum and antimicrobial activity on microorganisms. Journal of Pharmacy and Pharmacology 53, 579–582.   \nMabusela, W.T., Stephen, A.M., Botha, M.C., 1990. Carbohydrate polymers from Aloe ferox leaves. Phytochemistry 29, 3555–3558.   \nMakhuvha, N., Van Wyk, B.-E., Van der Bank, H., Van der Bank, M., 1997. Genetic polymorphism in wild and cultivated Siphonochilus aethiopicus. Biochemical Systematics and Ecology 25, 343–351.   \nMander, M., 1998. Marketing of Indigenous Medicinal Plants in South Africa: A Case Study in KwaZulu-Natal. Food and Agricultural Organization of the United Nations, Rome.   \nManenzhe, N.J., Potgieter, N., Van Ree, T., 2004. Composition and antimicrobial activities of volatile components of Lippia javanica. Phytochemistry 65, 2333–2336.   \nMangena, T., Muyima, N.Y., 1999. Comparative evaluation of the antimicrobial activities of essential oils of Artemisia afra. Pteronia incana and Rosmarinus officinalis on selected bacteria and yeast strains. Letters in Applied Microbiology 28, 2916–2929.   \nMarloth, R., 1915. The Flora of South Africa, vol. 1. Darter, Cape Town.   \nMarloth, R., 1925. The Flora of Southern Africa, vol. 2. Darter, Cape Town, Sect. 1.   \nMarloth, R., 1932. The Flora of South Africa, vol. 3. Darter, Cape Town, Sect. 1.   \nMarnewick, J.L., Joubert, E., Swart, P., Van der Westhuizen, F., Gelderblom, W.C., 2003. Modulation of hepatic drug metabolizing enzymes and oxidative status by rooibos (Aspalathus linearis) and honeybush (Cyclopia intermedia), green and black (Camellia sinensis) teas in rats. Journal of Agricultural and Food Chemistry 51, 8113–8119.   \nMarnewick, J.L., Joubert, E., Joseph, S., Swanevelder, S., Swart, P., Gelderblom, W.C., 2005. Inhibition of tumour promotion in mouse skin by extracts of rooibos (Aspalathus linearis) and honeybush (Cyclopia intermedia), unique South African herbal teas. Cancer Letters 224, 193–202.   \nMashimbye, M.J., Munaka, C., Maumela, M.C., Drewes, S.E., 1999. A drimane sesquiterpenoid lactone from Warburgia salutaris. Phytochemistry 51, 435–438.   \nMativandlela, S.P.N., Meyer, J.J.M., Hussein, A.A., Lall, N., 2007. Antitubercular activity of compounds isolated from Pelargonium sidoides. Pharmaceutical Biology 45, 645–650.   \nMatthys, H., Eisebitt, R., Seith, B., Heger, M., 2003. Efficacy and safety of an extract of Pelargonium sidoides (EPs 7630) in adults with acute bronchitis: A randomised, double-blind, placebo-controlled trial. Phytomedicine 10, 7–17.   \nMcGaw, L.J., Jäger, A.K., Van Staden, J., 2000. Antibacterial, anthelmintic and anti-amoebic activity of South African medicinal plants. Journal of Ethnopharmacology 72, 247–263.   \nMoshe, D., 1998. A biosystematic study of the genus Sutherlandia R.Br. (Fabaceae, Galegeae). M.Sc. Thesis (Botany). University of Johannesburg.   \nMoshe, D., Van der Bank, H., Van der Bank, M., Van Wyk, B.-E., 1998. Lack of genetic differentiation between 19 populations from seven taxa of Sutherlandia (Tribe Galegeae Fabaceae). Biochemical Systematics and Ecology 26, 595–609.   \nMoteetee, A., Van Wyk, B.-E., 2007. The concept of Musa-pelo and the medicinal use of shrubby legumes (Fabaceae) in Lesotho. Bothalia 37, 75–77.   \nMotsei, M.L., Lindsey, K.L., Van Staden, J., Jäger, A.K., 2003. Screening of traditionally used South African plants for antifungal activity against Candida albicans. Journal of Ethnopharmacology 86, 235–241.   \nMukinda, J.T., Syce, J.A., 2007. Acute and chronic toxicity of the aqueous extract of Artemisia afra in rodents. Journal of Ethnopharmacology 112, 138–144.   \nMwangi, J.W., Addae-Mensah, I., Munavu, R.H., Lwande, W., Hassawnali, A., 1992. Essential oil of Kenyan Lippia species. Part III. Flavour Fragrance Journal 6, 221–224.   \nNeidlein, R., Staehle, R., 1974. Constituents of Lippia javanica. III. Deutsche Apotheker Zeitung 40, 1588–1592.   \nNeugebauer, P., Mickenhagen, A., Siefer, O., Walger, M., 2005. A new approach to pharmacological effects on ciliary beat frequency in cell cultures-exemplary measurements under Pelargonium sidoides extract (EPs 7630). Phytomedicine 12, 46–51.   \nNeuwinger, H.D., 2000. African Traditional Medicine. A Dictionary of Plant Use and Applications. Medpharm Scientific Publishers, Stuttgart, ISBN 3-88763-086-6.   \nNewall, C.A., Anderson, L.A., Phillipson, J.D., 1996. Herbal Medicine—A Guide for Health Care Professionals. The Pharmaceutical Press, London, ISBN 085369-289- 0.   \nNewton, D.J., Vaughan, H., 1996. South Africa’s Aloe ferox Plant, Parts and Derivatives Industry. A Trade Review. TRAFFIC East/Southern Africa, Johannesburg, ISBN 0- 9584025-3-1.   \nNielsen, N.D., Sandager, M., Stafford, G.I., Van Staden, J., Jäger, A.K., 2004. Screening of indigenous plants from South Africa for affinity to the serotonin reuptake transport protein. Journal of Ethnopharmacology 94, 159–163.   \nOmolo, M.O., Okinyo, D., Ndiege, I.O., Lwande, W., Hassanali, A., 2004. Repellency of essential oils of some Kenyan plants against Anopheles gambiae. Phytochemistry 65, 2797–2802.   \nOstlund, R.E., Sherman, W.R., 1996. Pinitol and derivatives thereof for the treatment of metabolic disorders. United States Patent no. 5,8827,896 (filed 4 March).   \nPage, Y.M., Van Staden, J., 1984. In vitro propagation of Hypoxis rooperi. Plant Cell Tissue and Organ Culture 3, 359–362.   \nPage, Y.M., Van Staden, J., 1986. In vitro propagation of Hypoxis rooperi from flower buds. South African Journal of Botany 52, 261–264.   \nPage, Y.M., Van Staden, J., 1987. Hypoxoside production in tissue cultures of Hypoxis i. Plant Cell Ti an Culture 9, 131–136.   \nPascual, M.E., Slowing, K., Carretero, E., Sanchez Mata, D., Villar, A., 2001. Lippia: traditional uses, chemistry and pharmacology: a review. Journal of Ethnopharmacology 76, 201–214.   \nPegel, K.H., 1973. Extraction of phytosterol glycosides from Hypoxis tubers. South African Patent No. ZA 7201855.   \nPegel, K.H., 1997. The importance of sitosterol and sitosterolin in human and animal nutrition. South African Journal of Science 93, 263–268.   \nPhillips, E.P., Dyer, R.A., 1934. The genus Sutherlandia R. Br. Revista Sudamericana de Botanica 1, 69–80.   \nPillans, N.S., 1950. A revision of Agathosma. Journal of South African Botany 16, 55–183.   \nPlowes, D.C.H., 1992. A preliminary re-assessment of the genera Hoodia and Trichocaulon. Asklepios 56, 5–15.   \nPlowes, D.C.H., 1996. Larryleachia and Hoodia (Stapelieae: Asclepiadaceae): some new nomenclatural proposals. Excelsa 17, 3–28.   \nPosthumus, M.A., Van Beek, T.A., Collins, N.F., Graven, E.H., 1996. Chemical composition of the essential oils of Agathosma betulina, A. crenulata and an A. betulina x crenulata hybrid (buchu). Journal of Essential Oil Research 8, 223–228.   \nPrevoo, D., Smith, C., Swart, P., Swart, A.C., 2004. The effect of Sutherlandia frutescens on steroidogenesis: confirming indigenous wisdom. Endocrine Research 30, 745–751.   \nPujol, J., 1990. Naturafrica—The Herbalist Handbook. Jean Pujol Natural Healers’ Foundation, Durban, 0-520-1514B-X.   \nRabe, T., Van Staden, J., 1997. Antibacterial activity of South African plants used for medicinal purposes. Journal of Ethnopharmacology 56, 81–87.   \nRabe, T., Van Staden, J., 2000. Isolation of an antibacterial sesquiterpenoid from Warburgia salutaris. Journal of Ethnopharmacology 73, 171–174.   \nRabe, C., Steenkamp, J.A., Joubert, E., Burger, J.F.W., Ferreira, D., 1994. Phenolic metabolites from rooibos tea (Aspalathus linearis). Phytochemistry 35, 1559–1565.   \nReid, K.A., Maes, J., Maes, A., Van Staden, J., De Kimpe, N., Mulholland, D.A., Verschaeve, L., 2006. Evaluation of the mutagenic and antimutagenic effects of South African plants. Journal of Ethnopharmacology 106, 44–50.   \nReynolds, G.W., 1950. The Aloes of South Africa. The Trustees of the Aloes of South Africa Book Fund, Johannesburg.   \nRimpler, H., Sauerbier, H., 1986. Iridoid glucosides as taxonomic markers in the genera Lantana, Lippia. Aloysia and Phyla. Biochemical Systematics and Ecology 14, 307–310.   \nRobertson, H.M., 1979. The aloe boers of the Gouritz River District. Quarterly Bulletin of the South African Library 34, 59–69.   \nRood, B., 1994. Uit die veldapteek. Tafelberg Publishers, Cape Town, ISBN 0-624- 03318-X.   \nSchutte, A.L., 1997. Systematics of the genus Cyclopia Vent. (Fabaceae Podalyrieae). Edinburgh Journal of Botany 54, 125–170.   \nSchutte, A.L., Vlok, J.H.J., Van Wyk, B.-E., 1995. Fire-survival strategy—a character of taxonomic, ecological and evolutionary importance in fynbos legumes. Plant Systematics and Evolution 195, 243–259.   \nScott, G., Hewett, M.L., 2008. Pioneers in ethnopharmacology: The Dutch East India Company (VOC) at the Cape from 1650 to 1800. Journal of Ethnopharmacology 115, 339–360.   \nSeidel, V., Taylor, P.W., 2004. In vitro activity of extracts and constituents of Pelagonium against rapidly growing mycobacteria. International Journal of Antimicrobial Agents 23, 613–619.   \nSeier, J.V., Mdhluli, M., Dhansay, M.A., Loza, J., Laubscher, R., 2002. A toxicity study of Sutherlandia leaf powder (Sutherlandia microphylla) consumption. Final report: April 2002. Medical Research Council of South Africa and National Research Foundation. www.sa-healthinfo.org/traditionalmeds/firststudy.htm.   \nShindo, Y., Kato, K., 1991. Effect of Rooibos Tea on Some Dermatological Diseases. Division of Dermatology, Shinonoi General Hospital, Nagano.   \nShioda, H., Satoh, K., Nagai, F., Okubo, T., Seto, T., Hamano, T., Kamimura, H., Kano, I., 2003. Identification of Aloe species by random amplified polymorphic DNA (RAPD) analysis. Shokuhin Eiseigaku Zasshi 44, 203–207 [In Japanese].   \nSia, C., 2004. Spotlight on Ethnomedicine: usability of Sutherlandia frutescens in the treatment of diabetes. The Review of Diabetic Studies 1, 145–149.   \nSilbernagel, E., Spreitzer, H., Buchbauer, G., 1990. Non-volatile constituents of Artemisia afra (short commun.)/[Nichtfluchtige Inhaltsstoffe von Artemisia afraKurze Mitteilung]. Monatshefte fur Chemie [Chemical Monthly] 121, 433–436.   \nSmith, A., 1895. A Contribution to the South African Materia Medica, 3nd ed. Lovedale, South Africa.   \nSmith, C.A., 1966. Common Names of South African Plants. Memoirs of the Botanical Survey of South Africa 35. Department of Agricultural Technical Services, Pretoria.   \nSmith, R.M., 1998. Flora of Southern Africa Contributions. II. Zingiberaceae. Bothalia 28, 35–39.   \nSmith, C., Myburgh, K.H., 2004. Treatment with Sutherlandia frutescens ssp. microphylla alters the corticosterone response to chronic intermittent immobilization stress in rats. South African Journal of Science 100, 229–232.   \nSmith, M.T., Crouch, N.R., Gericke, N., Hirst, M., 1996a. Psychoactive constituents of the genus Sceletium N.E. Br. and other Mesembryanthemaceae: a review. Journal of Ethnopharmacology 50, 119–130.   \nSmith, G.F., Van Wyk, A.E., Johnson, L.A.S., Van Wyk, B.-E., 1996b. Southern African plant systematics: needs, priorities and actions. South African Journal of Science 92, 314–320.   \nSpreeth, A.D., 1976. A revision of the commercially important Agathosma species. Journal of South African Botany 42, 109–119.   \nStafford, G.I., Jäger, A.K., Van Staden, J., 2005. Activity of traditional South African sedative and potentially CNS-acting plants in the GABA-benzodiazepine receptor assay. Journal of Ethnopharmacology 100, 210–215.   \nStander, B.A., Marais, S., Steynberg, T.J., Theron, D., Joubert, F., Albrecht, C., Joubert, A.M., 2007. Influence of Sutherlandia frutescens extracts on cell numbers, morphology and gene expression in MCF-7 cells. Journal of Ethnopharmacology 112, 312–318.   \nStandley, L., Winterton, P., Marnewick, J.L., Gelderblom, W.C.A., Joubert, E., Britz, T.J., 2001. Influence of processing stages on antimutagenic and antioxidant potentials of rooibos tea. Journal of Agricultural and Food Chemistry 49, 114–117.   \nSteenkamp, V., Mathivha, E., Gouws, M.C., Van Rensburg, C.E.J., 2004. Studies on antibacterial, antioxidant and fibroblast growth stimulation of wound healing remedies from South Africa. Journal of Ethnopharmacology 95, 353–357.   \nStewart, K.M., Cole, D., 2005. The commercial harvest of devil’s claw (Hapagophytum spp.) in southern Africa: the devil’s in the details. Journal of Ethnopharmacology 100, 225–236.   \nSutcliffe, M.A., Whitehead, C.S., 1995. Role of ethylene and short-chain saturated fatty acids in the smoke-stimulated germination of Cyclopia seed. Journal of Plant Physiology 145, 271–276.   \nSwaffar, D.S., 1995. Combination therapy with 5-fluorouracil and l-canavanine: invitro and in-vivo studies. Anticancer Drugs 6, 586–593.   \nTai, J., Cheung, S., Chan, E., Hasman, D., 2004. In vitro studies of Sutherlandia frutescens on human tumor cell lines. Journal of Ethnopharmacology 93, 9–19.   \nThring, T.S.A., Weitz, F.M., 2006. Medicinal plant use in the Bredasdorp/Elim region of the Southern Overberg in the Western Cape Province of South Africa. Journal of Ethnopharmacology 103, 261–275.   \nVagionas, K., Graikou, K., Chinou, I.B., Runyoro, D., Ngassapa, O., 2007. Chemical analysis and antimicrobial activity of essential oils from the aromatic plants Artemisia afra Jacq. and Leonotis ocymifolia (Burm. f.) Iwarsson var. raineriana (Vis.) Iwarsson growing in Tanzania. Journal of Essential Oil Research 19, 396–400.   \nVan der Bank, F.H., Van Wyk, B.-E., 1996. Biochemical genetic markers to identify hybrids between Aloe arborescens and A. ferox. South African Journal of Botany 62, 328–331.   \nVan der Bank, F.H., Van Wyk, B.-E., Van der Bank, M., 1995a. Genetic variation in two economically important Aloe species. Biochemical Systematics and Ecology 23, 251–256.   \nVan der Bank, M., Van Wyk, B.-E., Van der Bank, F.H., 1995b. Biochemical genetic variation in four wild populations of Aspalathus linearis (rooibos tea). Biochemical Systematics and Ecology 23, 257–262.   \nVan der Kooy, F., Verpoorte, R., Meyer, J.J.M., 2008. Metabolomic quality control of claimed anti-malarial Artemisia afra herbal remedy and A. afra and A. annua plant extracts. South African Journal of Botany 74, 186–189.   \nVan der Walt, J.J.A., 1977. Pelargoniums of Southern Africa, vol. 1. (P. reniforme). Purnell, Cape Town, pp. 40–41, ISBN 086843 006 4.   \nVan der Walt, J.J.A., 1988. Pelargoniums of Southern Africa, vol. 3. (P. sidoides). Kirstenbosch National Botanical Gardens, Claremont, Cape Town, pp. 129–131. ISBN 0 620 1107.   \nVan Heerden, F.R., Van Wyk, B.-E., Viljoen, A.M., Steenkamp, P.A., 2003. Phenolic variation in wild populations of Aspalathus linearis (rooibos tea). Biochemical Systematics and Ecology 31, 885–895.   \nVan Heerden, F.R., Vleggaar, R., Horak, R.M., Learmonth, R.A., Maharaj, V., Whittal R.D., 1998. Pharmaceutical compositions having appetite suppressant activity. International Patent PCT/GB98/01100 (filed 15 April).   \nVan Vuuren, S.F., Viljoen, A.M., 2006. A comparative investigation of the antimicrobial properties of indigenous South African aromatic plants with popular commercially available essential oils. Journal of Essential Oil Research 18, 66–71.   \nVan Wyk, B.-E., 1996. Priorities for biosystematic studies of the Southern African flora. South African Journal of Science 92, 327–329.   \nVan Wyk, B.-E., Gericke, N., 2000. People’s Plants: A Guide to Useful Plants of Southern Africa. Briza Publications, Pretoria, ISBN 978-1-875093-19-9.   \nVan Wyk, B.-E., Smith, G.F., 2003. Guide to the Aloes of South Africa, 2nd ed. Briza Publications, Pretoria, ISBN 1-875093-41-9.   \nVan Wyk, B.-E., Wink, M., 2004. Medicinal Plants of the World. Briza Publications, Pretoria, ISBN 1-875093-44-3.   \nVan Wyk, B.-E., Van Oudtshoorn, M.C.B.V., Smith, G.F., 1995. Geographical variation in the major compounds of Aloe ferox leaf exudate. Planta Medica 61, 250–253.   \nVan Wyk, B.-E., Van Oudtshoorn, B., Gericke, N., 1997. Medicinal Plants of South Africa [2nd improved impression, 2000]. Briza Publications, Pretoria, ISBN 1- 875093-09-5.   \nVan Wyk, B.-E., Van Heerden, F.R., Van Oudtshoorn, B., 2002. Poisonous Plants of South Africa. Briza Publications, Pretoria, ISBN 1-875093-30-3.   \nVerdcourt, B., 1955. Cannelaceae. Flora of Tropical East Africa, vol. 1. Royal Botanic Gardens, Kew.   \nVerdcourt, B., 1990. Canellaceae. Flora zambesiaca 7 1–3. Flora Zambesiaca Managing Committee, London.   \nViljoen, A.M., Demirci, B., Ba ¸ser, K.H.C., Van Wyk, B.-E., 2002. The essential oil composition of the roots and rhizomes of Siphonochilus aethiopicus. South African Journal of Botany 68, 115–116.   \nViljoen, A.M., Van Wyk, B.-E., Van der Bank, H., Smith, G.F., Van der Bank, M., 1996. A chemotaxonomic and biochemical evaluation of the identity of Aloe candelabrum (Aloaceae). Taxon 45, 461–471.   \nViljoen, A.M., Subramoney, S., Van Vuuren, S.F., Ba ¸ser, K.H.C., Demirci, B., 2005. The composition, geographical variation and antimicrobial activity of Lippia javanica (Verbenaceae) leaf essential oils. Journal of Ethnopharmacology 96, 271–   \nViljoen, A.M., Van Vuuren, S.F., Gwebu, T., Demirci, B., Baser, K.H.C., 2006. The geographical variation and antimicrobial activity of African wormwood (Artemisia afra Jacq.) essential oil. Journal of Essential Oil Research 18, 19–25.   \nVon Gadow, A., Joubert, E., Hansmann, C.F., 1997. Comparison of antioxidant activity of rooibos tea (Aspalathus linearis) with green, oolong and black tea. Food Chemistry 60, 73–77.   \nVon Koenen, E., 2001. Medicinal, poisonous and edible plants in Namibia. Klaus Hess Publishers, Windhoek and Göttingen. ISBN Namibia 99916-747-4-8, Germany 3-9804518-7-9.   \nWatt, J.M., 1935. The uses and actions of Xysmalobium undulatum. South African Journal of Medical Science 1, 4–11.   \nWatt, J.M., 1967. African plants potentially useful in mental health. Lloydia 30, 1–22.   \nWatt, J.M., Breyer-Brandwijk, M.G., 1962. The Medicinal and Poisonous Plants of Southern and Eastern Africa, 2nd ed. Livingstone, London.   \nWeenen, H., Nkunya, M.H.H., Bray, D.H., Mwasumbi, L.B., Kinabo, L.S., Kilimali, V.A., 1990. Antimalarial activity of Tanzanian medicinal plants. Planta Medica 56, 268–370.   \nWegener, T., 2000. Devil’s claw: from African traditional remedy to modern analgesic and anti-inflammatory. HerbalGram 50, 47–54.   \nWhite, A.G., Davies-Coleman, M.T., Ripley, B.S., 2008. Measuring and optimising umckalin concentration in wild-harvested and cultivated Pelargonium sidoides (Geraniaceae). South African Journal of Botany 74, 260–267.   \nWhitehead, C.S., Sutcliffe, M.A., 1995. Effect of low temperature and different growth regulators on seed germination in Cyclopia spp. Journal of Plant Physiology 147, 107–112.   \nWhyte, A., Sloane, B.L., 1937. The Stapelieae, vol. 3. Pasadena, California.   \nWichtl, M., Bisset, N.G. (Eds.), 2000. Herbal Drugs and Phytopharmaceuticals. CRC Press, Boca Raton, ISBN 3-88763-079-3.   \nWilliams, V.L., Balkwill, K., Witkowski, E.T.F., 2000. Unravelling the commercial market for medicinal plants and plant parts on the Witwatersrand, South Africa. Economic Botany 54, 310–327.   \nWollenweber, E., Mann, K., Valan-Vetschera, K.M., 1989. External flavonoid aglycones in Artemisia and some further Anthemidae (Asteraceae). Fitoterapia 60, 460–463.   \nWorku, T., Rubiolo, P., 1996. Major constituents of Artemisia afra oil. Journal of Essential Oil Research 8, 355–357.   \nZwicky, E., 1914. Über Channa ein Genussmittel der Hottentotten (Mesembrianthemum expansum L. und tortuosum L.). Zürcher & Furrer, Zürich. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

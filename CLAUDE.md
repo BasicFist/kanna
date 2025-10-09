@@ -4,132 +4,103 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a 42-month PhD thesis project on *Sceletium tortuosum* (Kanna), an interdisciplinary analysis spanning botany, ethnobotany, phytochemistry, pharmacology, clinical research, and legal/ethical issues. The repository contains research data, analysis scripts, writing, and a comprehensive tool integration system.
+42-month interdisciplinary PhD thesis on *Sceletium tortuosum* (Kanna) spanning botany, ethnobotany, phytochemistry, pharmacology, clinical research, and legal/ethical analysis. Repository contains research data, analysis scripts, writing, and comprehensive tool integration.
 
-**Thesis Structure**: 8 chapters, ~120,000 words
-**Expected Outputs**: 6-8 first-author publications, 50-100 ethnobotanical interviews, QSAR models for 32 alkaloids
+**Key Metrics**: 120,000-word thesis, 8 chapters, 15-20 publications, 142 papers corpus (974K words), 98/100 infrastructure health.
 
-## Core Development Commands
+## Essential Commands
 
-### Environment Setup
+### Environment Activation
 
 ```bash
-# Python environment (cheminformatics via conda recommended)
-conda create -n kanna python=3.10
+# MinerU PDF extraction (dedicated GPU-accelerated environment)
+conda activate mineru
+
+# Python environment (cheminformatics, ML, QSAR)
 conda activate kanna
-conda install -c conda-forge rdkit  # Required for QSAR modeling
-pip install -r requirements.txt
 
-# Alternative: venv (without RDKit)
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-# R environment (renv for reproducibility)
-Rscript analysis/r-scripts/install-packages.R
-# Then in R: renv::snapshot() to lock versions
+# R environment (statistics, GIS, meta-analysis, Bayesian)
+conda activate r-gis
 
 # Quick access alias (add to ~/.zshrc)
-alias kanna="cd ~/LAB/projects/KANNA && source venv/bin/activate"
+kanna() {
+    cd ~/LAB/projects/KANNA
+    conda activate r-gis  # Default
+    echo "✅ KANNA (R 4.4.3) | Switch: conda activate kanna | PDF extraction: conda activate mineru"
+}
 ```
 
-### Running Analyses
+### Core Workflows
 
 ```bash
-# Ethnobotany: Calculate BEI/ICF from survey data
-Rscript analysis/r-scripts/ethnobotany/calculate-bei.R
-# Outputs: analysis/r-scripts/ethnobotany/output/bei/*.png
-
-# QSAR modeling: Predict IC50 for alkaloids
-python analysis/python/cheminformatics/qsar-modeling.py
-# Outputs: analysis/python/ml-models/qsar-output/
-
-# Jupyter notebooks (interactive analysis)
-jupyter lab
-# Navigate to: analysis/jupyter-notebooks/
-```
-
-### Testing & Validation
-
-```bash
-# Test Python environment
-python -c "import pandas, numpy, matplotlib, sklearn; print('✓ Core packages OK')"
-python -c "from rdkit import Chem; print('✓ RDKit installed')"
-
-# Test R environment
-Rscript -e "library(tidyverse); library(metafor); print('✓ R packages OK')"
-
-# Check spaCy NLP model
-python -m spacy download en_core_web_sm  # Download if missing
-```
-
-### Daily Workflow
-
-```bash
-# 1. Start Claude Code with MCP integration
-cd ~/LAB/projects/KANNA
-claude
-# Use /mcp to verify Context7, Perplexity, GitHub connections
-
-# 2. Check status
+# Daily status check
 git status
-cat PROJECT-STATUS.md
+cat PROJECT-STATUS.md | head -50
+tail -20 ~/LAB/logs/kanna-backup.log
 
-# 3. Run daily backup (automated via cron at 2 AM)
-~/LAB/projects/KANNA/tools/scripts/daily-backup.sh
+# PDF extraction (GPU-accelerated MinerU in dedicated environment)
+conda activate mineru
+bash tools/scripts/extract-pdfs-mineru-production.sh \
+  literature/pdfs/BIBLIOGRAPHIE/ \
+  literature/pdfs/extractions-mineru/
 
-# 4. Export all figures to assets/
-Rscript tools/scripts/export-all-figures.R
+# Run ethnobotany analysis (Chapter 3)
+conda activate r-gis
+Rscript analysis/r-scripts/ethnobotany/calculate-bei.R
 
-# 5. Commit progress
-git add -A
-git commit -m "feat: improve QSAR model R² from 0.72 to 0.85"
-git push
+# Run QSAR modeling (Chapter 4)
+conda activate kanna
+python analysis/python/cheminformatics/qsar-modeling.py
+
+# Manual backup trigger
+bash tools/scripts/daily-backup.sh
+
+# MCP server verification
+claude
+/mcp  # Should show 17 connected servers
 ```
 
-## Architecture & Key Patterns
+### Testing Environments
 
-### Data Flow Architecture
+```bash
+# Validate MinerU environment (PDF extraction)
+conda activate mineru
+python -c "import torch; print(f'CUDA: {torch.cuda.is_available()}')"
+python -c "from magic_pdf.pipe.UNIPipe import UNIPipe; print('✓ MinerU OK')"
 
-The project follows a **discover → analyze → write** pattern with strict separation of concerns:
+# Validate Python environment (scientific analysis)
+conda activate kanna
+python -c "from rdkit import Chem; print('✓ RDKit OK')"
+python -c "import pandas, numpy, sklearn; print('✓ Core OK')"
 
-```
-Literature Discovery (Elicit/Perplexity/MCP)
-    ↓
-Reference Management (Zotero + Better BibTeX)
-    ↓
-Knowledge Graph (Obsidian)
-    ↓
-Data Collection (SurveyCTO for field, LC-MS for chem)
-    ↓
-Analysis (R for stats/ethnobotany, Python for ML/cheminformatics)
-    ↓
-Visualization (ggplot2/matplotlib → 300 DPI PNG)
-    ↓
-Writing (Overleaf LaTeX + Writefull/Trinka)
-    ↓
-Version Control (Git with nbstripout for notebooks)
+# Validate R environment
+conda activate r-gis
+Rscript -e "library(sf); library(brms); library(metafor); print('✓ R OK')"
 ```
 
-### Critical Design Patterns
+## Architecture Patterns
 
-**1. Reproducible Research via renv/requirements.txt**
+### Three-Environment Strategy
 
-- R packages locked in `renv.lock` (run `renv::snapshot()` after installing new packages)
-- Python packages in `requirements.txt` with version pins
-- RDKit MUST be installed via conda (not pip) to avoid compilation issues
+**Critical**: Use separate conda environments to avoid dependency conflicts:
 
-**2. Sensitive Data Protection**
+- **`mineru`** (Python 3.10): **GPU-accelerated PDF extraction** - PyTorch 2.4.0+cu124, MinerU 1.3.12, transformers 4.49.0, DocLayout-YOLO, Unimernet, RapidTable
+- **`kanna`** (Python 3.10): RDKit (cheminformatics), scikit-learn (ML), spaCy (NLP), general scientific computing
+- **`r-gis`** (R 4.4.3): sf (GIS), brms (Bayesian), metafor (meta-analysis), tidyverse (stats)
 
-The `.gitignore` MUST exclude:
-- `fieldwork/interviews-raw/` - Raw interview audio/transcripts
-- `data/ethnobotanical/interviews/*.wav` - Audio recordings
-- `data/clinical/trials/**/patient-data/` - Identifiable clinical data
-- `.env` - API keys and credentials
+**Why**:
+- **mineru isolation**: MinerU needs specific transformers 4.49.0 (incompatible with 4.57.0), clean PyTorch+CUDA environment resolved CUDA Error 999
+- **kanna isolation**: Python ML tools (transformers, torch) conflict with R spatial libraries (GDAL, PROJ)
+- **GPU acceleration**: Fresh mineru environment enables GPU extraction (10× faster than CPU mode)
 
-**3. Analysis Output Structure**
+**Known Issue - Workaround**:
+- rstan has TBB symbol errors when loaded directly
+- **Solution**: Use `library(brms)` instead of `library(rstan)` - brms is a wrapper that delays TBB linkage and provides better syntax
 
-All analysis scripts follow this pattern:
+### Analysis Pipeline Structure
+
+**Standard pattern for all scripts**:
+
 ```
 Input:  data/{discipline}/{subdomain}/raw-data.csv
 Script: analysis/{language}-scripts/{chapter}/analysis-name.{R|py}
@@ -137,444 +108,351 @@ Output: analysis/{language}-scripts/{chapter}/output/{analysis-type}/
 Final:  assets/figures/chapter-{XX}/{figure-name}.png (300 DPI)
 ```
 
-**4. Chapter-Specific Workflows**
-
-Each chapter has a dedicated analysis pipeline documented in `OPTIMIZED-THESIS-WORKFLOW.md`:
-
-- **Chapter 2** (Botany): QGIS → IQ-TREE 3 → FigTree → R (PCA) → LaTeX
-- **Chapter 3** (Ethnobotany): SurveyCTO → MAXQDA → R (ethnobotanyR) → ggplot2 → LaTeX
-- **Chapter 4** (Pharmacology): PubChem → RDKit → scikit-learn → SHAP → PyMOL → LaTeX
-- **Chapter 5** (Clinical): Rayyan → RevMan → metafor (R) → forest plots → LaTeX
-
-### QSAR Modeling Pipeline (Chapter 4)
-
-The `analysis/python/cheminformatics/qsar-modeling.py` script implements a complete ML pipeline:
-
-1. **Descriptor Calculation**: 200+ RDKit molecular descriptors
-2. **Feature Selection**: SelectKBest (F-test) to reduce to top 50
-3. **Preprocessing**: StandardScaler for normalization
-4. **Model Training**: Random Forest + XGBoost with GridSearchCV
-5. **Interpretation**: SHAP values for explainability
-6. **Output**: Trained models saved as `.pkl`, predictions as CSV, figures as 300 DPI PNG
-
-**Key hyperparameters**:
-- Random Forest: n_estimators=[100-300], max_depth=[10-30]
-- XGBoost: learning_rate=[0.01-0.1], max_depth=[3-7]
-- 5-fold cross-validation, R² scoring
-
-**Expected performance**: R² ≥ 0.80 for publication quality
-
-### BEI Calculation (Chapter 3)
-
-The `analysis/r-scripts/ethnobotany/calculate-bei.R` script calculates:
-
-- **BEI** (Botanical Ethnobotanical Index): Taxa per informant
-- **ICF** (Informant Consensus Factor): Agreement on use categories
-- **Statistical tests**: ANOVA across communities, Tukey HSD post-hoc
-
-**Input format** (`data/ethnobotanical/surveys/survey-2025.csv`):
-```csv
-informant_id,community,taxon,use_category,n_uses
-INF001,SC01,Sceletium tortuosum,Medicinal,3
+**Example**:
+```bash
+Input:  data/ethnobotanical/surveys/survey-2025.csv
+Script: analysis/r-scripts/ethnobotany/calculate-bei.R
+Output: analysis/r-scripts/ethnobotany/output/bei/
+Final:  assets/figures/chapter-03/bei-by-community.png
 ```
 
-**Output**: 3 publication-ready figures (bei-by-community, icf-by-category, taxa-distribution)
+### Three-Tier Data Privacy
 
-## Integration Points
+**Tier 1: Git-Excluded (SENSITIVE - NEVER commit)**:
+```
+fieldwork/interviews-raw/**              # Raw audio/transcripts
+data/ethnobotanical/interviews/*.wav     # Recordings
+data/clinical/trials/**/patient-data/**  # Identifiable data
+*.env, credentials.json                  # Secrets
+```
 
-### Zotero → Obsidian → LaTeX Pipeline
+**Tier 2: Git LFS (LARGE)**:
+```
+*.raw, *.wiff, *.d/  # LC-MS data (>100MB)
+*.tif                 # High-res images
+*.fastq, *.bam        # Genomic data
+```
+
+**Tier 3: Git-Tracked (REPRODUCIBLE)**:
+```
+data/ethnobotanical/surveys/*.csv  # De-identified data
+analysis/**/*.{R|py}               # Scripts
+assets/figures/**/*.png            # Figures (300 DPI)
+writing/thesis-chapters/**/*.tex   # LaTeX
+```
+
+### Chapter-Specific Toolchains
+
+```
+Chapter 2 (Botany):        QGIS → IQ-TREE 3 → R sf → FigTree
+Chapter 3 (Ethnobotany):   SurveyCTO → MAXQDA → ethnobotanyR → ggplot2
+Chapter 4 (Pharmacology):  PubChem → RDKit → scikit-learn → SHAP → PyMOL
+Chapter 5 (Clinical):      Rayyan → RevMan → metafor → forest plots
+```
+
+## Critical Dependencies
+
+### Python (conda environment: kanna)
 
 ```bash
-# 1. Zotero: Import PDFs, auto-extract metadata
-# 2. Install Better BibTeX plugin
-# 3. Configure auto-export:
-#    Right-click "KANNA Thesis" collection → Export → Better BibLaTeX
-#    Save to: literature/zotero-export/kanna.bib
-#    ✓ Keep updated
+# Core (MUST install via conda, NOT pip)
+conda install -c conda-forge rdkit  # Cheminformatics foundation
 
-# 4. Obsidian: Link Zotero
-#    Install plugin: Zotero Integration
-#    Import annotations from Zotero library
+# After conda, install rest via pip
+pip install -r requirements.txt
 
-# 5. LaTeX (Overleaf):
-#    Upload kanna.bib (or link if Overleaf Premium)
-#    \bibliography{kanna}
-#    Cite with: \citep{klak2025}
+# NLP model (separate download)
+python -m spacy download en_core_web_sm
 ```
 
-### Git Workflow with nbstripout
-
-Jupyter notebooks are stripped of outputs before commit to reduce repo size:
+### R (conda environment: r-gis)
 
 ```bash
-# Install nbstripout
-pip install nbstripout
-nbstripout --install --attributes .gitattributes
+# Install from script
+Rscript analysis/r-scripts/install-packages.R
 
-# This auto-strips outputs on commit
-# To view outputs, run notebooks locally
+# Key packages: sf (GIS), brms (Bayesian), metafor (meta-analysis),
+#               tidyverse, ethnobotanyR, vegan, igraph
 ```
 
-### MCP Server Usage (LAB Integration)
-
-This project inherits MCP capabilities from the parent LAB workspace:
-
-- **Context7**: Fetch up-to-date docs for RDKit, scikit-learn, ggplot2
-- **Perplexity**: Search recent Sceletium research papers
-- **GitHub**: Manage commits, PRs (if collaborating)
-- **Jupyter**: Remote notebook execution (if configured)
-
-Access via Claude Code `/mcp` command in this directory.
-
-## Quality Control & Standards
+## Quality Standards
 
 ### Publication-Ready Figures
 
-All figures MUST meet these criteria:
-- **Resolution**: 300 DPI minimum
-- **Format**: PNG for raster, PDF for vector (phylogenetic trees)
-- **Fonts**: Readable at print size (≥10pt)
-- **Colors**: Colorblind-friendly palettes (viridis, RColorBrewer)
-
-```R
+```r
 # R (ggplot2)
-ggsave("figure.png", width=8, height=6, dpi=300)
+library(ggplot2)
+library(viridis)
 
+ggsave("assets/figures/chapter-03/figure.png",
+       width=8, height=6, dpi=300)  # 300 DPI required
+```
+
+```python
 # Python (matplotlib)
-plt.savefig("figure.png", dpi=300, bbox_inches='tight')
+import matplotlib.pyplot as plt
+
+plt.savefig("assets/figures/chapter-04/figure.png",
+            dpi=300, bbox_inches='tight')  # 300 DPI required
 ```
 
-### Code Style
+**Requirements**: 300 DPI minimum, colorblind-friendly palettes (viridis, RColorBrewer), ≥10pt fonts at print size.
 
-**Python**: Follow PEP 8 (enforced via black + ruff in pre-commit hook)
+### Git Commit Convention
 
 ```bash
-# Format before commit
-black analysis/python/
-ruff check analysis/python/ --fix
-```
+# Semantic prefixes
+feat:     # New analysis, script, feature
+fix:      # Bug fix
+docs:     # Documentation or writing
+refactor: # Code restructuring
+data:     # New de-identified data
 
-**R**: Follow tidyverse style guide
-
-```R
-# Use tidyverse conventions
-library(tidyverse)
-data %>%
-  filter(condition) %>%
-  mutate(new_col = value)
-```
-
-### Commit Message Convention
-
-Use semantic prefixes for clarity:
-- `feat:` - New analysis, script, or feature
-- `fix:` - Bug fix in code
-- `docs:` - Documentation updates (including writing)
-- `refactor:` - Code restructuring
-- `data:` - New data added (de-identified only)
-
-```bash
-# Good examples
-git commit -m "feat: add SHAP interpretation to QSAR model"
+# Examples
+git commit -m "feat: add SHAP interpretation to QSAR model (Chapter 4)"
 git commit -m "fix: correct ICF calculation for zero use reports"
-git commit -m "docs: draft Chapter 4 Section 4.3 (750 words)"
+git commit -m "docs: draft Chapter 3 Section 3.4 (1200 words)"
 ```
 
-## Common Pitfalls & Solutions
+### File Naming Conventions
 
-### Problem: RDKit import fails
-
-**Cause**: RDKit cannot be installed via pip reliably
-**Solution**: Use conda exclusively for RDKit
+**Data governance for FPIC compliance**:
 
 ```bash
-conda create -n kanna python=3.10
+# Ethnobotanical (de-identified from day 1)
+INT-{YYYYMMDD}-{CommunityCode}-{ParticipantID}.txt
+# Example: INT-20250315-SC01-P007.txt
+
+# Chemical data
+CHEM-{YYYYMMDD}-{BatchID}-{CompoundID}.csv
+
+# GIS field data
+FIELD-{YYYYMMDD}-{SiteCode}-{GPSID}.{shp|csv}
+
+# Clinical trials
+TRIAL-{YYYYMMDD}-{StudyID}-{ArmID}.csv
+```
+
+## Key Tools & Scripts
+
+### PDF Extraction (Production)
+
+**Current tool**: MinerU 1.3.12 (GPU-accelerated, 100% success rate, extracts images + tables + formulas)
+
+```bash
+conda activate mineru  # Dedicated environment for GPU-accelerated extraction
+bash tools/scripts/extract-pdfs-mineru-production.sh \
+  literature/pdfs/BIBLIOGRAPHIE/ \
+  literature/pdfs/extractions-mineru/
+
+# Output: literature/pdfs/extractions-mineru/[paper-name]/auto/
+#   - [paper-name].md (markdown with embedded images)
+#   - images/ (extracted chemical structures, diagrams)
+#   - [paper-name]_layout.pdf (visual verification)
+#   - [paper-name]_*.json (metadata)
+```
+
+**Why MinerU + dedicated environment**:
+- **GPU acceleration**: 10× faster than CPU mode (resolved CUDA Error 999 with clean PyTorch environment)
+- **Quality**: Superior extraction for scientific papers with chemical formulas, tables, complex layouts
+- **Isolation**: transformers 4.49.0 required (incompatible with kanna's 4.57.0)
+- **Models**: DocLayout-YOLO (2501), Unimernet (2503), RapidTable - all GPU-accelerated
+
+### Backup System (3-2-1 Rule)
+
+**Automated**: Daily at 2 AM via cron
+
+```bash
+# Crontab entry
+0 2 * * * /home/miko/LAB/projects/KANNA/tools/scripts/daily-backup.sh >> /home/miko/LAB/logs/kanna-backup.log 2>&1
+
+# Manual trigger
+bash tools/scripts/daily-backup.sh
+```
+
+**Backups**:
+1. Working: `~/LAB/projects/KANNA/` (SSD)
+2. Local: `/run/media/miko/AYA/KANNA-backup/` (1.4TB external HDD)
+3. Cloud: Tresorit/SpiderOak (AES-256, ready to configure)
+
+### Zotero Integration (Pending Setup)
+
+**Guide**: `tools/guides/01-literature-workflow-setup.md`
+
+**Workflow**: Elicit → Zotero (Better BibTeX) → Obsidian → Overleaf
+
+```bash
+# Bibliography auto-export path
+literature/zotero-export/kanna.bib  # Real-time sync
+
+# LaTeX citation
+\citep{klak2025}
+\bibliography{kanna}
+```
+
+## MCP Server Integration
+
+**Inherited from `~/LAB/`**: 17 MCP servers available
+
+**Key servers**:
+- **Context7**: Up-to-date docs (RDKit, scikit-learn, ggplot2)
+- **Perplexity**: AI-powered search for recent Sceletium papers
+- **GitHub**: Repository management
+- **Cloudflare Browser**: Web scraping, markdown conversion
+- **Cloudflare Radar**: Internet intelligence, domain rankings
+- **Cloudflare Container**: Ephemeral sandbox for safe experiments
+
+**Usage**: Access via `/mcp` command in Claude Code session.
+
+## Common Workflows
+
+### Weekly Progress Update
+
+```bash
+# Update PROJECT-STATUS.md (every Monday)
+cat PROJECT-STATUS.md | head -100
+
+# Calculate metrics
+ls -1 literature/pdfs/*.pdf | wc -l         # Papers read
+find writing/ -name "*.tex" -exec wc -w {} + | tail -1  # Words written
+find assets/figures/ -name "*.png" | wc -l  # Figures created
+git rev-list --count HEAD                   # Commits
+```
+
+### Export All Figures
+
+```bash
+conda activate r-gis
+Rscript tools/scripts/export-all-figures.R
+# Batch export to assets/figures/ (300 DPI)
+```
+
+### Emergency Recovery
+
+```bash
+# Restore from external HDD
+rsync -avh /run/media/miko/AYA/KANNA-backup/ ~/LAB/projects/KANNA/
+
+# Restore from cloud (if configured)
+rclone sync tresorit:KANNA ~/LAB/projects/KANNA/
+
+# Verify Git integrity
+git fsck --full
+```
+
+## Troubleshooting
+
+### RDKit Import Fails
+
+**Cause**: RDKit cannot be installed via pip reliably.
+
+**Solution**:
+```bash
 conda activate kanna
 conda install -c conda-forge rdkit
-pip install -r requirements.txt
+# Test: python -c "from rdkit import Chem; print('✓ OK')"
 ```
 
-### Problem: R package installation fails (brms, rstan)
+### R Package Errors (brms, rstan)
 
-**Cause**: Bayesian packages require compilation
-**Solution**: Install system dependencies first
+**Known issue**: rstan has TBB symbol errors.
 
-```bash
-# Ubuntu/Debian
-sudo apt-get install build-essential libcurl4-gnutls-dev libssl-dev
-
-# Then in R:
-install.packages("rstan", repos = "https://cloud.r-project.org/")
+**Solution**: Use brms wrapper instead of direct rstan:
+```r
+library(brms)  # NOT library(rstan)
+# brms delays TBB linkage and provides better syntax
 ```
 
-### Problem: QSAR model R² < 0.70
+### PDF Extraction Failures
 
-**Solutions**:
-1. Add more diverse descriptors (3D conformers via `AllChem.EmbedMolecule`)
-2. Expand hyperparameter grid (see `OPTIMIZED-THESIS-WORKFLOW.md`)
-3. Try ensemble stacking (RF + XGBoost + LightGBM)
-4. Check for outliers in training data
-
-### Problem: Git repo becomes too large (> 1 GB)
-
-**Cause**: Large PDFs, raw LC-MS data, audio files committed
-**Solution**: Use Git LFS or exclude entirely
-
+**First check**: Is mineru environment active and GPU working?
 ```bash
-# Install Git LFS
-git lfs install
+conda activate mineru
+python -c "import torch; print(f'CUDA available: {torch.cuda.is_available()}')"
+magic-pdf -p literature/pdfs/test.pdf -o /tmp/test-extraction -m auto
+```
 
-# Track large files
-git lfs track "*.pdf"
-git lfs track "*.wiff"
-git add .gitattributes
-git commit -m "chore: configure Git LFS"
+**If CUDA unavailable**: Check NVIDIA driver (needs 550+) and PyTorch CUDA build
+```bash
+nvidia-smi  # Should show driver 580.82.09+
+python -c "import torch; print(torch.version.cuda)"  # Should show 12.4
+```
+
+### Backup Not Running
+
+**Check logs**:
+```bash
+tail -50 ~/LAB/logs/kanna-backup.log
+
+# Verify cron entry
+crontab -l | grep daily-backup
+
+# Manual test
+bash tools/scripts/daily-backup.sh
 ```
 
 ## Documentation Reference
 
-**In this repository**:
-- `README.md` - Project overview, thesis structure, data organization
-- `PROJECT-STATUS.md` - Current progress tracker (update weekly)
-- `OPTIMIZED-THESIS-WORKFLOW.md` - **Master workflow guide** (200+ pages, daily/weekly/monthly workflows)
-- `QUICK-START.md` - Day 1 setup instructions (accounts, tools, first analysis)
-- `tools/COMPREHENSIVE-RESEARCH-TOOLS-2025.md` - 200+ tool recommendations for PhDs
+**Essential reading** (in order):
+1. **CLAUDE.md** (this file) - Quick start for Claude Code
+2. **ARCHITECTURE.md** - Comprehensive architectural reference (1,000+ lines)
+3. **PROJECT-STATUS.md** - Current progress tracker (update weekly)
+4. **README.md** - Project overview, thesis structure
 
-**External resources**:
-- RDKit documentation: https://www.rdkit.org/docs/
-- ethnobotanyR: https://github.com/CWWhitney/ethnobotanyR
-- metafor guide: https://www.metafor-project.org/doku.php
-
-## Ethical Considerations
-
-**ALWAYS follow these principles when working with this codebase**:
-
-1. **Free, Prior, Informed Consent (FPIC)**: Never commit interview data without community validation
-2. **Data Sovereignty**: Khoisan communities retain IP rights to their traditional knowledge
-3. **Anonymization**: All interview transcripts MUST be de-identified before analysis
-4. **Benefit-Sharing**: Research outputs should be shared with community partners before publication
-
-**When adding data**:
-- Check if it's in `.gitignore` (interviews, clinical patient data, audio)
-- If sensitive, use encrypted local storage only
-- Document FPIC protocols in `collaboration/ethics-approvals/`
+**Setup guides** (`tools/guides/`, 1,670+ lines):
+1. Literature workflow (Elicit → Zotero → Obsidian → Overleaf)
+2. Field data collection (SurveyCTO FPIC surveys)
+3. Qualitative analysis (MAXQDA coding)
+4. QSAR pipeline (RDKit → scikit-learn → SHAP)
+5. French writing (Overleaf + Antidote)
+6-8. PDF extraction (MinerU, LaTeX-OCR)
 
 ## Key File Locations
 
-**Analysis scripts**:
-- R: `analysis/r-scripts/{ethnobotany|statistics|meta-analysis}/`
-- Python: `analysis/python/{cheminformatics|ml-models|text-mining}/`
-- Jupyter: `analysis/jupyter-notebooks/`
-
-**Data**:
-- Ethnobotany: `data/ethnobotanical/surveys/` (CSV from SurveyCTO)
-- Chemistry: `data/phytochemical/alkaloid-profiles/` (SMILES, IC50 values)
-- Clinical: `data/clinical/trials/` (meta-analysis data)
-
-**Writing**:
-- Thesis chapters: `writing/thesis-chapters/ch0{1-8}-{name}/`
-- Publications: `writing/publications/`
-- LaTeX bibliography: `literature/zotero-export/kanna.bib`
-
-**Outputs**:
-- Figures: `assets/figures/chapter-{XX}/` (final, 300 DPI)
-- Tables: `assets/tables/`
-- Models: `analysis/python/ml-models/qsar-output/*.pkl`
-
-## When to Use Which Tool
-
-**Literature Discovery**: Elicit (AI-powered), Perplexity MCP (recent papers), Rayyan (systematic reviews)
-**Reference Management**: Zotero + Better BibTeX (auto-export to LaTeX)
-**Knowledge Graph**: Obsidian (daily notes, concept linking)
-**Statistical Analysis**: R (ethnobotanyR, metafor, lme4)
-**Cheminformatics**: Python + RDKit (QSAR, descriptors)
-**Machine Learning**: scikit-learn (Random Forest), XGBoost (gradient boosting), SHAP (interpretation)
-**Molecular Docking**: AutoDock Vina (PDE4/SERT), PyMOL (visualization)
-**Writing**: Overleaf (LaTeX), Writefull/Trinka (grammar/style)
-**Version Control**: Git (code/analysis), Overleaf Git sync (writing)
-
-## Success Metrics
-
-Track progress in `PROJECT-STATUS.md` weekly:
-- **Words written**: Target 120,000 total (check with `find writing/ -name "*.tex" -exec wc -w {} + | tail -1`)
-- **Papers read**: Target 500 (check Zotero collection count)
-- **Figures created**: Target 50 publication-ready (check `assets/figures/`)
-- **Git commits**: ~200/year for reproducibility
-- **Publications**: 6-8 first-author papers
-
-## File Naming Conventions
-
-The project uses standardized naming patterns for traceability and data governance:
-
-**Ethnobotanical Interviews**:
 ```
-INT-{YYYYMMDD}-{CommunityCode}-{ParticipantID}.{ext}
-Example: INT-20250315-SC01-P007.txt
+# Configuration
+.gitignore                    # Privacy protection
+requirements.txt              # Python dependencies (150+)
+analysis/r-scripts/install-packages.R  # R dependencies (60+)
+
+# Scripts
+tools/scripts/daily-backup.sh              # Automated backup
+tools/scripts/extract-pdfs-pdfplumber.py   # PDF extraction
+
+# Data
+data/ethnobotanical/surveys/*.csv          # De-identified surveys
+literature/pdfs/BIBLIOGRAPHIE/             # 142 PDFs (2.0 GB)
+
+# Outputs
+assets/figures/chapter-XX/*.png            # 300 DPI figures
+analysis/*/output/                         # Analysis results
+writing/thesis-chapters/                   # LaTeX chapters
 ```
 
-**Chemical Data**:
-```
-CHEM-{YYYYMMDD}-{BatchID}-{CompoundID}.csv
-```
+## Design Principles
 
-**GIS Field Data**:
-```
-FIELD-{YYYYMMDD}-{SiteCode}-{GPSID}.{shp|csv}
-```
+1. **Pragmatic Over Perfect**: Ship working code now (pdfplumber), optimize later (MinerU)
+2. **Security by Design**: 3-tier privacy, sensitive data NEVER committed
+3. **Reproducibility First**: conda/renv lock files, semantic commits
+4. **Automation as Leverage**: 7.5 hours setup → 575 hours saved (77× ROI)
+5. **Infrastructure-First PhD**: Quality tooling enables better research
 
-**Clinical Trials**:
-```
-TRIAL-{YYYYMMDD}-{StudyID}-{ArmID}.csv
-```
+## Ethical Considerations
 
-These conventions ensure FPIC compliance (de-identified from day 1) and enable automated data pipelines.
+**ALWAYS follow FPIC (Free, Prior, Informed Consent) principles**:
 
-## Data Privacy Architecture
+1. **Data Sovereignty**: Khoisan communities retain IP rights to traditional knowledge
+2. **Anonymization**: All interviews de-identified before analysis
+3. **Benefit-Sharing**: Research outputs shared with communities before publication
+4. **No Commits Without FPIC**: Never commit sensitive data without community validation
 
-The repository implements a **three-tier data classification system**:
-
-**Tier 1: Git-Excluded Sensitive Data** (never commit)
-- Raw interviews: `fieldwork/interviews-raw/**`
-- Identifiable clinical data: `data/clinical/trials/**/patient-data/**`
-- Personal info: `collaboration/khoisan-partners/**/contact-info/**`
-- API keys: `*.env`, `credentials.json`
-
-**Tier 2: Git LFS Large Files** (external storage)
-- Raw LC-MS: `*.raw`, `*.wiff`, `*.d/`
-- High-res images: `*.tif`, fieldwork RAW photos
-- Genomic data: `*.fastq`, `*.bam`
-- Molecular libraries: `*.sdf`, `*.mol2`
-
-**Tier 3: Git-Tracked Reproducible Assets**
-- De-identified survey data: `data/ethnobotanical/surveys/*.csv`
-- Analysis scripts: `analysis/**/*.{R|py}`
-- Publication figures: `assets/figures/**/*.png`
-- Thesis chapters: `writing/thesis-chapters/**/*.tex`
-
-**Enforcement**: The `.gitignore` uses directory wildcards (`**`) to prevent accidental commits of entire sensitive subdirectories, not just file extensions.
-
-## Claude Code Integration
-
-This repository has pre-approved tool permissions in `.claude/settings.local.json`:
-
-```json
-{
-  "permissions": {
-    "allow": ["mcp__playwright__browser_navigate", "WebSearch"]
-  }
-}
-```
-
-This enables autonomous web-based research workflows (documentation scraping, literature discovery) without requiring user approval for each action.
-
-**MCP Inheritance**: This project inherits all MCP servers from the parent LAB workspace (`~/LAB/CLAUDE.md`), including:
-- Context7 (library documentation)
-- Perplexity (AI-powered search)
-- GitHub (version control)
-- Jupyter (remote notebooks)
-- Cloudflare servers (browser automation, intelligence gathering)
-
-## Backup Strategy (3-2-1 Rule)
-
-The `tools/scripts/daily-backup.sh` implements professional backup automation:
-
-**3 Copies**:
-1. Working directory: `~/LAB/projects/KANNA/`
-2. External HDD: `/media/backup/KANNA/` (rsync)
-3. Encrypted cloud: `tresorit:KANNA` (rclone)
-
-**2 Media Types**:
-- Local storage (SSD/HDD)
-- Cloud storage (Tresorit/SpiderOak)
-
-**1 Off-Site**:
-- Cloud backup auto-encrypted
-
-**Automation**:
-```bash
-# Add to crontab for daily 2 AM execution
-crontab -e
-# Add: 0 2 * * * /home/miko/LAB/projects/KANNA/tools/scripts/daily-backup.sh >> /home/miko/LAB/logs/kanna-backup.log 2>&1
-```
-
-**Features**:
-- Auto-commit uncommitted changes to Git (WIP snapshots)
-- Excludes large files (`*.raw`, `*.wiff`, `venv/`)
-- Backup verification (size checks)
-- Log rotation (keeps last 30 days)
-
-## Template-Driven Development
-
-The repository uses **documentation-first development**—READMEs document planned scripts before implementation:
-
-**Planned Scripts** (from `analysis/README.md`):
-- `calculate-icf.R` - Informant Consensus Factor
-- `cultural-diversity-index.R` - CUDI calculations
-- `network-analysis.R` - Knowledge transmission networks
-- `deepchem-bbb.py` - Blood-brain barrier permeability
-- `literature-scraping.py` - PubMed/PMC scraping
-
-**Currently Implemented**:
-- `calculate-bei.R` - Botanical Ethnobotanical Index ✅
-- `qsar-modeling.py` - QSAR ML pipeline ✅
-- `daily-backup.sh` - Automated backups ✅
-- `export-all-figures.R` - Batch figure export ✅
-
-This pattern allows thesis planning without premature implementation. New scripts should follow existing templates in `analysis/{language}-scripts/`.
-
-## Setup Guides (Workflows Complets)
-
-**NEW**: Comprehensive step-by-step integration guides created October 2025.
-
-### Quick Access
-
-1. **[Literature Workflow](tools/guides/01-literature-workflow-setup.md)** - Elicit → Zotero → Obsidian → Overleaf
-   - 400+ lines, bilingual (French/English)
-   - Includes Obsidian templates, troubleshooting, daily workflow
-   - Target: 500+ papers in Zotero, 200+ notes in Obsidian
-
-2. **[Field Data Collection](tools/guides/02-field-data-collection-setup.md)** - SurveyCTO FPIC-compliant surveys
-   - XLSForm design for BEI/ICF data
-   - Offline GPS + audio consent workflow
-   - Integration with R ethnobotanyR package
-
-3. **[Qualitative Analysis](tools/guides/03-qualitative-analysis-setup.md)** - MAXQDA ethnographic coding
-   - Code system for traditional knowledge
-   - Inter-rater reliability (κ ≥ 0.70)
-   - Mixed methods integration
-
-4. **[QSAR Pipeline](tools/guides/04-qsar-pipeline-setup.md)** - RDKit → scikit-learn → SHAP
-   - 200+ descriptor calculation
-   - Hyperparameter tuning for R² ≥ 0.80
-   - Publication-ready SHAP plots
-
-5. **[French Writing](tools/guides/05-french-writing-setup.md)** - Overleaf + Paperpal + Antidote
-   - LaTeX thesis template for Université de Paris
-   - Free Paperpal + paid Antidote grammar checking
-   - Bilingual workflow, 120,000-word target
-
-**Implementation Timeline**:
-- Week 1: Guides 1 + 5 (literature + writing)
-- Week 2: Guide 2 (field data before first mission)
-- As needed: Guides 3-4 (when data arrives)
-
-See `tools/README.md` for complete guide index.
+**Sensitive data protection**:
+- Encrypted archives: `tools/scripts/encrypt-sensitive-data.sh` (AES-256)
+- Ethics approvals: `collaboration/ethics-approvals/`
+- FPIC protocols: `data/ethnobotanical/fpic-protocols/`
 
 ---
 
-## Getting Help
+**For comprehensive details**: See ARCHITECTURE.md (39KB, definitive reference)
 
-1. **Setup workflows**: See `tools/guides/` for 5 comprehensive step-by-step guides
-2. **Tool-specific issues**: Consult `OPTIMIZED-THESIS-WORKFLOW.md` Section VII (Troubleshooting)
-3. **Workflow questions**: See `QUICK-START.md` for daily/weekly patterns
-4. **MCP servers**: Use Claude Code `/mcp` command, or check `~/LAB/CLAUDE.md` (parent workspace)
-5. **Research methods**: Refer to `tools/COMPREHENSIVE-RESEARCH-TOOLS-2025.md`
-6. **Data organization**: Check subdirectory READMEs (e.g., `data/ethnobotanical/README.md`)
-
----
-
-**Last Updated**: October 2025
-**Maintainer**: PhD Candidate researching *Sceletium tortuosum*
-**Thesis Duration**: 42 months (2025-2028)
-**Data Classification**: Three-tier privacy architecture (sensitive/large/reproducible)
-**Backup Schedule**: Daily 2 AM via cron (3-2-1 rule)
+**Last Updated**: October 2025 (Month 1 - Infrastructure Complete)

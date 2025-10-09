@@ -1,0 +1,407 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of Zembrin® and four of its alkaloid constituents on electric excitability of the rat hippocampus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wilfried Dimpfela, , Richard Franklinb, Nigel Gerickec, Leonie Schombertd ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Justus-Liebig-University, Giessen, Germany b HG&H Pharmaceuticals (Pty) Ltd., Bryanston, South Africa c 5 Loquat Walk, cape Town, South Africa d NeuroCode AG, Wetzlar, Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A R T I C L E I N F O ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S U M M A R Y ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nReverse pharmacology   \nSceletium tortuosum   \nZembrin®   \nSceletium alkaloids   \nRat   \nHippocampus slice   \nPopulation spike   \nAMPA receptor   \nEpilepsy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ethnopharmacological relevance: Sceletium tortuosum (Mesembryanthemaceae), a succulent plant indigenous to South Africa. is consumed in the form of teas, decoctions and tinctures and is sometimes smoked and used as snuff. In recent years, Sceletium has received a great deal of commercial interest for relieving stress in healthy people, and for treating a broad range of psychological, psychiatric and inflammatory conditions. Material and methods: The whole extract (Zembrin®) was tested ex vivo in the hippocampus slice preparation after one week of daily oral administration of 5 and 10 mg/kg. Four alkaloids – mesembrine, mesembranol, mesembrenol and mesembrenone – were tested directly in vitro. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All four were also tested in the presence of different glutamate receptor agonists. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: Zembrin® ex vivo as well as all alkaloids in vitro attenuated the amplitude of the population spike during electric stimulation as single shock as well as theta burst stimulation. Only Mesembranol and Mesembrenol having a hydroxyl group at position C6 instead of carbonyl group as in mesembrine and mesembrenone acted by attenuation of AMPA receptor mediated transmission as documented for the whole extract. Discussion: The current experimental series revealed a new physiological effect of Zembrin® on the electric activity of the hippocampus. Attenuation of AMPA mediated transmission has been related to successful adjunctive treatment of epileptic patients. Administered doses of 5 and 10 mg/kg are in line with a dosage of 50 mg/subject as tested clinically. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: We have discovered a new structure activity relationship for Sceletium alkaloids. Since attenuation of AMPA mediated transmission has been related to successful adjunctive treatment of epileptic patients), Mesembrenol and Mesembranol may serve as new chemical leads for the development of new drugs for the treatment of epilepsy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 2015 half the Nobel Prize for physiology or medicine was awarded to Youyou Tu for her discovery concerning a novel therapy against Malaria. The methodology she was using is known as “Reverse Pharmacology” (Willcox et al., 2011). This means that research starts with a bioactive plant-derived preparation and its clinical characterization. Next, active ingredients are isolated and tested pre-clinically. Modification of their chemical formula is performed to optimize their action, and a new molecular template is obtained for development of new drugs to treat particular diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The plant, which was chosen by us for this experimental series was Sceletium tortuosum (Mesembryanthemaceae), a succulent plant indigenous to South Africa. Traditionally dried plant material (typically aerial parts; leaves and twigs) is chewed and the resulting saliva and plant juices swallowed; it is also consumed in the form of teas, decoctions and tinctures and is sometimes smoked and used as snuff. Hartwich and Zwicky (1914) conclude their scientific communication on Sceletium expansum and Sceletium tortuosum by stating that the indigenous people undoubtedly used the plant more for enjoyment than as a medicine. Although Sceletium is most commonly chewed, it is also used as a tea (Jacobsen, 1960; Smith et al., 1996; Van Wyk and Wink, 2004), taken as a tincture (Pappe, 1868). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years, Sceletium has received a great deal of commercial interest for relieving stress in healthy people, and for treating a broad range of psychological, psychiatric and inflammatory conditions (Gericke, 2001). A proprietary selected standardized extract has been commercialized under the name of Zembrin®. Sceletium has been used as a simple masticatory, for the relief of thirst and hunger, to combat fatigue, as medicines, and for social and spiritual purposes by San huntergatherers (historically referred to as Bushmen) and Khoi pastoralists (historically referred to as Hottentots) for millennia before the earliest written reports of the uses of these plants by European explorers and settlers (Gericke and Viljoen, 2008). In 2009, the South African company HG&H Pharmaceuticals Pty Ltd. was granted the country's first integrated export and bioprospecting permit, allowing it to research, develop and export the first standardized extract of Sceletium tortuosum under the trade mark Zembrin® (Patnala and Kanfer, 2009), whereby royalties from sales of Zembrin® are paid to the South African San Council. Zembrin® has been tested clinically after acute and repetitive intake using a combination of psychometry and quantitative EEG. Zembrin® induced a positive effect on the electrical activity of the brain during cognitive processing after intake of a single dosage of 50 mg. In addition, alpha1 and alpha2 spectral power in the frontal brain was increased during several challenges including brain teasing, arithmetic calculations and performance of a memory test. Increases of spectral alpha1 power indicate a greater degree of calmness and may represent decreased depressive symptoms, while increases in alpha2 waves have been related to memory (Dimpfel et al., 2016a, 2016b). These results were reproduced after repetitive dosing. After six weeks also a reduction of the anxiety questionnaire was documented. Discriminant analysis revealed a projection of Zembrin® data into the vicinity of another calming preparation and a Ginkgo-Ginseng mixture (Dimpfel et al., 2017). Following this clinical characterization we went to active ingredients according to “reverse pharmacology”. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sceletium tortuosum is known to contain several alkaloids with a 3aaryl-cis-octahydroindole skeleton, among them Mesembranol, Mesembrine, Mesembrenol and Mesembrenone (Harvey et al., 2011). The total content and relative contribution of Mesembrenol, Mesembrine and Mesembrenone can be used as marker compounds for the quality control of S. tortuosum raw materials, extracts and finished products (Shikanga et al., 2012). Rapid isolation of these alkaloids in high yields using all-liquid technique of high-speed countercurrent chromatography has been reported (Shikanga et al., 2011). The total yield of alkaloids is relatively low (0.05–2.3% of dry weight) (Gericke, 2002). The present investigation aimed at a comparison of the effect of these isolated four alkaloids with the effect of the proprietary extract Zembrin® in the hippocampus slice model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The hippocampal slice preparation is a validated model for direct analysis of interaction of substances with living neuronal tissue (Lynch and Schubert, 1980; Dingledine, 1984). Due to the preservation of the three dimensional structure of the hippocampal tissue, substance effects on the excitability of pyramidal cells can be studied in a unique manner. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Material and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stimulation of Schaffer Collaterals leads to release of glutamate resulting in excitation of the postsynaptic pyramidal cells. The result of the electric stimulation can be recorded as a so-called population spike (pop-spike). The amplitude of the resulting population spike represents the number of recruited pyramidal cells. The model of hippocampal pyramidal cell activity reflects the effects of physiological interventions by an increase or decrease of the amplitude of the population spike. However, this model can also be used under so-called ex vivo conditions. In this case, the preparation is administered daily for a week and the hippocampus is taken out the next day for in vitro characterization of the sensitivity of the intra-hippocampal pathway to electric stimulation. Within a second step, the mechanism of action of the preparation under investigation can be approached by testing its action in the presence of several receptor agonists or antagonists of glutamatergic transmission. If such a selective compound fails to exert its usual action, a clue to the mechanism of action of the preparation under investigation is given with respect to ionotrophic or metabotrophic glutamate receptors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hippocampus slices were obtained from 19 adult male SpragueDawlay rats (Charles River Wiga, Sulzbach, Germany). Rats were kept under a reversed day/night cycle for 2 weeks prior to the start of the experiments to allow for the recording of in vitro activity from slices during the active phase of their circadian rhythm (Dimpfel et al., 1994). Preparation of the slices was performed exactly as reported earlier (Dimpfel and Hoffmann, 2011). In short: animals were exsanguinated under ether anaesthesia, the brain was removed in total and the hippocampal formation was isolated under microstereoscopic sight. The midsection of the hippocampus was fixed to the table of a vibrating microtome (Rhema Labortechnik, Hofheim, Germany) using a cyanoacrylate adhesive, submerged in chilled bicarbonate-buffered saline artificial cerebrospinal fluid (ACSF): NaCl: 124 mM, KCl: 5 mM, CaCl2: 2 mM, MgSO4: 2 mM, NaHCO3: 26 mM, glucose: 10 mM, and cut into slices of 400 mm thickness. All slices were pre-incubated for at least 1 h in Carbogen saturated ACSF (pH 7.4) in a pre-chamber before use (Dimpfel et al., 1991). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During the experiment the slices were held and treated in a special superfusion chamber (List Electronics, Darmstadt, Germany) according to Haas et al. (1979), at 35 °C (Schiff and Somjen, 1985). The preparation was superfused with ACSF at 180–230 ml/h. Electrical stimulation (200 µA constant current pulses of 200 µs pulse width) of the Schaffer Collaterals within the CA2 area and recording of extracellular field potentials from the pyramidal cell layer of CA1 (Dimpfel et al., 1991). Measurements were performed at 10 min intervals to avoid potentiation mechanisms. Four stimulations – each 20 s apart – were averaged for each time point. After obtaining three stable responses to single stimuli (SS) long-term potentiation was induced by applying a theta burst type pattern (TBS). The mean amplitude of three signals was averaged to give the mean of absolute voltage values (Microvolt) ± standard error of the mean for four slices representing one of the experimental conditions. Four slices were used from 1 rat per day taken one day after the daily administration by gavage of 5 mg/kg or 10 mg/ kg Zembrin® or vehicle for one week. These doses were selected according to their efficacy in an earlier experimental series (Dimpfel et al., 2016a, 2016b). Additionally, slices from pre-treated rats (Zembrin® or control) were tested in the presence of different concentrations of glutamate receptor agonists listed in Table 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, 4 isolated pure alkaloids contained in Zembrin® extract (Mesembrenone, Mesembrenol, Mesembrine and Mesembranol) were tested directly in the hippocampus slice preparation, each at two concentrations. (Fig. 1) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1. Population spike amplitude after pre-treatment with Placebo or Zembrin® ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rats were treated daily for one week with 5 mg/kg or 10 mg/kg of Zembrin® or control. Changes of the excitability of the hippocampus were examined the next day by using in vitro slices. Electric stimulation of the Schaffer collaterals resulted in responses of the pyramidal cells recorded as so-called population spikes. Amplitudes up to 4 mV were recorded under different experimental conditions representing the number of recruited pyramidal cells. Slices from animals pre-treated for one week daily with 5 mg/kg of Zembrin® showed a lower excitability, specifically observed in population spike amplitudes achieved after single stimuli as well as after theta burst stimulation. Amplitudes were significantly lower than under control conditions. Details are given in Fig. 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2. NMDA receptor modulation by trans ACBD ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The neuronal communication between the Schaffer collaterals and pyramidal cells takes place by use of glutamate as neurotransmitter. However, different glutamate receptors are involved in this communication pathway representing different functional aspects. The first receptor to be looked at was the NMDA (N-methyl-D-aspartic acid) receptor. In order to test a possible interference of Zembrin® with NMDA receptor activated signal changes, the glutamatergic neurotransmission was tested in the presence of trans ACBD, a very potent and selective NMDA receptor agonist. In the presence of 0.05 µM trans ACBD slices from animals pretreated with 5 mg/kg of Zembrin® for one week, showed slight but statistically significant decreases of the signal amplitudes in comparison to untreated slices as documented in Fig. 3. Trans ACBD was not fully active indicating a slight effect of Zembrin® on NMDA receptor controlled transmission in the presence of single shock stimulation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9eeac64698d03440db3412d61e001957915a71c7f270c6a357f6a3439d87ab1.jpg",
+        "table_caption": [
+            "Table 1 Listing of ingredients used during the experimental series. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Test items</td><td>Charge</td><td>from</td></tr><tr><td>Zembrin\"</td><td>Ch.-B.: SCE0415-2015</td><td>HG&H Pharmaceuticals Ltd.</td></tr><tr><td>Mesembrenone</td><td></td><td>HG&H Pharmaceuticals Ltd.</td></tr><tr><td>Mesembrenol</td><td></td><td>HG&H Pharmaceuticals Ltd.</td></tr><tr><td>Mesembrine</td><td></td><td>HG&H Pharmaceuticals Ltd.</td></tr><tr><td>Mesembranol</td><td></td><td>HG&H Pharmaceuticals Ltd.</td></tr><tr><td>Placebo (Control)</td><td>Charge 38837487</td><td>Carl Roth GmbH& Co.</td></tr><tr><td>1% Glucose</td><td></td><td></td></tr><tr><td>(S)-(-)-5-Fluorowillardine</td><td>Batch no.: 9A/36714</td><td>BIO TREND Chemikalien GmbH.</td></tr><tr><td>Trans-ACBD</td><td>Batch no.: 0048BN/01</td><td>BIO TREND Chemikalien GmbH.</td></tr><tr><td>（±）trans-ACPD</td><td>Batch no.:0053bn/01</td><td>BIO TREND Chemikalien GmbH.</td></tr><tr><td>O-Phospho-L-Serin</td><td>Batch no.: 0400BN701</td><td>BIO TREND Chemikalien GmbH.</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3. AMPA receptor modulation by (S)-(-)-5-Fluorowillardine ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The second glutamate receptor to be looked at was the AMPA (α- amino-3-hydroxy-5-methyl-4-isoxazole-propionic acid) receptor. In order to test a possible interference of Zembrin® with AMPA receptor activated signal changes, the glutamatergic neurotransmission was tested in the presence of (S)-(-)-5-Fluorowillardine, a very potent and selective competitive AMPA receptor agonist. In the presence of 0.10 µM (S)-(-)-5-Fluorowillardine responses matched completely those as obtained in slices from animals pretreated for one week with 5 mg/ kg of Zembrin®. The AMPA receptor agonist was not able to exert its action in slices from Zembrin® pre-treated animals. Data are documented in Fig. 4. Thus, a strong interaction of Zembrin® with AMPA receptor mediated neuronal transmission must be assumed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c6e2b94fe8162f45507d62c7b52d655a10a38d093ed76dba18144f05a5a5ae6.jpg",
+        "img_caption": [
+            "Fig. 2. Dose dependent effects of Zembrin® on pyramidal cell activity in terms of changes of population spike amplitudes (as voltage on the ordinate). Results obtained after performance of single stimuli (10–80 min) or after burst stimuli (90–120 min). Data are given as mean ± S.E.M. of n = 12 slices from 3 animals/group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4. Metabotropic Glutamate Group I/II receptor modulation by ( ± ) trans ACPD ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The third glutamate receptor to be looked at was the metabotropic group I/II receptor. In order to test a possible interference of Zembrin® with metabotropic glutamate receptor activated signal changes, glutamatergic neurotransmission was modulated by ( ± ) trans ACPD, a very potent and selective metabotropic glutamate receptor I/II agonist. In the presence of 0.025 µM ( ± ) trans ACPD no differences of the signal amplitudes in comparison to untreated slices were measured in slices from animals treated with 5 mg/kg of Zembrin® for one week as documented in Fig. 5. Trans ACPD was fully active giving no hints for an interaction of Zembrin® with this receptor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/34663c03de9e6bc59630fdccfc4b96f1f6be50a122d0102b8c6608efd901343e.jpg",
+        "img_caption": [
+            "Fig. 1. Chemical formulas of Zembrin® alkaloids. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/63e204523c0884e44c7bfc7669eb0d7675f4279cc53a1d85288ef711e45335f8.jpg",
+        "img_caption": [
+            "Fig. 3. Effects of trans ACBD on pyramidal cell activity in vitro (dark line, reference data from an earlier experimental series) and in slices from rats pretreated with 5 mg/kg of Zembrin®. Results from single slices as obtained after single stimuli (60–80 min on the abscissa) or after burst stimuli (TBS, 100–120 min). Data are given as mean ± S.E.M. Amplitude of the signal is given as voltage in mV (ordinate). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54cc73a12b414c448b3ee20abbe37d671a25ac0658e53cbf5e89bd8534c36a42.jpg",
+        "img_caption": [
+            "Fig. 4. Effect of (s)-(-)-5-Fluorowillardine (dark line), reference data from an earlier experimental series) in vitro and lack of its effect on pyramidal cell activity in slices from rats pre-treated with 5 mg/kg of Zembrin®. Results from single slices as obtained after single stimuli (60–80 min on abscissa) or after burst stimuli (TBS) (100–120 min). Data are given as mean ± S.E.M. Amplitude of the signal is given as voltage in mV (ordinate). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8fd812bdc62eb007bec39daac76f31164d420cda5ae6df5bc3bbc45d2492aeb.jpg",
+        "img_caption": [
+            "Fig. 5. Effects of ( ± ) trans ACPD (dark line, reference data from an earlier experimental series) in vitro and its full effect on pyramidal cell activity in slices from rats pre-treated with 5 mg/kg of Zembrin . Results from single slices as obtained after single stimuli (60–80 min on abscissa) or after burst stimuli (TBS) (100–120 min). Data are given as mean ± S.E.M. Amplitude of the signal is given as voltage in mV (ordinate). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5. Metabotropic Glutamate Group III receptor modulation by O-PhosphoL-Serine ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The fourth glutamate receptor to be looked at was the metabotropic glutamate group III receptor. In order to test a possible interference of both drugs with metabotropic glutamate receptor activated signal changes, glutamatergic neurotransmission was tested in the presence of O-Phospho-L-Serine, a very potent and selective metabotropic glutamate receptor Group III agonist. In the presence of 0.05 µM O-Phospho",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/86f167667eb92396773aa05ff16a01e0ecf4d0ad2cb4179968312d0e85174374.jpg",
+        "img_caption": [
+            "Fig. 6. Effects of O-Phospho-L-Serine (dark line, reference data from an earlier experimental series) in vitro and its full effect on pyramidal cell activity in slices from rats pre-treated with 5 mg/kg of Zembrin®. Results from single slices as obtained after single stimuli (60–80 min) or after burst stimuli (TBS). Data are given as mean ± S.E.M. Amplitude of the signal is given as voltage in mV (ordinate). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "L-Serine in slices from animals pretreated with 5 mg/kg of Zembrin® for one week no differences of the signal amplitudes in comparison to untreated slices were measured as documented in Fig. 6. O-Phospho-LSerine was fully active giving no hints for an interaction of Zembrin® with this receptor. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.6. Overview on the effect of Zembrin® on glutamatergic receptor modulation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Intra-hippocampal communication is modulated by different glutamate receptors, which either are related directly to ion channels (NMDA and AMPA) or act via metabotropic changes. Highly potent agonists at these receptors induce a significant increase of the population spike amplitudes in the presence of single shock stimuli and during theta burst stimulation as documented in Figs. 7 and 8, respectively (data from an earlier experimental series for comparison, marked as black columns). The low dosage of Zembrin® - administered for one week - significantly reduced the amplitude of the population spike amplitude in comparison to Control (ACSF). Fluorowillardine, specifically acting on the AMPA receptor was not able anymore to induce an increase of the population spike in Zembrin pre-treated animals. Trans ACPD was only partially active in Zembrin® pre-treated animals. Thus, Zembrin® obviously interacted only with ionotropic receptor mediated electric activity. An overview is given in Fig. 7 for data obtained by single shock stimulation and in Fig. 8 for theta burst stimulation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b74bb16c43e31beda86d0934cd187bf0a70ef5c434e1797e86ed91c00214f4e5.jpg",
+        "img_caption": [
+            "Fig. 7. Effects of 5 mg/kg of Zembrin® in the presence of glutamate receptor agonists (x-axis). Results from slices as obtained after single stimuli. Data are given as mean ± S.E.M. Amplitude of the signal is given as voltage in mV (yaxis). Dark graphs represent the action of glutamate receptor agonists alone (reference data from an earlier experimental series), grey graphs show the population spike amplitudes measured in slices from animals pre-treated with 5 mg/kg Zembrin . Statistical significance of p < 0.01 is marked by stars. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b03cf718ecd803732d4728647f825024817be5b303101a58275ed18732aa51f.jpg",
+        "img_caption": [
+            "Fig. 8. Effects of 5 mg/kg of Zembrin® in the presence of glutamate receptor agonists (x-axis). Results from slices as obtained during theta burst stimulation. Data are given as mean ± S.E.M. Amplitude of the signal is given as voltage in mV (y-axis). Dark graphs represent the action of glutamate receptor agonists alone (reference data from an earlier experimental series), grey graphs show the population spike amplitudes measured in slices from animals pre-treated with 5 mg/kg Zembrin®. Statistical significance of p < 0.01 is marked by stars. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.7. Effect of Zembrin® alkaloids on population spike amplitudes in vitro ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After establishing the physiological effect of Zembrin® on glutamatergic AMPA receptor mediated communication the question arose if any of four alkaloid constituents contained in Zembrin® would act in a similar manner. Testing each of the alkaloids, namely Mesembrenone, Mesembrenol, Mesembrine and Mesembranol in the presence of two concentrations in the nanomolar range revealed that all of them were able to attenuate the population spike amplitude to a significant degree. However, Mesembrenol and Mesembranol induced a stronger attenuation in comparison to Mesembrine and Mesembrenone. Please note, that Mesembrine was tested at lower concentrations exerting a similar extent of attenuation at 8.65 nM as the other alkaloids at about 17 nM. Data obtained under the condition of single shock stimuli are presented in Fig. 9, and under the condition of theta burst stimuli in Fig. 10. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to find out if any of the four alkaloids interact with the glutamatergic AMPA receptor, the AMPA receptor agonist Fluorowillardine was tested in the presence of the alkaloids. In the presence of Mesembrine and Mesembrenone, Fluorowillardine developed a nearly full action, whereas in the presence of Mesembrenol or Mesembranol its action was strongly attenuated pointing to an involvement of the AMPA receptor mediated transmission as the physiological mechanism of its action under both recording conditions. Data are given in Fig. 11. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e6249bb1e8d59947642d440366f98fd6c25bf9a7be3e9d298bb335bd88e7171.jpg",
+        "img_caption": [
+            "Fig. 9. Amplitude of population spike in the presence of artificial cerebrospinal fluid (ACSF) or two different concentrations of Zembrin® alkaloids during single shock stimulation. Statistical significance of p < 0.01 is marked by stars. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c15a2e7494c427c21bde306f247e91f2f031b8dda0d6c5a19a488f38d4c3d13a.jpg",
+        "img_caption": [
+            "Fig. 10. Amplitude of population spike in the presence of artificial cerebrospinal fluid (ACSF) or two different concentrations of Zembrin® alkaloids during theta burst stimulation. Statistical significance of p < 0.01 is marked by stars. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f79a7b8a56652671bc0f73e1c55fc91398a841036f21f77397383fe7328bcd8d.jpg",
+        "img_caption": [
+            "Fig. 11. Amplitude of population spike in the presence of Fluorowillardine alone (reference data from an earlier experimental series) or together with the four Zembrin® alkaloids. Mean values of 3 slices are depicted for each recording condition. Statistical significance between Fluorowillardine alone and the presence of the alkaloids is documented by stars. \\*\\*=p < 0.05; \\*\\*\\* =p < 0.01. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The current experimental series revealed a new physiological effect of Zembrin® on the electric activity of the hippocampus. The excitability of the intra-hippocampal electric circuit between the Schaffer collaterals and the pyramidal cells was attenuated in a dose dependent manner by repetitive gavage administration of Zembrin®. Single doses of 5 and 10 mg/kg orally have been found to significantly reduce spectral power in four brain regions of freely moving rats (Dimpfel et al., 2016a). With respect to dosage our experience is that we have to administer 5 - maximum 10 times higher dosages in rats in comparison to humans on a kg-base (see also Shannon et al., 2007). That means that 5 mg/kg in rats correspond to 0.5–1 mg/kg in humans. It corresponds well to the 50 mg, which we have administered in our clinical studies. These doses of 5 and 10 mg/kg of Zembrin® - now administered repetitively daily during one week in rats - obviously down-regulated the excitability of the intra-hippocampal neurotransmission. Since Schaffer Collaterals (location of the electric stimulation) and pyramidal cells (location of recording) are connected by synapses using glutamate as transmitter, we interrogated which of the different glutamate receptors might be involved. Therefore, the effect of Zembrin was challenged using 4 specific agonists given in vitro. Only the two ionotrophic receptor mediated transmissions seemed to be involved. Mainly AMPA receptor mediated transmission was attenuated, but clearly less NMDA receptor mediated transmission was also recognized to be responsible for the attenuation of the population spike amplitudes induced by repetitive Zembrin® administration. Glutamatergic AMPA receptor mediated neurotransmission has been known for a long time (for review see Seeburg, 1993) and long term potentiation (LTP) as the result of theta burst stimulation has been shown to be based mainly on AMPA receptor mediated processes in the hippocampus (Dozmorov et al., 2006). Therefore, the reduction of the LTP induced in vivo by repetitive administration of Zembrin® indicates a strong physiological relevance with respect to AMPA receptor mediated transmission. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The observation that Zembrin® is able to modulate and shift the excitability of hippocampal activity is in line with pre-clinical and clinical observations. Spectral analysis of local field potentials revealed main effects on alpha2 and beta1 frequencies especially in cortical and hippocampal areas (Dimpfel et al., 2016a). Since beta1 waves are under the control of glutamatergic transmission (Dimpfel, 2015) the present results confirm an interference of the action of Zembrin® with this transmitter activity. This points to a new mechanism of action in addition to the two described in an earlier paper, namely inhibition of reuptake of serotonin, and inhibition of phosphodiesterase 4 (PDE4) (Harvey et al., 2011). Whereas the action of Zembrin® on the glutamatergic system might be related more to a physiological calming and neuroprotective action leading to better coping with stress, inhibition of serotonin reuptake might point more to a possible anti-depressive effect. Clinical results after intake of Zembrin® indicate a significant calming action and – after repetitive intake of 6 weeks duration– also an anti-anxiety effect (Dimpfel et al., 2016b, 2017). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, a considerable number of alkaloids have been described for extracts of Sceletium tortuosum, among them Mesembranol (Jeffs et al., 1970). Following the goal of “reverse pharmacology” isolated single ingredients should be tested in the same model and compared to the effects of the whole extract. Four pure (\\~98%) chemically characterized alkaloids were available to us to be tested in vitro directly on the amplitude of the population spike in the presence of single shock stimulation as well as during theta burst stimulation. All four alkaloids were able to attenuate the amplitude of the population spike under both stimulation conditions in a concentration dependent manner similar to the effect as observed for the whole extract (Zembrin®). Meanwhile it has been shown that all four alkaloids change the frequency pattern of rat field potentials at a very low dosage of 10 µg/kg given orally and by it proofed to be able to cross the blood brain barrier (Dimpfel et al., to be published). Mesembrine, Mesembrenone, Mesembrenol and Mesembranol must therefore be all considered to contribute to the action of Zembrin® to a significant degree and are suitable to be used for standardization of alkaloid content and composition during the production of Sceletium extracts. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Finally the question arose which, if any, of the four alkaloids would more selectively act on AMPA-mediated neurotransmission, as shown for the total plant extract. Within a final series of these experiments each of the four alkaloids was tested to see which would prevent the action of the AMPA agonist Fluorowillardine. Interestingly, only Mesembrenol and Mesembranol were able to prevent the action of Fluorowillardine as observed for the total extract. Therefore, these two ingredients - being effective in the nanomolar range - must be regarded as the main compounds responsible for the physiological calming action of Zembrin®. Presently, it is unclear why Mesembrenone in the presence of Fluorowillardine induces a statistically significant increase of the population spike during single shock stimulation. It might well be, that the active components remain attached to the relevant receptors during the perfusion period. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Looking now at the chemical formulas of the four alkaloids, both (Mesembrenol and Mesembranol) are very similar in having a hydroxy group at the position C6, whereas the other two (Mesembrine and Mesembrenone) show a carbonyl group at this location. This means, that we have discovered a new structure activity relationship. Since attenuation of AMPA mediated transmission has been related to successful adjunctive treatment of epileptic patients (Steinhoff, 2015), Mesembrenol and Mesembranol may serve as new chemical leads for the development of new drugs for the treatment of epilepsy. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There are several possibilities how Zembrin® and his alkaloids might act on AMPA-mediated transmission. Zembrin® may downregulate the expression of AMPA receptor or internalize them. There is evidence that the subunit GluR2 of the AMPA receptor interacts with the glycosphingolipid ganglioside GM1. Gm1 ganglioside prevents seizures (Fighera et al., 2006). Gangliosides sequester GluR2-containing AMPA receptors and GluR2 receptor-trafficing complexes in a reversible ATPase-dependent manner that may regulate GluR2-containing AMPAR endocytosis, AMPAR ion channel permeability, synaptic plasticity. Learning and memory. (Prendergast et al., 2014). Attenuation of AMPA receptor mediated communication within the hippocampus might therefore lead to antiepileptic activity. Intake of Zembrin® may therefore be considered as an add on therapeutical option in patients suffering from epilepsy. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mrs. Ingrid K. Keplinger-Dimpfel is thanked for performance of the logistics of the study and quality control. We greatly appreciate manuscript reading and correction performed by Mrs. G.N. Chiegoua Dipah. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dimpfel, W., Spüler, M., Dalhoff, A., Hoffmann, W., Schlüter, G., 1991. Hippocampal activity in the presence of quinolones and fenbufen in-vitro. Antimicrob. Agents Chemother. 35, 1142–1146.   \nDimpfel, W., Dalhoff, B., Hofmann, W., Schlüter, G., 1994. Electrically evoked potentials in the rat hippocampus slice in the presence of aminophylline alone and in combination with quinolones. Eur. Neuropsychopharmacol. 4, 151–156.   \nDimpfel, W., Hoffmann, J.A., 2011. Effects of rasagiline, its metabolite aminoindan and selegiline on glutamate receptor mediated signaling in the rat hippocampus slice in vitro. BMC Pharmacol. 11, 2. http://dx.doi.org/10.1186/1471-2210-11-2.   \nDimpfel, W., 2015. Drug Discovery and Translational Medicine Based on Neurophysiological Techniques. A holistic approach to saving animals Verlag Books on Demand, Norderstedt, Germany (BoD – Books on Demand ISBN: 978-3-7386- 7039-4).   \nDimpfel, W., Schombert, L., Gericke, N., 2016a. Electropharmacogram of sceletium tortuosum extract based on spectral local field power in consciously freely moving rats. J. Ethnopharmacol. 177, 140–147.   \nDimpfel, W., Gericke, N., Suliman, S., Chigoua-Dipah, G.N., 2016b. Psychophysiological effects of Zembrin using quantitative EEG source density in combination with eye tracking in 60 healthy subjects. Neurosci. Med. 7, 114–132.   \nDimpfel, W., Gericke, N., Suliman, S., Chigoua-Dipah, G.N., 2017. Effect of Zembrin® on brain electrical activity in 60 older subjects after 6 weeks daily intake. World J. Neurosci. 7, 140–17   \nDingledine, R., 1984. Brain Slices. Plenum Press, New York, London.   \nDozmorov, M., Li, R., Abbas, , F., Farre, C., Huang, F.S., Jilderos, B., Wigström, H., 2006. C AMPA and NMDA receptors to early and late phases of LTP in hippoc eurosci. Res. 55, 182–188.   \nFighera, M.R., Royes, Lf, Furian liveira, M.S., Fiorenza, N.G., Frussa-Filho, R., Petry, J.C., Coelho, R.C., Mello, C.F 2006. GM1 ganglioside prevents seizures, Na +,K+-ATPase activity inhibition and oxidative stress induced by glutaric acid and pentylenetetrazole. Neurobiol. Dis. 22, 611–623.   \nGericke, N., 2001. Clinical application of selected South African medicinal plants. Austrlas. J. Med. Herbal. 13, 3–17.   \nGericke, N., 2002. Plants, products and people: Southern African perspectives. In: Iwu, M., Wootton, J.C. (Eds.), Ethnomedicine and Drug Discovery. Elsevier, Amsterdam.   \nGericke, N., Viljoen, A.M., 2008. Sceletium – A review update. J. Ethnopharmacol. 119, 653–663.   \nHaas, H.L., Schaerer, B., Vosmansky, M., 1979. A simple perfusion chamber for the study of nervous tissue slices in vitro. J. Neurosci. Methods 1, 323–325.   \nHartwich, C., Zwicky, E., 1914. Wissenschaftliche Mitteilungen. Ueber Channa, ein Guussmittel der Hottentotten (Mesembrythanthemum expansum L. und M. tortuosum L.). Apoth.-Ztg. 94, 925–926.   \nHarvey, A.L., Young, L.C., Viljoen, A.M., Gericke, N.P., 2011. Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum and its principal alkaloids. J. Ethnopharmacol. 137, 1124–1129.   \nJacobsen, H., 1960. Handbook of Succulent Plants. Vol. III. Mesembryanthemums (Ficoidaceae). Blandford Press, London.   \nJeffs, P.W., Hawks, R.L., Farrier, D.S., 1970. Structures of the mesembranols and the absolute configuration of mesembrine and related alkaloids. J. Am. Chem. Soc. 91, 3831–3839.   \nLynch, G., Schubert, P., 1980. The use of in-vitro brain slices for multidisciplnary studies of synaptic function. Ann. Rev. Neurosci. 3, 1–22.   \nPappe, L., 1868. Florae Capensis Medicae, 3rd ed. Prodromus. An Enumeration of South African Plants used as Remedies by the Colonists of the Cape of Good Hope. W. Brittain, Cape Town.   \nPatnala, S., Kanfer, I., 2009. Investigation of the phytochemical content of Sceletium tortuosum following preparation of “Kougoed” by fermentation. J. Ethnopharmacol. 121, 86–91.   \nPrendergast, J., Umanah, G.K.E., Yoo, S.-W., Lagerlöf, O., Motary, M.G., Cole, R.N., Huganir, R.L., Dawson, T.M., Dawson, V.L., Schnar, R.L., 2014. Ganglioside regulation of AMPA receptor trafficking. J. Neurosci. 34, 13246–13258.   \nSeeburg, E.H., 1993. The molecular biology of mammalian glutamate receptor channels. Trends Neurosci. 16, 359–365.   \nSchiff, S.J., Somjen, G.G., 1985. The effects of temperature on synaptic transmission in hippocampal tissue slices. Brain Res. 345, 279–284.   \nShannon, R.S., Minakshi, N., Ahmad, N., 2007. Dose translation from animal to human studies revisited. FASEB J. 22, 1–3.   \nShikanga, E.A., Viljoen, A., Combrinck, S., Marston, A., 2011. Isolation of Sceletium alkaloids by high-speed countercurrent chromatography. Phytochem. Lett. 4, 190–193.   \nShikanga, E.A., Viljoen, A.M., Combrinck, S., Marston, A., Gericke, N., 2012. The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations. Biochem. Syst. Ecol. 44, 364–373.   \nSmith, M.T., Crouch, N.R., Gericke, N., Hirst, M., 1996. Psychoactive constituents of the genus Sceletium N.E.Br. and other Mesembryanthemaceae: a review. J. Ethnopharmacol. 50, 119–130.   \nSteinhoff, B.J., 2015. The AMPA receptor antagonist perampanel in the adjunctive treatment of partial-onset seizures: clinical trial evidence and experience. Ther. Adv. Neurol. Disord. 8, 137–147.   \nVan Wyk, B.-E., Wink, M., 2004. Medicinal Plants of the World. Briza, Pretoria.   \nWillcox, M.L., Graz, B., Falquet, J., Diakite, C., Giani, S., Diallo, D., 2011. A “reverse pharmacology” approach for developing an anti-malarial phytomedicine. Malar. J. 10, 58. http://dx.doi.org/10.1186/1475-2875-10-S1-S8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

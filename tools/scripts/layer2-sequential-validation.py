@@ -76,8 +76,9 @@ class ChemistryError:
 class Layer2ValidationEngine:
     """Chemistry-aware LaTeX formula validator using MCP Sequential tool."""
 
-    def __init__(self, dry_run: bool = False):
+    def __init__(self, dry_run: bool = False, confidence_threshold: float = 0.7):
         self.dry_run = dry_run
+        self.confidence_threshold = confidence_threshold
         self.errors_detected = []
         self.errors_corrected = 0
         self.corrections_skipped = 0
@@ -245,7 +246,7 @@ class Layer2ValidationEngine:
         for error in errors:
             corrected, confidence = self.repair_with_mcp(error)
 
-            if corrected is not None and confidence >= 0.7:  # Confidence threshold
+            if corrected is not None and confidence >= self.confidence_threshold:
                 # Replace in content
                 old_formula = f'${error.formula}$'
                 new_formula = f'${corrected}$'
@@ -288,7 +289,7 @@ class Layer2ValidationEngine:
         }
 
 
-def validate_extraction(input_dir: Path, output_dir: Path, dry_run: bool = False):
+def validate_extraction(input_dir: Path, output_dir: Path, dry_run: bool = False, confidence_threshold: float = 0.7):
     """
     Validate all Layer 1 refined extractions.
 
@@ -296,8 +297,9 @@ def validate_extraction(input_dir: Path, output_dir: Path, dry_run: bool = False
         input_dir: Directory containing Layer 1 refined markdown
         output_dir: Directory to write validated outputs
         dry_run: If True, detect errors but don't apply corrections
+        confidence_threshold: Minimum confidence score for applying corrections (0.0-1.0)
     """
-    engine = Layer2ValidationEngine(dry_run=dry_run)
+    engine = Layer2ValidationEngine(dry_run=dry_run, confidence_threshold=confidence_threshold)
 
     # Find all refined markdown files
     markdown_files = list(input_dir.rglob("*.md"))
@@ -307,6 +309,7 @@ def validate_extraction(input_dir: Path, output_dir: Path, dry_run: bool = False
         return
 
     logger.info(f"Found {len(markdown_files)} markdown files to validate")
+    logger.info(f"Using confidence threshold: {confidence_threshold:.2f}")
 
     if not dry_run:
         output_dir.mkdir(parents=True, exist_ok=True)
@@ -392,6 +395,8 @@ Note: In production, this script would use MCP Sequential tool for
                        help='Output directory for validated markdown')
     parser.add_argument('--dry-run', action='store_true',
                        help='Detect errors but don\'t apply corrections')
+    parser.add_argument('--confidence-threshold', type=float, default=0.7,
+                       help='Minimum confidence score for applying corrections (default: 0.7)')
     parser.add_argument('--debug', action='store_true',
                        help='Enable debug logging')
 
@@ -407,7 +412,7 @@ Note: In production, this script would use MCP Sequential tool for
 
     # Run validation
     try:
-        validate_extraction(args.input_dir, args.output_dir, args.dry_run)
+        validate_extraction(args.input_dir, args.output_dir, args.dry_run, args.confidence_threshold)
         return 0
     except Exception as e:
         logger.error(f"Validation failed: {e}", exc_info=True)
