@@ -72,6 +72,17 @@ class ChemistryError:
     def __repr__(self):
         return f"ChemistryError(type={self.error_type}, formula=${self.formula}$)"
 
+    def to_dict(self) -> Dict:
+        """Export error as dictionary for JSON serialization."""
+        return {
+            'formula': self.formula,
+            'context': self.context,
+            'line_num': self.line_num,
+            'error_type': self.error_type,
+            'corrected_formula': self.corrected_formula,
+            'confidence': self.confidence
+        }
+
 
 class Layer2ValidationEngine:
     """Chemistry-aware LaTeX formula validator using MCP Sequential tool."""
@@ -271,7 +282,8 @@ class Layer2ValidationEngine:
             'high_confidence_corrections': high_confidence_corrections,
             'correction_rate': corrections_made / len(errors) if errors else 0,
             'content_changed': (content != original_content),
-            'error_categories': error_categories
+            'error_categories': error_categories,
+            'uncorrected_errors': [error.to_dict() for error in errors if error.corrected_formula is None]
         }
 
         return content, stats
@@ -334,6 +346,18 @@ def validate_extraction(input_dir: Path, output_dir: Path, dry_run: bool = False
 
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(validated_content)
+
+            # Export uncorrected errors to JSON
+            if stats['uncorrected_errors']:
+                errors_file = output_file.with_suffix('.errors.json')
+                with open(errors_file, 'w', encoding='utf-8') as f:
+                    json.dump({
+                        'paper': md_file.name,
+                        'total_errors': stats['errors_detected'],
+                        'uncorrected_errors': stats['uncorrected_errors'],
+                        'error_categories': stats['error_categories']
+                    }, f, indent=2)
+                logger.info(f"  Exported {len(stats['uncorrected_errors'])} uncorrected errors to {errors_file.name}")
 
             # Copy associated files (images, JSON)
             for item in md_file.parent.iterdir():
