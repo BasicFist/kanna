@@ -1,0 +1,39 @@
+{
+    "bucket_info": {
+        "bucket-name-1": [
+            "ak",
+            "sk",
+            "endpoint"
+        ],
+        "bucket-name-2": [
+            "ak",
+            "sk",
+            "endpoint"
+        ]
+    },
+    "device-mode": "cuda",
+    "layout-config": null,
+    "latex-delimiter-config": {
+        "display": {
+            "left": "$$",
+            "right": "$$"
+        },
+        "inline": {
+            "left": "$",
+            "right": "$"
+        }
+    },
+    "llm-aided-config": {
+        "title_aided": {
+            "api_key": "your_api_key",
+            "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+            "model": "qwen2.5-32b-instruct",
+            "enable": false
+        }
+    },
+    "models-dir": {
+        "pipeline": "/run/media/miko/AYA/crush-models/hf-home/models--opendatalab--PDF-Extract-Kit-1.0/snapshots/280f8a5a8912a91a417ba117c9ff8759cacbf6c0",
+        "vlm": "/run/media/miko/AYA/crush-models/hf-home/models--opendatalab--MinerU2.5-2509-1.2B/snapshots/879e58bdd9566632b27a8a81f0e2961873311f67"
+    },
+    "config_version": "1.3.0"
+}

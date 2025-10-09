@@ -1,0 +1,88 @@
+{
+  "_comment": "MinerU Advanced Configuration for KANNA Thesis (PhD Research)",
+  "_purpose": "Optimized for chemistry/pharmacology papers with complex formulas and tables",
+  "_version": "2025-10-03",
+
+  "latex-delimiter-config": {
+    "_comment": "Custom LaTeX delimiters for Overleaf thesis compatibility",
+    "start_delimiter": "\\[",
+    "end_delimiter": "\\]"
+  },
+
+  "layout-config": null,
+  "_layout-comment": "Disable layoutlmv3 (transformers v4.56+ compatibility issue)",
+
+  "formula-config": true,
+  "_formula-comment": "Keep formula detection via YOLO + UnimerNet",
+
+  "table-config": false,
+  "_table-comment": "Disable table detection for now (can enable with rapidtable later)",
+
+  "llm-aided-config": {
+    "_comment": "LLM-assisted formula recognition for chemical structures (QSAR Chapter 4)",
+    "_integration": "Kilo API (OpenRouter-compatible endpoint)",
+    "enable": false,
+    "_note": "Set to true and add KILO_API_KEY when ready to use",
+    "model": "openai/gpt-4",
+    "api_key": "YOUR_KILO_API_KEY_HERE",
+    "base_url": "https://kilocode.ai/api/openrouter"
+  },
+
+  "models-dir": {
+    "_comment": "Local model storage (avoid re-downloading 2GB+ weights)",
+    "pipeline": "/home/miko/.cache/mineru/models/pipeline",
+    "vlm": "/home/miko/.cache/mineru/models/vlm"
+  },
+
+  "processing-options": {
+    "_comment": "Performance and quality settings",
+    "backend": "pipeline",
+    "lang": "auto",
+    "formula_enable": true,
+    "table_enable": true,
+    "table_model": "rapidtable",
+    "_note": "Use 'auto' for language detection (French/English bilingual thesis)"
+  },
+
+  "output-formats": {
+    "_comment": "Multi-format output for different workflows",
+    "markdown": {
+      "enable": true,
+      "format": "obsidian-optimized",
+      "include_metadata": true
+    },
+    "json": {
+      "enable": true,
+      "format": "middle_json",
+      "_purpose": "Structured data for RAG/secondary development"
+    },
+    "visualization": {
+      "layout_pdf": true,
+      "spans_pdf": true,
+      "_purpose": "Quality assurance and debugging"
+    }
+  },
+
+  "quality-thresholds": {
+    "_comment": "Confidence thresholds for automated quality checks",
+    "min_ocr_confidence": 0.85,
+    "min_formula_confidence": 0.80,
+    "min_table_confidence": 0.75,
+    "_action": "Flag extractions below thresholds for manual review"
+  },
+
+  "thesis-specific": {
+    "_comment": "KANNA project-specific settings",
+    "chapters": {
+      "4": "pharmacology-qsar",
+      "5": "clinical-meta-analysis",
+      "_priority": "Chemistry formulas (LaTeX), pharmacokinetics tables (HTML)"
+    },
+    "expected_papers": 500,
+    "languages": ["fr", "en"],
+    "sensitive_content": {
+      "ethnobotanical_flagging": true,
+      "_fpic_compliance": "Flag indigenous knowledge for manual review"
+    }
+  }
+}
