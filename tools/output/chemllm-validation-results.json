@@ -1,0 +1,151 @@
+{
+  "validation_date": "2025-10-10",
+  "test_set_size": 15,
+  "accuracy": 13.333333333333334,
+  "correct": 2,
+  "incorrect": 13,
+  "avg_confidence": 0.83,
+  "confidence_distribution": {
+    "high": 7,
+    "mid": 8,
+    "low": 0
+  },
+  "passes_validation": false,
+  "matches": [
+    {
+      "error_num": 1,
+      "original": "( 5 0 0 ~ \\mathrm { m g } , 3 ~ \\mathrm { m L }",
+      "corrected": "( 500 mg, 3 mL)",
+      "confidence": 0.85,
+      "category": "experimental_data"
+    },
+    {
+      "error_num": 2,
+      "original": "( 1 5 { \\times } 2 . 1 ~ \\mathrm { m m }",
+      "corrected": "( 1 5 × 2.1 mm)",
+      "confidence": 0.85,
+      "category": "experimental_data"
+    }
+  ],
+  "mismatches": [
+    {
+      "error_num": 3,
+      "original": "( 1 { : } 1 { : } 3 \\ \\mathbf { v } /",
+      "ground_truth": "( 1 { : } 1 { : } 3 \\ \\mathbf { v } / \\mathbf { v } / \\mathbf { v } )",
+      "chemllm": "(1:1:3)The corrected formula is (1:1:3) v/v/v, which means 1 volume of dichloromethane, 1 volume of isopropanol, and 3 volumes of ethyl acetate.",
+      "gt_confidence": 0.8,
+      "chemllm_confidence": 0.85,
+      "category": "experimental_data"
+    },
+    {
+      "error_num": 4,
+      "original": "( - 1 8 . 0 1 1 0",
+      "ground_truth": "( - 1 8 . 0 1 1 0 ~ \\mathrm { u } )",
+      "chemllm": "( - 18.0 1 1 0)",
+      "gt_confidence": 0.9,
+      "chemllm_confidence": 0.9,
+      "category": "mass_spectrometry"
+    },
+    {
+      "error_num": 5,
+      "original": "( < 5 0 \\%",
+      "ground_truth": "( < 5 0 \\% )",
+      "chemllm": "$\\% < 50$ of genera",
+      "gt_confidence": 0.8,
+      "chemllm_confidence": 0.8,
+      "category": "statistical"
+    },
+    {
+      "error_num": 6,
+      "original": "( 2 . 5 \\mathrm { m M } ,",
+      "ground_truth": "( 2 . 5 \\mathrm { m M } )",
+      "chemllm": "2.5 mM MgCl2",
+      "gt_confidence": 0.85,
+      "chemllm_confidence": 0.85,
+      "category": "experimental_data"
+    },
+    {
+      "error_num": 7,
+      "original": "( 0 . 1 \\ \\mathrm { n g \\mu L ^ { - 1 } }",
+      "ground_truth": "( 0 . 1 ~ \\mathrm { n g } / \\mu \\mathrm { L } )",
+      "chemllm": "( 0.1 \\ \\mathrm { ng \\mu L ^ { - 1 } }",
+      "gt_confidence": 0.85,
+      "chemllm_confidence": 0.75,
+      "category": "experimental_data"
+    },
+    {
+      "error_num": 8,
+      "original": "( > 1 5 0 0",
+      "ground_truth": "( > 1 5 0 0 )",
+      "chemllm": "(\\frac{mesembs}{\\text{total species}} > 1.5) > 1500",
+      "gt_confidence": 0.8,
+      "chemllm_confidence": 0.8,
+      "category": "statistical"
+    },
+    {
+      "error_num": 9,
+      "original": "( E = 0 . 9 \\",
+      "ground_truth": "( E = 0 . 9 )",
+      "chemllm": "$\\text{E} = 0.9$",
+      "gt_confidence": 0.75,
+      "chemllm_confidence": 0.8,
+      "category": "statistical"
+    },
+    {
+      "error_num": 10,
+      "original": "( > 8 0 \\%",
+      "ground_truth": "( > 8 0 \\% )",
+      "chemllm": "$> 80\\%$",
+      "gt_confidence": 0.8,
+      "chemllm_confidence": 0.8,
+      "category": "statistical"
+    },
+    {
+      "error_num": 11,
+      "original": "\\mathrm { \\tilde { \\ m p } 1 8 1 ^ { \\circ } C } )",
+      "ground_truth": "( \\mathrm { m p ~ 1 8 1 ^ { \\circ } C } )",
+      "chemllm": "\\mathrm{mp 181^\\circ C}",
+      "gt_confidence": 0.95,
+      "chemllm_confidence": 0.95,
+      "category": "xray_crystallography"
+    },
+    {
+      "error_num": 12,
+      "original": "( 1 / 1 2 ,",
+      "ground_truth": "( 1 / 1 2 )",
+      "chemllm": "\\frac{1}{12}",
+      "gt_confidence": 0.8,
+      "chemllm_confidence": 0.75,
+      "category": "clinical"
+    },
+    {
+      "error_num": 13,
+      "original": "2 3 . 1 \\% ]",
+      "ground_truth": "( 2 3 . 1 \\% )",
+      "chemllm": "23.1%",
+      "gt_confidence": 0.75,
+      "chemllm_confidence": 0.75,
+      "category": "clinical"
+    },
+    {
+      "error_num": 14,
+      "original": "3 0 . 8 \\%]",
+      "ground_truth": "( 3 0 . 8 \\% )",
+      "chemllm": "30.8%",
+      "gt_confidence": 0.75,
+      "chemllm_confidence": 0.75,
+      "category": "clinical"
+    },
+    {
+      "error_num": 15,
+      "original": "a [ 2 ( 3 \\mathrm { H } )",
+      "ground_truth": "\\alpha [ 2 ( 3 \\mathrm { H } ) ]",
+      "chemllm": "a [ 2 ( 3 ( \\mathrm { H } ) ) ]",
+      "gt_confidence": 0.7,
+      "chemllm_confidence": 1.0,
+      "category": "general_chemistry"
+    }
+  ],
+  "deployment_decision": "DO NOT DEPLOY",
+  "notes": "ChemLLM-7B validation on 15-error diverse paper set"
+}

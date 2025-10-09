@@ -1,0 +1,122 @@
+[
+  {
+    "original": "( 5 0 0 ~ \\mathrm { m g } , 3 ~ \\mathrm { m L }",
+    "corrected": "( 500 mg, 3 mL)",
+    "confidence": 0.85,
+    "category": "experimental_data",
+    "paper": "Meyer 2015",
+    "reasoning": "SPE cartridge specifications (500 mg, 3 mL)"
+  },
+  {
+    "original": "( 1 5 { \\times } 2 . 1 ~ \\mathrm { m m }",
+    "corrected": "( 1 5 × 2.1 mm)",
+    "confidence": 0.85,
+    "category": "experimental_data",
+    "paper": "Meyer 2015",
+    "reasoning": "LC column dimensions (15 × 2.1 mm)"
+  },
+  {
+    "original": "( 1 { : } 1 { : } 3 \\ \\mathbf { v } /",
+    "corrected": "(1:1:3)The corrected formula is (1:1:3) v/v/v, which means 1 volume of dichloromethane, 1 volume of isopropanol, and 3 volumes of ethyl acetate.",
+    "confidence": 0.85,
+    "category": "experimental_data",
+    "paper": "Meyer 2015",
+    "reasoning": "Solvent ratio (1:1:3 v/v/v)"
+  },
+  {
+    "original": "( - 1 8 . 0 1 1 0",
+    "corrected": "( - 18.0 1 1 0)",
+    "confidence": 0.9,
+    "category": "mass_spectrometry",
+    "paper": "Meyer 2015",
+    "reasoning": "Mass loss notation (-18.0110 u for water)"
+  },
+  {
+    "original": "( < 5 0 \\%",
+    "corrected": "$\\% < 50$ of genera",
+    "confidence": 0.8,
+    "category": "statistical",
+    "paper": "Aizoaceae 2013",
+    "reasoning": "Percentage notation (< 50% of genera)"
+  },
+  {
+    "original": "( 2 . 5 \\mathrm { m M } ,",
+    "corrected": "2.5 mM MgCl2",
+    "confidence": 0.85,
+    "category": "experimental_data",
+    "paper": "Aizoaceae 2013",
+    "reasoning": "Chemical concentration (2.5 mM MgCl2)"
+  },
+  {
+    "original": "( 0 . 1 \\ \\mathrm { n g \\mu L ^ { - 1 } }",
+    "corrected": "( 0.1 \\ \\mathrm { ng \\mu L ^ { - 1 } }",
+    "confidence": 0.75,
+    "category": "experimental_data",
+    "paper": "Aizoaceae 2013",
+    "reasoning": "DNA concentration (0.1 ng/μL)"
+  },
+  {
+    "original": "( > 1 5 0 0",
+    "corrected": "(\\frac{mesembs}{\\text{total species}} > 1.5) > 1500",
+    "confidence": 0.8,
+    "category": "statistical",
+    "paper": "Aizoaceae 2013",
+    "reasoning": "Species count comparison (> 1500 species)"
+  },
+  {
+    "original": "( E = 0 . 9 \\",
+    "corrected": "$\\text{E} = 0.9$",
+    "confidence": 0.8,
+    "category": "statistical",
+    "paper": "Aizoaceae 2013",
+    "reasoning": "Extinction parameter (E = 0.9)"
+  },
+  {
+    "original": "( > 8 0 \\%",
+    "corrected": "$> 80\\%$",
+    "confidence": 0.8,
+    "category": "statistical",
+    "paper": "Aizoaceae 2013",
+    "reasoning": "Sampling threshold (> 80% of species)"
+  },
+  {
+    "original": "\\mathrm { \\tilde { \\ m p } 1 8 1 ^ { \\circ } C } )",
+    "corrected": "\\mathrm{mp 181^\\circ C}",
+    "confidence": 0.95,
+    "category": "xray_crystallography",
+    "paper": "Krstenansky 2016",
+    "reasoning": "Melting point notation (mp 181°C)"
+  },
+  {
+    "original": "( 1 / 1 2 ,",
+    "corrected": "\\frac{1}{12}",
+    "confidence": 0.75,
+    "category": "clinical",
+    "paper": "Nell 2013",
+    "reasoning": "Incidence rate (1 out of 12 subjects)"
+  },
+  {
+    "original": "2 3 . 1 \\% ]",
+    "corrected": "23.1%",
+    "confidence": 0.75,
+    "category": "clinical",
+    "paper": "Nell 2013",
+    "reasoning": "Clinical percentage (3/13 subjects = 23.1%)"
+  },
+  {
+    "original": "3 0 . 8 \\%]",
+    "corrected": "30.8%",
+    "confidence": 0.75,
+    "category": "clinical",
+    "paper": "Nell 2013",
+    "reasoning": "Clinical percentage (4/13 subjects = 30.8%)"
+  },
+  {
+    "original": "a [ 2 ( 3 \\mathrm { H } )",
+    "corrected": "a [ 2 ( 3 ( \\mathrm { H } ) ) ]",
+    "confidence": 1.0,
+    "category": "general_chemistry",
+    "paper": "Schultes 1970",
+    "reasoning": "Complex nested amino acid notation"
+  }
+]
