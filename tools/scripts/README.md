@@ -87,6 +87,43 @@ assets/figures/
 
 ---
 
+### 3. `encrypt-sensitive-data.sh`
+
+**Purpose**: Package sensitive directories into an AES-256 encrypted archive for off-site or offline storage.
+
+**Features**:
+- Gathers ethnobotanical interviews, FPIC protocols, raw fieldwork interviews, and ethics documents (skips directories that are absent).
+- Prompts for passphrase or reads `KANNA_ENCRYPTION_PASSPHRASE` env var.
+- Logs operations to `~/LAB/logs/kanna-sensitive-encryption.log` and emits SHA-256 checksum.
+- Outputs timestamped `.tar.gz.gpg` archive to `~/LAB/backups/kanna-sensitive/` by default.
+
+**Usage**:
+```bash
+# One-off run with interactive passphrase prompt
+./tools/scripts/encrypt-sensitive-data.sh
+
+# Specify destination directory and use env var for passphrase
+KANNA_ENCRYPTION_PASSPHRASE="MyStrongPassphrase" \
+    ./tools/scripts/encrypt-sensitive-data.sh /mnt/offsite/KANNA-safe
+```
+
+**Requirements**:
+- `gpg` (GNU Privacy Guard); install with `sudo dnf install gnupg` (Fedora) or `sudo apt install gnupg` (Debian/Ubuntu).
+- Optional: ensure destination volume exists or is mounted before running.
+
+**Verify archive**:
+```bash
+sha256sum ~/LAB/backups/kanna-sensitive/kanna-sensitive-*.tar.gz.gpg
+```
+
+**Decrypt when needed**:
+```bash
+gpg --output restored.tar.gz --decrypt kanna-sensitive-20251006-120000.tar.gz.gpg
+tar -xzf restored.tar.gz
+```
+
+---
+
 ## Installation
 
 ### 1. Install Dependencies

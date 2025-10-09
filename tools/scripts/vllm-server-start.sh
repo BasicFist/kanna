@@ -103,7 +103,9 @@ if [ "$GPU_MEM" -lt 14000 ]; then
 fi
 
 # Check model exists
-MODEL_PATH="/run/media/miko/AYA/crush-models/hf-home/models--Qwen--Qwen2.5-Coder-7B-Instruct"
+# Point to snapshot directory with config.json (not cache root)
+# Using 3B model for 16 GB GPU (7 GiB model + 4-5 GiB infrastructure = ~11-12 GiB total)
+MODEL_PATH="/run/media/miko/AYA/crush-models/hf-home/models--Qwen--Qwen2.5-Coder-3B-Instruct/snapshots/488639f1ff808d1d3d0ba301aef8c11461451ec5"
 if [ ! -d "$MODEL_PATH" ]; then
     log_error "Model not found at: $MODEL_PATH"
     exit 1
@@ -118,30 +120,28 @@ log_success "Preflight checks passed"
 # Launch vLLM Server
 # ═══════════════════════════════════════════════════════════════
 
-log_info "Launching vLLM server (Qwen2.5-Coder-7B)..."
+log_info "Launching vLLM server (Qwen2.5-Coder-3B)..."
 log_info "Model path: $MODEL_PATH"
 log_info "Logs: $LOG_FILE"
 log_info "Health endpoint: $HEALTH_ENDPOINT"
 
 # Launch vLLM in background
-# Note: Parameters match config/vllm-server.yaml
-nohup vllm serve Qwen/Qwen2.5-Coder-7B-Instruct \
-    --model "$MODEL_PATH" \
+# Note: Parameters optimized for Quadro RTX 5000 (16 GB VRAM)
+# vLLM 0.11.0+ syntax: model path as positional argument (not --model flag)
+# 3B model (~7 GiB) fits comfortably with full context window and good batch size
+# gpu_memory_utilization=0.85 balances model (7 GB) + KV cache + sampler buffers
+nohup vllm serve "$MODEL_PATH" \
     --host 127.0.0.1 \
     --port 8000 \
-    --api-key "" \
-    --gpu-memory-utilization 0.90 \
+    --gpu-memory-utilization 0.85 \
     --max-model-len 16384 \
     --tensor-parallel-size 1 \
-    --max-num-seqs 256 \
-    --max-num-batched-tokens 8192 \
+    --max-num-seqs 64 \
     --enable-chunked-prefill \
     --enable-prefix-caching \
     --swap-space 4 \
     --dtype float16 \
-    --disable-log-stats false \
     --trust-remote-code \
-    --uvicorn-log-level info \
     > "$LOG_FILE" 2>&1 &
 
 VLLM_PID=$!
@@ -201,9 +201,10 @@ echo "Metrics:          http://127.0.0.1:8001/metrics"
 echo "Health Check:     $HEALTH_ENDPOINT"
 echo "Logs:             $LOG_FILE"
 echo ""
-echo "Model:            Qwen2.5-Coder-7B-Instruct"
+echo "Model:            Qwen2.5-Coder-3B-Instruct"
 echo "Context Window:   16,384 tokens"
-echo "GPU Utilization:  90%"
+echo "GPU Utilization:  85%"
+echo "Max Batch Size:   64 sequences"
 echo ""
 echo "Management:"
 echo "  Stop:           bash tools/scripts/vllm-server-stop.sh"
@@ -213,7 +214,7 @@ echo ""
 echo "Test query:"
 echo '  curl http://127.0.0.1:8000/v1/completions \'
 echo '    -H "Content-Type: application/json" \'
-echo '    -d '"'"'{"model": "Qwen/Qwen2.5-Coder-7B-Instruct", "prompt": "Write a Python function to", "max_tokens": 50}'"'"
+echo '    -d '"'"'{"model": "Qwen/Qwen2.5-Coder-3B-Instruct", "prompt": "Write a Python function to", "max_tokens": 50}'"'"
 echo ""
 echo "════════════════════════════════════════════════════════════════"
 echo ""

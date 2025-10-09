@@ -290,13 +290,14 @@ class RAGIngestionPipeline:
         logger.info("Loading BGE-M3 embeddings model...")
         model_path = self.config['embeddings']['local_path']
 
+        # Force CPU since vLLM is using GPU (prevents OOM)
         try:
-            self.embedding_model = SentenceTransformer(model_path)
-            logger.info(f"✓ BGE-M3 loaded from {model_path}")
+            self.embedding_model = SentenceTransformer(model_path, device='cpu')
+            logger.info(f"✓ BGE-M3 loaded from {model_path} (device: CPU)")
         except Exception as e:
             logger.error(f"Failed to load BGE-M3: {e}")
             logger.info("Attempting to download from HuggingFace...")
-            self.embedding_model = SentenceTransformer("BAAI/bge-m3")
+            self.embedding_model = SentenceTransformer("BAAI/bge-m3", device='cpu')
 
     def initialize_chromadb(self):
         """Initialize ChromaDB collection"""

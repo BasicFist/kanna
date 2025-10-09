@@ -15,7 +15,7 @@
 # Requirements:
 #   - MinerU installed (mineru package)
 #   - LaTeX-OCR installed (pix2tex package)
-#   - Conda env 'kanna' activated
+#   - Conda env 'mineru' activated (GPU-accelerated)
 #
 # Author: KANNA Thesis Project
 # Date: October 2025
@@ -27,7 +27,7 @@ set -Eeuo pipefail
 PDF_DIR="${1:-literature/pdfs/BIBLIOGRAPHIE}"
 OUTPUT_BASE="data/extracted-papers-hybrid"
 LOG_FILE="logs/hybrid-extraction-$(date +%Y%m%d-%H%M%S).log"
-KANNA_ENV="kanna"
+KANNA_ENV="mineru"  # Dedicated environment for GPU-accelerated PDF extraction
 
 # Ensure log directory exists
 mkdir -p "$(dirname "$LOG_FILE")"

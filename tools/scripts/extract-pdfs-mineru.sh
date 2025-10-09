@@ -21,9 +21,9 @@ OUTPUT_DIR="$HOME/LAB/projects/KANNA/data/extracted-papers"
 LOG_FILE="$HOME/LAB/logs/mineru-extraction.log"
 CONFIG_FILE="$HOME/.config/mineru/mineru.json"
 
-# Activate conda environment
+# Activate conda environment (dedicated mineru environment for GPU-accelerated extraction)
 source ~/miniforge3/etc/profile.d/conda.sh
-conda activate kanna
+conda activate mineru
 
 # Load secrets if available
 if [ -f "$HOME/.config/codex/secrets.env" ]; then

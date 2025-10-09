@@ -16,7 +16,10 @@
 
 set -euo pipefail
 
-EXTRACTED_DIR="$HOME/LAB/projects/KANNA/data/extracted-papers"
+PROJECT_ROOT="$HOME/LAB/projects/KANNA"
+EXTRACTION_DIRS=(
+    "$PROJECT_ROOT/literature/pdfs/extractions-mineru"
+)
 REPORT_FILE="$HOME/LAB/logs/mineru-quality-report-$(date +%Y%m%d).txt"
 
 echo "========================================"
@@ -24,9 +27,18 @@ echo "MinerU Extraction Quality Validation v2.0"
 echo "========================================"
 echo ""
 
-# Check if extraction directory exists
-if [ ! -d "$EXTRACTED_DIR" ]; then
-    echo "⚠ No extractions found at: $EXTRACTED_DIR"
+# Collect extraction directories
+mapfile -t EXTRACTION_AUTO_DIRS < <(
+    for dir in "${EXTRACTION_DIRS[@]}"; do
+        if [ -d "$dir" ]; then
+            find "$dir" -maxdepth 2 -type d -name auto
+        fi
+    done
+)
+
+if [ "${#EXTRACTION_AUTO_DIRS[@]}" -eq 0 ]; then
+    echo "⚠ No MinerU extractions found in expected directories:"
+    printf '  - %s\n' "${EXTRACTION_DIRS[@]}"
     exit 1
 fi
 
@@ -86,7 +98,7 @@ detect_chemical_structures() {
 }
 
 # Process each extraction
-for md_dir in "$EXTRACTED_DIR"/*/auto; do
+for md_dir in "${EXTRACTION_AUTO_DIRS[@]}"; do
     [ ! -d "$md_dir" ] && continue
 
     # Find the markdown file
