@@ -1,0 +1,337 @@
+# Grammalecte Custom Dictionary for KANNA Thesis
+# Created: 2025-10-10
+# Purpose: Prevent false positives on ethnopharmacology and Sceletium-specific terms
+# Usage: Referenced by Grammalecte VS Code extension configuration
+
+# ============================================================
+# SECTION 1: Sceletium tortuosum - Species and Related Terms
+# ============================================================
+
+Sceletium
+tortuosum
+kanna
+kougoed
+kauwgoed
+channa
+canna
+Mesembryanthemaceae
+Aizoaceae
+
+# ============================================================
+# SECTION 2: Alkaloids and Chemical Compounds
+# ============================================================
+
+# Primary alkaloids
+mesembrine
+mesembrenone
+mesembrenol
+mesembranol
+tortuosamine
+joubertiamine
+
+# Chemical classes
+alcaloïde
+alcaloïdes
+psychotrope
+psychotropes
+psychoactif
+psychoactive
+psychoactifs
+anxiolytique
+anxiolytiques
+sérotoninergique
+sérotoninergiques
+
+# Pharmacological terms
+biodisponibilité
+bioactive
+bioactives
+phytocomposé
+phytocomposés
+neuroprotecteur
+neuroprotectrice
+neuroprotecteurs
+inhibiteur
+inhibitrice
+inhibiteurs
+PDE4
+phosphodiestérase
+
+# ============================================================
+# SECTION 3: Ethnobotany and Indigenous Communities
+# ============================================================
+
+# Communities
+Khoisan
+San
+Nama
+Khoekhoe
+Khoe-San
+Hottentot
+
+# Ethnobotanical concepts
+ethnobotanique
+ethnobotaniques
+ethnopharmacologie
+ethnopharmacologiques
+ethnomédecine
+ethnomédecines
+ethnographique
+ethnographiques
+
+# Traditional knowledge
+FPIC
+consentement
+préalable
+éclairé
+autochtone
+autochtones
+indigène
+indigènes
+traditionnel
+traditionnelle
+traditionnels
+ancestral
+ancestrale
+ancestraux
+
+# ============================================================
+# SECTION 4: Phytochemistry and Analysis Methods
+# ============================================================
+
+phytochimie
+phytochimique
+phytochimiques
+phytothérapie
+phytothérapeutique
+
+# Analytical methods
+chromatographie
+LC-MS
+HPLC
+spectrométrie
+RMN
+UV-vis
+fluorescence
+
+# Plant material
+succulent
+succulente
+succulentes
+xérophyte
+xérophytes
+crassulescent
+crassulescente
+
+# ============================================================
+# SECTION 5: Pharmacology and Clinical Terms
+# ============================================================
+
+pharmacologie
+pharmacologique
+pharmacologiques
+pharmacocinétique
+pharmacocinétiques
+pharmacodynamique
+pharmacodynamiques
+
+# Mechanisms
+SSRI
+IMAO
+recapture
+récepteur
+récepteurs
+neurotransmetteur
+neurotransmetteurs
+sérotonine
+dopamine
+noradrénaline
+
+# Clinical
+anxiété
+dépression
+antidépresseur
+antidépresseurs
+anxiolytique
+anxiolytiques
+essai
+contrôlé
+randomisé
+placebo
+
+# ============================================================
+# SECTION 6: Botany and Taxonomy
+# ============================================================
+
+taxonomie
+taxonomique
+taxonomiques
+phylogénie
+phylogénétique
+phylogénétiques
+cladistique
+morphologique
+morphologiques
+
+# Plant organs
+trichome
+trichomes
+stomate
+stomates
+cuticule
+épiderme
+mésophylle
+chlorophylle
+
+# ============================================================
+# SECTION 7: Geography and Ecology
+# ============================================================
+
+# Regions
+Afrique
+australe
+Namaqualand
+Karoo
+Richtersveld
+Namib
+Kalahari
+
+# Ecological terms
+aride
+semi-aride
+endémique
+endémiques
+xérophile
+xérophiles
+écotype
+écotypes
+
+# ============================================================
+# SECTION 8: Research and Methodology
+# ============================================================
+
+méthodologie
+méthodologique
+méthodologiques
+épistémologie
+épistémologique
+paradigme
+paradigmes
+
+# Statistical
+quantitatif
+quantitative
+quantitatives
+qualitatif
+qualitative
+qualitatives
+multivarié
+multivariée
+multivariées
+
+# Analysis
+ANOVA
+régression
+corrélation
+significatif
+significative
+p-value
+intervalle
+confiance
+
+# ============================================================
+# SECTION 9: Legal and Ethical Terms
+# ============================================================
+
+réglementation
+réglementaire
+réglementaires
+législation
+juridique
+juridiques
+propriété
+intellectuelle
+biopiraterie
+APA
+Nagoya
+
+# ============================================================
+# SECTION 10: Academic and Thesis-Specific
+# ============================================================
+
+interdisciplinaire
+interdisciplinaires
+transdisciplinaire
+transdisciplinaires
+pluridisciplinaire
+pluridisciplinaires
+
+# Thesis structure
+problématique
+hypothèse
+hypothèses
+méthodologie
+résultats
+discussion
+conclusion
+bibliographie
+
+# Citations
+infra
+supra
+ibid
+op.cit
+cf.
+passim
+seq.
+
+# ============================================================
+# SECTION 11: Common False Positives in Academic French
+# ============================================================
+
+# Abbreviations
+etc
+vs
+pH
+mg
+mL
+µg
+nm
+
+# Latin terms
+in vitro
+in vivo
+in silico
+ex vivo
+de novo
+ad hoc
+a priori
+a posteriori
+
+# Technical terms
+software
+workflow
+pipeline
+dataset
+datasets
+throughput
+
+# ============================================================
+# SECTION 12: Institutions and Funding
+# ============================================================
+
+CNRS
+INRA
+IRD
+ANR
+INSERM
+UNESCO
+UICN
+CITES
+
+# ============================================================
+# END OF DICTIONARY
+# ============================================================
+# Total terms: ~200+
+# Last updated: 2025-10-10
+# Maintainer: Mickael Souedan
