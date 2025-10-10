@@ -1,0 +1,17 @@
+{
+  "paper": "2010 - Schultes   1970   The Botanical and Chemical Distribution of Halluci.md",
+  "total_errors": 1,
+  "uncorrected_errors": [
+    {
+      "formula": "a [ 2 ( 3 \\mathrm { H } )",
+      "context": "ydroxyisoxazoylyl-5)]-acid monohydrate. The less active musoazone, likewise an amino acid, $a$ amino$a [ 2 ( 3 \\mathrm { H } )$ -oxazolonyl-(5)l-acetic acid, is present in varying but lesser amounts. Structurally related to t",
+      "line_num": 131,
+      "error_type": "general_chemistry",
+      "corrected_formula": null,
+      "confidence": 0.0
+    }
+  ],
+  "error_categories": {
+    "general_chemistry": 1
+  }
+}

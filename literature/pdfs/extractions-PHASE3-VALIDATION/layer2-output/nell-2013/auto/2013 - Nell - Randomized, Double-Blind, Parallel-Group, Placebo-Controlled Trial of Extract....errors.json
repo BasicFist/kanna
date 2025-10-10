@@ -1,0 +1,34 @@
+{
+  "paper": "2013 - Nell - Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract....md",
+  "total_errors": 5,
+  "uncorrected_errors": [
+    {
+      "formula": "( 1 / 1 2 ,",
+      "context": "Sceletium tortuosum (Zembrin\u0002) $2 5 \\mathrm { - m g }$ group, and one incidence was reported by one $( 1 / 1 2 ,$ $8 . 3 \\%$ ) subject in the extract Sceletium tortuosum (Zembrin ) 8- mg group. This was followed",
+      "line_num": 101,
+      "error_type": "experimental_data",
+      "corrected_formula": null,
+      "confidence": 0.0
+    },
+    {
+      "formula": "2 3 . 1 \\% ]",
+      "context": "tuosum (Zembrin ) 8- mg group. This was followed by abdominal pain (five incidences in three [3/13; $2 3 . 1 \\% ]$ ] subjects receiving placebo), upper respiratory tract infection (four incidences in four [4/13; ",
+      "line_num": 101,
+      "error_type": "experimental_data",
+      "corrected_formula": null,
+      "confidence": 0.0
+    },
+    {
+      "formula": "3 0 . 8 \\%]",
+      "context": "]$ ] subjects receiving placebo), upper respiratory tract infection (four incidences in four [4/13; $3 0 . 8 \\%]$ subjects receiving placebo), and influenza (three incidences in three subjects, one in each treat",
+      "line_num": 101,
+      "error_type": "general_chemistry",
+      "corrected_formula": null,
+      "confidence": 0.0
+    }
+  ],
+  "error_categories": {
+    "general_chemistry": 3,
+    "experimental_data": 2
+  }
+}

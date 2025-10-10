@@ -1,0 +1,42 @@
+{
+  "paper": "2014 - Meyer et al.   2015   GC MS, LC MSn, LC high resolution MSn, and NMR stu.md",
+  "total_errors": 12,
+  "uncorrected_errors": [
+    {
+      "formula": "( 5 0 0 ~ \\mathrm { m g } , 3 ~ \\mathrm { m L }",
+      "context": "Isolute Confirm HCX ( $\\mathrm { 1 3 0 ~ m g } .$ \uff0c $3 ~ \\mathrm { m L }$ ) and Isolute Confirm C18 $( 5 0 0 ~ \\mathrm { m g } , 3 ~ \\mathrm { m L }$ ) solid-phase extraction (SPE) cartridges from Biotage (Grenzach-Wyhlen, Germany), chloroform (LC",
+      "line_num": 26,
+      "error_type": "general_chemistry",
+      "corrected_formula": null,
+      "confidence": 0.0
+    },
+    {
+      "formula": "( 1 5 { \\times } 2 . 1 ~ \\mathrm { m m }",
+      "context": "TF LTQ Orbitrap (OT) equipped with a HESI II source. Separation was performed by a TF Hypersil Gold $( 1 5 { \\times } 2 . 1 ~ \\mathrm { m m }$ , $1 . 9 ~ \\mu \\mathrm { m } )$ and gradient elution. The MS was operated in ESI positive mode. C",
+      "line_num": 86,
+      "error_type": "general_chemistry",
+      "corrected_formula": null,
+      "confidence": 0.0
+    },
+    {
+      "formula": "( 1 { : } 1 { : } 3 \\ \\mathbf { v } /",
+      "context": "rine was added. This mixture was extracted with a dichloromethane-isopropanol-ethyl acetate mixture $( 1 { : } 1 { : } 3 \\ \\mathbf { v } /$ v/v) and the organic layer was evaporated to dryness. The residue was acetylated with an acetic a",
+      "line_num": 96,
+      "error_type": "general_chemistry",
+      "corrected_formula": null,
+      "confidence": 0.0
+    },
+    {
+      "formula": "( - 1 8 . 0 1 1 0",
+      "context": "at 262.1437), of which three isomers could be detected (Fig. 4, 13\u201315). After neutral loss of water $( - 1 8 . 0 1 1 0$ u) and ammonia $( - 1 7 . 0 2 6 2 \\mathrm { u } )$ , FI at m/z 227.1066 characterized the O,N-bis",
+      "line_num": 148,
+      "error_type": "general_chemistry",
+      "corrected_formula": null,
+      "confidence": 0.0
+    }
+  ],
+  "error_categories": {
+    "general_chemistry": 10,
+    "nmr_spectroscopy": 2
+  }
+}
