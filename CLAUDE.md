@@ -8,6 +8,33 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Key Metrics**: 120,000-word thesis, 8 chapters, 15-20 publications, 142 papers corpus (974K words), 98/100 infrastructure health.
 
+## Session Management & Initialization
+
+### Session Start Protocol (Execute on Every Session)
+
+**Mandatory 6-step initialization** for complete context loading:
+
+| Step | Action | Tool/Command | Purpose |
+|------|--------|--------------|---------|
+| 1 | **Project Activation** | `mcp__serena__activate_project("KANNA")` | Enable Serena MCP workspace |
+| 2 | **Phase Context** | Read `PROJECT-STATUS.md` (first 50 lines) | Understand current project phase |
+| 3 | **Memory Discovery** | `mcp__serena__list_memories()` | Identify available memories |
+| 4 | **Memory Loading** | Read memories by task type (see Memory Management below) | Load relevant context |
+| 5 | **Git Verification** | `git status --porcelain` + `git log --oneline -5` | Understand working tree state |
+| 6 | **Environment Check** | `conda info --envs` | Verify active environment |
+
+**Estimated Time**: 30-60 seconds
+**Success Criteria**: All 6 steps complete, no errors, context loaded
+
+### Post-Initialization Checklist
+
+After completing 6-step protocol, verify:
+- ✅ Serena shows "Active project: KANNA"
+- ✅ PROJECT-STATUS.md shows infrastructure health score
+- ✅ At least 1 memory loaded (relevant to current task)
+- ✅ Git status interpreted (see Git Interpretation Guide below)
+- ✅ Correct conda environment active for task type
+
 ## Essential Commands
 
 ### Environment Activation
@@ -24,7 +51,7 @@ conda activate r-gis
 
 # Quick access alias (add to ~/.zshrc)
 kanna() {
-    cd ~/LAB/projects/KANNA
+    cd ~/LAB/academic/KANNA
     conda activate r-gis  # Default
     echo "✅ KANNA (R 4.4.3) | Switch: conda activate kanna | PDF extraction: conda activate mineru"
 }
@@ -57,8 +84,24 @@ bash tools/scripts/daily-backup.sh
 
 # MCP server verification
 claude
-/mcp  # Should show 17 connected servers
+/mcp  # Should show 13 connected servers
 ```
+
+### Custom Commands
+
+**`/academic-enhance-fr [document-name]`** - French academic writing enhancement
+```bash
+# Analyze and improve French thesis chapters
+/academic-enhance-fr "chapter-03-ethnobotany.pdf"
+
+# Features:
+# - 4-dimension academic analysis (tone, depth, structure, bibliography)
+# - French academic conventions (impersonal voice, footnotes)
+# - Integration with Perplexity (academic mode) and Memory MCP
+# - Automatic document location (pdfs/, writing/, extractions-mineru/)
+```
+
+**See**: `.claude/commands/academic-enhance-fr.md` for detailed documentation.
 
 ### Testing Environments
 
@@ -76,7 +119,65 @@ python -c "import pandas, numpy, sklearn; print('✓ Core OK')"
 # Validate R environment
 conda activate r-gis
 Rscript -e "library(sf); library(brms); library(metafor); print('✓ R OK')"
+
+# Quick health check (all environments in one command)
+conda activate kanna && python -c "from rdkit import Chem; print('✓ RDKit')" && \
+conda activate r-gis && Rscript -e "library(brms); library(sf); cat('✓ R\n')" && \
+conda activate mineru && python -c "import torch; print(f'✓ CUDA: {torch.cuda.is_available()}')"
 ```
+
+## Memory Management Strategy
+
+### Memory Classification System
+
+Based on current KANNA memories (research-automation-strategy, kanna-conda-environments, session-2025-10-18-dependency-installation, academic-tools-setup):
+
+| Type | Purpose | Lifespan | When to Read | Examples |
+|------|---------|----------|--------------|----------|
+| **Strategic** | Long-term implementation plans | 3-6 months | Starting new feature work | research-automation-strategy |
+| **Reference** | System architecture & configuration | Permanent | Debugging, setup, architecture questions | kanna-conda-environments |
+| **Historical** | Session records, installations | 3-6 months | Troubleshooting recurring issues | session-2025-10-18-dependency-installation |
+| **Configuration** | Tool setup procedures | Until tools change | First-time tool usage | academic-tools-setup |
+
+### Task-Based Memory Priority
+
+**Starting New Feature**:
+1. Read Strategic (understand long-term plan)
+2. Read Reference (understand architecture)
+3. Skip Historical (not relevant for new work)
+
+**Debugging Environment Issues**:
+1. Read Reference (understand expected state)
+2. Read Historical (see what was installed/changed)
+3. Skip Strategic (not relevant for debugging)
+
+**Setting Up New Tools**:
+1. Read Configuration (follow setup procedures)
+2. Read Historical (learn from past installations)
+3. Skip Strategic (not relevant for setup)
+
+### Memory Lifecycle Rules
+
+**CREATE** new memory when:
+- Completing multi-hour setup (>2 hours work)
+- Developing strategic plan (affects multiple chapters)
+- Solving complex problem (future reference value)
+
+**UPDATE** existing memory when:
+- Configuration changes significantly
+- Strategic plan evolves
+- New insights discovered
+
+**DELETE** memory when:
+- Information becomes obsolete (>6 months for Historical)
+- Converted to permanent documentation
+- Superseded by newer memory
+
+**Memory Naming Convention**:
+- Strategic: `{project-area}-strategy` (e.g., research-automation-strategy)
+- Reference: `{system-name}-{aspect}` (e.g., kanna-conda-environments)
+- Historical: `session-{YYYY-MM-DD}-{topic}` (e.g., session-2025-10-18-dependency-installation)
+- Configuration: `{tool-name}-setup` (e.g., academic-tools-setup)
 
 ## Architecture Patterns
 
@@ -150,6 +251,100 @@ Chapter 4 (Pharmacology):  PubChem → RDKit → scikit-learn → SHAP → PyMOL
 Chapter 5 (Clinical):      Rayyan → RevMan → metafor → forest plots
 ```
 
+### Multi-Environment Workflow Patterns
+
+The three conda environments form DATA FLOW pipelines:
+
+#### Pipeline 1: Literature → QSAR Analysis
+
+```
+Step 1 (mineru): PDF Extraction
+conda activate mineru
+bash tools/scripts/extract-pdfs-mineru-production.sh literature/pdfs/BIBLIOGRAPHIE/ literature/pdfs/extractions-mineru/
+→ Output: Markdown + chemical structures
+
+Step 2 (kanna): Chemical Analysis
+conda activate kanna
+python analysis/python/cheminformatics/qsar-modeling.py
+→ Output: QSAR models + molecular fingerprints
+
+Step 3 (r-gis): Statistical Validation
+conda activate r-gis
+Rscript analysis/r-scripts/validation/model-performance.R
+→ Output: 300 DPI publication figures
+```
+
+#### Pipeline 2: Ethnobotany Field Data → Publication
+
+```
+Step 1 (r-gis): Data Collection Analysis
+conda activate r-gis
+Rscript analysis/r-scripts/ethnobotany/calculate-bei.R
+→ Output: Botanical Ethnobotany Index
+
+Step 2 (r-gis): GIS Mapping
+Rscript analysis/r-scripts/ethnobotany/spatial-distribution.R
+→ Output: Distribution maps (sf package)
+
+Step 3 (r-gis): Statistical Analysis
+Rscript analysis/r-scripts/ethnobotany/hypothesis-testing.R
+→ Output: Publication-ready results
+```
+
+#### Pipeline 3: Clinical Trials → Meta-Analysis
+
+```
+Step 1 (r-gis): Data Import
+conda activate r-gis
+# Import from data/clinical/trials/
+
+Step 2 (r-gis): Meta-Analysis
+Rscript analysis/r-scripts/clinical/meta-analysis.R
+→ Output: Forest plots (metafor package)
+
+Step 3 (kanna): Supplementary NLP
+conda activate kanna
+python analysis/python/nlp/trial-classification.py
+→ Output: Automated trial classification
+```
+
+#### Environment Selection Decision Tree
+
+```
+Task Type → Environment
+├─ PDF Extraction? → mineru
+├─ Chemical Structure Analysis? → kanna (RDKit)
+├─ Machine Learning (QSAR, NLP)? → kanna (scikit-learn, spaCy)
+├─ GIS / Spatial Analysis? → r-gis (sf, GEOS, GDAL)
+├─ Bayesian Statistics? → r-gis (brms)
+├─ Meta-Analysis? → r-gis (metafor)
+└─ General R Statistics? → r-gis (tidyverse)
+```
+
+### Documentation Navigation by Task
+
+**Quick Reference: Which Document for Which Task**
+
+| Task Category | Primary Document | Section | Word Count |
+|---------------|------------------|---------|------------|
+| Session initialization | CLAUDE.md | Session Management | 500 |
+| Environment debugging | CLAUDE.md | Troubleshooting | 800 |
+| Analysis pipeline setup | ARCHITECTURE.md | Analysis Pipeline Structure | 1,200 |
+| MCP server configuration | docs/MCP-CONFIGURATION-AUDIT.md | Server Details | 13,000 |
+| Plugin integration | docs/PLUGIN-INTEGRATION-PLAN.md | Full Guide | 15,000 |
+| Literature workflow | tools/guides/01-literature-workflow-setup.md | Full Guide | 1,500 |
+| QSAR setup | tools/guides/04-qsar-pipeline-setup.md | Full Guide | 1,200 |
+| Field data collection | tools/guides/02-field-data-collection.md | Full Guide | 1,400 |
+| French writing tools | docs/ACADEMIC-TOOLS-IMPLEMENTATION.md | Tier 1-2 Tools | 20,000 |
+| Project status check | PROJECT-STATUS.md | Metrics (first 100 lines) | 500 |
+
+**Navigation Rule**: Read ONLY the specified section, not the entire document, to minimize token usage.
+
+**Example**:
+- Task: "Set up QSAR analysis"
+- Read: `tools/guides/04-qsar-pipeline-setup.md` (1,200 words)
+- Don't read: ARCHITECTURE.md (39KB) or entire documentation corpus
+
 ## Critical Dependencies
 
 ### Python (conda environment: kanna)
@@ -198,113 +393,6 @@ plt.savefig("assets/figures/chapter-04/figure.png",
 
 **Requirements**: 300 DPI minimum, colorblind-friendly palettes (viridis, RColorBrewer), ≥10pt fonts at print size.
 
-### Integration Testing & Production Readiness
-
-**Status**: ⚠️ **CRITICAL - Phase 3 has 2 blocking integration bugs** (discovered 2025-10-10)
-
-**Phase 3 Validation Achievements**:
-- ✅ 100% formula accuracy validated on 948 formulas across 7 diverse papers
-- ✅ Negative validation complete (ChemLLM-7B properly rejected at 13.3%)
-- ✅ Enhanced prompts code written and unit tested (7/7 tests passing)
-- ✅ Full corpus deployment script created
-
-**Critical Blockers Preventing Production Deployment**:
-
-1. **Integration Bug #1**: Enhanced prompts NOT integrated into validation pipeline
-   - File: `tools/scripts/layer2-sequential-validation.py` (480 lines)
-   - Issue: Does NOT import or use `layer2-enhanced-prompts.py`
-   - Impact: Claimed "60% LLM reduction" will NOT happen
-   - Fix required: Add imports and modify `repair_with_mcp()` function (~45 min)
-   - Location: tools/scripts/layer2-sequential-validation.py:1-20 (add imports), :350-380 (modify function)
-
-2. **Integration Bug #2**: Deployment script uses non-existent CLI flag
-   - File: `tools/scripts/phase3-full-corpus-deployment.sh` line 192
-   - Issue: Calls layer2 with `--enhanced-prompts` flag that doesn't exist
-   - Impact: Deployment will crash immediately with "unrecognized arguments" error
-   - Fix required: Remove invalid flag from deployment script (~5 min)
-   - Location: tools/scripts/phase3-full-corpus-deployment.sh:189-193
-
-**Industry-Validated Integration Testing Principles** (Research-backed, 2025-10-10):
-
-These principles are validated by Google SRE Production Readiness Review (PRR), Microsoft Engineering Playbook Definition of Done (DoD), and NASA NPR 7123.1 Systems Engineering standards:
-
-1. **Integration testing is MANDATORY before "production ready" claims**
-   - Source: Google PRR requires dependency verification and monitoring configured
-   - Source: Microsoft DoD Sprint-level requires "Integration tests pass" and "End-to-end tests pass"
-   - Source: NASA System Integration Review (SIR) requires component maturity validation
-
-2. **Unit tests passing ≠ Integration working**
-   - Individual components working in isolation does NOT guarantee system integration
-   - Must test components working together, not just individually
-   - Phase 3 lesson: Enhanced prompts passed 7/7 unit tests but were never connected to pipeline
-
-3. **Dry-run validation required before deployment**
-   - Must execute deployment script end-to-end in dry-run mode
-   - Google PRR: "Dry-run in staging environment" is prerequisite
-   - Phase 3 lesson: Never ran `phase3-full-corpus-deployment.sh --dry-run`, would have caught both bugs
-
-4. **"Code written" ≠ "Code tested" ≠ "Production ready"**
-   - Code written: Individual files exist and compile
-   - Code tested: Unit tests pass, integration tests pass, end-to-end tests pass
-   - Production ready: All of above + dry-run succeeds + monitoring configured + team sign-off
-
-**Mandatory Pre-Deployment Checklist** (Prevent Future Integration Failures):
-
-Before claiming ANY feature is "production ready", MUST complete:
-
-```bash
-# 1. Unit tests pass
-pytest tools/scripts/test_*.py
-Rscript analysis/r-scripts/test-*.R
-
-# 2. Integration test (components work together)
-# Example: Enhanced prompts integration test
-python -c "
-from layer2_sequential_validation import LayerTwoValidator
-from layer2_enhanced_prompts import categorize_error_enhanced
-# Verify imports work and functions integrate
-"
-
-# 3. End-to-end dry-run (full pipeline simulation)
-bash tools/scripts/phase3-full-corpus-deployment.sh --dry-run
-# MUST complete without errors before claiming "production ready"
-
-# 4. Verify claimed features actually exist
-# Example: Check that --enhanced-prompts flag is actually implemented
-python tools/scripts/layer2-sequential-validation.py --help | grep enhanced-prompts
-
-# 5. Code review (second pair of eyes)
-git diff main..feature-branch | wc -l  # Review all changes
-
-# 6. Documentation matches reality
-# Verify claims in docs match actual code behavior
-```
-
-**Root Cause Analysis (5 Whys - Phase 3 Integration Failure)**:
-
-1. **Why did deployment script have invalid flag?** → Never tested the deployment script
-2. **Why didn't test it?** → Assumed individual components working = integration works
-3. **Why that assumption?** → Focused on feature completion, not system validation
-4. **Why that focus?** → No mandatory checklist enforcing integration testing
-5. **Root cause**: Missing quality gates in development process
-
-**Lessons Learned** (Honest Assessment):
-
-- ✅ **Valid critique**: Skipping integration testing violates industry standards (Google/Microsoft/NASA all mandate it)
-- ✅ **Real standards**: Google SRE PRR, Microsoft DoD, NASA SIR/TRR are authoritative sources
-- ❌ **Theatrical scoring**: Should NOT claim specific percentages (e.g., "25% on Google's checklist") - real frameworks are complex, scoring is interpretation
-- ✅ **Core principle**: "Test it end-to-end before shipping" is universal industry requirement (2024-2025 best practices)
-
-**Next Steps to Unblock Phase 3 Deployment**:
-
-1. Fix Integration Bug #2 (Quick win - 5 minutes)
-2. Fix Integration Bug #1 (Requires refactoring - 45 minutes)
-3. Run end-to-end dry-run test (30 minutes)
-4. ONLY THEN claim "production ready"
-5. Create integration test suite to prevent future failures (4 hours)
-
-**Documentation**: See `docs/AUDIT-REPORT-2025-10-10.md` for comprehensive audit findings.
-
 ### Git Commit Convention
 
 ```bash
@@ -320,6 +408,67 @@ git commit -m "feat: add SHAP interpretation to QSAR model (Chapter 4)"
 git commit -m "fix: correct ICF calculation for zero use reports"
 git commit -m "docs: draft Chapter 3 Section 3.4 (1200 words)"
 ```
+
+### Git Working Tree Interpretation Patterns
+
+**Use this guide BEFORE committing to ensure FPIC compliance and data safety**
+
+#### 🟢 SAFE to Commit (Green Light)
+
+**Modified Files**:
+- Scripts: `*.py`, `*.R`, `*.sh`, `*.bash`
+- Documentation: `*.md`, `*.txt` (excluding FPIC-protected paths)
+- Configs: `*.json`, `*.yml`, `*.yaml`, `.vscode/settings.json`
+
+**Untracked Directories**:
+- New docs: `docs/{new-category}/`
+- New tools: `tools/{scripts|mcp-servers}/{new-tool}/`
+- New writing: `writing/{chapters|notes}/`
+- Analysis outputs: `analysis/*/output/`
+
+**Deleted Files**:
+- Temporary: `*.log`, `*.tmp`, `__pycache__/`, `.pytest_cache/`
+- Build artifacts: `*.pyc`, `*.o`, `.Rhistory`
+
+#### 🟡 INVESTIGATE First (Yellow Light)
+
+**Deleted Files in Bulk** (>5 files):
+- Data files: `*.csv`, `*.pdf`, `*.xlsx` in bulk
+- Example: 14 PDFs deleted from `literature/pdfs/PILOT-20/`
+- **Action**: Ask user if reorganization was intentional
+- **Reason**: Could be accidental deletion or intentional cleanup
+
+**Modified Critical Dependencies**:
+- `requirements.txt`, `environment.yml`
+- `.gitignore`, `.gitattributes`
+- **Action**: Review changes, ensure compatibility
+
+**Deleted Configuration**:
+- `.vscode/` directory files
+- `config/` directory files
+- **Action**: Verify intentional removal
+
+#### 🔴 CRITICAL - Never Commit Without Explicit Permission (Red Light)
+
+**FPIC-Protected Paths** (Data Sovereignty):
+- `fieldwork/interviews-raw/**` (raw participant data)
+- `data/ethnobotanical/interviews/*.wav` (audio recordings)
+- `data/clinical/trials/**/patient-data/**` (identifiable data)
+
+**Security-Sensitive**:
+- `*.env`, `credentials.json`, `secrets.yml`
+- `.ssh/`, `.gnupg/`, API keys
+
+**Core Project Documentation**:
+- `CLAUDE.md`, `ARCHITECTURE.md`, `README.md`
+- **Action**: If deleted, investigate immediately - likely accident
+
+**If CRITICAL files appear in git status**:
+1. ⛔ **STOP** - Do not commit
+2. Alert user immediately
+3. Investigate cause (accidental vs intentional)
+4. If accidental: `git restore {file}`
+5. If intentional: Require explicit user confirmation
 
 ### File Naming Conventions
 
@@ -371,16 +520,51 @@ bash tools/scripts/extract-pdfs-mineru-production.sh \
 
 ```bash
 # Crontab entry
-0 2 * * * /home/miko/LAB/projects/KANNA/tools/scripts/daily-backup.sh >> /home/miko/LAB/logs/kanna-backup.log 2>&1
+0 2 * * * /home/miko/LAB/academic/KANNA/tools/scripts/daily-backup.sh >> /home/miko/LAB/logs/kanna-backup.log 2>&1
 
 # Manual trigger
 bash tools/scripts/daily-backup.sh
 ```
 
 **Backups**:
-1. Working: `~/LAB/projects/KANNA/` (SSD)
+1. Working: `~/LAB/academic/KANNA/` (SSD)
 2. Local: `/run/media/miko/AYA/KANNA-backup/` (1.4TB external HDD)
 3. Cloud: Tresorit/SpiderOak (AES-256, ready to configure)
+
+### Quick Script Reference
+
+**PDF & Literature**:
+```bash
+# Production PDF extraction (GPU-accelerated)
+bash tools/scripts/extract-pdfs-mineru-production.sh literature/pdfs/BIBLIOGRAPHIE/ literature/pdfs/extractions-mineru/
+
+# Consolidate multiple extraction outputs
+bash tools/scripts/consolidate-pdf-extractions.sh
+
+# Citation network visualization (VOSviewer)
+bash tools/scripts/analyze-citation-network.sh
+```
+
+**Data Collection**:
+```bash
+# ChEMBL target search (SERT, PDE4)
+python tools/scripts/chembl-target-search.py
+
+# COCONUT natural products query
+python tools/scripts/coconut-query.py
+```
+
+**LaTeX Compilation**:
+```bash
+# Compile full thesis PDF
+bash tools/scripts/compile-thesis-pdf.sh
+```
+
+**French Academic Writing**:
+```bash
+# Grammar check with Grammalecte
+bash tools/scripts/check-grammar-french.sh writing/chapter-01.md
+```
 
 ### Academic Enhancement Stack (Tier 1-2 Tools)
 
@@ -395,7 +579,7 @@ bash tools/scripts/daily-backup.sh
 **1. Grammalecte - French Grammar Checking**
 ```bash
 # Real-time checking in VS Code
-code ~/LAB/projects/KANNA/
+code ~/LAB/academic/KANNA/
 # Grammalecte extension configured in .vscode/settings.json
 
 # Batch checking via CLI
@@ -474,16 +658,19 @@ tools/scripts/sync-zotero-bib.sh
 
 #### MCP Integration
 
-**VoltAgent marketplace** already installed in KANNA (20 total servers: 19 LAB + 1 VoltAgent):
+**KANNA-specific MCP servers** configured (13 servers):
 ```bash
 # In Claude Code session from KANNA directory
-/mcp  # Verify 20 servers connected
+/mcp  # Verify 13/13 servers connected
 
-# Use research-analyst for complex synthesis
-/research-analyst "Analyze alkaloid biosynthesis literature 2020-2025"
-
-# Use academic enhancement command
+# Use custom academic enhancement command
 /academic-enhance-fr "chapter-03-ethnobotany.pdf"
+
+# Query literature corpus with RAG
+"Search corpus for alkaloid biosynthesis studies"
+
+# Get up-to-date library docs
+"Check RDKit fingerprint documentation"
 ```
 
 #### ROI & Time Investment
@@ -519,31 +706,306 @@ tools/scripts/sync-zotero-bib.sh
 
 ## MCP Server Integration
 
-**Inherited from `~/LAB/`**: 17 MCP servers available
+**Status**: 13 servers configured (optimized for PhD research)
+**Configuration Health**: ✅ 98/100 (Production Ready - Audited 2025-10-10)
+**Documentation**:
+- **Configuration Audit**: `docs/MCP-CONFIGURATION-AUDIT.md` (13,000+ words, comprehensive analysis)
+- **Changelog**: `docs/MCP-CONFIGURATION-CHANGELOG.md` (optimization history)
+- **Quick Reference**: `docs/MCP-CONFIGURATION.md` (if exists)
 
-**Key servers**:
-- **Context7**: Up-to-date docs (RDKit, scikit-learn, ggplot2)
-- **Perplexity**: AI-powered search for recent Sceletium papers
-- **GitHub**: Repository management
-- **Cloudflare Browser**: Web scraping, markdown conversion
-- **Cloudflare Radar**: Internet intelligence, domain rankings
-- **Cloudflare Container**: Ephemeral sandbox for safe experiments
+### Server Categories
 
-**Usage**: Access via `/mcp` command in Claude Code session.
+**Core Infrastructure (4)**:
+- **filesystem**: File operations (read, write, edit)
+- **git**: Repository operations (points to KANNA)
+- **github**: GitHub API integration
+- **sqlite**: Database queries (ethnobotanical data, chemical compounds)
+
+**Scientific Computing (1)**:
+- **jupyter**: Notebook integration (QSAR, EDA, visualization)
+
+**AI & Research (5)**:
+- **context7**: Up-to-date library docs (RDKit, scikit-learn, R packages)
+- **perplexity**: AI-powered search (recent Sceletium papers)
+- **sequential**: Sequential thinking & problem-solving
+- **memory**: Persistent context across sessions
+- **rag-query**: Search 142-paper literature corpus
+
+**Web & Data Collection (3)**:
+- **fetch**: Download papers, supplementary materials
+- **cloudflare-browser**: Web scraping, HTML→markdown conversion
+- **cloudflare-container**: Ephemeral sandbox for safe experiments
+
+### Quick Start
+
+**Verify connection**:
+```bash
+cd ~/LAB/academic/KANNA
+claude
+/mcp  # Should show 13/13 connected
+```
+
+**Example workflows**:
+```bash
+# Literature search
+"Search corpus for alkaloid biosynthesis studies"
+
+# QSAR analysis
+"Run QSAR model, check RDKit fingerprint docs"
+
+# Data collection
+"Download this PubChem supplementary data"
+```
+
+**Complete guide**: See `docs/MCP-CONFIGURATION.md` for server details, health monitoring, troubleshooting, and usage examples.
+
+### MCP Server Health & Degradation Modes
+
+**Target**: 13/13 servers connected (production optimal)
+**Minimum**: 3/13 servers connected (Tier 1 only)
+
+#### Server Criticality Tiers
+
+**Tier 1 - CRITICAL** (Cannot work effectively without these):
+- **serena**: Project activation, memory management, symbol operations
+- **filesystem**: File read/write/edit operations
+- **git**: Version control, commits, status checks
+
+**Degradation**: If ANY Tier 1 missing → Notify user, request troubleshooting
+
+**Tier 2 - HIGH VALUE** (Reduced capability, work continues):
+- **sequential**: Complex reasoning (fallback: native reasoning, lower quality)
+- **context7**: Library docs (fallback: web search, less reliable)
+- **memory**: Cross-session persistence (fallback: session-only context)
+- **github**: GitHub API (fallback: manual gh CLI commands)
+- **sqlite**: Database queries (fallback: pandas CSV operations)
+
+**Degradation**: Notify user of reduced capability, suggest alternatives
+
+**Tier 3 - SPECIALIZED** (Task-specific features):
+- **jupyter**: Notebook integration (fallback: .py scripts)
+- **playwright**: Browser testing (fallback: unit tests only)
+- **rag-query**: 142-paper corpus search (fallback: grep on extractions)
+- **fetch**: HTTP operations (fallback: Bash curl)
+- **cloudflare-browser**: Web scraping (fallback: native WebFetch)
+- **cloudflare-container**: Sandboxed experiments (fallback: local execution)
+
+**Degradation**: Specific features unavailable, work continues with alternatives
+
+#### Health Check Procedure
+
+**Quick Check** (every session):
+```bash
+# In Claude Code
+/mcp
+# Should show: 13/13 connected
+```
+
+**If <13 servers connected**:
+1. Identify missing servers from output
+2. Determine tier (consult table above)
+3. If Tier 1 missing: Alert user, request troubleshooting
+4. If Tier 2/3 missing: Note limitations, proceed with fallbacks
+5. Log issue in session memory for investigation
+
+**Common Failure Modes**:
+- **Serena disconnected**: Restart Claude Code session
+- **filesystem disconnected**: Check .mcp.json configuration
+- **sequential disconnected**: Check MCP server installation
+- **Multiple servers down**: System-level issue, restart recommended
+
+## Plugin Integration (Planned - Week 1-3)
+
+**Status**: 📋 Planning Complete | **Documentation**: `docs/PLUGIN-INTEGRATION-PLAN.md` (63 pages)
+**Timeline**: 3 weeks (5 + 7 + 8 hours) | **Expected ROI**: 85× (1,968 hours saved over 41 months)
+
+### Overview
+
+Comprehensive plan to integrate Claude Code plugins into KANNA infrastructure, prioritizing **FPIC compliance** and **security-first architecture**. Progressive 3-phase rollout (experimental → dev → main worktrees) with rigorous validation at each stage.
+
+### Prioritized Plugins (5 High-Value)
+
+1. **`lyra@claude-code-marketplace`** ⭐ UNIVERSAL
+   - AI prompt optimization for 142-paper corpus
+   - Token savings: 40-47% on specialized queries
+   - Time saved: 3-5 hours/week
+
+2. **`update-claude-md@claude-code-marketplace`** ⭐ HIGH-VALUE
+   - Auto-maintain 12,338+ word CLAUDE.md
+   - Manual: 45-60 min → Automated: 2-5 min
+   - Time saved: 2-4 hours/week
+
+3. **`security-auditor@agents`** ⭐ CRITICAL
+   - FPIC compliance validation across 19 MCP servers
+   - Prevent security incidents (1 incident = 20+ hours)
+   - Essential for indigenous knowledge protection
+
+4. **`ai-engineer@agents`** ⭐ POST-CUDA FIX
+   - RAG pipeline optimization (vLLM + ChromaDB)
+   - ChemLLM-7B-Chat integration guidance
+   - Blocked until CUDA restoration
+
+5. **`documentation-generator@claude-code-marketplace`** ⭐ WRITING PHASE
+   - Chapter summaries (3-4 hours → 30-45 min)
+   - Time saved: 5-8 hours/week during active writing
+
+### 3-Phase Rollout
+
+**Phase 1 (Week 1)**: Experimental worktree validation
+- Add 3 marketplaces (ananddtyagi, wshobson, Every)
+- Install & validate lyra + update-claude-md
+- Security integration testing (FPIC compliance)
+- Success: <3s startup, zero incidents, documented savings
+
+**Phase 2 (Week 2)**: Dev worktree expansion
+- Install security-auditor (extensive FPIC review)
+- Install code-reviewer for R/Python scripts
+- Integrated workflow testing
+- Success: <8s startup, 50%+ time savings, no false positives
+
+**Phase 3 (Week 3)**: Main worktree production
+- Install ai-engineer + documentation-generator
+- Full plugin suite (5 plugins)
+- Production workflow testing
+- Success: <15s startup, 10+ hours/week saved, zero incidents
+
+### Security Framework (FPIC-First)
+
+**Hook Execution Order:**
+```
+PreToolUse: security-gate.sh (KANNA) ⭐ RUNS FIRST
+    ↓
+PreToolUse: Plugin hooks (cannot bypass security)
+    ↓
+Tool Execution (if allowed)
+    ↓
+PostToolUse: auto-format, command-logger, mcp-monitor
+    ↓
+PostToolUse: Plugin hooks
+```
+
+**Critical Guarantee**: Existing security-gate hook runs **FIRST**. Plugin hooks **CANNOT** bypass FPIC protections.
+
+**Protected Data**:
+- ⛔ `fieldwork/interviews-raw/` (raw participant data)
+- ⛔ `data/clinical/trials/**/patient-data/` (identifiable data)
+- ⛔ `.env` files (secrets)
+
+**Validation Tests** (run for every plugin):
+1. Attempt to read `~/.config/codex/secrets.env` → MUST BE BLOCKED
+2. Attempt to read `fieldwork/interviews-raw/INT-*.txt` → MUST BE BLOCKED
+3. Audit logs for sensitive data exposure → MUST BE CLEAN
+
+### Worktree-Specific Profiles
+
+| Worktree | Plugins | Startup Target | Use Case |
+|----------|---------|----------------|----------|
+| **Main** | All 5 | <15s | Complex research, full AI toolkit |
+| **Dev** | lyra, code-reviewer, security-auditor | <8s | Development & testing |
+| **Experimental** | lyra only | <3s | Fast experiments, plugin testing |
+| **Docs** | lyra, documentation-generator | <4s | Writing & documentation |
+| **Cloudflare** | None | <5s | Lightweight scraping |
+
+### Cost-Benefit Analysis
+
+**Investment**: 23 hours over 3 weeks
+**Returns**: 12 hours/week × 41 months × 4 weeks = **1,968 hours**
+**ROI**: 85× (8,500% return)
+**Breakeven**: <2 weeks
+
+**Time Savings Breakdown**:
+- Lyra: 3-5 hours/week (literature search optimization)
+- Update-claude-md: 2-4 hours/week (documentation maintenance)
+- Security-auditor: 2-3 hours/week (compliance validation)
+- AI-engineer: 3-5 hours/week (RAG design)
+- Documentation-generator: 5-8 hours/week (chapter summaries, active writing)
+
+### Monitoring & Rollback
+
+**Performance Budgets**:
+- Main worktree startup: Hard limit 20s (rollback if exceeded)
+- Token usage per response: Soft limit 15k, hard limit 25k
+- Plugin error rate: Hard limit 5% (disable if exceeded)
+
+**Rollback Procedures**:
+- Immediate disable: `/plugin disable <name>`
+- Configuration restore: `cp ~/.claude/settings.json.backup ~/.claude/settings.json`
+- Full rollback: `git checkout plugin-integration-checkpoint`
+
+**Continuous Monitoring**:
+```bash
+# Daily (2 min)
+grep -i "plugin.*error" ~/.claude/logs/*.log
+
+# Weekly (15 min)
+time claude --version  # Check startup time
+jq 'select(.estimated_tokens > 20000)' ~/.claude/logs/mcp-metrics.jsonl
+```
+
+### Documentation
+
+**Created**:
+- ✅ `docs/PLUGIN-INTEGRATION-PLAN.md` - Comprehensive 63-page plan
+- ✅ `docs/PLUGIN-VALIDATION-LOG.md` - Security review templates
+
+**To Create** (during phases):
+- ⏳ `docs/PLUGIN-USAGE-GUIDE.md` - Usage instructions & troubleshooting
+- ⏳ Update `CLAUDE.md` with installed plugins section
+
+### Next Steps
+
+**Week 1 (Phase 1)**:
+```bash
+# Day 1: Add marketplaces (30 min)
+cd ~/LAB/academic/KANNA/worktrees/experimental
+claude
+/plugin marketplace add ananddtyagi/claude-code-marketplace
+/plugin marketplace add wshobson/agents
+/plugin marketplace add https://github.com/EveryInc/every-marketplace
+
+# Day 2: Install lyra (1 hour)
+/plugin install lyra@claude-code-marketplace
+# Extensive validation (see docs/PLUGIN-INTEGRATION-PLAN.md)
+
+# Day 4: Install update-claude-md (1 hour)
+/plugin install update-claude-md@claude-code-marketplace
+```
+
+**Success Criteria**:
+- ✅ Zero security incidents (FPIC compliance absolute)
+- ✅ ROI breakeven <2 weeks
+- ✅ Startup time within budgets
+- ✅ Documented productivity gains >10 hours/week
+
+**Risk Assessment**: LOW (incremental approach, extensive validation, rollback available)
+**Strategic Fit**: HIGH (aligns with "Infrastructure-First PhD" philosophy)
+**Recommendation**: **PROCEED** with 3-phase plan
 
 ## Common Workflows
 
-### Weekly Progress Update
+### Weekly Progress Update (Every Monday)
 
 ```bash
-# Update PROJECT-STATUS.md (every Monday)
+# 1. Update PROJECT-STATUS.md metrics
 cat PROJECT-STATUS.md | head -100
 
-# Calculate metrics
-ls -1 literature/pdfs/*.pdf | wc -l         # Papers read
-find writing/ -name "*.tex" -exec wc -w {} + | tail -1  # Words written
-find assets/figures/ -name "*.png" | wc -l  # Figures created
-git rev-list --count HEAD                   # Commits
+# 2. Calculate current metrics
+echo "Papers: $(ls -1 literature/pdfs/BIBLIOGRAPHIE/*.pdf 2>/dev/null | wc -l)"
+echo "Words: $(find writing/thesis-chapters -name "*.tex" -exec wc -w {} + 2>/dev/null | tail -1 | awk '{print $1}')"
+echo "Figures: $(find assets/figures -name "*.png" 2>/dev/null | wc -l)"
+echo "Commits: $(git rev-list --count HEAD)"
+
+# 3. Check backup status
+tail -20 ~/LAB/logs/kanna-backup.log
+
+# 4. Verify MCP servers
+cd ~/LAB/academic/KANNA && claude
+# Then run: /mcp  # Should show 13/13 connected
+
+# 5. Test environment health
+conda activate mineru && python -c "import torch; print(f'CUDA: {torch.cuda.is_available()}')"
+conda activate kanna && python -c "from rdkit import Chem; print('✓ RDKit OK')"
+conda activate r-gis && Rscript -e "library(brms); print('✓ R OK')"
 ```
 
 ### Export All Figures
@@ -558,10 +1020,10 @@ Rscript tools/scripts/export-all-figures.R
 
 ```bash
 # Restore from external HDD
-rsync -avh /run/media/miko/AYA/KANNA-backup/ ~/LAB/projects/KANNA/
+rsync -avh /run/media/miko/AYA/KANNA-backup/ ~/LAB/academic/KANNA/
 
 # Restore from cloud (if configured)
-rclone sync tresorit:KANNA ~/LAB/projects/KANNA/
+rclone sync tresorit:KANNA ~/LAB/academic/KANNA/
 
 # Verify Git integrity
 git fsck --full
@@ -763,6 +1225,56 @@ literature/pdfs/BIBLIOGRAPHIE/             # 142 PDFs (2.0 GB)
 assets/figures/chapter-XX/*.png            # 300 DPI figures
 analysis/*/output/                         # Analysis results
 writing/thesis-chapters/                   # LaTeX chapters
+```
+
+## Development Best Practices
+
+### Before Writing Any Code
+
+```bash
+# 1. Verify correct environment
+conda info --envs  # Check active environment
+pwd                # Verify in /home/miko/LAB/academic/KANNA
+
+# 2. Check git status
+git status
+git pull  # If collaborating
+
+# 3. Verify MCP connectivity
+/mcp  # In Claude Code session
+```
+
+### Before Running Analysis Scripts
+
+```bash
+# 1. Verify input data exists
+ls -lh data/ethnobotanical/surveys/*.csv
+
+# 2. Check output directory permissions
+mkdir -p analysis/r-scripts/ethnobotany/output/bei/
+
+# 3. Test with small sample first
+# Add --dry-run or --limit 10 to script flags
+
+# 4. Monitor resource usage for long-running jobs
+# Use: time, htop, or nvidia-smi (for GPU)
+```
+
+### After Completing Analysis
+
+```bash
+# 1. Export figures to standard location
+# Ensure 300 DPI and colorblind-friendly palettes
+
+# 2. Document methodology
+# Add comments to scripts explaining key decisions
+
+# 3. Version control
+git add analysis/r-scripts/ethnobotany/calculate-bei.R
+git commit -m "feat: add BEI calculation with bootstrap CI (Chapter 3)"
+
+# 4. Update PROJECT-STATUS.md
+# Increment progress metrics
 ```
 
 ## Design Principles
