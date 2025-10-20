@@ -1,0 +1,32 @@
+================================================================================
+PDF COLLECTION STATISTICS REPORT
+Directory: /home/miko/Documents/Sceletium_Thesis_PDFs
+Generated: 2025-10-03T12:56:00.708514
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total files: 1025
+Total PDFs: 1013
+Total size: 2.8 GB
+Corrupted PDFs: 0
+PDFs with missing titles: 201
+
+BREAKDOWN BY DIRECTORY
+--------------------------------------------------------------------------------
+DRAFTSS_Working                   228 files    862.5 MB
+Other_Collections                 278 files    613.4 MB
+TEZ_Core                            9 files      8.2 MB
+THESE_Main_Library                357 files    672.5 MB
+ZOTPDF_References                 151 files    699.0 MB
+create_backup.sh                    1 files      3.1 KB
+pdf_analyzer.py                     1 files     13.2 KB
+
+BREAKDOWN BY FILE TYPE
+--------------------------------------------------------------------------------
+.pdf              1013 files
+.xlsx                8 files
+.docx                2 files
+.py                  1 files
+.sh                  1 files
+

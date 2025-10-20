@@ -49,7 +49,14 @@ def validate_extraction(auto_dir):
     # Find markdown file
     md_files = list(auto_dir.glob("*.md"))
     if not md_files:
-        return 0, ["No markdown file found"]
+        return 0, ["No markdown file found"], {
+            'word_count': 0,
+            'formula_count': 0,
+            'heading_count': 0,
+            'table_count': 0,
+            'file_size_kb': 0,
+            'has_images': False
+        }
 
     md_file = md_files[0]
     md_content = md_file.read_text(errors='ignore')
@@ -83,7 +90,13 @@ def validate_extraction(auto_dir):
 
     # Factor 5: Images extracted (1 point if directory exists and not empty)
     img_dir = auto_dir / "images"
-    if img_dir.exists() and list(img_dir.glob("*")):
+    has_images = False
+    if img_dir.exists():
+        try:
+            has_images = any(True for _ in img_dir.iterdir())
+        except OSError:
+            has_images = False
+    if has_images:
         score += 1
     # No issue if no images (some papers may not have them)
 
@@ -109,7 +122,7 @@ def validate_extraction(auto_dir):
         'heading_count': heading_count,
         'table_count': table_count,
         'file_size_kb': file_size_kb,
-        'has_images': img_dir.exists() and list(img_dir.glob("*"))
+        'has_images': has_images
     }
 
 def main():

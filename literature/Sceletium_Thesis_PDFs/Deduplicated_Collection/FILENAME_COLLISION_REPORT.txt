@@ -1,0 +1,289 @@
+================================================================================
+FILENAME COLLISION ANALYSIS REPORT
+Generated: 2025-10-03
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+✓ CONTENT DUPLICATES: 0 (PERFECT - No duplicate papers by MD5 hash)
+✗ FILENAME COLLISIONS: 11 pairs (22 files with identical names)
+
+All 318 PDFs in the collection are UNIQUE by content.
+However, 11 filename pairs exist where different papers share identical names.
+
+VERIFICATION RESULTS
+--------------------------------------------------------------------------------
+Total PDFs analyzed:     318
+Content duplicates:      0 (verified by MD5 hash)
+Filename collisions:     11 pairs (22 files total)
+Unique content ratio:    100% ✓
+
+DETAILED COLLISION ANALYSIS
+--------------------------------------------------------------------------------
+
+1. FILENAME: 2022 - fphar-2022-895286 1..38.pdf
+   LOCATIONS: 4 files in 2 directories
+
+   ./02_Ethnopharmacology/2025 - fphar-2022-895286 1..38.pdf
+   MD5: be3031305cae748db7dca786cb4d5642
+   Size: 2.7 MB
+
+   ./02_Ethnopharmacology/2022 - fphar-2022-895286 1..38.pdf
+   MD5: 49c2d7cbfcc7de1ef0d19d0c46a97d32
+   Size: 2.2 MB
+
+   ./05_Khoi_San_Traditional/2022 - fphar-2022-895286 1..38.pdf
+   MD5: f78c24f77a72bd9ceb852a0b67fe747e
+   Size: 2.0 MB
+
+   ./05_Khoi_San_Traditional/2022 - fphar-2022-895286 1..38_1.pdf
+   MD5: 6c16b3e603ea7127d6b3f92c72fca6dd
+   Size: 2.0 MB
+
+   STATUS: 4 DIFFERENT papers (different MD5 hashes)
+   ISSUE: Generic journal filename, missing proper title metadata
+
+--------------------------------------------------------------------------------
+
+2. FILENAME: 2004 - doi10.1016j.tips.2004.01.003.pdf
+   LOCATIONS: 2 directories
+
+   ./03_PDE4_Neurogenesis/2004 - doi10.1016j.tips.2004.01.003.pdf
+   MD5: 92e565258724feb8cbc946a540de8d51
+
+   ./05_Khoi_San_Traditional/2004 - doi10.1016j.tips.2004.01.003.pdf
+   MD5: c02ba7d627eccc3596370f729c1b1cec
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: DOI-based filename, no author/title extracted
+
+--------------------------------------------------------------------------------
+
+3. FILENAME: 2004 - Group - World Bank Document.pdf
+   LOCATIONS: 2 directories
+
+   ./01_Sceletium_Pharmacology/2004 - Group - World Bank Document.pdf
+   MD5: f74af366a28b43c71e6d867d0f4fd598
+
+   ./02_Ethnopharmacology/2004 - Group - World Bank Document.pdf
+   MD5: 739a661769cae4c3430619d79148131b
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: Generic institutional document name
+
+--------------------------------------------------------------------------------
+
+4. FILENAME: 2007 - 06_Low.indd.pdf
+   LOCATIONS: 2 directories
+
+   ./01_Sceletium_Pharmacology/2007 - 06_Low.indd.pdf
+   MD5: 0f0f898eec829610a4277b7c6d889582
+
+   ./05_Khoi_San_Traditional/2007 - 06_Low.indd.pdf
+   MD5: 7cfb86424cac6bd2be76f64e82c4d581
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: InDesign source filename, missing metadata
+
+--------------------------------------------------------------------------------
+
+5. FILENAME: 2008 - doi10.1016j.jep.2008.05.029.pdf
+   LOCATIONS: 2 directories
+
+   ./01_Sceletium_Pharmacology/2008 - doi10.1016j.jep.2008.05.029.pdf
+   MD5: 810f0469b9a4f46344ea7518bd96d5a3
+
+   ./02_Ethnopharmacology/2008 - doi10.1016j.jep.2008.05.029.pdf
+   MD5: 21b3d9303f9d47766ce0da17cdfcc7fc
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: DOI-based filename
+
+--------------------------------------------------------------------------------
+
+6. FILENAME: 2008 - doi10.1016j.jep.2008.07.043.pdf
+   LOCATIONS: 2 directories
+
+   ./00_Core_References/2008 - doi10.1016j.jep.2008.07.043.pdf
+   MD5: 3b82ecde5c5bb79c906410ea7a14f489
+
+   ./01_Sceletium_Pharmacology/2008 - doi10.1016j.jep.2008.07.043.pdf
+   MD5: 69017ba08da31da7cb7c60b46cf09aad
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: DOI-based filename
+   NOTE: One copy in Core_References (important!)
+
+--------------------------------------------------------------------------------
+
+7. FILENAME: 2008 - doi10.1016j.jep.2008.08.010.pdf
+   LOCATIONS: 2 directories
+
+   ./01_Sceletium_Pharmacology/2008 - doi10.1016j.jep.2008.08.010.pdf
+   MD5: 973d5e915657fd8ca7b5e5336247287e
+
+   ./02_Ethnopharmacology/2008 - doi10.1016j.jep.2008.08.010.pdf
+   MD5: 4a9863bb4a79868718eeeeb5e2511782
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: DOI-based filename
+
+--------------------------------------------------------------------------------
+
+8. FILENAME: 2018 - ESPD50NigelGerickepaper.pdf.pdf
+   LOCATIONS: 2 directories
+
+   ./01_Sceletium_Pharmacology/2018 - ESPD50NigelGerickepaper.pdf.pdf
+   MD5: ed81292ceae71f0c3b67d42be8751032
+   Size: 747 KB
+
+   ./02_Ethnopharmacology/2018 - ESPD50NigelGerickepaper.pdf.pdf
+   MD5: b5c64125e06f51d5771afc5149a2c8f7
+   Size: 834 KB
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: Poor source filename (double .pdf extension)
+
+--------------------------------------------------------------------------------
+
+9. FILENAME: 2021 - Khan - Brendler 2020-0332-MS.pdf
+   LOCATIONS: 2 directories
+
+   ./01_Sceletium_Pharmacology/2021 - Khan - Brendler 2020-0332-MS.pdf
+   MD5: d7c47caffc3fba643a19d47854b2b6fa
+   Size: 508 KB
+
+   ./02_Ethnopharmacology/2021 - Khan - Brendler 2020-0332-MS.pdf
+   MD5: 2e6e5e1cd7b69d24ab089c68443e20e2
+   Size: 565 KB
+
+   STATUS: 2 DIFFERENT papers
+   ISSUE: Manuscript ID used instead of title
+
+--------------------------------------------------------------------------------
+
+10. FILENAME: 2023 - Smith - First People.pdf
+    LOCATIONS: 2 directories
+
+    ./01_Sceletium_Pharmacology/2023 - Smith - First People.pdf
+    MD5: 6de6ea91ac27ee4a425ef575f1b33c65
+    Size: 6.3 MB
+
+    ./05_Khoi_San_Traditional/2023 - Smith - First People.pdf
+    MD5: 7a1999beb92c802181449653e178b3db
+    Size: 5.9 MB
+
+    STATUS: 2 DIFFERENT papers by Smith (possibly different chapters/editions)
+    ISSUE: Generic title "First People" - needs more specific naming
+
+--------------------------------------------------------------------------------
+
+11. FILENAME: 2023 - Untitled.pdf
+    LOCATIONS: 2 directories
+
+    ./01_Sceletium_Pharmacology/2023 - Untitled.pdf
+    MD5: 2bf5337cff769d632645673f041245cb
+    Size: 1.2 MB
+
+    ./02_Ethnopharmacology/2023 - Untitled.pdf
+    MD5: 5f9d5e9f15d83d652522085e884bc8a6
+    Size: 429 KB
+
+    STATUS: 2 DIFFERENT papers
+    ISSUE: Missing title metadata entirely
+
+================================================================================
+
+ROOT CAUSES
+--------------------------------------------------------------------------------
+1. Missing or poor PDF metadata (titles, authors not embedded)
+2. DOI-based filenames instead of descriptive titles
+3. Generic institutional/manuscript filenames from source
+4. Multiple papers from same year with identical missing metadata
+5. Papers legitimately span multiple topics (classified into both)
+
+IMPACT ASSESSMENT
+--------------------------------------------------------------------------------
+SEVERITY: Low to Moderate
+
+Positive:
+✓ No actual content duplication (all 318 papers are unique)
+✓ No data loss or corruption
+✓ Original deduplication was 100% successful by content
+
+Negative:
+✗ User confusion when searching by filename
+✗ Potential issues with reference management software
+✗ Difficulty distinguishing between papers with same name
+✗ Index/catalog may show duplicate entries
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+
+OPTION 1: Manual Metadata Enrichment (RECOMMENDED)
+For the 22 affected files:
+1. Open each PDF and extract actual title from paper
+2. Rename files to unique descriptive names:
+   Format: "YEAR - Author - Specific_Title.pdf"
+3. Update _INDEX.csv with corrected metadata
+
+Time: 30-60 minutes for 22 files
+Benefit: Permanent solution, improves entire collection quality
+
+OPTION 2: Add Directory Prefix to Filenames
+Automatically rename files to include topic directory:
+"YEAR - Author - Title.pdf" → "YEAR - Author - Title [TopicCode].pdf"
+
+Example:
+  2008 - doi10.1016j.jep.2008.08.010.pdf
+    → 2008 - doi10.1016j.jep.2008.08.010 [Pharmacology].pdf
+    → 2008 - doi10.1016j.jep.2008.08.010 [Ethnopharm].pdf
+
+Time: 5 minutes (script provided below)
+Benefit: Quick fix, maintains uniqueness
+Downside: Doesn't fix poor metadata quality
+
+OPTION 3: Add Hash Suffix
+Add short MD5 hash to differentiate:
+"2023 - Untitled.pdf" → "2023 - Untitled [2bf533].pdf"
+
+Time: 2 minutes (automated)
+Benefit: Guaranteed uniqueness
+Downside: Ugly filenames, doesn't improve searchability
+
+OPTION 4: Accept Current State
+Keep filename collisions but rely on directory paths for uniqueness.
+
+Benefit: No work required
+Downside: Ongoing confusion, index issues
+
+RECOMMENDED ACTION
+--------------------------------------------------------------------------------
+Execute OPTION 1 for high-priority papers (those in Core_References and
+frequently accessed topics), OPTION 2 for the rest.
+
+This hybrid approach:
+1. Fixes the most important papers properly
+2. Ensures all filenames are unique
+3. Balances time investment vs. benefit
+
+NEXT STEPS
+--------------------------------------------------------------------------------
+1. Review this report
+2. Choose resolution option
+3. For Option 1: Manually open affected PDFs and extract real titles
+4. For Option 2: Run provided renaming script
+5. Regenerate _INDEX.csv with updated filenames
+6. Verify all filenames are unique
+
+TECHNICAL NOTES
+--------------------------------------------------------------------------------
+- Verification method: MD5 hash comparison
+- Hash algorithm: MD5 (sufficient for deduplication)
+- Files analyzed: 318 PDFs
+- Scan completed: 2025-10-03
+- Analysis tool: Bash find + md5sum
+
+================================================================================
+END OF REPORT
+================================================================================

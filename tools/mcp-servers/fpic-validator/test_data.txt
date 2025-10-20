@@ -1,0 +1,29 @@
+Test Interview Transcript - DE-IDENTIFIED VERSION
+=====================================
+Interview ID: INT-20250315-SC01-P007
+Date: March 15, 2025
+Community: Khoisan Community 1 (SC01)
+Participant: Anonymous Participant 007
+
+Interview Content:
+------------------
+
+Q: Can you describe the traditional preparation method?
+A: We collect the plant from the veld and dry it in the sun.
+
+Q: What coordinates did you observe?
+A: The site was located at approximately -33.9249, 18.4241
+
+Contact Information (SHOULD BE FLAGGED):
+----------------------------------------
+Email: participant007@example.com
+Phone: +27 82 123 4567
+ID Number: 1234567890123
+GPS: -34.1234, 19.5678
+
+De-identified Version (SHOULD BE CLEAN):
+-----------------------------------------
+Participant ID: P007
+Community Code: SC01
+Interview conducted at designated research site
+Contact via project coordinator only

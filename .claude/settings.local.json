@@ -10,9 +10,39 @@
       "Bash(docker:*)",
       "mcp__context7__resolve-library-id",
       "mcp__context7__get-library-docs",
-      "mcp__perplexity__perplexity_search"
+      "mcp__perplexity__perplexity_search",
+      "mcp__sequential-thinking__sequentialthinking",
+      "mcp__serena__get_current_config",
+      "Read(//home/miko/**)",
+      "Bash(python3:*)",
+      "Bash(chmod:*)",
+      "Bash(curl:*)",
+      "Bash(conda env list:*)",
+      "Bash(dnf list:*)",
+      "Bash(java:*)",
+      "Bash(/home/miko/miniforge3/bin/conda install -n kanna -c conda-forge rdkit -y)",
+      "mcp__serena__check_onboarding_performed",
+      "mcp__serena__list_memories"
     ],
     "deny": [],
     "ask": []
-  }
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "filesystem",
+    "git",
+    "github",
+    "sqlite",
+    "jupyter",
+    "context7",
+    "perplexity",
+    "sequential",
+    "memory",
+    "fetch",
+    "rag-query",
+    "cloudflare-browser",
+    "cloudflare-container",
+    "fpic-validator",
+    "bibliography"
+  ]
 }

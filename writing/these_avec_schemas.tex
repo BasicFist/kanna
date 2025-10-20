@@ -1,0 +1,443 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,calc,patterns,decorations.pathreplacing}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+% Configuration des en-têtes et pieds de page
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Style pour les pages de chapitre
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Couleurs pour les diagrammes
+\definecolor{khoisancolor}{RGB}{204,121,67}
+\definecolor{biomed}{RGB}{51,102,187}
+\definecolor{colonial}{RGB}{153,0,0}
+\definecolor{decolonial}{RGB}{0,128,0}
+
+\begin{document}
+
+\title{Ethnopharmacognosie de \textit{Sceletium tortuosum} (Kanna)\\
+\large Validation Biomédicale et Épistémologie Décoloniale}
+\author{Projet KANNA}
+\date{10 octobre 2025}
+
+\maketitle
+
+\tableofcontents
+
+\chapter*{Introduction Générale}
+\addcontentsline{toc}{chapter}{Introduction Générale}
+\markboth{INTRODUCTION GÉNÉRALE}{INTRODUCTION GÉNÉRALE}
+
+\section{Problématique Centrale et Cadre Épistémologique}
+
+L'ethnopharmacognosie de \textit{Sceletium tortuosum} (L.) N.E.Br., communément désigné sous le terme Khoisan « Kanna », se situe au carrefour de deux traditions de savoir profondément asymétriques : d'une part, les connaissances botaniques et pharmacologiques développées et transmises par les peuples Khoisan d'Afrique australe depuis plusieurs millénaires ; d'autre part, l'appareil conceptuel et méthodologique de la biomédecine moderne, structuré autour du réductionnisme moléculaire et de la validation par essais cliniques randomisés. Cette tension épistémologique constitue le nœud problématique central de notre investigation.
+
+Sandra Harding, dans son ouvrage fondateur \textit{Is Science Multicultural ?} \cite{Harding1998}, interroge la prétention universaliste de la science moderne et propose le concept de « savoirs situés » (\textit{situated knowledges}) : toute production de connaissance émerge d'un contexte socioculturel, historique et politique particulier, et ne saurait s'extraire de ce positionnement pour revendiquer une « vue de nulle part » (\textit{view from nowhere}). Donna Haraway \cite{Haraway1988} formule cette critique avec plus de radicalité encore : la revendication d'objectivité absolue et de neutralité axiologique constitue un « tour de dieu » (\textit{god trick}) qui masque les conditions matérielles et les rapports de pouvoir structurant la production scientifique.
+
+Dans le contexte spécifique des savoirs botaniques autochtones, Boaventura de Sousa Santos \cite{Santos2014} introduit le concept d'\textbf{épistémicide} : la destruction systématique, souvent violente, de traditions intellectuelles non-occidentales par leur délégitimation comme « superstitions », « croyances », ou « folklore » — un processus intrinsèquement lié à l'expansion coloniale européenne et à l'imposition d'une hiérarchie épistémologique plaçant la science moderne au sommet d'une pyramide de la connaissance légitime. Linda Tuhiwai Smith \cite{Smith1999}, dans \textit{Decolonizing Methodologies}, documente comment la recherche scientifique menée sur les peuples autochtones a historiquement fonctionné comme un instrument d'extraction et d'appropriation, reproduisant les dynamiques de dépossession coloniale dans le domaine intellectuel.
+
+\section{Trois Questions Structurantes}
+
+La problématique centrale se décline en trois axes d'interrogation, correspondant aux trois parties dialectiques de ce document.
+
+\subsection{Question 1 : Fondements épistémologiques et matériels}
+
+\textbf{Comment les savoirs Khoisan sur le Kanna constituent-ils des cadres épistémologiques légitimes, et quelles sont les bases phytochimiques et biogéographiques qui sous-tendent ces connaissances ?}
+
+\subsection{Question 2 : Tensions entre réductionnisme moléculaire et compréhension holistique}
+
+\textbf{Dans quelle mesure l'identification des mécanismes pharmacologiques moléculaires (inhibition SERT/PDE4) épuise-t-elle la rationalité des usages thérapeutiques traditionnels, et quelles dimensions de l'efficacité clinique échappent au réductionnisme pharmacologique ?}
+
+\subsection{Question 3 : Horizons de gouvernance équitable et de co-production des savoirs}
+
+\textbf{Quels modèles juridiques, éthiques, et organisationnels permettent une gouvernance équitable de la recherche et de la commercialisation du Kanna, garantissant simultanément le respect des droits intellectuels collectifs des communautés Khoisan et la viabilité écologique de la ressource ?}
+
+\section{Architecture Dialectique de la Thèse}
+
+La structure de ce document adopte une architecture dialectique en trois mouvements — thèse, antithèse, synthèse — correspondant aux trois questions structurantes énoncées ci-dessus :
+
+\textbf{PARTIE I : Fondements Épistémologiques et Matériels (Thèse)}
+
+Établit la légitimité intellectuelle des savoirs Khoisan (Chapitre 1) et la validation matérielle de ces savoirs par la botanique et la phytochimie (Chapitres 2-3).
+
+\textbf{PARTIE II : Tensions entre Validation Biomédicale et Réductionnisme (Antithèse)}
+
+Explore les contradictions entre le réductionnisme moléculaire et la compréhension holistique traditionnelle (Chapitres 4-6).
+
+\textbf{PARTIE III : Horizons de Gouvernance Équitable (Synthèse)}
+
+Propose des modèles de gouvernance décoloniale et de co-production des savoirs (Chapitres 7-9).
+
+\section{Positionnement Méthodologique et Limites}
+
+\subsection{Posture Épistémologique}
+
+Nous adoptons une posture réflexive et critique inspirée des STS et des études postcoloniales. Cela implique de reconnaître que notre propre discours émerge d'un positionnement situé : chercheur formé dans les institutions biomédicales occidentales, travaillant en langue française, bénéficiant de ressources matérielles et symboliques liées à la position sociale du doctorant.
+
+\subsection{Corpus et Méthodologie}
+
+Ce document s'appuie sur une revue systématique de la littérature scientifique publiée sur \textit{Sceletium tortuosum} entre 1914 (première isolation de la mésembrine par Hartwich \& Zwicky) et 2025 (142 publications analysées ; 974~000 mots extraits).
+
+\textbf{Limites principales} :
+\begin{enumerate}
+\item \textbf{Biais linguistique} : Notre corpus est dominé par des publications en anglais
+\item \textbf{Accès limité aux savoirs oraux} : Les savoirs autochtones sont ici médiatisés par les descriptions d'ethnobotanistes
+\item \textbf{Asymétrie disciplinaire} : La littérature disponible est massivement dominée par les publications en phytochimie et pharmacologie (>70\% du corpus)
+\end{enumerate}
+
+\section{Contributions Attendues}
+
+Ce travail doctoral ambitionne d'apporter trois types de contributions :
+
+\begin{enumerate}
+\item \textbf{Contribution épistémologique} : Proposer un cadre conceptuel rigoureux pour penser l'articulation entre savoirs autochtones et validation biomédicale
+\item \textbf{Contribution empirique} : Offrir la première synthèse critique exhaustive en français de la littérature scientifique sur \textit{Sceletium tortuosum}
+\item \textbf{Contribution normative} : Formuler des recommandations concrètes pour une ethnopharmacologie décoloniale et équitable
+\end{enumerate}
+
+\part{Fondements Épistémologiques et Matériels}
+
+\chapter{Épistémologie des Savoirs Khoisan sur le Kanna}
+
+\textit{Mots-clés} : savoirs situés, épistémicide, décolonisation méthodologique, oralité, validation collective, épistémologies du Sud
+
+\section{La Question de la Légitimité Épistémologique : Décentrer le « Point de Vue de Nulle Part »}
+
+\subsection{Le « Tour de Dieu » et l'Objectivité Située}
+
+Donna Haraway \cite{Haraway1988}, dans son essai fondateur « Situated Knowledges : The Science Question in Feminism and the Privilege of Partial Perspective », formule une critique radicale de la prétention à l'objectivité absolue qui structure l'épistémologie scientifique moderne. Elle identifie ce qu'elle nomme le \textit{god trick} (« tour de dieu ») : l'illusion selon laquelle le chercheur scientifique pourrait adopter une « vue de nulle part » (\textit{view from nowhere}), c'est-à-dire un positionnement épistémique désincarné, détaché de toute contingence sociale, culturelle, ou historique, et par conséquent capable d'accéder à une vérité universelle et objective.
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}[scale=0.9, transform shape]
+  % Le "Point de vue de nulle part" - œil divin
+  \node[circle, draw, fill=yellow!20, minimum size=1.5cm] (god) at (0,6) {\large Œil};
+  \node[above=0.2cm of god] {\textbf{« Vue de nulle part »}};
+  \node[below=0.1cm of god, text width=3cm, align=center, font=\small] {(God Trick)};
+
+  % Les positions situées
+  \node[rectangle, draw, fill=khoisancolor!30, text width=3cm, align=center] (khoisan) at (-4,2)
+    {\textbf{Savoirs Khoisan}\\[2pt]\small Situés dans:\\tradition orale,\\écologie semi-aride};
+
+  \node[rectangle, draw, fill=biomed!30, text width=3cm, align=center] (biomed) at (4,2)
+    {\textbf{Biomédecine}\\[2pt]\small Située dans:\\institutions occidentales,\\industrie pharma};
+
+  % Prétention à l'universalité
+  \draw[->, very thick, dashed, red] (biomed) -- (god) node[midway, right, text width=2.5cm, font=\small] {Prétention à l'objectivité absolue};
+
+  % Reconnaissance de la partialité
+  \draw[<->, thick, decolonial] (khoisan) -- (biomed) node[midway, below, text width=4cm, align=center, font=\small] {\textcolor{decolonial}{\textbf{Dialogue non-hiérarchique}\\entre savoirs situés}};
+
+  % Flèches de délégitimation
+  \draw[->, thick, colonial, dashed] (god) -- (khoisan) node[midway, left, text width=2.5cm, font=\small, text=colonial] {Délégitimation comme « folklore »};
+
+\end{tikzpicture}
+\caption{Le « Tour de Dieu » (Haraway, 1988) : La biomédecine revendique une « vue de nulle part » qui masque son positionnement situé et délégitimise les savoirs Khoisan}
+\label{fig:god-trick}
+\end{figure}
+
+\subsection{Savoirs Situés et \textit{Standpoint Epistemology} : Le Cas Khoisan}
+
+Sandra Harding \cite{Harding1998,Harding2008} prolonge la réflexion de Haraway en développant la \textit{standpoint epistemology} (épistémologie du point de vue situé), issue des théories féministes de la connaissance et adaptée à l'analyse des rapports de pouvoir entre savoirs dominants et savoirs marginalisés.
+
+L'argument central de Harding peut être formulé ainsi : \textbf{Les groupes socialement marginalisés développent des perspectives épistémiques distinctes et potentiellement supérieures sur certains aspects de la réalité sociale, précisément en raison de leur position de subordination.}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}[scale=1, every node/.style={font=\small}]
+  % Titre
+  \node[above] at (0,6) {\large\textbf{Caractéristiques Épistémologiques des Savoirs Khoisan sur le Kanna}};
+
+  % Trois boîtes principales
+  \node[rectangle, draw, fill=khoisancolor!20, text width=5cm, align=left, minimum height=3cm] (context) at (-6,3) {
+    \textbf{1. Contextualité Écologique}\\[4pt]
+    • Périodes de récolte optimales (post-pluies)\\
+    • Variations saisonnières (300-500\% concentration alcaloïdes)\\
+    • Discrimination entre espèces/chimiotypes
+  };
+
+  \node[rectangle, draw, fill=khoisancolor!20, text width=5cm, align=left, minimum height=3cm] (ferment) at (0,3) {
+    \textbf{2. Transformations Biochimiques}\\[4pt]
+    • Fermentation contrôlée\\
+    • Augmentation mésembrine (+300-700\%)\\
+    • Ingénierie biochimique sophistiquée
+  };
+
+  \node[rectangle, draw, fill=khoisancolor!20, text width=5cm, align=left, minimum height=3cm] (holisme) at (6,3) {
+    \textbf{3. Intégration Holistique}\\[4pt]
+    • Contexte rituel et social\\
+    • Associations synergiques\\
+    • Adaptabilité individuelle
+  };
+
+  % Validation moderne en dessous
+  \node[rectangle, draw, fill=biomed!20, text width=4cm, align=center] (valid1) at (-6,0) {
+    Validé par\\UPLC-MS\\(Chen et al. 2019)
+  };
+
+  \node[rectangle, draw, fill=biomed!20, text width=4cm, align=center] (valid2) at (0,0) {
+    Validé par\\analyses chromatographiques\\(Krstenansky 2016)
+  };
+
+  \node[rectangle, draw, fill=biomed!20, text width=4cm, align=center] (valid3) at (6,0) {
+    Anticipation de la\\« médecine personnalisée »
+  };
+
+  % Connexions
+  \draw[->, thick] (context) -- (valid1);
+  \draw[->, thick] (ferment) -- (valid2);
+  \draw[->, thick] (holisme) -- (valid3);
+
+\end{tikzpicture}
+\caption{Système épistémologique cohérent des savoirs Khoisan, validé a posteriori par la science moderne}
+\label{fig:savoirs-khoisan}
+\end{figure}
+
+\section{Épistémicide et Violence Épistémique : L'Érosion Coloniale des Savoirs Khoisan}
+
+\subsection{Le Concept d'Épistémicide (Boaventura de Sousa Santos)}
+
+Boaventura de Sousa Santos \cite{Santos2014} introduit le concept d'\textbf{épistémicide} : la destruction systématique, souvent violente, de traditions intellectuelles non-occidentales par leur délégitimation comme « superstitions », « croyances », ou « folklore » — en opposition aux « connaissances universelles » de la modernité européenne.
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}[scale=1, every node/.style={font=\small}]
+  % Ligne abyssale
+  \draw[ultra thick, colonial] (-7,3) -- (7,3);
+  \node[above, font=\large\bfseries] at (0,3.3) {LIGNE ABYSSALE};
+
+  % Côté métropolitain
+  \node[above, font=\bfseries] at (0,5) {CÔTÉ MÉTROPOLITAIN};
+  \node[rectangle, draw, fill=biomed!20, text width=5cm, align=center] at (-3,4.5) {
+    Débats scientifiques\\« Vrai » vs « Faux »\\Légitimité reconnue
+  };
+  \node[rectangle, draw, fill=biomed!20, text width=5cm, align=center] at (3,4.5) {
+    Mécanismes d'action\\de la mésembrine\\(SERT/PDE4)
+  };
+
+  % Côté colonial
+  \node[below, font=\bfseries] at (0,0.5) {CÔTÉ COLONIAL};
+  \node[rectangle, draw, fill=khoisancolor!20, text width=5cm, align=center] at (-3,1.5) {
+    Savoirs Khoisan\\« Folklore » / « Superstition »\\Délégitimation systématique
+  };
+  \node[rectangle, draw, fill=khoisancolor!20, text width=5cm, align=center] at (3,1.5) {
+    Connaissances sur\\chimiotypes et fermentation\\(ignorées comme « anecdotes »)
+  };
+
+  % Flèches d'extractivisme
+  \draw[->, very thick, colonial] (-3,1.2) -- (-3,4.2) node[midway, left, text width=2.5cm] {\textcolor{colonial}{Extraction\\sans réciprocité}};
+  \draw[->, very thick, colonial] (3,1.2) -- (3,4.2) node[midway, right, text width=2.5cm] {\textcolor{colonial}{Appropriation\\et brevets}};
+
+\end{tikzpicture}
+\caption{La Ligne Abyssale (Santos, 2014) : Division épistémologique structurelle entre savoirs légitimes et savoirs délégitimés}
+\label{fig:ligne-abyssale}
+\end{figure}
+
+\subsection{L'Érosion Historique des Savoirs Khoisan sur le Kanna}
+
+L'épistémicide désigne des processus historiques concrets. Dans le cas des savoirs Khoisan sur le Kanna, plusieurs vecteurs d'érosion peuvent être identifiés :
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}[scale=1, every node/.style={font=\footnotesize}]
+  % Axe temporel
+  \draw[->, ultra thick] (0,0) -- (14,0) node[right] {\textbf{Temps}};
+
+  % Points sur la ligne temporelle
+  \node[circle, fill=khoisancolor, inner sep=3pt] (start) at (1,0) {};
+  \node[below=0.3cm of start, text width=2cm, align=center] {Avant 1652\\Savoirs intacts};
+
+  \node[circle, fill=colonial, inner sep=3pt] (col1) at (4,0) {};
+  \node[above=0.3cm of col1, text width=2.5cm, align=center] {1652-1800\\Colonisation\\Guerres};
+
+  \node[circle, fill=colonial, inner sep=3pt] (col2) at (7,0) {};
+  \node[below=0.3cm of col2, text width=2.5cm, align=center] {1713-1767\\Épidémies de variole\\(-90\% pop.)};
+
+  \node[circle, fill=colonial, inner sep=3pt] (col3) at (10,0) {};
+  \node[above=0.3cm of col3, text width=2.5cm, align=center] {1800-1900\\Christianisation\\Prolétarisation};
+
+  \node[circle, fill=red, inner sep=3pt] (col4) at (13,0) {};
+  \node[below=0.3cm of col4, text width=2.5cm, align=center] {1996-2003\\Biopiraterie\\Phytopharm};
+
+  % Courbe d'érosion
+  \draw[very thick, colonial, dashed] (1,3) to[out=0,in=120] (4,2.3) to[out=-60,in=150] (7,1.5) to[out=-30,in=180] (10,0.8) to[out=0,in=180] (13,0.3);
+  \node[above left, text=colonial, font=\bfseries] at (1,3) {Intégrité des savoirs};
+
+\end{tikzpicture}
+\caption{Chronologie de l'érosion des savoirs Khoisan sur le Kanna (1652-2025)}
+\label{fig:chronologie}
+\end{figure}
+
+\textbf{Vecteur 1 : Génocide Démographique et Dépossession Territoriale}
+
+La colonisation européenne de l'Afrique australe (initiée en 1652) a entraîné une chute démographique catastrophique des populations Khoisan :
+\begin{itemize}
+\item Guerres coloniales : Les conflits armés entre colons et communautés Khoisan ont décimé des populations entières
+\item Maladies infectieuses importées : La variole (épidémies de 1713, 1755, 1767) a tué jusqu'à 90\% de certaines populations Khoekhoe côtières
+\item Dépossession territoriale : L'expansion des colonies agricoles européennes a repoussé les communautés Khoisan vers des terres marginales
+\end{itemize}
+
+\textbf{Vecteur 2 : Christianisation et Stigmatisation}
+
+Les missions chrétiennes ont joué un rôle central dans la délégitimation des pratiques médicales Khoisan :
+\begin{itemize}
+\item Diabolisation des guérisseurs traditionnels
+\item Imposition du modèle médical occidental
+\item Destruction des rituels traditionnels
+\end{itemize}
+
+\textbf{Vecteur 3 : Fragmentation Sociale et Prolétarisation}
+
+L'économie coloniale (mines de diamants et d'or) a déstructuré les modes de vie traditionnels Khoisan.
+
+\section{Vers une Décolonisation Épistémologique : Méthodologies Participatives}
+
+\subsection{Le Paradigme de la Décolonisation Méthodologique}
+
+Linda Tuhiwai Smith \cite{Smith1999} formule une critique radicale de la recherche académique menée sur les peuples autochtones. Son argument central : \textbf{La recherche scientifique a historiquement fonctionné comme un instrument d'oppression coloniale, et toute recherche contemporaine impliquant des communautés autochtones doit être radicalement réformée.}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}[scale=0.95, every node/.style={font=\small}]
+  % Modèle extractiviste (gauche)
+  \node[font=\bfseries\large] at (-4,6) {MODÈLE EXTRACTIVISTE};
+
+  \node[rectangle, draw, fill=colonial!20, text width=3cm, align=center] (ext1) at (-4,5) {
+    1. Extraction\\(sans consentement)
+  };
+  \node[rectangle, draw, fill=colonial!20, text width=3cm, align=center] (ext2) at (-4,3.5) {
+    2. Traduction/Réduction\\(dans cadre biomédical)
+  };
+  \node[rectangle, draw, fill=colonial!20, text width=3cm, align=center] (ext3) at (-4,2) {
+    3. Appropriation\\(brevets, publications)
+  };
+
+  \draw[->, very thick] (ext1) -- (ext2);
+  \draw[->, very thick] (ext2) -- (ext3);
+
+  \node[below=0.3cm of ext3, text=colonial, font=\bfseries] {= BIOPIRATERIE};
+
+  % Modèle co-production (droite)
+  \node[font=\bfseries\large] at (4,6) {MODÈLE DÉCOLONIAL};
+
+  \node[rectangle, draw, fill=decolonial!20, text width=3.5cm, align=center] (dec1) at (4,5.5) {
+    1. Co-définition priorités\\(avec communautés)
+  };
+  \node[rectangle, draw, fill=decolonial!20, text width=3.5cm, align=center] (dec2) at (4,4) {
+    2. Formation chercheurs\\communautaires
+  };
+  \node[rectangle, draw, fill=decolonial!20, text width=3.5cm, align=center] (dec3) at (4,2.5) {
+    3. Co-analyse\\et interprétation
+  };
+  \node[rectangle, draw, fill=decolonial!20, text width=3.5cm, align=center] (dec4) at (4,1) {
+    4. Restitution\\et action (co-signature)
+  };
+
+  \draw[<->, very thick, decolonial] (dec1) -- (dec2);
+  \draw[<->, very thick, decolonial] (dec2) -- (dec3);
+  \draw[<->, very thick, decolonial] (dec3) -- (dec4);
+
+  \node[below=0.3cm of dec4, text=decolonial, font=\bfseries] {= PAR/CBPR};
+
+  % Flèche de transformation
+  \draw[->, ultra thick, red, dashed] (-2,3.5) -- (2,3.5) node[midway, above, text width=2.5cm, align=center, font=\small] {\textbf{Transformation nécessaire}};
+
+\end{tikzpicture}
+\caption{Transition du modèle extractiviste vers une co-production décoloniale des savoirs (Smith, 1999)}
+\label{fig:modele-transformation}
+\end{figure}
+
+\subsection{Co-Production des Savoirs et Recherche-Action Participative (PAR/CBPR)}
+
+Au-delà des cadres juridiques, des modèles de recherche collaborative ont été développés pour opérationnaliser la décolonisation méthodologique. Le plus influent est la \textbf{Participatory Action Research (PAR)} ou \textbf{Community-Based Participatory Research (CBPR)}, issue des travaux de Paulo Freire et adaptée au contexte de la recherche en santé publique.
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}[scale=1.1, every node/.style={font=\small}]
+  % Cycle PAR/CBPR
+  \node[circle, draw, fill=decolonial!20, minimum size=2cm, text width=1.8cm, align=center] (plan) at (0,3) {\textbf{1. Planification}\\collaborative};
+
+  \node[circle, draw, fill=decolonial!20, minimum size=2cm, text width=1.8cm, align=center] (action) at (3,1.5) {\textbf{2. Action}\\sur le terrain};
+
+  \node[circle, draw, fill=decolonial!20, minimum size=2cm, text width=1.8cm, align=center] (obs) at (3,-1.5) {\textbf{3. Observation}\\et collecte};
+
+  \node[circle, draw, fill=decolonial!20, minimum size=2cm, text width=1.8cm, align=center] (reflex) at (0,-3) {\textbf{4. Réflexion}\\critique};
+
+  \node[circle, draw, fill=decolonial!20, minimum size=2cm, text width=2cm, align=center] (nouveau) at (-3,-1.5) {\textbf{5. Nouvelle}\\planification};
+
+  \node[circle, draw, fill=decolonial!20, minimum size=2cm, text width=2cm, align=center] (trans) at (-3,1.5) {\textbf{6. Transformation}\\sociale};
+
+  % Flèches cycliques
+  \draw[->, very thick, decolonial] (plan) -- (action);
+  \draw[->, very thick, decolonial] (action) -- (obs);
+  \draw[->, very thick, decolonial] (obs) -- (reflex);
+  \draw[->, very thick, decolonial] (reflex) -- (nouveau);
+  \draw[->, very thick, decolonial] (nouveau) -- (trans);
+  \draw[->, very thick, decolonial] (trans) -- (plan);
+
+  % Annotations
+  \node[below, text width=4cm, align=center, font=\footnotesize] at (0,-4.5) {
+    \textbf{Principes clés :}\\
+    • Horizontalité des rapports\\
+    • Orientation vers l'action\\
+    • Itérativité et réflexivité
+  };
+
+\end{tikzpicture}
+\caption{Cycle de Recherche-Action Participative (PAR/CBPR) pour l'ethnopharmacologie décoloniale}
+\label{fig:par-cycle}
+\end{figure}
+
+\textbf{Application au Kanna : Un Modèle de Co-Production}
+
+Appliquée à l'ethnopharmacognosie du Kanna, la PAR/CBPR impliquerait :
+
+\begin{enumerate}
+\item \textbf{Phase 1 : Co-définition des priorités} — Organisation d'ateliers participatifs avec les conseils San et Khoi
+\item \textbf{Phase 2 : Formation de chercheurs communautaires} — Formations aux méthodologies de collecte de données
+\item \textbf{Phase 3 : Co-analyse et interprétation} — Ateliers d'analyse collective des données
+\item \textbf{Phase 4 : Restitution et action} — Publication conjointe (co-signature), versions en langues locales
+\end{enumerate}
+
+\section{Conclusion : Reconnaissance de la Légitimité Épistémologique}
+
+L'analyse épistémologique déployée dans ce chapitre conduit à une conclusion radicale :
+
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\textbf{Une ethnopharmacologie équitable du Kanna n'est possible qu'à condition de reconnaître les savoirs Khoisan non comme « folklore » ou « pistes de recherche » à exploiter, mais comme systèmes de connaissance à part entière, porteurs de droits moraux et juridiques.}
+}}
+\end{center}
+
+Cette reconnaissance implique plusieurs ruptures avec les pratiques actuelles de la recherche ethnopharmacologique :
+
+\begin{enumerate}
+\item \textbf{Rupture épistémologique} : Abandonner le monopole du réductionnisme moléculaire
+\item \textbf{Rupture méthodologique} : Passer d'une logique extractiviste à une logique de co-production
+\item \textbf{Rupture institutionnelle} : Réformer les mécanismes de financement de la recherche
+\item \textbf{Rupture juridique} : Renforcer les cadres de propriété intellectuelle collective
+\end{enumerate}
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}

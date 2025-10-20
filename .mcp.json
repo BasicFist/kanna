@@ -1,0 +1,67 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "/home/miko/LAB/bin/mcp-fs",
+      "args": []
+    },
+    "git": {
+      "command": "/home/miko/LAB/bin/mcp-git",
+      "args": [],
+      "env": {
+        "MCP_GIT_REPO": "/home/miko/LAB/projects/KANNA"
+      }
+    },
+    "github": {
+      "command": "/home/miko/LAB/bin/mcp-github",
+      "args": []
+    },
+    "sqlite": {
+      "command": "/home/miko/LAB/bin/mcp-sqlite",
+      "args": []
+    },
+    "jupyter": {
+      "command": "/home/miko/LAB/bin/mcp-jupyter",
+      "args": []
+    },
+    "context7": {
+      "command": "/home/miko/LAB/bin/mcp-context7",
+      "args": []
+    },
+    "perplexity": {
+      "command": "/home/miko/LAB/bin/mcp-perplexity",
+      "args": []
+    },
+    "sequential": {
+      "command": "/home/miko/LAB/bin/mcp-sequential",
+      "args": []
+    },
+    "memory": {
+      "command": "/home/miko/LAB/bin/mcp-memory",
+      "args": []
+    },
+    "fetch": {
+      "command": "/home/miko/LAB/bin/mcp-fetch",
+      "args": []
+    },
+    "rag-query": {
+      "command": "/home/miko/LAB/bin/mcp-rag-query",
+      "args": []
+    },
+    "cloudflare-browser": {
+      "command": "/home/miko/LAB/bin/mcp-cloudflare-browser",
+      "args": []
+    },
+    "cloudflare-container": {
+      "command": "/home/miko/LAB/bin/mcp-cloudflare-container",
+      "args": []
+    },
+    "fpic-validator": {
+      "command": "/home/miko/LAB/bin/mcp-fpic-validator",
+      "args": []
+    },
+    "bibliography": {
+      "command": "/home/miko/LAB/bin/mcp-bibliography",
+      "args": []
+    }
+  }
+}

@@ -1,0 +1,14 @@
+================================================================================
+COMPREHENSIVE DEEP ANALYSIS REPORT
+Generated: 2025-10-03 13:31:52
+================================================================================
+
+COLLECTION OVERVIEW
+--------------------------------------------------------------------------------
+Total PDFs: 318
+Total size: 1004.8 MB
+Total pages: 11,899
+Avg pages per paper: 37.4
+
+Detailed data exported to: /home/miko/Documents/Sceletium_Thesis_PDFs/Deduplicated_Collection/DEEP_ANALYSIS_REPORT_20251003_133152_detailed.csv
+

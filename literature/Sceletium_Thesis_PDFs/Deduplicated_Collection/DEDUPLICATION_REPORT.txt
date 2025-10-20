@@ -1,0 +1,42 @@
+================================================================================
+DEDUPLICATED COLLECTION REPORT
+Generated: 2025-10-03T13:11:41.301903
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total unique papers: 448
+Original collection: 1,013 PDFs
+Duplicates removed: 565
+Deduplication rate: 55.8%
+
+DISTRIBUTION BY TOPIC
+--------------------------------------------------------------------------------
+00_Core_References                     9 papers
+01_Sceletium_Pharmacology            287 papers
+02_Ethnopharmacology                  57 papers
+03_PDE4_Neurogenesis                  32 papers
+04_Clinical_Trials                    19 papers
+05_Khoi_San_Traditional               29 papers
+06_Related_Compounds                  15 papers
+
+
+ORGANIZATION NOTES
+--------------------------------------------------------------------------------
+- Files renamed to: YEAR - Author - Title.pdf format
+- Organized into topic-based directories
+- Best version kept (highest metadata quality & descriptive names)
+- Original collection preserved at: ../
+- Full index available in: _INDEX.csv
+
+TOPIC DESCRIPTIONS
+--------------------------------------------------------------------------------
+00_Core_References:        Essential papers from TEZ_Core
+01_Sceletium_Pharmacology: Kanna alkaloids, mesembrine, pharmacology
+02_Ethnopharmacology:      Traditional use, indigenous knowledge
+03_PDE4_Neurogenesis:      PDE4 inhibition, brain plasticity
+04_Clinical_Trials:        Human studies, Zembrin trials
+05_Khoi_San_Traditional:   Cultural context, traditional practices
+06_Related_Compounds:      Aizoaceae family, related plants
+99_Supplementary_Data:     Excel/Word supplementary materials
+

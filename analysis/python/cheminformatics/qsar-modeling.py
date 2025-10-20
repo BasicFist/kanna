@@ -27,14 +27,15 @@ from rdkit.Chem import Descriptors, AllChem, DataStructs
 from rdkit.ML.Descriptors import MoleculeDescriptors
 
 # Machine learning
-from sklearn.model_selection import train_test_split, cross_val_score, GridSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
+from sklearn.pipeline import Pipeline
 import xgboost as xgb
 
 # Feature selection
-from sklearn.feature_selection import SelectKBest, f_regression, RFE
+from sklearn.feature_selection import SelectKBest, f_regression
 
 # Model interpretation
 import shap
@@ -134,23 +135,21 @@ print(f"\nFinal dataset: {len(df_valid)} compounds × {descriptors_df.shape[1]} 
 # 3. FEATURE SELECTION
 # =============================================================================
 
-print("\n3. Performing feature selection...")
+print("\n3. Configuring feature selector...")
 
-# Prepare X and y
-X = descriptors_df.values
-y = df_valid['pic50'].values
+# Prepare feature matrix and target vector
+X = descriptors_df
+y = df_valid['pic50']
+feature_names = X.columns
 
-# Method 1: SelectKBest (ANOVA F-test)
-k_best = 50  # Select top 50 features
-selector_univariate = SelectKBest(f_regression, k=k_best)
-X_selected = selector_univariate.fit_transform(X, y)
+if X.shape[1] == 0:
+    raise ValueError("No molecular descriptors available after preprocessing.")
 
-selected_features = descriptors_df.columns[selector_univariate.get_support()].tolist()
-print(f"Selected {len(selected_features)} features using SelectKBest")
-print(f"Top 10 features: {selected_features[:10]}")
-
-# Create reduced DataFrame
-X_df = pd.DataFrame(X_selected, columns=selected_features)
+k_best = min(50, X.shape[1])
+if k_best < 50:
+    print(f"SelectKBest limited to top {k_best} features (out of {X.shape[1]} available).")
+else:
+    print(f"SelectKBest will evaluate top {k_best} features using ANOVA F-test.")
 
 # =============================================================================
 # 4. TRAIN-TEST SPLIT
@@ -159,16 +158,11 @@ X_df = pd.DataFrame(X_selected, columns=selected_features)
 print("\n4. Splitting data into train/test sets...")
 
 X_train, X_test, y_train, y_test = train_test_split(
-    X_df, y, test_size=0.2, random_state=RANDOM_STATE
+    X, y, test_size=0.2, random_state=RANDOM_STATE
 )
 
 print(f"Training set: {len(X_train)} compounds")
 print(f"Test set: {len(X_test)} compounds")
-
-# Standardize features
-scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
 
 # =============================================================================
 # 5. TRAIN RANDOM FOREST MODEL
@@ -176,26 +170,35 @@ X_test_scaled = scaler.transform(X_test)
 
 print("\n5. Training Random Forest model...")
 
+rf_pipeline = Pipeline([
+    ('select', SelectKBest(score_func=f_regression, k=k_best)),
+    ('scaler', StandardScaler()),
+    ('model', RandomForestRegressor(random_state=RANDOM_STATE))
+])
+
 # Hyperparameter tuning with GridSearchCV
 param_grid_rf = {
-    'n_estimators': [100, 200, 300],
-    'max_depth': [10, 20, 30, None],
-    'min_samples_split': [2, 5, 10],
-    'min_samples_leaf': [1, 2, 4]
+    'model__n_estimators': [100, 200, 300],
+    'model__max_depth': [10, 20, 30, None],
+    'model__min_samples_split': [2, 5, 10],
+    'model__min_samples_leaf': [1, 2, 4]
 }
 
-rf_model = RandomForestRegressor(random_state=RANDOM_STATE)
 grid_search_rf = GridSearchCV(
-    rf_model, param_grid_rf, cv=5, scoring='r2', n_jobs=-1, verbose=1
+    rf_pipeline, param_grid_rf, cv=5, scoring='r2', n_jobs=-1, verbose=1
 )
-grid_search_rf.fit(X_train_scaled, y_train)
+grid_search_rf.fit(X_train, y_train)
 
-best_rf = grid_search_rf.best_estimator_
-print(f"\nBest RF parameters: {grid_search_rf.best_params_}")
+best_rf_pipeline = grid_search_rf.best_estimator_
+best_rf_params = {
+    key.replace('model__', ''): value
+    for key, value in grid_search_rf.best_params_.items()
+}
+print(f"\nBest RF parameters: {best_rf_params}")
 
-# Evaluate on test set
-y_pred_rf_train = best_rf.predict(X_train_scaled)
-y_pred_rf_test = best_rf.predict(X_test_scaled)
+# Evaluate on train/test sets
+y_pred_rf_train = best_rf_pipeline.predict(X_train)
+y_pred_rf_test = best_rf_pipeline.predict(X_test)
 
 r2_train_rf = r2_score(y_train, y_pred_rf_train)
 r2_test_rf = r2_score(y_test, y_pred_rf_test)
@@ -214,25 +217,34 @@ print(f"  MAE (test):  {mae_test_rf:.3f}")
 
 print("\n6. Training XGBoost model...")
 
+xgb_pipeline = Pipeline([
+    ('select', SelectKBest(score_func=f_regression, k=k_best)),
+    ('scaler', StandardScaler()),
+    ('model', xgb.XGBRegressor(random_state=RANDOM_STATE, objective='reg:squarederror'))
+])
+
 param_grid_xgb = {
-    'n_estimators': [100, 200, 300],
-    'max_depth': [3, 5, 7],
-    'learning_rate': [0.01, 0.05, 0.1],
-    'subsample': [0.7, 0.8, 0.9]
+    'model__n_estimators': [100, 200, 300],
+    'model__max_depth': [3, 5, 7],
+    'model__learning_rate': [0.01, 0.05, 0.1],
+    'model__subsample': [0.7, 0.8, 0.9]
 }
 
-xgb_model = xgb.XGBRegressor(random_state=RANDOM_STATE, objective='reg:squarederror')
 grid_search_xgb = GridSearchCV(
-    xgb_model, param_grid_xgb, cv=5, scoring='r2', n_jobs=-1, verbose=1
+    xgb_pipeline, param_grid_xgb, cv=5, scoring='r2', n_jobs=-1, verbose=1
 )
-grid_search_xgb.fit(X_train_scaled, y_train)
+grid_search_xgb.fit(X_train, y_train)
 
-best_xgb = grid_search_xgb.best_estimator_
-print(f"\nBest XGBoost parameters: {grid_search_xgb.best_params_}")
+best_xgb_pipeline = grid_search_xgb.best_estimator_
+best_xgb_params = {
+    key.replace('model__', ''): value
+    for key, value in grid_search_xgb.best_params_.items()
+}
+print(f"\nBest XGBoost parameters: {best_xgb_params}")
 
-# Evaluate on test set
-y_pred_xgb_train = best_xgb.predict(X_train_scaled)
-y_pred_xgb_test = best_xgb.predict(X_test_scaled)
+# Evaluate on train/test sets
+y_pred_xgb_train = best_xgb_pipeline.predict(X_train)
+y_pred_xgb_test = best_xgb_pipeline.predict(X_test)
 
 r2_train_xgb = r2_score(y_train, y_pred_xgb_train)
 r2_test_xgb = r2_score(y_test, y_pred_xgb_test)
@@ -245,19 +257,31 @@ print(f"  R² (test):  {r2_test_xgb:.3f}")
 print(f"  RMSE (test): {rmse_test_xgb:.3f}")
 print(f"  MAE (test):  {mae_test_xgb:.3f}")
 
+# Capture selected features from the best pipeline
+selector = best_xgb_pipeline.named_steps['select']
+selected_mask = selector.get_support()
+selected_features = feature_names[selected_mask].tolist()
+print(f"\nSelected {len(selected_features)} features using SelectKBest")
+print(f"Top 10 features: {selected_features[:10]}")
+
 # =============================================================================
 # 7. MODEL INTERPRETATION WITH SHAP
 # =============================================================================
 
 print("\n7. Interpreting model with SHAP values...")
 
-# SHAP explanation for XGBoost
-explainer = shap.TreeExplainer(best_xgb)
+xgb_model = best_xgb_pipeline.named_steps['model']
+scaler = best_xgb_pipeline.named_steps['scaler']
+
+X_test_selected = selector.transform(X_test)
+X_test_scaled = scaler.transform(X_test_selected)
+
+explainer = shap.TreeExplainer(xgb_model)
 shap_values = explainer.shap_values(X_test_scaled)
 
-# Summary plot
+# Summary plot (use unscaled feature values for readability)
 plt.figure(figsize=(10, 8))
-shap.summary_plot(shap_values, X_test, feature_names=selected_features, show=False)
+shap.summary_plot(shap_values, X_test_selected, feature_names=selected_features, show=False)
 plt.tight_layout()
 plt.savefig(OUTPUT_DIR / "shap-summary-plot.png", dpi=300)
 print(f"SHAP summary plot saved to {OUTPUT_DIR / 'shap-summary-plot.png'}")
@@ -285,7 +309,7 @@ plt.savefig(OUTPUT_DIR / "actual-vs-predicted-xgb.png", dpi=300)
 # 2. Feature importance
 feature_importance = pd.DataFrame({
     'feature': selected_features,
-    'importance': best_xgb.feature_importances_
+    'importance': xgb_model.feature_importances_
 }).sort_values('importance', ascending=False)
 
 plt.figure(figsize=(10, 8))
@@ -305,8 +329,8 @@ print("\n9. Exporting results...")
 
 # Save models
 import joblib
-joblib.dump(best_xgb, OUTPUT_DIR / "xgb-model.pkl")
-joblib.dump(best_rf, OUTPUT_DIR / "rf-model.pkl")
+joblib.dump(best_xgb_pipeline, OUTPUT_DIR / "xgb-model.pkl")
+joblib.dump(best_rf_pipeline, OUTPUT_DIR / "rf-model.pkl")
 joblib.dump(scaler, OUTPUT_DIR / "scaler.pkl")
 
 # Save feature list

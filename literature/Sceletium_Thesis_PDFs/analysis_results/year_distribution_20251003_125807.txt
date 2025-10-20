@@ -1,0 +1,1120 @@
+================================================================================
+YEAR DISTRIBUTION INDEX
+Generated: 2025-10-03T12:58:07.816012
+================================================================================
+
+Total papers with year information: 1013
+Papers without year: 0
+Year range: 2000 - 2025
+
+DISTRIBUTION BY YEAR
+--------------------------------------------------------------------------------
+2025    80 papers  ################
+2024     4 papers  
+2023   102 papers  ####################
+2022    61 papers  ############
+2021    80 papers  ################
+2020    77 papers  ###############
+2019    80 papers  ################
+2018    66 papers  #############
+2017    43 papers  ########
+2016    64 papers  ############
+2015    72 papers  ##############
+2014    33 papers  ######
+2013    52 papers  ##########
+2012    18 papers  ###
+2011    34 papers  ######
+2010    29 papers  #####
+2009     2 papers  
+2008    60 papers  ############
+2007     9 papers  #
+2005     8 papers  #
+2004    18 papers  ###
+2003    19 papers  ###
+2000     2 papers  
+
+
+PAPERS BY YEAR
+================================================================================
+
+2025 (80 papers)
+--------------------------------------------------------------------------------
+  - An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021-2.pdf
+  - Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse-1.pdf
+  - Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac-1.pdf
+  - Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018-2.pdf
+  - Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016-1.pdf
+  - Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019-1.pdf
+  - Güldemann_unknown.pdf
+  - Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018-1.pdf
+  - King - 2019 - Outlaws, Anxiety, and Disorder in Southern Africa Material Histories of the Maloti-Drakensberg.pdf
+  - Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae)-1.pdf
+  - Low - 2007 - Different Histories of Buchu Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Pla.pdf
+  - Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid-1.pdf
+  - Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed).pdf
+  - Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum.pdf
+  - Mitchell_2022_1.pdf
+  - Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos.pdf
+  - Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities.pdf
+  - PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011-1.pdf
+  - Past Environments and Plant Use in Holocene SoutheMvimi2022.pdf
+  - Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona-1.pdf
+  - Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020-1.pdf
+  - Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020-1.pdf
+  - Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014-1.pdf
+  - Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020-1.pdf
+  - Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018-1.pdf
+  - Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024-2.pdf
+  - Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008.pdf
+  - Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry.pdf
+  - Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations-1.pdf
+  - Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary.pdf
+  - Spina - 2008 - PDE4 inhibitors current status-1.pdf
+  - Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E..pdf
+  - Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases.pdf
+  - Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma-1.pdf
+  - The Changing PastA Companion to Creative WritinHall.pdf
+  - The ecology and management of biological invasions in Southern Africa.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea.pdf
+  - Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020-2.pdf
+  - Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation-1.pdf
+  - Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse-1.pdf
+  - Bennett et Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro  Implications fo-1.pdf
+  - Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti.pdf
+  - Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders.pdf
+  - Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac-1.pdf
+  - Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review of Psychiatric and Neurological Adverse Effects.pdf
+  - Diamant et Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obstructive airways disease.pdf
+  - Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious-1.pdf
+  - Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid constituents on electric excitability of the rat hippoc-1.pdf
+  - Druart et Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disorders.pdf
+  - Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different-1.pdf
+  - Gericke et Viljoen - 2008 - Sceletium—A review update.pdf
+  - Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®)-1.pdf
+  - Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin-1.pdf
+  - Güldemann_unknown.pdf
+  - Hall - The Changing Past.pdf
+  - Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobotanical Research in Southern Africa (Review)-1.pdf
+  - King - 2019 - Outlaws, Anxiety, and Disorder in Southern Africa Material Histories of the Maloti-Drakensberg.pdf
+  - Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae)-1.pdf
+  - Low - 2007 - Different Histories of Buchu Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Pla.pdf
+  - Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid-1.pdf
+  - Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed).pdf
+  - Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum.pdf
+  - Mitchell_2022_1.pdf
+  - Mvimi - 2022 - Past Environments and Plant Use in Holocene Southern Africa.pdf
+  - Namba et al. - 2021 - Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders and Associated Comorbi.pdf
+  - Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos.pdf
+  - Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities.pdf
+  - Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona-1.pdf
+  - Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions.pdf
+  - Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry.pdf
+  - Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations-1.pdf
+  - Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary.pdf
+  - Spina - 2008 - PDE4 inhibitors current status-1.pdf
+  - Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E..pdf
+  - Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases.pdf
+  - Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma-1.pdf
+  - The ecology and management of biological invasions in Southern Africa.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea.pdf
+  - Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous System and Related Disease.pdf
+  - Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation-1.pdf
+
+2024 (4 papers)
+--------------------------------------------------------------------------------
+  - Johansen et M. Bauer - 2024 - Reconceptualizing the Archaeology of Southern India Beyond Periodization and Toward a Politics of P.pdf
+  - Pickrell et al. - 2012 - The genetic prehistory of southern Africa.pdf
+  - Johansen et M. Bauer - 2024 - Reconceptualizing the Archaeology of Southern India Beyond Periodization and Toward a Politics of P.pdf
+  - Pickrell et al. - 2012 - The genetic prehistory of southern Africa.pdf
+
+2023 (102 papers)
+--------------------------------------------------------------------------------
+  - KH-001 BUT NOT OTHER TESTED ALKALOIDS DERIVED FROM.pdf
+  - Magill et al. - 1981 - Bryophyta.pdf
+  - One_2023.pdf
+  - Oteng Mintah et al. - 2019 - Medicinal Plants for Treatment of Prevalent Diseases.pdf
+  - PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011-2.pdf
+  - PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011.pdf
+  - Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology-1.pdf
+  - Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology.pdf
+  - Patnala_Kanfer_2017_Sceletium Plant Species-1.pdf
+  - Patnala_Kanfer_2017_Sceletium Plant Species.pdf
+  - Reddy et al. - 2024 - Skeletons in the closet Using a bibliometric lens to visualise phytochemical and pharmacological ac.pdf
+  - Royston A_2023_(52) Kh-001 but Not Other Tested Alkaloids Derived from Sceletium Tortuosum.pdf
+  - Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024-1.pdf
+  - Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024.pdf
+  - Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary-1.pdf
+  - Sibeko_2023_Traditional perinatal plant knowledge in Sub-Saharan Africa.pdf
+  - Smith_unknown.pdf
+  - Stafford_Skeletons in the closet.pdf
+  - The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022-1.pdf
+  - The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022.pdf
+  - Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation.pdf
+  - Wynberg_2023_Biopiracy.pdf
+  - Diamant and Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obs-1.pdf
+  - Diamant and Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obs.pdf
+  - Diamant and Spina PDEinhibitors A novel targeted therapy for obs.pdf
+  - Gericke et al Sceletium tortuosumderived mesembrine significant.pdf
+  - Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significant-1.pdf
+  - Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significant.pdf
+  - James Faber et al The Importance of Sceletium tortuosum L.pdf
+  - James Faber et al. - 2022 - The Importance of Sceletium tortuosum (L.) .pdf
+  - Oteng Mintah et al Medicinal Plants for Treatment of Prevalent Diseas.pdf
+  - Patnala and Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Ch 2.pdf
+  - Patnala and Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Ch-1.pdf
+  - Patnala and Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Ch.pdf
+  - Patnala and Kanfer 2017 Sceletium Plant Species Alkaloidal Components Ch.pdf
+  - Patnala and Kanfer Sceletium Plant Species Alkaloidal Components Ch.pdf
+  - Royston A et al Kh but Not Other Tested Alkaloids Derived.pdf
+  - Royston A et al. - 2023 - (52) Kh-001 but Not Other Tested Alkaloids Derived-1.pdf
+  - Royston A et al. - 2023 - (52) Kh-001 but Not Other Tested Alkaloids Derived.pdf
+  - Sibeko et al Traditional perinatal plant knowledge in SubSahar.pdf
+  - Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Sahar-1.pdf
+  - Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Sahar.pdf
+  - Stafford - Skeletons in the closet – Using a bibliometric le-1.pdf
+  - Stafford - Skeletons in the closet – Using a bibliometric le.pdf
+  - Stafford Skeletons in the closet Using a bibliometric le.pdf
+  - THE-LOST-HISTORY-OF-KHOI-SAN.pdf
+  - THELOSTHISTORYOFKHOISAN.pdf
+  - Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and c-1.pdf
+  - Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and c.pdf
+  - Wynberg Biopiracy Crying wolf or a lever for equity and.pdf
+  - (52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+  - 0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+  - (52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+  - Biopiracy_ Crying wolf or a lever for equity a.pdf
+  - 0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+  - Traditional perinatal plant knowledge in Sub-S.pdf
+  - Reddy-2023-Skeletons in the closet_ – Using a.pdf
+  - Skeletons in the closet_ – Using a bibliometri.pdf
+  - Medicinal Plants for Treatment of Prevalent Di.pdf
+  - 0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+  - Kaylan-2023-Skeletons in the closet_ – Using a.pdf
+  - James Faber-2022-The Importance ofSceletium to.pdf
+  - Sceletium Plant Species_ Alkaloidal Components.pdf
+  - Biopiracy_ Crying wolf or a lever for equity a.pdf
+  - a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+  - Traditional perinatal plant knowledge in Sub-S.pdf
+  - Sceletium Plant Species_ Alkaloidal Components.pdf
+  - James Faber-2022-The Importance ofSceletium to.pdf
+  - Sceletium tortuosum-derived mesembrine signifi.pdf
+  - (52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+  - Medicinal Plants for Treatment of Prevalent Di.pdf
+  - a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+  - THE-LOST-HISTORY-OF-KHOI-SAN.pdf
+  - Sceletium tortuosum-derived mesembrine signifi.pdf
+  - Skeletons in the closet_ – Using a bibliometri.pdf
+  - 64420-1.pdf
+  - 64420-1.pdf
+  - Biopiracy_ Crying wolf or a lever for equity a.pdf
+  - James Faber-2022-The Importance ofSceletium to.pdf
+  - Kaylan-2023-Skeletons in the closet_ – Using a.pdf
+  - Medicinal Plants for Treatment of Prevalent Di.pdf
+  - PDE4-inhibitors A novel targeted therapy for obstructive airways disease.pdf
+  - Reddy-2023-Skeletons in the closet_ – Using a.pdf
+  - Sceletium Plant Species_ Alkaloidal Components.pdf
+  - Sceletium tortuosum-derived mesembrine signifi.pdf
+  - Skeletons in the closet_ – Using a bibliometri.pdf
+  - THE-LOST-HISTORY-OF-KHOI-SAN.pdf
+  - Traditional perinatal plant knowledge in Sub-S.pdf
+  - a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+  - A_2023.pdf
+  - Diamant et Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obstructive airways disease-1.pdf
+  - Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin.pdf
+  - James Faber et al. - 2022 - The Importance of Sceletium tortuosum (L.) N.E. Brown and Its Viability as a Traditional Afri.pdf
+  - Magill et al. - 1981 - Bryophyta.pdf
+  - One_2023.pdf
+  - Oteng Mintah et al. - 2019 - Medicinal Plants for Treatment of Prevalent Diseases.pdf
+  - Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology-1.pdf
+  - Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology.pdf
+  - Reddy et al. - 2024 - Skeletons in the closet Using a bibliometric lens to visualise phytochemical and pharmacological ac.pdf
+  - Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary-1.pdf
+  - Smith_unknown.pdf
+  - Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation.pdf
+
+2022 (61 papers)
+--------------------------------------------------------------------------------
+  - Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac.pdf
+  - Bonokwane_2022_Antidepressant Effects of South African Plants.pdf
+  - Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the Aizoaceae.pdf
+  - Kalicharan_2023_Ethnopharmacology and biological activities of the Aizoaceae.pdf
+  - Luo et al. - 2022 - A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in.pdf
+  - Luo_2022_A network pharmacology-based approach to explore the therapeutic potential of.pdf
+  - Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model.pdf
+  - Maphanga_2022_Mesembryanthemum tortuosum L.pdf
+  - Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological an.pdf
+  - Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and.pdf
+  - Olatunji_2022_Corrigendum to “Sceletium tortuosum.pdf
+  - Olatunji_2022_Sceletium tortuosum.pdf
+  - Yates - 2023 - Determinants of addiction neurobiological, behavioral, cognitive, and sociocultural factors.pdf
+  - Yates_2023_Determinants of addiction.pdf
+  - Bonokwane et al Antidepressant Effects of South African Plants An.pdf
+  - Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An-1.pdf
+  - Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An.pdf
+  - Kalicharan et al Ethnopharmacology and biological activities of the.pdf
+  - Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the.pdf
+  - Luo et al A network pharmacologybased approach to explore t.pdf
+  - Luo et al. - 2022 - A network pharmacology-based approach to explore t 2.pdf
+  - Maphanga et al Mesembryanthemum tortuosum L alkaloids modify anx.pdf
+  - Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anx-1.pdf
+  - Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anx.pdf
+  - Olatunji et al Corrigendum to Sceletium tortuosum A review on i.pdf
+  - Olatunji et al Sceletium tortuosum A review on its phytochemistr.pdf
+  - Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on i-1.pdf
+  - Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on i.pdf
+  - Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistr-1.pdf
+  - Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistr.pdf
+  - Yates - 2023 - Determinants of addiction neurobiological, behavi-1.pdf
+  - Yates - 2023 - Determinants of addiction neurobiological, behavi.pdf
+  - Yates Determinants of addiction neurobiological behavi.pdf
+  - Luo-2022-A network pharmacology-based approach.pdf
+  - Antidepressant Effects of South African Plants.pdf
+  - Antidepressant Effects of South African Plants.pdf
+  - Mesembryanthemum tortuosum L. alkaloids modify.pdf
+  - Corrigendum to “Sceletium tortuosum_ A review.pdf
+  - Sceletium tortuosum_ A review on its phytochem.pdf
+  - Sceletium tortuosum_ A review on its phytochem.pdf
+  - Corrigendum to “Sceletium tortuosum_ A review.pdf
+  - DETERMINANTS OF ADDICTION.pdf
+  - Luo-2022-A network pharmacology-based approach.pdf
+  - Ethnopharmacology and biological activities of.pdf
+  - DETERMINANTS OF ADDICTION.pdf
+  - Mesembryanthemum tortuosum L. alkaloids modify.pdf
+  - Ethnopharmacology and biological activities of.pdf
+  - Antidepressant Effects of South African Plants.pdf
+  - Corrigendum to “Sceletium tortuosum_ A review.pdf
+  - DETERMINANTS OF ADDICTION.pdf
+  - Ethnopharmacology and biological activities of.pdf
+  - Luo-2022-A network pharmacology-based approach.pdf
+  - Mesembryanthemum tortuosum L. alkaloids modify.pdf
+  - Sceletium tortuosum_ A review on its phytochem.pdf
+  - Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac.pdf
+  - Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the Aizoaceae.pdf
+  - Luo et al. - 2022 - A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in.pdf
+  - Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model.pdf
+  - Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological an.pdf
+  - Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and.pdf
+  - Yates - 2023 - Determinants of addiction neurobiological, behavioral, cognitive, and sociocultural factors.pdf
+
+2021 (80 papers)
+--------------------------------------------------------------------------------
+  - An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021-1.pdf
+  - An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021.pdf
+  - Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+  - Avchalumov_Mandyam_2021_Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+  - Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cognitive Impairment A Traditional Herbal Medicine i.pdf
+  - Brendler_2021_Sceletium for Managing Anxiety, Depression and Cognitive Impairment.pdf
+  - Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+  - Kotadiya_In Silico Docking Analysis of Few Antidepressant Phytoconstituents of South.pdf
+  - Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi.pdf
+  - Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum-1.pdf
+  - Namba_2021_Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders.pdf
+  - Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders A Meta-review of M.pdf
+  - Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020-1.pdf
+  - Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E.-1.pdf
+  - Sreekissoon_2021_In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium.pdf
+  - Avchalumov and Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Dr 2.pdf
+  - Avchalumov and Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Dr-1.pdf
+  - Avchalumov and Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Dr.pdf
+  - Avchalumov and Mandyam Plasticity in the Hippocampus Neurogenesis and Dr.pdf
+  - Brendler et al Sceletium for Managing Anxiety Depression and Cog.pdf
+  - Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog 2-1.pdf
+  - Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog 2.pdf
+  - Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog.pdf
+  - Gericke et al An acute doseranging evaluation of the antidepres.pdf
+  - Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepres-1.pdf
+  - Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepres.pdf
+  - Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+  - Kotadiya et al. - In Silico Docking Analysis of Few Antidepressant P.pdf
+  - Manganyi et al A Chewable Cure Kanna Biological and Pharmaceut.pdf
+  - Namba et al Neuroimmune Mechanisms as Novel Treatment Targets.pdf
+  - Sarris et al Plantbased Medicines Phytoceuticals in the Trea.pdf
+  - Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Trea-1.pdf
+  - Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Trea.pdf
+  - Sreekissoon et al In vitro and ex vivo vegetative propagation and cy.pdf
+  - Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cy-1.pdf
+  - Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cy.pdf
+  - Sceletium tortuosum_ A review on its phytochem.pdf
+  - An acute dose-ranging evaluation of the antide.pdf
+  - In Silico Docking Analysis of Few Antidepressa.pdf
+  - Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+  - Brendler-2021-Sceletium for Managing Anxiety.pdf
+  - Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+  - Sceletium tortuosum_ A review on its phytochem.pdf
+  - Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+  - In Silico Docking Analysis of Few Antidepressa.pdf
+  - Plant-based Medicines (Phytoceuticals) in the.pdf
+  - Plant-based Medicines (Phytoceuticals) in the.pdf
+  - An acute dose-ranging evaluation of the antide.pdf
+  - Plasticity in the Hippocampus, Neurogenesis an.pdf
+  - Avchalumov-2021-Plasticity in the Hippocampus.pdf
+  - Brendler-2021-Sceletium for Managing Anxiety.pdf
+  - In vitro and ex vivo vegetative propagation an.pdf
+  - In vitro and ex vivo vegetative propagation an.pdf
+  - Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+  - Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+  - Plasticity in the Hippocampus, Neurogenesis an.pdf
+  - Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+  - Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+  - An acute dose-ranging evaluation of the antide.pdf
+  - Avchalumov-2021-Plasticity in the Hippocampus.pdf
+  - Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+  - Brendler-2021-Sceletium for Managing Anxiety.pdf
+  - In Silico Docking Analysis of Few Antidepressa.pdf
+  - In vitro and ex vivo vegetative propagation an.pdf
+  - Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+  - Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+  - Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+  - Plant-based Medicines (Phytoceuticals) in the.pdf
+  - Plasticity in the Hippocampus, Neurogenesis an.pdf
+  - Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+  - Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cognitive Impairment A Traditional Herbal Medicine i.pdf
+  - Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®).pdf
+  - Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+  - Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi-1.pdf
+  - Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi.pdf
+  - Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum-1.pdf
+  - Namba et al. - 2021 - Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders and Associated Comorbi-1.pdf
+  - Namba_2021_Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders.pdf
+  - Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders A Meta-review of M.pdf
+  - Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E.-1.pdf
+
+2020 (77 papers)
+--------------------------------------------------------------------------------
+  - Akinyede et al. - 2020 - Ethnopharmacology, Therapeutic Properties and Nutritional Potentials of Carpobrotus edulis A Compre.pdf
+  - El-Raouf - 2021 - Taxonomic significance of leaves in family Aizoaceae.pdf
+  - Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020-1.pdf
+  - Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020.pdf
+  - Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020.pdf
+  - Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020-2.pdf
+  - Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020.pdf
+  - Reay et al. - 2020 - Sceletium tortuosum (Zembrin® ) ameliorates experimentally induced anxiety in heal.pdf
+  - Reay_2020_iSceletium tortuosum-i (Zembrin sup®-sup ) ameliorates experimentally.pdf
+  - Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity.pdf
+  - Rombaut_2021_PDE inhibition in distinct cell types to reclaim the balance of synaptic.pdf
+  - Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020-2.pdf
+  - Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020.pdf
+  - Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020-2.pdf
+  - Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020.pdf
+  - Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020-1.pdf
+  - Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020.pdf
+  - Bhat et al Phosphodiesterase enzyme as a therapeutic target.pdf
+  - Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target.pdf
+  - Brunetti et al Pharmacology of Herbal Sexual Enhancers A Review.pdf
+  - Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review  2-1.pdf
+  - Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review  2.pdf
+  - Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review .pdf
+  - Faber et al Variabilities in alkaloid concentration of Sceleti.pdf
+  - Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceleti 2-1.pdf
+  - Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceleti 2.pdf
+  - Hoffman et al Ergogenic Effects of Days of Sceletium Tortuosum.pdf
+  - Hoffman et al. - 2020 - Ergogenic Effects of 8 Days of Sceletium Tortuosum.pdf
+  - Maphanga et al Screening selected medicinal plants for potential.pdf
+  - Maphanga et al. - 2020 - Screening selected medicinal plants for potential -1.pdf
+  - Maphanga et al. - 2020 - Screening selected medicinal plants for potential .pdf
+  - Reay et al Sceletium tortuosum Zembrin.pdf
+  - Reay et al. - 2020 - Sceletium tortuosum (Zembrin ® ) 2-1.pdf
+  - Reay et al. - 2020 - Sceletium tortuosum (Zembrin ® ) 2.pdf
+  - Rombaut et al PDE inhibition in distinct cell types to reclaim t.pdf
+  - Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim t-1.pdf
+  - Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim t.pdf
+  - Wen et al Sceletium Tortuosum Effects on Central Nervous Sy.pdf
+  - Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous Sy-1.pdf
+  - Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous Sy.pdf
+  - PDE inhibition in distinct cell types to recla.pdf
+  - d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+  - Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+  - Faber-2020-Variabilities in alkaloid concentra.pdf
+  - Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+  - Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+  - JPBMS_Pei Yu_06_20_151_160.pdf
+  - Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+  - Faber-2020-Variabilities in alkaloid concentra.pdf
+  - Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+  - Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+  - Reay-2020-Sceletium tortuosum (Zembrin((R)) ).pdf
+  - Sceletium tortuosum (Zembrin((R)) ) ameliorate.pdf
+  - Screening selected medicinal plants for potent.pdf
+  - d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+  - Screening selected medicinal plants for potent.pdf
+  - PDE inhibition in distinct cell types to recla.pdf
+  - Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+  - Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+  - Faber-2020-Variabilities in alkaloid concentra.pdf
+  - JPBMS_Pei Yu_06_20_151_160.pdf
+  - PDE inhibition in distinct cell types to recla.pdf
+  - Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+  - Reay-2020-Sceletium tortuosum (Zembrin((R)) ).pdf
+  - Sceletium tortuosum (Zembrin((R)) ) ameliorate.pdf
+  - Screening selected medicinal plants for potent.pdf
+  - d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+  - Akinyede et al. - 2020 - Ethnopharmacology, Therapeutic Properties and Nutritional Potentials of Carpobrotus edulis A Compre.pdf
+  - Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders-1.pdf
+  - Brunetti_2020_Pharmacology of Herbal Sexual Enhancers.pdf
+  - El-Raouf - 2021 - Taxonomic significance of leaves in family Aizoaceae.pdf
+  - Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different.pdf
+  - Hoffman et al. - 2020 - Ergogenic Effects of 8 Days of Sceletium Tortuosum Supplementation on Mood, Visual Tracking, and Rea.pdf
+  - Maphanga et al. - 2020 - Screening selected medicinal plants for potential anxiolytic activity using an in vivo zebrafish mod.pdf
+  - Reay et al. - 2020 - Sceletium tortuosum (Zembrin® ) ameliorates experimentally induced anxiety in heal.pdf
+  - Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity.pdf
+  - Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous System and Related Disease-1.pdf
+
+2019 (80 papers)
+--------------------------------------------------------------------------------
+  - A Phytochemical and Biological Review on Plants ofJournal of Advanced Pharmacy RYoussifEtAl2019.pdf
+  - Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019-2.pdf
+  - Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019.pdf
+  - Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid.pdf
+  - Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)-1.pdf
+  - Neuroimmune mechanisms of psychostimulant and opioEuropean Journal of NeuroscienHoffordEtAl2019.pdf
+  - Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma.pdf
+  - Terburg_2013_Acute effects of Sceletium tortuosum (Zembrin), a dual 5-HT reuptake and PDE4.pdf
+  - To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019-1.pdf
+  - To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019.pdf
+  - Van Wyk et Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about.pdf
+  - Van Wyk_Moteetee_2019_Ethnobotanical research in sub-Saharan Africa – documenting and analysing.pdf
+  - Chen and Viljoen - 2019 - To ferment or not to ferment Sceletium tortuosum –-1.pdf
+  - Chen and Viljoen - 2019 - To ferment or not to ferment Sceletium tortuosum –.pdf
+  - Chen and Viljoen To ferment or not to ferment Sceletium tortuosum.pdf
+  - Druart and Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disord 2.pdf
+  - Druart and Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disord-1.pdf
+  - Druart and Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disord-2.pdf
+  - Druart and Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disord.pdf
+  - Druart and Le Magueresse Emerging Roles of Complement in Psychiatric Disord.pdf
+  - Hofford et al Neuroimmune mechanisms of psychostimulant and opio.pdf
+  - Hofford et al. - 2019 - Neuroimmune mechanisms of psychostimulant and opio 2.pdf
+  - Makolo et al Mesembrine The archetypal psychoactive Sceletium.pdf
+  - Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium-1.pdf
+  - Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium.pdf
+  - Manganyi et al Antibacterial activity of endophytic fungi isolate.pdf
+  - Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolate-1.pdf
+  - Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolate.pdf
+  - Terburg et al Acute effects of Sceletium tortuosum Zembrin a.pdf
+  - Terburg et al. - 2013 - Acute effects of Sceletium tortuosum (Zembrin), a -1.pdf
+  - Terburg et al. - 2013 - Acute effects of Sceletium tortuosum (Zembrin), a .pdf
+  - Van Wyk and Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – do-1.pdf
+  - Van Wyk and Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – do.pdf
+  - Van Wyk and Moteetee Ethnobotanical research in subSaharan Africa.pdf
+  - Yin&al 2019.pdf
+  - Neuroimmune mechanisms of psychostimulant and.pdf
+  - Emerging Roles of Complement in Psychiatric D1.pdf
+  - To ferment or not to ferment Sceletium tortuos.pdf
+  - Neurocircuitry of Addiction.pdf
+  - 3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - Manganyi-2019-Antibacterial activity of endoph.pdf
+  - Terburg-2013-Acute effects of Sceletium tortuo.pdf
+  - Ethnobotanical research in sub-Saharan Africa.pdf
+  - Manganyi-2019-Antibacterial activity of endoph.pdf
+  - Emerging Roles of Complement in Psychiatric D1.pdf
+  - Neuroimmune mechanisms of psychostimulant and.pdf
+  - To ferment or not to ferment Sceletium tortuos.pdf
+  - Emerging Roles of Complement in Psychiatric Di.pdf
+  - 3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - Ethnobotanical research in sub-Saharan Africa.pdf
+  - Neurocircuitry of Addiction.pdf
+  - Emerging Roles of Complement in Psychiatric Di.pdf
+  - 3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - Neurocircuitry of Addiction.pdf
+  - 3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - Terburg-2013-Acute effects of Sceletium tortuo.pdf
+  - Neurocircuitry of Addiction.pdf
+  - Neuroimmune mechanisms of psychostimulant and1.pdf
+  - 3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - Mesembrine_ The archetypal psycho-active Scele.pdf
+  - Neuroimmune mechanisms of psychostimulant and1.pdf
+  - Mesembrine_ The archetypal psycho-active Scele.pdf
+  - Emerging Roles of Complement in Psychiatric D1.pdf
+  - Emerging Roles of Complement in Psychiatric Di.pdf
+  - Ethnobotanical research in sub-Saharan Africa.pdf
+  - Manganyi-2019-Antibacterial activity of endoph.pdf
+  - Mesembrine_ The archetypal psycho-active Scele.pdf
+  - Neurocircuitry of Addiction.pdf
+  - Neuroimmune mechanisms of psychostimulant and.pdf
+  - Neuroimmune mechanisms of psychostimulant and1.pdf
+  - Terburg-2013-Acute effects of Sceletium tortuo.pdf
+  - To ferment or not to ferment Sceletium tortuos.pdf
+  - Chen et Viljoen - 2019 - To ferment or not to ferment Sceletium tortuosum – Do our ancestors hold the answer.pdf
+  - Druart et Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disorders-1.pdf
+  - Hofford et al. - 2019 - Neuroimmune mechanisms of psychostimulant and opioid use disorders.pdf
+  - Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid.pdf
+  - Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)-1.pdf
+  - Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma.pdf
+  - Van Wyk et Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about.pdf
+  - Youssif et al. - 2019 - A Phytochemical and Biological Review on Plants of The family Aizoaceae.pdf
+
+2018 (66 papers)
+--------------------------------------------------------------------------------
+  - 2018 - Ethnopharmacologic search for psychoactive drugs 50 years of research 1967-2017.pdf
+  - Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018-1.pdf
+  - Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018.pdf
+  - Gericke_2018_Kabbo’s.pdf
+  - Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018.pdf
+  - Koob et Volkow - 2016 - Neurobiology of addiction a neurocircuitry analysis.pdf
+  - Koob_Volkow_2016_Neurobiology of addiction.pdf
+  - Nordling_2018_How decolonization could reshape South African science.pdf
+  - SOUTH  AFRICAN  SCIENCE  FACES  ITS  FUTURE.pdf
+  - Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018-2.pdf
+  - Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018.pdf
+  - Zembe-Mkabile_SAMANTHA REINDERS FOR NATURE.pdf
+  - Bennett and Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (T.pdf
+  - Bennett and Smith Immunomodulatory effects of Sceletium tortuosum T.pdf
+  - Bennett et al Sceletium tortuosum may delay chronic disease prog.pdf
+  - Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease prog.pdf
+  - Dimpfel et al Effect of Zembrin and four of its alkaloid const.pdf
+  - Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid const-1.pdf
+  - Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid const.pdf
+  - Kabbos Kwain The Past Present and Possible.pdf
+  - Kabbo’s !Kwaiń_ The Past, Present and Possible-1.pdf
+  - Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+  - Koob and Volkow - 2016 - Neurobiology of addiction a neurocircuitry analys 2.pdf
+  - Koob and Volkow - 2016 - Neurobiology of addiction a neurocircuitry analys-1.pdf
+  - Koob and Volkow - 2016 - Neurobiology of addiction a neurocircuitry analys.pdf
+  - Koob and Volkow Neurobiology of addiction a neurocircuitry analys.pdf
+  - Nordling - 2018 - How decolonization could reshape South African sci-1.pdf
+  - Nordling - 2018 - How decolonization could reshape South African sci.pdf
+  - Nordling How decolonization could reshape South African sci.pdf
+  - Zembe-Mkabile - SAMANTHA REINDERS FOR NATURE-1.pdf
+  - Zembe-Mkabile - SAMANTHA REINDERS FOR NATURE.pdf
+  - ZembeMkabile SAMANTHA REINDERS FOR NATURE.pdf
+  - Echinocystis lobata 37 réf SciFInder au 2018 12 03.pdf
+  - Manganyi&al 2018.pdf
+  - Ranunculus sceleratus 110 réf dont 6 de Medline seul et 5 communes Sci FInder au 2018 12 03.pdf
+  - Ranunculus sceleratus 128 brevets SciFinder au 2018 12 03.pdf
+  - Sandasi&al 2018.pdf
+  - Sceletium tortuosum 44 réf SciFinder au 2018 12 03.pdf
+  - Veale,&al 2018.pdf
+  - nordling2018.pdf
+  - Zembrim 4 Alcaloids.pdf
+  - Immunomodulatory effects of Sceletium tortuosu.pdf
+  - Neurobiology of addiction_ a neurocircuitry an.pdf
+  - Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+  - 7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+  - Zembrim 4 Alcaloids.pdf
+  - Neurobiology of addiction_ a neurocircuitry an.pdf
+  - Immunomodulatory effects of Sceletium tortuosu.pdf
+  - 7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+  - Sceletium tortuosum may delay chronic disease.pdf
+  - nordling2018.pdf
+  - Sceletium tortuosum may delay chronic disease.pdf
+  - Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+  - 7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+  - Immunomodulatory effects of Sceletium tortuosu.pdf
+  - Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+  - Neurobiology of addiction_ a neurocircuitry an.pdf
+  - Sceletium tortuosum may delay chronic disease.pdf
+  - Zembrim 4 Alcaloids.pdf
+  - nordling2018.pdf
+  - 2018 - Ethnopharmacologic search for psychoactive drugs 50 years of research 1967-2017.pdf
+  - Bennett et Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro  Implications fo.pdf
+  - Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti-1.pdf
+  - Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid constituents on electric excitability of the rat hippoc.pdf
+  - Koob et Volkow - 2016 - Neurobiology of addiction a neurocircuitry analysis.pdf
+  - Nordling_2018.pdf
+
+2017 (43 papers)
+--------------------------------------------------------------------------------
+  - Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets for Drugs with Antidepressant and Memory-Enhancin.pdf
+  - Bolger_2017_The PDE4 cAMP-Specific Phosphodiesterases.pdf
+  - Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae).pdf
+  - Klak_2017_Out of southern Africa.pdf
+  - Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+  - Lewis_2017_Addiction and the Brain.pdf
+  - Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS Application to a.pdf
+  - Manda_2017_Quantification of mesembrine and mesembrenone in mouse plasma using.pdf
+  - Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities-1.pdf
+  - Olsen_Liu_2016_Phosphodiesterase 4 inhibitors and drugs of abuse.pdf
+  - Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets.pdf
+  - Bolger The PDE cAMPSpecific Phosphodiesterases Targets.pdf
+  - Klak et al Out of southern Africa Origin biogeography and a.pdf
+  - Klak et al. - 2017 - Out of southern Africa Origin, biogeography and a.pdf
+  - Lewis - 2017 - Addiction and the Brain Development, Not Disease-1.pdf
+  - Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+  - Lewis Addiction and the Brain Development Not Disease.pdf
+  - Manda et al Quantification of mesembrine and mesembrenone in m.pdf
+  - Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in m-1.pdf
+  - Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in m.pdf
+  - Olsen and Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse-1.pdf
+  - Olsen and Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse.pdf
+  - Olsen and Liu Phosphodiesterase inhibitors and drugs of abuse.pdf
+  - Quantification of mesembrine and mesembrenone.pdf
+  - Quantification of mesembrine and mesembrenone.pdf
+  - Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+  - Out of southern Africa_ Origin, biogeography a.pdf
+  - The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+  - Addiction and the Brain_ Development, Not Dise.pdf
+  - Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+  - Addiction and the Brain_ Development, Not Dise.pdf
+  - Out of southern Africa_ Origin, biogeography a.pdf
+  - The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+  - Addiction and the Brain_ Development, Not Dise.pdf
+  - Out of southern Africa_ Origin, biogeography a.pdf
+  - Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+  - Quantification of mesembrine and mesembrenone.pdf
+  - The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+  - Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets for Drugs with Antidepressant and Memory-Enhancin.pdf
+  - Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae).pdf
+  - Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+  - Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS Application to a.pdf
+  - Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities-1.pdf
+
+2016 (64 papers)
+--------------------------------------------------------------------------------
+  - Chris Low_Wind, Life, Health Anthropological and Historical.pdf
+  - Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.pdf
+  - Kapewangolo_2016_Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging.pdf
+  - Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, chemistry, and pharmacology.pdf
+  - Krstenansky_2017_Mesembrine alkaloids.pdf
+  - Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+  - Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+  - Low_2007_Khoisan Wind.pdf
+  - Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016-1.pdf
+  - Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016.pdf
+  - Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-2.pdf
+  - Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016-1.pdf
+  - Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016.pdf
+  - Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016-1.pdf
+  - Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016.pdf
+  - Chris Low - Wind, Life, Health Anthropological and Historical-1.pdf
+  - Chris Low - Wind, Life, Health Anthropological and Historical.pdf
+  - Chris Low Wind Life Health Anthropological and Historical.pdf
+  - Dimpfel et al 2016 Psychophysiological Effects of Zembrinltsupgt 3.pdf
+  - Dimpfel et al Psychophysiological Effects of Zembrinltsupgt.pdf
+  - Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;& 3-1.pdf
+  - Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;& 3.pdf
+  - Fajemiroye et al Treatment of anxiety and depression medicinal pla.pdf
+  - Fajemiroye et al. - 2016 - Treatment of anxiety and depression medicinal pla-1.pdf
+  - Fajemiroye et al. - 2016 - Treatment of anxiety and depression medicinal pla.pdf
+  - Kapewangolo et al Sceletium tortuosum demonstrates in vitro antiHIV.pdf
+  - Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV.pdf
+  - Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, .pdf
+  - Krstenansky Mesembrine alkaloids Review of their occurrence.pdf
+  - Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+  - Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+  - Low Khoisan Wind Hunting and Healing.pdf
+  - Morris - 2016 - Royal pharmaceuticals Bioprospecting, rights, and-1.pdf
+  - Morris - 2016 - Royal pharmaceuticals Bioprospecting, rights, and.pdf
+  - Morris Royal pharmaceuticals Bioprospecting rights and.pdf
+  - Psychophysiological Effects of Zembrin&amp;lt;.pdf
+  - Sceletium tortuosum demonstrates in vitro anti.pdf
+  - Mesembrine alkaloids_ Review of their occurren.pdf
+  - Royal pharmaceuticals_ Bioprospecting, rights.pdf
+  - 18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+  - 18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+  - Treatment of anxiety and depression_ medicinal.pdf
+  - Wind, Life, Health Anthropological and Histori.pdf
+  - Wind, Life, Health Anthropological and Histori.pdf
+  - Sceletium tortuosum demonstrates in vitro anti.pdf
+  - Treatment of anxiety and depression_ medicinal.pdf
+  - Psychophysiological Effects of Zembrin&amp;lt;.pdf
+  - Mesembrine alkaloids_ Review of their occurren.pdf
+  - 18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+  - Royal pharmaceuticals_ Bioprospecting, rights.pdf
+  - Mesembrine alkaloids_ Review of their occurren.pdf
+  - Psychophysiological Effects of Zembrin&amp;lt;.pdf
+  - Royal pharmaceuticals_ Bioprospecting, rights.pdf
+  - Sceletium tortuosum demonstrates in vitro anti.pdf
+  - Treatment of anxiety and depression_ medicinal.pdf
+  - Wind, Life, Health Anthropological and Histori.pdf
+  - Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den-1.pdf
+  - Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den.pdf
+  - Fajemiroye et al. - 2016 - Treatment of anxiety and depression medicinal plants in retrospect.pdf
+  - Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.pdf
+  - Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, chemistry, and pharmacology.pdf
+  - Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+  - Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+  - Morris - 2016 - Royal pharmaceuticals Bioprospecting, rights, and traditional authority in South Africa.pdf
+
+2015 (72 papers)
+--------------------------------------------------------------------------------
+  - Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016.pdf
+  - Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015-1.pdf
+  - Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015.pdf
+  - High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016-1.pdf
+  - High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016.pdf
+  - Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+  - Pickard_2015_Alternative Models of Addiction.pdf
+  - Proof-of-Concept Randomized Controlled Study of CoEvidence-Based Complementary aChiuEtAl2014.pdf
+  - Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry-1.pdf
+  - Schifano_2015_Novel psychoactive substances of interest for psychiatry.pdf
+  - The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-1.pdf
+  - The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-2.pdf
+  - The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-3.pdf
+  - The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf
+  - Chiu and Raheb - 2015 - Exploring Zembrin Extract Derived from South Afric-1.pdf
+  - Chiu and Raheb - 2015 - Exploring Zembrin Extract Derived from South Afric.pdf
+  - Chiu and Raheb Exploring Zembrin Extract Derived from South Afric.pdf
+  - Chiu et al ProofofConcept Randomized Controlled Study of Co.pdf
+  - Chiu et al. - 2014 - Proof-of-Concept Randomized Controlled Study of Co-1.pdf
+  - Chiu et al. - 2014 - Proof-of-Concept Randomized Controlled Study of Co.pdf
+  - Coetzee et al Highmesembrine Sceletium extract Trimesemine.pdf
+  - Coetzee et al. - 2016 - High-mesembrine Sceletium extract (Trimesemine™) i-1.pdf
+  - Coetzee et al. - 2016 - High-mesembrine Sceletium extract (Trimesemine™) i.pdf
+  - Dimpfel et al Electropharmacogram of Sceletium tortuosum extract.pdf
+  - Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract 2.pdf
+  - Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract-1.pdf
+  - Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract.pdf
+  - Pickard et al Alternative Models of Addiction.pdf
+  - Pickard et al. - 2015 - Alternative Models of Addiction-1.pdf
+  - Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+  - Schifano et al Novel psychoactive substances of interest for psyc.pdf
+  - Schifano et al. - 2015 - Novel psychoactive substances of interest for psyc 2.pdf
+  - Schifano et al. - 2015 - Novel psychoactive substances of interest for psyc-1.pdf
+  - Schifano et al. - 2015 - Novel psychoactive substances of interest for psyc.pdf
+  - Wen et al The Phosphodiesterase span stylefontvarian.pdf
+  - Exploring Zembrin Extract Derived from South A.pdf
+  - Modulation of glucocorticoid, mineralocorticoi.pdf
+  - Modulation of glucocorticoid, mineralocorticoi.pdf
+  - Schifano-2015-Novel psychoactive substances of.pdf
+  - Alternative Models of Addiction.pdf
+  - High-mesembrine Sceletium extract (Trimesemine.pdf
+  - 133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+  - 133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+  - 2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+  - The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+  - Electropharmacogram of Sceletium tortuosum ext.pdf
+  - Alternative Models of Addiction.pdf
+  - Exploring Zembrin Extract Derived from South A.pdf
+  - High-mesembrine Sceletium extract (Trimesemine.pdf
+  - Proof-of-Concept Randomized Controlled Study o.pdf
+  - 2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+  - 133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+  - Proof-of-Concept Randomized Controlled Study o.pdf
+  - Schifano-2015-Novel psychoactive substances of.pdf
+  - 2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+  - Electropharmacogram of Sceletium tortuosum ext.pdf
+  - The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+  - Alternative Models of Addiction.pdf
+  - Electropharmacogram of Sceletium tortuosum ext.pdf
+  - Exploring Zembrin Extract Derived from South A.pdf
+  - High-mesembrine Sceletium extract (Trimesemine.pdf
+  - Modulation of glucocorticoid, mineralocorticoi.pdf
+  - Proof-of-Concept Randomized Controlled Study o.pdf
+  - Schifano-2015-Novel psychoactive substances of.pdf
+  - The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+  - Chiu et Raheb - 2015 - Exploring Zembrin Extract Derived from South African Plant, Sceletium tortuosum in Targeting cAMP-dr.pdf
+  - Chiu et al. - 2014 - Proof‐of‐Concept Randomized Controlled Study of Cognition Effects of the Proprietary Extract Scel.pdf
+  - Coetzee et al. - 2016 - High-mesembrine Sceletium extract (Trimesemine™) is a monoamine releasing agent, rather than only a.pdf
+  - Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious.pdf
+  - Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+  - Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry-1.pdf
+  - Wen et al. - 2012 - The Phosphodiesterase‐4 ( PDE 4) Inhibitor Rolipram De.pdf
+
+2014 (33 papers)
+--------------------------------------------------------------------------------
+  - Güldemann et Fehn - 2014 - Beyond Khoisan historical relations in the Kalahari basin.pdf
+  - Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection-1.pdf
+  - Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection.pdf
+  - Meyer_2015_GC-MS, LC-MS(n), LC-high resolution-MS(n), and NMR studies on the metabolism.pdf
+  - Murbach et al. - 2014 - A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin(R)) in r.pdf
+  - Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014.pdf
+  - Swart_Smith_2016_Modulation of glucocorticoid, mineralocorticoid and androgen production in H295.pdf
+  - Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobota.pdf
+  - JeanFrancois Psychoactive Plants A Neglected Area of Ethnobota.pdf
+  - Meyer et al GCMS LCMSn LChigh resolutionMSn and NMR stu.pdf
+  - Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR stu-1.pdf
+  - Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR stu.pdf
+  - Murbach et al A toxicological safety assessment of a standardize.pdf
+  - Murbach et al. - 2014 - A toxicological safety assessment of a standardize-1.pdf
+  - Murbach et al. - 2014 - A toxicological safety assessment of a standardize.pdf
+  - Swart and Smith - 2016 - Modulation of glucocorticoid, mineralocorticoid an-1.pdf
+  - Swart and Smith - 2016 - Modulation of glucocorticoid, mineralocorticoid an.pdf
+  - Swart and Smith Modulation of glucocorticoid mineralocorticoid an.pdf
+  - A toxicological safety assessment of a standar.pdf
+  - GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+  - Psychoactive Plants_ A Neglected Area of Ethno.pdf
+  - GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+  - Psychoactive Plants_ A Neglected Area of Ethno.pdf
+  - A toxicological safety assessment of a standar.pdf
+  - A toxicological safety assessment of a standar.pdf
+  - GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+  - Psychoactive Plants_ A Neglected Area of Ethno.pdf
+  - Güldemann et Fehn - 2014 - Beyond Khoisan historical relations in the Kalahari basin.pdf
+  - Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobotanical Research in Southern Africa (Review).pdf
+  - Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection-1.pdf
+  - Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection.pdf
+  - Murbach et al. - 2014 - A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin®) in rat.pdf
+  - Murbach_2014_A toxicological safety assessment of a standardized extract of Sceletium.pdf
+
+2013 (52 papers)
+--------------------------------------------------------------------------------
+  - Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos-1.pdf
+  - Patnala et Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf
+  - Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-1.pdf
+  - Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-3.pdf
+  - Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf
+  - Torregrossa et Taylor - 2013 - Learning to forget manipulating extinction and reconsolidation processes to treat addiction.pdf
+  - Torregrossa_Taylor_2013_Learning to forget.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea-1.pdf
+  - Valente_2014_Correlates of hyperdiversity in southern African ice plants (Aizoaceae).pdf
+  - Nell et al A Randomized DoubleBlind ParallelGroup Placeb.pdf
+  - Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placeb-1.pdf
+  - Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placeb.pdf
+  - Patnala and Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloid-1.pdf
+  - Patnala and Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloid-2.pdf
+  - Patnala and Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloid.pdf
+  - Patnala and Kanfer Chemotaxonomic studies of mesembrinetype alkaloid.pdf
+  - Prasad et al Role of Traditional and Alternative Medicine in Tr.pdf
+  - Torregrossa and Taylor - 2013 - Learning to forget manipulating extinction and re 2-1.pdf
+  - Torregrossa and Taylor - 2013 - Learning to forget manipulating extinction and re 2.pdf
+  - Torregrossa and Taylor Learning to forget manipulating extinction and re.pdf
+  - Valente et al Correlates of hyperdiversity in southern African i.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African i 2-1.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African i 2.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African i 3.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African i.pdf
+  - A randomized, double-blind, parallel-group, pl.pdf
+  - Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+  - A randomized, double-blind, parallel-group, pl.pdf
+  - UCreview.pdf
+  - boj12117.pdf
+  - Learning to forget_ manipulating extinction an.pdf
+  - Valente-2014-Correlates of hyperdiversity in s.pdf
+  - Valente-2014-Correlates of hyperdiversity in s.pdf
+  - Prasad-2013-Role of Traditional and Alternativ.pdf
+  - Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+  - e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+  - Learning to forget_ manipulating extinction an.pdf
+  - e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+  - boj12117.pdf
+  - A randomized, double-blind, parallel-group, pl.pdf
+  - Learning to forget_ manipulating extinction an.pdf
+  - Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+  - Prasad-2013-Role of Traditional and Alternativ.pdf
+  - UCreview.pdf
+  - Valente-2014-Correlates of hyperdiversity in s.pdf
+  - boj12117.pdf
+  - e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+  - Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos-1.pdf
+  - Patnala et Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf
+  - Prasad et al. - 2013 - Role of Traditional and Alternative Medicine in Treatment of Ulcerative Colitis.pdf
+  - Torregrossa et Taylor - 2013 - Learning to forget manipulating extinction and reconsolidation processes to treat addiction.pdf
+  - Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea-1.pdf
+
+2012 (18 papers)
+--------------------------------------------------------------------------------
+  - Shikanga et al. - 2012 - In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Bu.pdf
+  - Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations.pdf
+  - Shikanga_2011_In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across.pdf
+  - Shikanga_2012_The chemotypic variation of Sceletium tortuosum alkaloids and commercial.pdf
+  - Low - 2007 - Different Histories of Buchu Euro-American Approp-2.pdf
+  - Low - 2007 - Different Histories of Buchu Euro-American Approp.pdf
+  - Shikanga et al In Vitro Permeation of Mesembrine Alkaloids.pdf
+  - Shikanga et al The chemotypic variation of Sceletium tortuosum al.pdf
+  - Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum al-1.pdf
+  - Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum al.pdf
+  - In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+  - The chemotypic variation of Sceletium tortuosu.pdf
+  - The chemotypic variation of Sceletium tortuosu.pdf
+  - In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+  - In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+  - The chemotypic variation of Sceletium tortuosu.pdf
+  - Shikanga et al. - 2012 - In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Bu.pdf
+  - Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations.pdf
+
+2011 (34 papers)
+--------------------------------------------------------------------------------
+  - Alvaro Viljoen_2023_The South African Herbal Pharmacopoeia.pdf
+  - Leonti - 2011 - The future is written Impact of scripts on the cognition, selection, knowledge and transmission of.pdf
+  - Leonti_2011_The future is written.pdf
+  - Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011-1.pdf
+  - Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011.pdf
+  - Van Wyk - 2011 - The potential of South African plants in the development of new medicinal products.pdf
+  - Van Wyk_2011_The potential of South African plants in the development of new medicinal.pdf
+  - Alvaro Viljoen - 2023 - The South African Herbal Pharmacopoeia. Monographs.pdf
+  - Alvaro Viljoen The South African Herbal Pharmacopoeia Monographs.pdf
+  - Harvey et al Pharmacological actions of the South African medic.pdf
+  - Harvey et al. - 2011 - Pharmacological actions of the South African medic.pdf
+  - Leonti - 2011 - The future is written Impact of scripts on the co.pdf
+  - Leonti The future is written Impact of scripts on the co.pdf
+  - Van Wyk - 2011 - The potential of South African plants in the devel-1.pdf
+  - Van Wyk - 2011 - The potential of South African plants in the devel.pdf
+  - Van Wyk The potential of South African plants in the devel.pdf
+  - Viljoen - The South African Herbal Pharmacopoeia Monographs-1.pdf
+  - Viljoen - The South African Herbal Pharmacopoeia Monographs.pdf
+  - Viljoen The South African Herbal Pharmacopoeia Monographs.pdf
+  - The potential of South African plants in the d.pdf
+  - Pharmacological actions of the South African m.pdf
+  - Pharmacological actions of the South African m.pdf
+  - Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+  - Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+  - The potential of South African plants in the d.pdf
+  - The future is written_ Impact of scripts on th.pdf
+  - The future is written_ Impact of scripts on th.pdf
+  - Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+  - Pharmacological actions of the South African m.pdf
+  - The future is written_ Impact of scripts on th.pdf
+  - The potential of South African plants in the d.pdf
+  - Harvey et al. - 2011 - Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum.pdf
+  - Leonti - 2011 - The future is written Impact of scripts on the cognition, selection, knowledge and transmission of.pdf
+  - Van Wyk - 2011 - The potential of South African plants in the development of new medicinal products.pdf
+
+2010 (29 papers)
+--------------------------------------------------------------------------------
+  - Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona.pdf
+  - Patnala_Kanfer_2010_HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as.pdf
+  - Smith - 2011 - The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf
+  - The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970-1.pdf
+  - The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970.pdf
+  - Patnala and Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Scel-2.pdf
+  - Patnala and Kanfer - 2010 - HPLC analysis of mesembrine-type alkaloids in Scel-1.pdf
+  - Patnala and Kanfer - 2010 - HPLC analysis of mesembrine-type alkaloids in Scel.pdf
+  - Patnala and Kanfer HPLC Analysis of MesembrineType Alkaloids in Scel.pdf
+  - Schultes - 1970 - The Botanical and Chemical Distribution of Halluci-1.pdf
+  - Schultes - 1970 - The Botanical and Chemical Distribution of Halluci.pdf
+  - Schultes The Botanical and Chemical Distribution of Halluci.pdf
+  - Smith - 2011 - The effects of Sceletium tortuosum in an in vivo m-1.pdf
+  - Smith - 2011 - The effects of Sceletium tortuosum in an in vivo m.pdf
+  - Smith The effects of Sceletium tortuosum in an in vivo m.pdf
+  - The effects of Sceletium tortuosum in an in vi.pdf
+  - Journal of HIGH.pdf
+  - Journal of HIGH.pdf
+  - The effects of Sceletium tortuosum in an in vi.pdf
+  - HPLC analysis of mesembrine-type alkaloids in.pdf
+  - HPLC analysis of mesembrine-type alkaloids in.pdf
+  - Journal of HIGH.pdf
+  - HPLC analysis of mesembrine-type alkaloids in.pdf
+  - Journal of HIGH.pdf
+  - Li-2011-Phosphodiesterase-4D knock-out and RNA.pdf
+  - The effects of Sceletium tortuosum in an in vi.pdf
+  - Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona.pdf
+  - Schultes - 1970 - The Botanical and Chemical Distribution of Hallucinogens.pdf
+  - Smith - 2011 - The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf
+
+2009 (2 papers)
+--------------------------------------------------------------------------------
+  - Morris_2009.pdf
+  - Morris_2009.pdf
+
+2008 (60 papers)
+--------------------------------------------------------------------------------
+  - Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions.pdf
+  - Rothman_2008_Dopamine-serotonin releasers as medications for stimulant addictions.pdf
+  - Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008-1.pdf
+  - Spina - 2008 - PDE4 inhibitors current status.pdf
+  - Spina_2008_PDE4 inhibitors.pdf
+  - Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases-1.pdf
+  - Stafford_2008_Review on plants with CNS-effects used in traditional South African medicine.pdf
+  - Van Wyk - 2008 - A broad review of commercially important southern African medicinal plants.pdf
+  - Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+  - Van Wyk_2008_A broad review of commercially important southern African medicinal plants.pdf
+  - Van Wyk_2008_A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+  - Gericke and Viljoen - 2008 - Sceletium—A review update 2-1.pdf
+  - Gericke and Viljoen - 2008 - Sceletium—A review update 2.pdf
+  - Gericke and Viljoen SceletiumA review update.pdf
+  - Rothman et al Dopamineserotonin releasers as medications for st.pdf
+  - Rothman et al. - 2008 - Dopamineserotonin releasers as medications for st-1.pdf
+  - Rothman et al. - 2008 - Dopamineserotonin releasers as medications for st.pdf
+  - Spina - 2008 - PDE4 inhibitors current status 2-1.pdf
+  - Spina - 2008 - PDE4 inhibitors current status 2.pdf
+  - Spina PDE inhibitors current status.pdf
+  - Stafford et al Review on plants with CNSeffects used in traditio.pdf
+  - Stafford et al. - 2008 - Review on plants with CNS-effects used in traditio-1.pdf
+  - Stafford et al. - 2008 - Review on plants with CNS-effects used in traditio.pdf
+  - Van Wyk - 2008 - A broad review of commercially important southern -1.pdf
+  - Van Wyk - 2008 - A broad review of commercially important southern .pdf
+  - Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnob-1.pdf
+  - Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnob.pdf
+  - Van Wyk A broad review of commercially important southern.pdf
+  - Van Wyk A review of KhoiSan and Cape Dutch medical ethnob.pdf
+  - Gericke 2008.pdf
+  - 2008GerickeViljoenSceletiumreview1.pdf
+  - A broad review of commercially important south.pdf
+  - A review of Khoi-San and Cape Dutch medical et.pdf
+  - Review on plants with CNS-effects used in trad.pdf
+  - PDE4 inhibitors_ current status.pdf
+  - 2008GerickeViljoenSceletiumreview.pdf
+  - A review of Khoi-San and Cape Dutch medical et.pdf
+  - Dopamine_serotonin releasers as medications fo.pdf
+  - 3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+  - 2008GerickeViljoenSceletiumreview.pdf
+  - 2008GerickeViljoenSceletiumreview1.pdf
+  - 2008GerickeViljoenSceletiumreview1.pdf
+  - 2008GerickeViljoenSceletiumreview.pdf
+  - Review on plants with CNS-effects used in trad.pdf
+  - 3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+  - Dopamine_serotonin releasers as medications fo.pdf
+  - 3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+  - A broad review of commercially important south.pdf
+  - PDE4 inhibitors_ current status.pdf
+  - A broad review of commercially important south.pdf
+  - A review of Khoi-San and Cape Dutch medical et.pdf
+  - Dopamine_serotonin releasers as medications fo.pdf
+  - PDE4 inhibitors_ current status.pdf
+  - Review on plants with CNS-effects used in trad.pdf
+  - Gericke et Viljoen - 2008 - Sceletium—A review update-1.pdf
+  - Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions-1.pdf
+  - Spina - 2008 - PDE4 inhibitors current status.pdf
+  - Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases-1.pdf
+  - Van Wyk - 2008 - A broad review of commercially important southern African medicinal plants.pdf
+  - Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+
+2007 (9 papers)
+--------------------------------------------------------------------------------
+  - Low_2007_Different Histories of Buchu.pdf
+  - Martorell et Ezcurra - 2007 - The narrow-leaf syndrome a functional and evolutionary approach to the form of fog-harvesting roset.pdf
+  - Low - 2007 - Different Histories of Buchu Euro-American Approp-1.pdf
+  - Low - 2007 - Different Histories of Buchu Euro-American Approp-3.pdf
+  - Low Different Histories of Buchu EuroAmerican Approp.pdf
+  - low2007.pdf
+  - low2007.pdf
+  - low2007.pdf
+  - Martorell et Ezcurra - 2007 - The narrow-leaf syndrome a functional and evolutionary approach to the form of fog-harvesting roset.pdf
+
+2005 (8 papers)
+--------------------------------------------------------------------------------
+  - Self-Medication and the Trade in Medicine within aSocial History of MedicineDigby2005.pdf
+  - Digby - 2005 - Self-Medication and the Trade in Medicine within a-1.pdf
+  - Digby - 2005 - Self-Medication and the Trade in Medicine within a.pdf
+  - Digby SelfMedication and the Trade in Medicine within a.pdf
+  - Self-Medication and the Trade in Medicine with.pdf
+  - Self-Medication and the Trade in Medicine with.pdf
+  - Self-Medication and the Trade in Medicine with.pdf
+  - Digby - 2005 - Self-Medication and the Trade in Medicine within a Multi-Ethnic Context A Case Study of South Afric.pdf
+
+2004 (18 papers)
+--------------------------------------------------------------------------------
+  - Bank_2004_1.pdf
+  - Modise_2018_Strengthening indigenous governance, benefit sharing and capacity building for.pdf
+  - O'Donnell et Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+  - O'Donnell_Zhang_2004_Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+  - O'Donnell and Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosp-1.pdf
+  - O'Donnell and Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosp.pdf
+  - ODonnell and Zhang Antidepressant effects of inhibitors of cAMP phosp.pdf
+  - Strengthening indigenous governance benefit s.pdf
+  - Strengthening indigenous governance, benefit s-1.pdf
+  - Strengthening indigenous governance, benefit s.pdf
+  - Strengthening indigenous governance, benefit s.pdf
+  - Antidepressant effects of inhibitors of cAMP p.pdf
+  - Strengthening indigenous governance, benefit s.pdf
+  - Antidepressant effects of inhibitors of cAMP p.pdf
+  - Antidepressant effects of inhibitors of cAMP p.pdf
+  - Strengthening indigenous governance, benefit s.pdf
+  - Bank_2004_1.pdf
+  - O'Donnell et Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+
+2003 (19 papers)
+--------------------------------------------------------------------------------
+  - Capps et al. - 1977 - 1098 J.C.S. Perkin II Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Me.pdf
+  - Capps_1977_Sceletium alkaloids.pdf
+  - Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996-1.pdf
+  - Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996.pdf
+  - Capps et al Sceletium alkaloids Part Structure and absolut.pdf
+  - Capps et al. - 1977 - Sceletium alkaloids. Part 7. Structure and absolut-1.pdf
+  - Capps et al. - 1977 - Sceletium alkaloids. Part 7. Structure and absolut.pdf
+  - De Smet - 1996 - Some ethnopharmacological notes on African halluci-1.pdf
+  - De Smet - 1996 - Some ethnopharmacological notes on African halluci.pdf
+  - De Smet Some ethnopharmacological notes on African halluci.pdf
+  - Some ethnopharmacological notes on African hal.pdf
+  - Some ethnopharmacological notes on African hal.pdf
+  - 1098 J.C.S. Perkin I1.pdf
+  - Some ethnopharmacological notes on African hal.pdf
+  - 1098 J.C.S. Perkin I1.pdf
+  - 1098 J.C.S. Perkin I1.pdf
+  - Some ethnopharmacological notes on African hal.pdf
+  - Capps et al. - 1977 - 1098 J.C.S. Perkin II Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Me.pdf
+  - De Smet - 1996 - Some ethnopharmacological notes on African hallucinogens.pdf
+
+2000 (2 papers)
+--------------------------------------------------------------------------------
+  - HARTMANN_2000.pdf
+  - HARTMANN_2000.pdf

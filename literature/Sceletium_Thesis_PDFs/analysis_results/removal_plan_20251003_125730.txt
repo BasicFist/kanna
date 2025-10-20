@@ -1,0 +1,4538 @@
+================================================================================
+SMART DEDUPLICATION REMOVAL PLAN
+Generated: 2025-10-03T12:57:30.212514
+================================================================================
+
+Total files to remove: 565
+Total space to save: 0.0 B
+
+BREAKDOWN BY SOURCE DIRECTORY
+--------------------------------------------------------------------------------
+DRAFTSS_Working                   223 files       0.0 B
+Other_Collections                  98 files       0.0 B
+THESE_Main_Library                240 files       0.0 B
+ZOTPDF_References                   4 files       0.0 B
+
+DETAILED REMOVAL PLAN
+================================================================================
+
+
+FILE #1
+Remove:      THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and1.pdf
+Keep:        THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #2
+Remove:      THESE_Main_Library/0011257478/Neuroimmune mechanisms of psychostimulant and.pdf
+Keep:        THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #3
+Remove:      THESE_Main_Library/1595173392/Neuroimmune mechanisms of psychostimulant and.pdf
+Keep:        THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #4
+Remove:      THESE_Main_Library/3747073341/Neuroimmune mechanisms of psychostimulant and1.pdf
+Keep:        THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #5
+Remove:      THESE_Main_Library/4159203872/Neuroimmune mechanisms of psychostimulant and1.pdf
+Keep:        THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #6
+Remove:      THESE_Main_Library/3190254737/Sceletium tortuosum_ A review on its phytochem.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum_ A review on its phytochem.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #7
+Remove:      THESE_Main_Library/3297879003/Sceletium tortuosum_ A review on its phytochem.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum_ A review on its phytochem.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #8
+Remove:      DRAFTSS_Working/Olatunji_2022_Sceletium tortuosum.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum_ A review on its phytochem.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library; More descriptive filename
+
+FILE #9
+Remove:      THESE_Main_Library/0153840207/PDE inhibition in distinct cell types to recla.pdf
+Keep:        THESE_Main_Library/PDE inhibition in distinct cell types to recla.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #10
+Remove:      THESE_Main_Library/4104749933/PDE inhibition in distinct cell types to recla.pdf
+Keep:        THESE_Main_Library/PDE inhibition in distinct cell types to recla.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #11
+Remove:      DRAFTSS_Working/Rombaut_2021_PDE inhibition in distinct cell types to reclaim the balance of synaptic.pdf
+Keep:        THESE_Main_Library/PDE inhibition in distinct cell types to recla.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #12
+Remove:      THESE_Main_Library/Psychophysiological Effects of Zembrin&amp;lt;.pdf
+Keep:        THESE_Main_Library/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #13
+Remove:      THESE_Main_Library/0157707143/Psychophysiological Effects of Zembrin&amp;lt;.pdf
+Keep:        THESE_Main_Library/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #14
+Remove:      THESE_Main_Library/1563078594/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Keep:        THESE_Main_Library/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #15
+Remove:      THESE_Main_Library/3353983694/Psychophysiological Effects of Zembrin&amp;lt;.pdf
+Keep:        THESE_Main_Library/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #16
+Remove:      THESE_Main_Library/4214844280/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Keep:        THESE_Main_Library/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #17
+Remove:      DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-2.pdf
+Keep:        THESE_Main_Library/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #18
+Remove:      THESE_Main_Library/Emerging Roles of Complement in Psychiatric Di.pdf
+Keep:        THESE_Main_Library/Emerging Roles of Complement in Psychiatric D1.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #19
+Remove:      THESE_Main_Library/0169175131/Emerging Roles of Complement in Psychiatric D1.pdf
+Keep:        THESE_Main_Library/Emerging Roles of Complement in Psychiatric D1.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #20
+Remove:      THESE_Main_Library/1102530164/Emerging Roles of Complement in Psychiatric D1.pdf
+Keep:        THESE_Main_Library/Emerging Roles of Complement in Psychiatric D1.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #21
+Remove:      THESE_Main_Library/1852849437/Emerging Roles of Complement in Psychiatric Di.pdf
+Keep:        THESE_Main_Library/Emerging Roles of Complement in Psychiatric D1.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #22
+Remove:      THESE_Main_Library/2250270795/Emerging Roles of Complement in Psychiatric Di.pdf
+Keep:        THESE_Main_Library/Emerging Roles of Complement in Psychiatric D1.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #23
+Remove:      DRAFTSS_Working/Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019.pdf
+Keep:        THESE_Main_Library/Emerging Roles of Complement in Psychiatric D1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #24
+Remove:      THESE_Main_Library/0190015188/An acute dose-ranging evaluation of the antide.pdf
+Keep:        THESE_Main_Library/An acute dose-ranging evaluation of the antide.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #25
+Remove:      THESE_Main_Library/2618122539/An acute dose-ranging evaluation of the antide.pdf
+Keep:        THESE_Main_Library/An acute dose-ranging evaluation of the antide.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #26
+Remove:      DRAFTSS_Working/An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021.pdf
+Keep:        THESE_Main_Library/An acute dose-ranging evaluation of the antide.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #27
+Remove:      THESE_Main_Library/2008GerickeViljoenSceletiumreview1.pdf
+Keep:        THESE_Main_Library/2008GerickeViljoenSceletiumreview.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #28
+Remove:      THESE_Main_Library/0193752256/2008GerickeViljoenSceletiumreview1.pdf
+Keep:        THESE_Main_Library/2008GerickeViljoenSceletiumreview.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #29
+Remove:      THESE_Main_Library/1215705939/2008GerickeViljoenSceletiumreview.pdf
+Keep:        THESE_Main_Library/2008GerickeViljoenSceletiumreview.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #30
+Remove:      THESE_Main_Library/2409573626/2008GerickeViljoenSceletiumreview1.pdf
+Keep:        THESE_Main_Library/2008GerickeViljoenSceletiumreview.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #31
+Remove:      THESE_Main_Library/3002231984/2008GerickeViljoenSceletiumreview.pdf
+Keep:        THESE_Main_Library/2008GerickeViljoenSceletiumreview.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #32
+Remove:      THESE_Main_Library/0194930826/Exploring Zembrin Extract Derived from South A.pdf
+Keep:        THESE_Main_Library/Exploring Zembrin Extract Derived from South A.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #33
+Remove:      THESE_Main_Library/2610555476/Exploring Zembrin Extract Derived from South A.pdf
+Keep:        THESE_Main_Library/Exploring Zembrin Extract Derived from South A.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #34
+Remove:      DRAFTSS_Working/Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015.pdf
+Keep:        THESE_Main_Library/Exploring Zembrin Extract Derived from South A.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #35
+Remove:      THESE_Main_Library/0204215196/To ferment or not to ferment Sceletium tortuos.pdf
+Keep:        THESE_Main_Library/To ferment or not to ferment Sceletium tortuos.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #36
+Remove:      THESE_Main_Library/1758555640/To ferment or not to ferment Sceletium tortuos.pdf
+Keep:        THESE_Main_Library/To ferment or not to ferment Sceletium tortuos.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #37
+Remove:      DRAFTSS_Working/To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019.pdf
+Keep:        THESE_Main_Library/To ferment or not to ferment Sceletium tortuos.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #38
+Remove:      THESE_Main_Library/0265578321/A broad review of commercially important south.pdf
+Keep:        THESE_Main_Library/A broad review of commercially important south.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #39
+Remove:      THESE_Main_Library/3820498015/A broad review of commercially important south.pdf
+Keep:        THESE_Main_Library/A broad review of commercially important south.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #40
+Remove:      DRAFTSS_Working/Van Wyk_2008_A broad review of commercially important southern African medicinal plants.pdf
+Keep:        THESE_Main_Library/A broad review of commercially important south.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #41
+Remove:      THESE_Main_Library/0272784946/Quantification of mesembrine and mesembrenone.pdf
+Keep:        THESE_Main_Library/Quantification of mesembrine and mesembrenone.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #42
+Remove:      THESE_Main_Library/0379546519/Quantification of mesembrine and mesembrenone.pdf
+Keep:        THESE_Main_Library/Quantification of mesembrine and mesembrenone.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #43
+Remove:      DRAFTSS_Working/Manda_2017_Quantification of mesembrine and mesembrenone in mouse plasma using.pdf
+Keep:        THESE_Main_Library/Quantification of mesembrine and mesembrenone.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #44
+Remove:      THESE_Main_Library/Neurocircuitry of Addiction.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #45
+Remove:      THESE_Main_Library/0282103650/Neurocircuitry of Addiction.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #46
+Remove:      THESE_Main_Library/0462847204/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #47
+Remove:      THESE_Main_Library/1863608802/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #48
+Remove:      THESE_Main_Library/2051115389/Neurocircuitry of Addiction.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #49
+Remove:      THESE_Main_Library/2363083852/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #50
+Remove:      THESE_Main_Library/2416275944/Neurocircuitry of Addiction.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #51
+Remove:      THESE_Main_Library/2886308782/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #52
+Remove:      THESE_Main_Library/3211028977/Neurocircuitry of Addiction.pdf
+Keep:        THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #53
+Remove:      THESE_Main_Library/0295136292/d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+Keep:        THESE_Main_Library/d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #54
+Remove:      THESE_Main_Library/3340504491/d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+Keep:        THESE_Main_Library/d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #55
+Remove:      THESE_Main_Library/Modulation of glucocorticoid, mineralocorticoi.pdf
+Keep:        THESE_Main_Library/Electropharmacogram of Sceletium tortuosum ext.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #56
+Remove:      THESE_Main_Library/0322464179/Modulation of glucocorticoid, mineralocorticoi.pdf
+Keep:        THESE_Main_Library/Electropharmacogram of Sceletium tortuosum ext.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #57
+Remove:      THESE_Main_Library/0465721003/Modulation of glucocorticoid, mineralocorticoi.pdf
+Keep:        THESE_Main_Library/Electropharmacogram of Sceletium tortuosum ext.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #58
+Remove:      THESE_Main_Library/1905725130/Electropharmacogram of Sceletium tortuosum ext.pdf
+Keep:        THESE_Main_Library/Electropharmacogram of Sceletium tortuosum ext.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #59
+Remove:      THESE_Main_Library/4151994428/Electropharmacogram of Sceletium tortuosum ext.pdf
+Keep:        THESE_Main_Library/Electropharmacogram of Sceletium tortuosum ext.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #60
+Remove:      THESE_Main_Library/0369340341/Some ethnopharmacological notes on African hal.pdf
+Keep:        THESE_Main_Library/Some ethnopharmacological notes on African hal.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #61
+Remove:      THESE_Main_Library/0417295614/Some ethnopharmacological notes on African hal.pdf
+Keep:        THESE_Main_Library/Some ethnopharmacological notes on African hal.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #62
+Remove:      THESE_Main_Library/2939492628/Some ethnopharmacological notes on African hal.pdf
+Keep:        THESE_Main_Library/Some ethnopharmacological notes on African hal.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #63
+Remove:      DRAFTSS_Working/Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996.pdf
+Keep:        THESE_Main_Library/Some ethnopharmacological notes on African hal.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #64
+Remove:      THESE_Main_Library/0377849273/nordling2018.pdf
+Keep:        THESE_Main_Library/nordling2018.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #65
+Remove:      THESE_Main_Library/3996477640/nordling2018.pdf
+Keep:        THESE_Main_Library/nordling2018.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #66
+Remove:      DRAFTSS_Working/Nordling_2018_How decolonization could reshape South African science.pdf
+Keep:        THESE_Main_Library/nordling2018.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #67
+Remove:      DRAFTSS_Working/Zembe-Mkabile_SAMANTHA REINDERS FOR NATURE.pdf
+Keep:        THESE_Main_Library/nordling2018.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #68
+Remove:      THESE_Main_Library/0394410959/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+Keep:        THESE_Main_Library/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #69
+Remove:      THESE_Main_Library/2593155741/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+Keep:        THESE_Main_Library/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #70
+Remove:      ZOTPDF_References/Brunetti_2020_Pharmacology of Herbal Sexual Enhancers.pdf
+Keep:        THESE_Main_Library/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+Size:        0.0 B
+Score (rm):  90.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #71
+Remove:      DRAFTSS_Working/Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020.pdf
+Keep:        THESE_Main_Library/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #72
+Remove:      THESE_Main_Library/0403729504/Zembrim 4 Alcaloids.pdf
+Keep:        THESE_Main_Library/Zembrim 4 Alcaloids.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #73
+Remove:      THESE_Main_Library/2652989453/Zembrim 4 Alcaloids.pdf
+Keep:        THESE_Main_Library/Zembrim 4 Alcaloids.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #74
+Remove:      DRAFTSS_Working/Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018.pdf
+Keep:        THESE_Main_Library/Zembrim 4 Alcaloids.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #75
+Remove:      THESE_Main_Library/0406023391/Self-Medication and the Trade in Medicine with.pdf
+Keep:        THESE_Main_Library/Self-Medication and the Trade in Medicine with.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #76
+Remove:      THESE_Main_Library/1290959315/Self-Medication and the Trade in Medicine with.pdf
+Keep:        THESE_Main_Library/Self-Medication and the Trade in Medicine with.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #77
+Remove:      DRAFTSS_Working/Self-Medication and the Trade in Medicine within aSocial History of MedicineDigby2005.pdf
+Keep:        THESE_Main_Library/Self-Medication and the Trade in Medicine with.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #78
+Remove:      THESE_Main_Library/0521025725/A randomized, double-blind, parallel-group, pl.pdf
+Keep:        THESE_Main_Library/A randomized, double-blind, parallel-group, pl.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #79
+Remove:      THESE_Main_Library/1536584630/A randomized, double-blind, parallel-group, pl.pdf
+Keep:        THESE_Main_Library/A randomized, double-blind, parallel-group, pl.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #80
+Remove:      THESE_Main_Library/0532993907/Manganyi-2019-Antibacterial activity of endoph.pdf
+Keep:        THESE_Main_Library/Manganyi-2019-Antibacterial activity of endoph.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #81
+Remove:      THESE_Main_Library/1090479875/Manganyi-2019-Antibacterial activity of endoph.pdf
+Keep:        THESE_Main_Library/Manganyi-2019-Antibacterial activity of endoph.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #82
+Remove:      THESE_Main_Library/0559378100/Faber-2020-Variabilities in alkaloid concentra.pdf
+Keep:        THESE_Main_Library/Faber-2020-Variabilities in alkaloid concentra.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #83
+Remove:      THESE_Main_Library/2386842634/Faber-2020-Variabilities in alkaloid concentra.pdf
+Keep:        THESE_Main_Library/Faber-2020-Variabilities in alkaloid concentra.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #84
+Remove:      DRAFTSS_Working/Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020.pdf
+Keep:        THESE_Main_Library/Faber-2020-Variabilities in alkaloid concentra.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #85
+Remove:      THESE_Main_Library/0569863110/A review of Khoi-San and Cape Dutch medical et.pdf
+Keep:        THESE_Main_Library/A review of Khoi-San and Cape Dutch medical et.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #86
+Remove:      THESE_Main_Library/1218262266/A review of Khoi-San and Cape Dutch medical et.pdf
+Keep:        THESE_Main_Library/A review of Khoi-San and Cape Dutch medical et.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #87
+Remove:      DRAFTSS_Working/Van Wyk_2008_A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+Keep:        THESE_Main_Library/A review of Khoi-San and Cape Dutch medical et.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #88
+Remove:      THESE_Main_Library/0632908320/Schifano-2015-Novel psychoactive substances of.pdf
+Keep:        THESE_Main_Library/Schifano-2015-Novel psychoactive substances of.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #89
+Remove:      THESE_Main_Library/3871399262/Schifano-2015-Novel psychoactive substances of.pdf
+Keep:        THESE_Main_Library/Schifano-2015-Novel psychoactive substances of.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #90
+Remove:      DRAFTSS_Working/Schifano_2015_Novel psychoactive substances of interest for psychiatry.pdf
+Keep:        THESE_Main_Library/Schifano-2015-Novel psychoactive substances of.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #91
+Remove:      THESE_Main_Library/0638281960/Immunomodulatory effects of Sceletium tortuosu.pdf
+Keep:        THESE_Main_Library/Immunomodulatory effects of Sceletium tortuosu.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #92
+Remove:      THESE_Main_Library/2980506999/Immunomodulatory effects of Sceletium tortuosu.pdf
+Keep:        THESE_Main_Library/Immunomodulatory effects of Sceletium tortuosu.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #93
+Remove:      THESE_Main_Library/0639324805/Alternative Models of Addiction.pdf
+Keep:        THESE_Main_Library/Alternative Models of Addiction.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #94
+Remove:      THESE_Main_Library/2602985219/Alternative Models of Addiction.pdf
+Keep:        THESE_Main_Library/Alternative Models of Addiction.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #95
+Remove:      DRAFTSS_Working/Pickard_2015_Alternative Models of Addiction.pdf
+Keep:        THESE_Main_Library/Alternative Models of Addiction.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #96
+Remove:      THESE_Main_Library/0661539040/In Silico Docking Analysis of Few Antidepressa.pdf
+Keep:        THESE_Main_Library/In Silico Docking Analysis of Few Antidepressa.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #97
+Remove:      THESE_Main_Library/2056874247/In Silico Docking Analysis of Few Antidepressa.pdf
+Keep:        THESE_Main_Library/In Silico Docking Analysis of Few Antidepressa.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #98
+Remove:      DRAFTSS_Working/Kotadiya_In Silico Docking Analysis of Few Antidepressant Phytoconstituents of South.pdf
+Keep:        THESE_Main_Library/In Silico Docking Analysis of Few Antidepressa.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #99
+Remove:      THESE_Main_Library/0681470934/Review on plants with CNS-effects used in trad.pdf
+Keep:        THESE_Main_Library/Review on plants with CNS-effects used in trad.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #100
+Remove:      THESE_Main_Library/3012898459/Review on plants with CNS-effects used in trad.pdf
+Keep:        THESE_Main_Library/Review on plants with CNS-effects used in trad.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #101
+Remove:      DRAFTSS_Working/Stafford_2008_Review on plants with CNS-effects used in traditional South African medicine.pdf
+Keep:        THESE_Main_Library/Review on plants with CNS-effects used in trad.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #102
+Remove:      THESE_Main_Library/0727216486/High-mesembrine Sceletium extract (Trimesemine.pdf
+Keep:        THESE_Main_Library/High-mesembrine Sceletium extract (Trimesemine.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #103
+Remove:      THESE_Main_Library/2836621497/High-mesembrine Sceletium extract (Trimesemine.pdf
+Keep:        THESE_Main_Library/High-mesembrine Sceletium extract (Trimesemine.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #104
+Remove:      DRAFTSS_Working/High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016.pdf
+Keep:        THESE_Main_Library/High-mesembrine Sceletium extract (Trimesemine.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #105
+Remove:      THESE_Main_Library/0766600932/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+Keep:        THESE_Main_Library/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #106
+Remove:      THESE_Main_Library/2944520568/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+Keep:        THESE_Main_Library/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #107
+Remove:      DRAFTSS_Working/Terburg_2013_Acute effects of Sceletium tortuosum (Zembrin), a dual 5-HT reuptake and PDE4.pdf
+Keep:        THESE_Main_Library/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #108
+Remove:      THESE_Main_Library/0771922382/Strengthening indigenous governance, benefit s.pdf
+Keep:        THESE_Main_Library/Strengthening indigenous governance, benefit s.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #109
+Remove:      THESE_Main_Library/2537057753/Strengthening indigenous governance, benefit s.pdf
+Keep:        THESE_Main_Library/Strengthening indigenous governance, benefit s.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #110
+Remove:      DRAFTSS_Working/Modise_2018_Strengthening indigenous governance, benefit sharing and capacity building for.pdf
+Keep:        THESE_Main_Library/Strengthening indigenous governance, benefit s.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #111
+Remove:      THESE_Main_Library/0787310714/Ethnobotanical research in sub-Saharan Africa.pdf
+Keep:        THESE_Main_Library/Ethnobotanical research in sub-Saharan Africa.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #112
+Remove:      THESE_Main_Library/1919575985/Ethnobotanical research in sub-Saharan Africa.pdf
+Keep:        THESE_Main_Library/Ethnobotanical research in sub-Saharan Africa.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #113
+Remove:      DRAFTSS_Working/Van Wyk_Moteetee_2019_Ethnobotanical research in sub-Saharan Africa – documenting and analysing.pdf
+Keep:        THESE_Main_Library/Ethnobotanical research in sub-Saharan Africa.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #114
+Remove:      THESE_Main_Library/0794564473/A toxicological safety assessment of a standar.pdf
+Keep:        THESE_Main_Library/A toxicological safety assessment of a standar.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #115
+Remove:      THESE_Main_Library/4031344136/A toxicological safety assessment of a standar.pdf
+Keep:        THESE_Main_Library/A toxicological safety assessment of a standar.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #116
+Remove:      ZOTPDF_References/Murbach_2014_A toxicological safety assessment of a standardized extract of Sceletium.pdf
+Keep:        THESE_Main_Library/A toxicological safety assessment of a standar.pdf
+Size:        0.0 B
+Score (rm):  90.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #117
+Remove:      DRAFTSS_Working/Murbach et al. - 2014 - A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin(R)) in r.pdf
+Keep:        THESE_Main_Library/A toxicological safety assessment of a standar.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #118
+Remove:      THESE_Main_Library/0813132226/Luo-2022-A network pharmacology-based approach.pdf
+Keep:        THESE_Main_Library/Luo-2022-A network pharmacology-based approach.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #119
+Remove:      THESE_Main_Library/3378809874/Luo-2022-A network pharmacology-based approach.pdf
+Keep:        THESE_Main_Library/Luo-2022-A network pharmacology-based approach.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #120
+Remove:      DRAFTSS_Working/Luo_2022_A network pharmacology-based approach to explore the therapeutic potential of.pdf
+Keep:        THESE_Main_Library/Luo-2022-A network pharmacology-based approach.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #121
+Remove:      THESE_Main_Library/0819494367/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+Keep:        THESE_Main_Library/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #122
+Remove:      THESE_Main_Library/1832479405/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+Keep:        THESE_Main_Library/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #123
+Remove:      DRAFTSS_Working/Olsen_Liu_2016_Phosphodiesterase 4 inhibitors and drugs of abuse.pdf
+Keep:        THESE_Main_Library/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #124
+Remove:      THESE_Main_Library/0847735859/Sceletium tortuosum demonstrates in vitro anti.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum demonstrates in vitro anti.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #125
+Remove:      THESE_Main_Library/2642234250/Sceletium tortuosum demonstrates in vitro anti.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum demonstrates in vitro anti.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #126
+Remove:      DRAFTSS_Working/Kapewangolo_2016_Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum demonstrates in vitro anti.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #127
+Remove:      THESE_Main_Library/0870410800/Out of southern Africa_ Origin, biogeography a.pdf
+Keep:        THESE_Main_Library/Out of southern Africa_ Origin, biogeography a.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #128
+Remove:      THESE_Main_Library/3731132666/Out of southern Africa_ Origin, biogeography a.pdf
+Keep:        THESE_Main_Library/Out of southern Africa_ Origin, biogeography a.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #129
+Remove:      DRAFTSS_Working/Klak_2017_Out of southern Africa.pdf
+Keep:        THESE_Main_Library/Out of southern Africa_ Origin, biogeography a.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library; More descriptive filename
+
+FILE #130
+Remove:      THESE_Main_Library/0888432512/Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+Keep:        THESE_Main_Library/Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #131
+Remove:      THESE_Main_Library/3010839109/Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+Keep:        THESE_Main_Library/Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #132
+Remove:      THESE_Main_Library/0909666207/Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+Keep:        THESE_Main_Library/Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #133
+Remove:      THESE_Main_Library/1752637606/Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+Keep:        THESE_Main_Library/Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #134
+Remove:      THESE_Main_Library/0914581282/Antidepressant Effects of South African Plants.pdf
+Keep:        THESE_Main_Library/Antidepressant Effects of South African Plants.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #135
+Remove:      THESE_Main_Library/1842792262/Antidepressant Effects of South African Plants.pdf
+Keep:        THESE_Main_Library/Antidepressant Effects of South African Plants.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #136
+Remove:      DRAFTSS_Working/Bonokwane_2022_Antidepressant Effects of South African Plants.pdf
+Keep:        THESE_Main_Library/Antidepressant Effects of South African Plants.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #137
+Remove:      THESE_Main_Library/0941418020/The potential of South African plants in the d.pdf
+Keep:        THESE_Main_Library/The potential of South African plants in the d.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #138
+Remove:      THESE_Main_Library/3051318042/The potential of South African plants in the d.pdf
+Keep:        THESE_Main_Library/The potential of South African plants in the d.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #139
+Remove:      DRAFTSS_Working/Van Wyk_2011_The potential of South African plants in the development of new medicinal.pdf
+Keep:        THESE_Main_Library/The potential of South African plants in the d.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #140
+Remove:      THESE_Main_Library/0999385710/PDE4 inhibitors_ current status.pdf
+Keep:        THESE_Main_Library/PDE4 inhibitors_ current status.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #141
+Remove:      THESE_Main_Library/4011596746/PDE4 inhibitors_ current status.pdf
+Keep:        THESE_Main_Library/PDE4 inhibitors_ current status.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #142
+Remove:      DRAFTSS_Working/Spina_2008_PDE4 inhibitors.pdf
+Keep:        THESE_Main_Library/PDE4 inhibitors_ current status.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #143
+Remove:      THESE_Main_Library/The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #144
+Remove:      THESE_Main_Library/1008361187/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #145
+Remove:      THESE_Main_Library/1754163916/The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #146
+Remove:      THESE_Main_Library/3337579196/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #147
+Remove:      THESE_Main_Library/4283983086/The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #148
+Remove:      DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-1.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #149
+Remove:      DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-2.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #150
+Remove:      DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf
+Keep:        THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #151
+Remove:      THESE_Main_Library/1057384820/Mesembrine alkaloids_ Review of their occurren.pdf
+Keep:        THESE_Main_Library/Mesembrine alkaloids_ Review of their occurren.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #152
+Remove:      THESE_Main_Library/4061902602/Mesembrine alkaloids_ Review of their occurren.pdf
+Keep:        THESE_Main_Library/Mesembrine alkaloids_ Review of their occurren.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #153
+Remove:      DRAFTSS_Working/Krstenansky_2017_Mesembrine alkaloids.pdf
+Keep:        THESE_Main_Library/Mesembrine alkaloids_ Review of their occurren.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #154
+Remove:      THESE_Main_Library/1147561669/(52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+Keep:        THESE_Main_Library/(52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #155
+Remove:      THESE_Main_Library/3037983055/(52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+Keep:        THESE_Main_Library/(52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #156
+Remove:      THESE_Main_Library/1155286638/Pharmacological actions of the South African m.pdf
+Keep:        THESE_Main_Library/Pharmacological actions of the South African m.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #157
+Remove:      THESE_Main_Library/1780968077/Pharmacological actions of the South African m.pdf
+Keep:        THESE_Main_Library/Pharmacological actions of the South African m.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #158
+Remove:      DRAFTSS_Working/Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011.pdf
+Keep:        THESE_Main_Library/Pharmacological actions of the South African m.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #159
+Remove:      THESE_Main_Library/1208445925/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+Keep:        THESE_Main_Library/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #160
+Remove:      THESE_Main_Library/4238560424/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+Keep:        THESE_Main_Library/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #161
+Remove:      DRAFTSS_Working/Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016.pdf
+Keep:        THESE_Main_Library/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #162
+Remove:      THESE_Main_Library/1261594621/Dopamine_serotonin releasers as medications fo.pdf
+Keep:        THESE_Main_Library/Dopamine_serotonin releasers as medications fo.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #163
+Remove:      THESE_Main_Library/3464237584/Dopamine_serotonin releasers as medications fo.pdf
+Keep:        THESE_Main_Library/Dopamine_serotonin releasers as medications fo.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #164
+Remove:      DRAFTSS_Working/Rothman_2008_Dopamine-serotonin releasers as medications for stimulant addictions.pdf
+Keep:        THESE_Main_Library/Dopamine_serotonin releasers as medications fo.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #165
+Remove:      THESE_Main_Library/7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+Keep:        THESE_Main_Library/Neurobiology of addiction_ a neurocircuitry an.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #166
+Remove:      THESE_Main_Library/1285217423/Neurobiology of addiction_ a neurocircuitry an.pdf
+Keep:        THESE_Main_Library/Neurobiology of addiction_ a neurocircuitry an.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #167
+Remove:      THESE_Main_Library/2679466450/Neurobiology of addiction_ a neurocircuitry an.pdf
+Keep:        THESE_Main_Library/Neurobiology of addiction_ a neurocircuitry an.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #168
+Remove:      THESE_Main_Library/2472793685/7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+Keep:        THESE_Main_Library/Neurobiology of addiction_ a neurocircuitry an.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #169
+Remove:      THESE_Main_Library/3132320210/7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+Keep:        THESE_Main_Library/Neurobiology of addiction_ a neurocircuitry an.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #170
+Remove:      DRAFTSS_Working/Koob_Volkow_2016_Neurobiology of addiction.pdf
+Keep:        THESE_Main_Library/Neurobiology of addiction_ a neurocircuitry an.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #171
+Remove:      THESE_Main_Library/1353290175/Biopiracy_ Crying wolf or a lever for equity a.pdf
+Keep:        THESE_Main_Library/Biopiracy_ Crying wolf or a lever for equity a.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #172
+Remove:      THESE_Main_Library/2628937522/Biopiracy_ Crying wolf or a lever for equity a.pdf
+Keep:        THESE_Main_Library/Biopiracy_ Crying wolf or a lever for equity a.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #173
+Remove:      DRAFTSS_Working/Wynberg_2023_Biopiracy.pdf
+Keep:        THESE_Main_Library/Biopiracy_ Crying wolf or a lever for equity a.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library; More descriptive filename
+
+FILE #174
+Remove:      THESE_Main_Library/1370975236/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+Keep:        THESE_Main_Library/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #175
+Remove:      THESE_Main_Library/2392064702/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+Keep:        THESE_Main_Library/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #176
+Remove:      DRAFTSS_Working/Patnala_Kanfer_2017_Sceletium Plant Species.pdf
+Keep:        THESE_Main_Library/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #177
+Remove:      THESE_Main_Library/1388336285/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+Keep:        THESE_Main_Library/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #178
+Remove:      THESE_Main_Library/4100155717/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+Keep:        THESE_Main_Library/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #179
+Remove:      DRAFTSS_Working/Gericke_2018_Kabbo’s.pdf
+Keep:        THESE_Main_Library/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library; More descriptive filename
+
+FILE #180
+Remove:      THESE_Main_Library/1389324895/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+Keep:        THESE_Main_Library/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #181
+Remove:      THESE_Main_Library/4081874354/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+Keep:        THESE_Main_Library/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #182
+Remove:      DRAFTSS_Working/Bolger_2017_The PDE4 cAMP-Specific Phosphodiesterases.pdf
+Keep:        THESE_Main_Library/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #183
+Remove:      THESE_Main_Library/1436458428/Traditional perinatal plant knowledge in Sub-S.pdf
+Keep:        THESE_Main_Library/Traditional perinatal plant knowledge in Sub-S.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #184
+Remove:      THESE_Main_Library/2862640773/Traditional perinatal plant knowledge in Sub-S.pdf
+Keep:        THESE_Main_Library/Traditional perinatal plant knowledge in Sub-S.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #185
+Remove:      DRAFTSS_Working/Sibeko_2023_Traditional perinatal plant knowledge in Sub-Saharan Africa.pdf
+Keep:        THESE_Main_Library/Traditional perinatal plant knowledge in Sub-S.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #186
+Remove:      THESE_Main_Library/Proof-of-Concept Randomized Controlled Study o.pdf
+Keep:        THESE_Main_Library/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #187
+Remove:      THESE_Main_Library/1482976073/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+Keep:        THESE_Main_Library/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #188
+Remove:      THESE_Main_Library/2996988745/Proof-of-Concept Randomized Controlled Study o.pdf
+Keep:        THESE_Main_Library/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #189
+Remove:      THESE_Main_Library/3780407774/Proof-of-Concept Randomized Controlled Study o.pdf
+Keep:        THESE_Main_Library/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #190
+Remove:      THESE_Main_Library/4062345334/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+Keep:        THESE_Main_Library/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #191
+Remove:      THESE_Main_Library/1493527525/Brendler-2021-Sceletium for Managing Anxiety.pdf
+Keep:        THESE_Main_Library/Brendler-2021-Sceletium for Managing Anxiety.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #192
+Remove:      THESE_Main_Library/2842747878/Brendler-2021-Sceletium for Managing Anxiety.pdf
+Keep:        THESE_Main_Library/Brendler-2021-Sceletium for Managing Anxiety.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #193
+Remove:      DRAFTSS_Working/Brendler_2021_Sceletium for Managing Anxiety, Depression and Cognitive Impairment.pdf
+Keep:        THESE_Main_Library/Brendler-2021-Sceletium for Managing Anxiety.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #194
+Remove:      THESE_Main_Library/1523280143/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+Keep:        THESE_Main_Library/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #195
+Remove:      THESE_Main_Library/1546414812/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+Keep:        THESE_Main_Library/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #196
+Remove:      DRAFTSS_Working/Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020.pdf
+Keep:        THESE_Main_Library/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #197
+Remove:      THESE_Main_Library/1595398980/UCreview.pdf
+Keep:        THESE_Main_Library/UCreview.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #198
+Remove:      DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf
+Keep:        THESE_Main_Library/UCreview.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #199
+Remove:      THESE_Main_Library/1646290972/The effects of Sceletium tortuosum in an in vi.pdf
+Keep:        THESE_Main_Library/The effects of Sceletium tortuosum in an in vi.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #200
+Remove:      THESE_Main_Library/2514912302/The effects of Sceletium tortuosum in an in vi.pdf
+Keep:        THESE_Main_Library/The effects of Sceletium tortuosum in an in vi.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #201
+Remove:      THESE_Main_Library/1704358372/Addiction and the Brain_ Development, Not Dise.pdf
+Keep:        THESE_Main_Library/Addiction and the Brain_ Development, Not Dise.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #202
+Remove:      THESE_Main_Library/2689230580/Addiction and the Brain_ Development, Not Dise.pdf
+Keep:        THESE_Main_Library/Addiction and the Brain_ Development, Not Dise.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #203
+Remove:      DRAFTSS_Working/Lewis_2017_Addiction and the Brain.pdf
+Keep:        THESE_Main_Library/Addiction and the Brain_ Development, Not Dise.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library; More descriptive filename
+
+FILE #204
+Remove:      THESE_Main_Library/1775370468/JPBMS_Pei Yu_06_20_151_160.pdf
+Keep:        THESE_Main_Library/JPBMS_Pei Yu_06_20_151_160.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #205
+Remove:      DRAFTSS_Working/Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020.pdf
+Keep:        THESE_Main_Library/JPBMS_Pei Yu_06_20_151_160.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #206
+Remove:      THESE_Main_Library/1809913732/3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+Keep:        THESE_Main_Library/3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #207
+Remove:      THESE_Main_Library/3684985454/3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+Keep:        THESE_Main_Library/3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #208
+Remove:      THESE_Main_Library/1838227138/Reddy-2023-Skeletons in the closet_ – Using a.pdf
+Keep:        THESE_Main_Library/Reddy-2023-Skeletons in the closet_ – Using a.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #209
+Remove:      THESE_Main_Library/1892447738/Journal of HIGH.pdf
+Keep:        THESE_Main_Library/Journal of HIGH.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #210
+Remove:      THESE_Main_Library/2135292275/Journal of HIGH.pdf
+Keep:        THESE_Main_Library/Journal of HIGH.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #211
+Remove:      THESE_Main_Library/3784075089/Journal of HIGH.pdf
+Keep:        THESE_Main_Library/Journal of HIGH.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #212
+Remove:      DRAFTSS_Working/The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970.pdf
+Keep:        THESE_Main_Library/Journal of HIGH.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #213
+Remove:      THESE_Main_Library/1985870475/boj12117.pdf
+Keep:        THESE_Main_Library/boj12117.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #214
+Remove:      THESE_Main_Library/4170934191/boj12117.pdf
+Keep:        THESE_Main_Library/boj12117.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #215
+Remove:      THESE_Main_Library/1994878191/Skeletons in the closet_ – Using a bibliometri.pdf
+Keep:        THESE_Main_Library/Skeletons in the closet_ – Using a bibliometri.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #216
+Remove:      THESE_Main_Library/3963954027/Skeletons in the closet_ – Using a bibliometri.pdf
+Keep:        THESE_Main_Library/Skeletons in the closet_ – Using a bibliometri.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #217
+Remove:      THESE_Main_Library/1999726917/In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+Keep:        THESE_Main_Library/In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #218
+Remove:      THESE_Main_Library/4181869316/In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+Keep:        THESE_Main_Library/In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #219
+Remove:      THESE_Main_Library/2012119272/Learning to forget_ manipulating extinction an.pdf
+Keep:        THESE_Main_Library/Learning to forget_ manipulating extinction an.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #220
+Remove:      THESE_Main_Library/3223808357/Learning to forget_ manipulating extinction an.pdf
+Keep:        THESE_Main_Library/Learning to forget_ manipulating extinction an.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #221
+Remove:      THESE_Main_Library/2018732076/Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+Keep:        THESE_Main_Library/Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #222
+Remove:      THESE_Main_Library/4006505401/Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+Keep:        THESE_Main_Library/Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #223
+Remove:      THESE_Main_Library/2026453812/Treatment of anxiety and depression_ medicinal.pdf
+Keep:        THESE_Main_Library/Treatment of anxiety and depression_ medicinal.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #224
+Remove:      THESE_Main_Library/3124522660/Treatment of anxiety and depression_ medicinal.pdf
+Keep:        THESE_Main_Library/Treatment of anxiety and depression_ medicinal.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #225
+Remove:      DRAFTSS_Working/Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016.pdf
+Keep:        THESE_Main_Library/Treatment of anxiety and depression_ medicinal.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #226
+Remove:      THESE_Main_Library/2037803365/Medicinal Plants for Treatment of Prevalent Di.pdf
+Keep:        THESE_Main_Library/Medicinal Plants for Treatment of Prevalent Di.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #227
+Remove:      THESE_Main_Library/3049735082/Medicinal Plants for Treatment of Prevalent Di.pdf
+Keep:        THESE_Main_Library/Medicinal Plants for Treatment of Prevalent Di.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #228
+Remove:      THESE_Main_Library/2130011923/Antidepressant effects of inhibitors of cAMP p.pdf
+Keep:        THESE_Main_Library/Antidepressant effects of inhibitors of cAMP p.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #229
+Remove:      THESE_Main_Library/3248330876/Antidepressant effects of inhibitors of cAMP p.pdf
+Keep:        THESE_Main_Library/Antidepressant effects of inhibitors of cAMP p.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #230
+Remove:      DRAFTSS_Working/O'Donnell_Zhang_2004_Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+Keep:        THESE_Main_Library/Antidepressant effects of inhibitors of cAMP p.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #231
+Remove:      THESE_Main_Library/2146500633/Valente-2014-Correlates of hyperdiversity in s.pdf
+Keep:        THESE_Main_Library/Valente-2014-Correlates of hyperdiversity in s.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #232
+Remove:      THESE_Main_Library/2197448639/Valente-2014-Correlates of hyperdiversity in s.pdf
+Keep:        THESE_Main_Library/Valente-2014-Correlates of hyperdiversity in s.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #233
+Remove:      THESE_Main_Library/2147157566/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+Keep:        THESE_Main_Library/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #234
+Remove:      THESE_Main_Library/4076890515/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+Keep:        THESE_Main_Library/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #235
+Remove:      DRAFTSS_Working/Maphanga_2022_Mesembryanthemum tortuosum L.pdf
+Keep:        THESE_Main_Library/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #236
+Remove:      THESE_Main_Library/2162907227/The chemotypic variation of Sceletium tortuosu.pdf
+Keep:        THESE_Main_Library/The chemotypic variation of Sceletium tortuosu.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #237
+Remove:      THESE_Main_Library/3258410896/The chemotypic variation of Sceletium tortuosu.pdf
+Keep:        THESE_Main_Library/The chemotypic variation of Sceletium tortuosu.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #238
+Remove:      DRAFTSS_Working/Shikanga_2012_The chemotypic variation of Sceletium tortuosum alkaloids and commercial.pdf
+Keep:        THESE_Main_Library/The chemotypic variation of Sceletium tortuosu.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #239
+Remove:      THESE_Main_Library/2183096411/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+Keep:        THESE_Main_Library/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #240
+Remove:      THESE_Main_Library/2665949036/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+Keep:        THESE_Main_Library/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #241
+Remove:      DRAFTSS_Working/Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020.pdf
+Keep:        THESE_Main_Library/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #242
+Remove:      THESE_Main_Library/2321378574/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+Keep:        THESE_Main_Library/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #243
+Remove:      THESE_Main_Library/2843909590/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+Keep:        THESE_Main_Library/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #244
+Remove:      DRAFTSS_Working/Alvaro Viljoen_2023_The South African Herbal Pharmacopoeia.pdf
+Keep:        THESE_Main_Library/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #245
+Remove:      THESE_Main_Library/2383707266/low2007.pdf
+Keep:        THESE_Main_Library/low2007.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #246
+Remove:      THESE_Main_Library/2480302077/low2007.pdf
+Keep:        THESE_Main_Library/low2007.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #247
+Remove:      DRAFTSS_Working/Low_2007_Different Histories of Buchu.pdf
+Keep:        THESE_Main_Library/low2007.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #248
+Remove:      THESE_Main_Library/2416739987/Kaylan-2023-Skeletons in the closet_ – Using a.pdf
+Keep:        THESE_Main_Library/Kaylan-2023-Skeletons in the closet_ – Using a.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #249
+Remove:      THESE_Main_Library/2446979709/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+Keep:        THESE_Main_Library/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #250
+Remove:      THESE_Main_Library/3689506985/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+Keep:        THESE_Main_Library/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #251
+Remove:      DRAFTSS_Working/Meyer_2015_GC-MS, LC-MS(n), LC-high resolution-MS(n), and NMR studies on the metabolism.pdf
+Keep:        THESE_Main_Library/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #252
+Remove:      DRAFTSS_Working/Swart_Smith_2016_Modulation of glucocorticoid, mineralocorticoid and androgen production in H295.pdf
+Keep:        THESE_Main_Library/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #253
+Remove:      THESE_Main_Library/2459265787/Plant-based Medicines (Phytoceuticals) in the.pdf
+Keep:        THESE_Main_Library/Plant-based Medicines (Phytoceuticals) in the.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #254
+Remove:      THESE_Main_Library/2466533921/Plant-based Medicines (Phytoceuticals) in the.pdf
+Keep:        THESE_Main_Library/Plant-based Medicines (Phytoceuticals) in the.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #255
+Remove:      THESE_Main_Library/2501994743/James Faber-2022-The Importance ofSceletium to.pdf
+Keep:        THESE_Main_Library/James Faber-2022-The Importance ofSceletium to.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #256
+Remove:      THESE_Main_Library/2971516196/James Faber-2022-The Importance ofSceletium to.pdf
+Keep:        THESE_Main_Library/James Faber-2022-The Importance ofSceletium to.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #257
+Remove:      DRAFTSS_Working/The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022.pdf
+Keep:        THESE_Main_Library/James Faber-2022-The Importance ofSceletium to.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #258
+Remove:      THESE_Main_Library/2518938779/HPLC analysis of mesembrine-type alkaloids in.pdf
+Keep:        THESE_Main_Library/HPLC analysis of mesembrine-type alkaloids in.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #259
+Remove:      THESE_Main_Library/2736220376/HPLC analysis of mesembrine-type alkaloids in.pdf
+Keep:        THESE_Main_Library/HPLC analysis of mesembrine-type alkaloids in.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #260
+Remove:      DRAFTSS_Working/Patnala_Kanfer_2010_HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as.pdf
+Keep:        THESE_Main_Library/HPLC analysis of mesembrine-type alkaloids in.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #261
+Remove:      THESE_Main_Library/2525887026/Sceletium Plant Species_ Alkaloidal Components.pdf
+Keep:        THESE_Main_Library/Sceletium Plant Species_ Alkaloidal Components.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #262
+Remove:      THESE_Main_Library/2897767444/Sceletium Plant Species_ Alkaloidal Components.pdf
+Keep:        THESE_Main_Library/Sceletium Plant Species_ Alkaloidal Components.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #263
+Remove:      DRAFTSS_Working/Patnala_Kanfer_2017_Sceletium Plant Species-1.pdf
+Keep:        THESE_Main_Library/Sceletium Plant Species_ Alkaloidal Components.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #264
+Remove:      THESE_Main_Library/2565843494/Wind, Life, Health Anthropological and Histori.pdf
+Keep:        THESE_Main_Library/Wind, Life, Health Anthropological and Histori.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #265
+Remove:      THESE_Main_Library/2598431911/Wind, Life, Health Anthropological and Histori.pdf
+Keep:        THESE_Main_Library/Wind, Life, Health Anthropological and Histori.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #266
+Remove:      DRAFTSS_Working/Chris Low_Wind, Life, Health Anthropological and Historical.pdf
+Keep:        THESE_Main_Library/Wind, Life, Health Anthropological and Histori.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #267
+Remove:      DRAFTSS_Working/Low_2007_Khoisan Wind.pdf
+Keep:        THESE_Main_Library/Wind, Life, Health Anthropological and Histori.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library; More descriptive filename
+
+FILE #268
+Remove:      THESE_Main_Library/2657839961/Psychoactive Plants_ A Neglected Area of Ethno.pdf
+Keep:        THESE_Main_Library/Psychoactive Plants_ A Neglected Area of Ethno.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #269
+Remove:      THESE_Main_Library/3874422476/Psychoactive Plants_ A Neglected Area of Ethno.pdf
+Keep:        THESE_Main_Library/Psychoactive Plants_ A Neglected Area of Ethno.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #270
+Remove:      THESE_Main_Library/Plasticity in the Hippocampus, Neurogenesis an.pdf
+Keep:        THESE_Main_Library/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #271
+Remove:      THESE_Main_Library/2689781939/Plasticity in the Hippocampus, Neurogenesis an.pdf
+Keep:        THESE_Main_Library/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #272
+Remove:      THESE_Main_Library/2752005042/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+Keep:        THESE_Main_Library/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #273
+Remove:      THESE_Main_Library/3422055178/Plasticity in the Hippocampus, Neurogenesis an.pdf
+Keep:        THESE_Main_Library/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #274
+Remove:      DRAFTSS_Working/Avchalumov_Mandyam_2021_Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+Keep:        THESE_Main_Library/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #275
+Remove:      THESE_Main_Library/a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+Keep:        THESE_Main_Library/PDE4-inhibitors A novel targeted therapy for obstructive airways disease.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      More descriptive filename
+
+FILE #276
+Remove:      THESE_Main_Library/2714645415/a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+Keep:        THESE_Main_Library/PDE4-inhibitors A novel targeted therapy for obstructive airways disease.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      More descriptive filename
+
+FILE #277
+Remove:      THESE_Main_Library/3108268670/a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+Keep:        THESE_Main_Library/PDE4-inhibitors A novel targeted therapy for obstructive airways disease.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      More descriptive filename
+
+FILE #278
+Remove:      DRAFTSS_Working/PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011.pdf
+Keep:        THESE_Main_Library/PDE4-inhibitors A novel targeted therapy for obstructive airways disease.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #279
+Remove:      THESE_Main_Library/2716825154/Reay-2020-Sceletium tortuosum (Zembrin((R)) ).pdf
+Keep:        THESE_Main_Library/Reay-2020-Sceletium tortuosum (Zembrin((R)) ).pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #280
+Remove:      THESE_Main_Library/2793761710/Sceletium tortuosum (Zembrin((R)) ) ameliorate.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum (Zembrin((R)) ) ameliorate.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #281
+Remove:      THESE_Main_Library/2926460303/In vitro and ex vivo vegetative propagation an.pdf
+Keep:        THESE_Main_Library/In vitro and ex vivo vegetative propagation an.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #282
+Remove:      THESE_Main_Library/2929617174/In vitro and ex vivo vegetative propagation an.pdf
+Keep:        THESE_Main_Library/In vitro and ex vivo vegetative propagation an.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #283
+Remove:      DRAFTSS_Working/Sreekissoon_2021_In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium.pdf
+Keep:        THESE_Main_Library/In vitro and ex vivo vegetative propagation an.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #284
+Remove:      THESE_Main_Library/2958115612/Prasad-2013-Role of Traditional and Alternativ.pdf
+Keep:        THESE_Main_Library/Prasad-2013-Role of Traditional and Alternativ.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #285
+Remove:      DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-1.pdf
+Keep:        THESE_Main_Library/Prasad-2013-Role of Traditional and Alternativ.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #286
+Remove:      THESE_Main_Library/Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+Keep:        THESE_Main_Library/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+Size:        0.0 B
+Score (rm):  115.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #287
+Remove:      THESE_Main_Library/2972507366/Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+Keep:        THESE_Main_Library/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #288
+Remove:      THESE_Main_Library/3417008641/Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+Keep:        THESE_Main_Library/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #289
+Remove:      THESE_Main_Library/3637938295/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+Keep:        THESE_Main_Library/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #290
+Remove:      ZOTPDF_References/Namba_2021_Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders.pdf
+Keep:        THESE_Main_Library/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+Size:        0.0 B
+Score (rm):  90.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #291
+Remove:      DRAFTSS_Working/Namba_2021_Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders.pdf
+Keep:        THESE_Main_Library/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #292
+Remove:      THESE_Main_Library/2981701698/Sceletium tortuosum-derived mesembrine signifi.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum-derived mesembrine signifi.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #293
+Remove:      THESE_Main_Library/3500436563/Sceletium tortuosum-derived mesembrine signifi.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum-derived mesembrine signifi.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #294
+Remove:      DRAFTSS_Working/Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum-derived mesembrine signifi.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #295
+Remove:      THESE_Main_Library/3150408021/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+Keep:        THESE_Main_Library/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #296
+Remove:      THESE_Main_Library/3424159397/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+Keep:        THESE_Main_Library/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #297
+Remove:      DRAFTSS_Working/Torregrossa_Taylor_2013_Learning to forget.pdf
+Keep:        THESE_Main_Library/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #298
+Remove:      THESE_Main_Library/3152539394/Corrigendum to “Sceletium tortuosum_ A review.pdf
+Keep:        THESE_Main_Library/Corrigendum to “Sceletium tortuosum_ A review.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #299
+Remove:      THESE_Main_Library/3307366350/Corrigendum to “Sceletium tortuosum_ A review.pdf
+Keep:        THESE_Main_Library/Corrigendum to “Sceletium tortuosum_ A review.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #300
+Remove:      DRAFTSS_Working/Olatunji_2022_Corrigendum to “Sceletium tortuosum.pdf
+Keep:        THESE_Main_Library/Corrigendum to “Sceletium tortuosum_ A review.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #301
+Remove:      THESE_Main_Library/3267299618/Screening selected medicinal plants for potent.pdf
+Keep:        THESE_Main_Library/Screening selected medicinal plants for potent.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #302
+Remove:      THESE_Main_Library/3378867408/Screening selected medicinal plants for potent.pdf
+Keep:        THESE_Main_Library/Screening selected medicinal plants for potent.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #303
+Remove:      DRAFTSS_Working/Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020.pdf
+Keep:        THESE_Main_Library/Screening selected medicinal plants for potent.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #304
+Remove:      THESE_Main_Library/3273593370/Sceletium tortuosum may delay chronic disease.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum may delay chronic disease.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #305
+Remove:      THESE_Main_Library/4099370051/Sceletium tortuosum may delay chronic disease.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum may delay chronic disease.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #306
+Remove:      DRAFTSS_Working/Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018.pdf
+Keep:        THESE_Main_Library/Sceletium tortuosum may delay chronic disease.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #307
+Remove:      THESE_Main_Library/3363858398/DETERMINANTS OF ADDICTION.pdf
+Keep:        THESE_Main_Library/DETERMINANTS OF ADDICTION.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #308
+Remove:      THESE_Main_Library/3904430881/DETERMINANTS OF ADDICTION.pdf
+Keep:        THESE_Main_Library/DETERMINANTS OF ADDICTION.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #309
+Remove:      DRAFTSS_Working/Yates_2023_Determinants of addiction.pdf
+Keep:        THESE_Main_Library/DETERMINANTS OF ADDICTION.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #310
+Remove:      THESE_Main_Library/3364317337/The future is written_ Impact of scripts on th.pdf
+Keep:        THESE_Main_Library/The future is written_ Impact of scripts on th.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #311
+Remove:      THESE_Main_Library/3451592334/The future is written_ Impact of scripts on th.pdf
+Keep:        THESE_Main_Library/The future is written_ Impact of scripts on th.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #312
+Remove:      DRAFTSS_Working/Leonti_2011_The future is written.pdf
+Keep:        THESE_Main_Library/The future is written_ Impact of scripts on th.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 120.0
+Reason:      Preferred directory: THESE_Main_Library; More descriptive filename
+
+FILE #313
+Remove:      THESE_Main_Library/3475156585/THE-LOST-HISTORY-OF-KHOI-SAN.pdf
+Keep:        THESE_Main_Library/THE-LOST-HISTORY-OF-KHOI-SAN.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #314
+Remove:      THESE_Main_Library/3673708749/Ethnopharmacology and biological activities of.pdf
+Keep:        THESE_Main_Library/Ethnopharmacology and biological activities of.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #315
+Remove:      THESE_Main_Library/4148979834/Ethnopharmacology and biological activities of.pdf
+Keep:        THESE_Main_Library/Ethnopharmacology and biological activities of.pdf
+Size:        0.0 B
+Score (rm):  105.0
+Score (keep): 115.0
+Reason:      Higher overall score
+
+FILE #316
+Remove:      DRAFTSS_Working/Kalicharan_2023_Ethnopharmacology and biological activities of the Aizoaceae.pdf
+Keep:        THESE_Main_Library/Ethnopharmacology and biological activities of.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 115.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #317
+Remove:      THESE_Main_Library/3888992697/1098 J.C.S. Perkin I1.pdf
+Keep:        THESE_Main_Library/1098 J.C.S. Perkin I1.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #318
+Remove:      THESE_Main_Library/4105170100/1098 J.C.S. Perkin I1.pdf
+Keep:        THESE_Main_Library/1098 J.C.S. Perkin I1.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #319
+Remove:      DRAFTSS_Working/Capps_1977_Sceletium alkaloids.pdf
+Keep:        THESE_Main_Library/1098 J.C.S. Perkin I1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 110.0
+Reason:      Preferred directory: THESE_Main_Library
+
+FILE #320
+Remove:      THESE_Main_Library/4068276964/Mesembrine_ The archetypal psycho-active Scele.pdf
+Keep:        THESE_Main_Library/Mesembrine_ The archetypal psycho-active Scele.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #321
+Remove:      THESE_Main_Library/4177226116/Mesembrine_ The archetypal psycho-active Scele.pdf
+Keep:        THESE_Main_Library/Mesembrine_ The archetypal psycho-active Scele.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 120.0
+Reason:      Higher overall score
+
+FILE #322
+Remove:      THESE_Main_Library/4123289578/64420-1.pdf
+Keep:        THESE_Main_Library/64420-1.pdf
+Size:        0.0 B
+Score (rm):  100.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #323
+Remove:      THESE_Main_Library/2018339954/Sceletium tortuosum_ A review on its phytochem.pdf
+Keep:        THESE_Main_Library/0093216941/Sceletium tortuosum_ A review on its phytochem.pdf
+Size:        0.0 B
+Score (rm):  110.0
+Score (keep): 110.0
+Reason:      Higher overall score
+
+FILE #324
+Remove:      Other_Collections/Kabbos Kwain The Past Present and Possible.pdf
+Keep:        ZOTPDF_References/2018 - Ethnopharmacologic search for psychoactive drugs 50 years of research 1967-2017.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #325
+Remove:      DRAFTSS_Working/2018 - Ethnopharmacologic search for psychoactive drugs 50 years of research 1967-2017.pdf
+Keep:        ZOTPDF_References/2018 - Ethnopharmacologic search for psychoactive drugs 50 years of research 1967-2017.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #326
+Remove:      DRAFTSS_Working/Akinyede et al. - 2020 - Ethnopharmacology, Therapeutic Properties and Nutritional Potentials of Carpobrotus edulis A Compre.pdf
+Keep:        ZOTPDF_References/Akinyede et al. - 2020 - Ethnopharmacology, Therapeutic Properties and Nutritional Potentials of Carpobrotus edulis A Compre.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #327
+Remove:      Other_Collections/Gericke et al An acute doseranging evaluation of the antidepres.pdf
+Keep:        ZOTPDF_References/Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®).pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #328
+Remove:      DRAFTSS_Working/An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021-1.pdf
+Keep:        ZOTPDF_References/Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®).pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #329
+Remove:      DRAFTSS_Working/An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021-2.pdf
+Keep:        ZOTPDF_References/Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®)-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #330
+Remove:      DRAFTSS_Working/A Phytochemical and Biological Review on Plants ofJournal of Advanced Pharmacy RYoussifEtAl2019.pdf
+Keep:        ZOTPDF_References/Youssif et al. - 2019 - A Phytochemical and Biological Review on Plants of The family Aizoaceae.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #331
+Remove:      DRAFTSS_Working/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse-1.pdf
+Keep:        ZOTPDF_References/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #332
+Remove:      Other_Collections/Avchalumov and Mandyam Plasticity in the Hippocampus Neurogenesis and Dr.pdf
+Keep:        ZOTPDF_References/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #333
+Remove:      DRAFTSS_Working/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+Keep:        ZOTPDF_References/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #334
+Remove:      Other_Collections/Strengthening indigenous governance benefit s.pdf
+Keep:        ZOTPDF_References/Bank_2004_1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #335
+Remove:      DRAFTSS_Working/Bank_2004_1.pdf
+Keep:        ZOTPDF_References/Bank_2004_1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #336
+Remove:      Other_Collections/Bolger The PDE cAMPSpecific Phosphodiesterases Targets.pdf
+Keep:        ZOTPDF_References/Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets for Drugs with Antidepressant and Memory-Enhancin.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #337
+Remove:      DRAFTSS_Working/Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets for Drugs with Antidepressant and Memory-Enhancin.pdf
+Keep:        ZOTPDF_References/Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets for Drugs with Antidepressant and Memory-Enhancin.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #338
+Remove:      DRAFTSS_Working/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac-1.pdf
+Keep:        ZOTPDF_References/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #339
+Remove:      Other_Collections/Bonokwane et al Antidepressant Effects of South African Plants An.pdf
+Keep:        ZOTPDF_References/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #340
+Remove:      DRAFTSS_Working/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac.pdf
+Keep:        ZOTPDF_References/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #341
+Remove:      Other_Collections/Brendler et al Sceletium for Managing Anxiety Depression and Cog.pdf
+Keep:        ZOTPDF_References/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cognitive Impairment A Traditional Herbal Medicine i.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #342
+Remove:      DRAFTSS_Working/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cognitive Impairment A Traditional Herbal Medicine i.pdf
+Keep:        ZOTPDF_References/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cognitive Impairment A Traditional Herbal Medicine i.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #343
+Remove:      Other_Collections/Capps et al Sceletium alkaloids Part Structure and absolut.pdf
+Keep:        ZOTPDF_References/Capps et al. - 1977 - 1098 J.C.S. Perkin II Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Me.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #344
+Remove:      DRAFTSS_Working/Capps et al. - 1977 - 1098 J.C.S. Perkin II Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Me.pdf
+Keep:        ZOTPDF_References/Capps et al. - 1977 - 1098 J.C.S. Perkin II Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Me.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #345
+Remove:      Other_Collections/Dimpfel et al Effect of Zembrin and four of its alkaloid const.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid constituents on electric excitability of the rat hippoc.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #346
+Remove:      DRAFTSS_Working/Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018-1.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid constituents on electric excitability of the rat hippoc.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #347
+Remove:      DRAFTSS_Working/Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018-2.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid constituents on electric excitability of the rat hippoc-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #348
+Remove:      DRAFTSS_Working/Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016-1.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #349
+Remove:      Other_Collections/Dimpfel et al Electropharmacogram of Sceletium tortuosum extract.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #350
+Remove:      DRAFTSS_Working/Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #351
+Remove:      DRAFTSS_Working/El-Raouf - 2021 - Taxonomic significance of leaves in family Aizoaceae.pdf
+Keep:        ZOTPDF_References/El-Raouf - 2021 - Taxonomic significance of leaves in family Aizoaceae.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #352
+Remove:      DRAFTSS_Working/Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019-1.pdf
+Keep:        ZOTPDF_References/Druart et Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disorders.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #353
+Remove:      Other_Collections/Druart and Le Magueresse Emerging Roles of Complement in Psychiatric Disord.pdf
+Keep:        ZOTPDF_References/Druart et Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disorders-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #354
+Remove:      DRAFTSS_Working/Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019-2.pdf
+Keep:        ZOTPDF_References/Druart et Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disorders-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #355
+Remove:      Other_Collections/Hoffman et al Ergogenic Effects of Days of Sceletium Tortuosum.pdf
+Keep:        ZOTPDF_References/Hoffman et al. - 2020 - Ergogenic Effects of 8 Days of Sceletium Tortuosum Supplementation on Mood, Visual Tracking, and Rea.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #356
+Remove:      DRAFTSS_Working/Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020-1.pdf
+Keep:        ZOTPDF_References/Hoffman et al. - 2020 - Ergogenic Effects of 8 Days of Sceletium Tortuosum Supplementation on Mood, Visual Tracking, and Rea.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #357
+Remove:      Other_Collections/Chiu and Raheb Exploring Zembrin Extract Derived from South Afric.pdf
+Keep:        ZOTPDF_References/Chiu et Raheb - 2015 - Exploring Zembrin Extract Derived from South African Plant, Sceletium tortuosum in Targeting cAMP-dr.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #358
+Remove:      DRAFTSS_Working/Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015-1.pdf
+Keep:        ZOTPDF_References/Chiu et Raheb - 2015 - Exploring Zembrin Extract Derived from South African Plant, Sceletium tortuosum in Targeting cAMP-dr.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #359
+Remove:      DRAFTSS_Working/Güldemann et Fehn - 2014 - Beyond Khoisan historical relations in the Kalahari basin.pdf
+Keep:        ZOTPDF_References/Güldemann et Fehn - 2014 - Beyond Khoisan historical relations in the Kalahari basin.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #360
+Remove:      DRAFTSS_Working/Güldemann_unknown.pdf
+Keep:        ZOTPDF_References/Güldemann_unknown.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #361
+Remove:      DRAFTSS_Working/HARTMANN_2000.pdf
+Keep:        ZOTPDF_References/HARTMANN_2000.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #362
+Remove:      Other_Collections/Coetzee et al Highmesembrine Sceletium extract Trimesemine.pdf
+Keep:        ZOTPDF_References/Coetzee et al. - 2016 - High-mesembrine Sceletium extract (Trimesemine™) is a monoamine releasing agent, rather than only a.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #363
+Remove:      DRAFTSS_Working/High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016-1.pdf
+Keep:        ZOTPDF_References/Coetzee et al. - 2016 - High-mesembrine Sceletium extract (Trimesemine™) is a monoamine releasing agent, rather than only a.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #364
+Remove:      DRAFTSS_Working/Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018-1.pdf
+Keep:        ZOTPDF_References/Bennett et Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro  Implications fo-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #365
+Remove:      Other_Collections/Bennett and Smith Immunomodulatory effects of Sceletium tortuosum T.pdf
+Keep:        ZOTPDF_References/Bennett et Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro  Implications fo.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #366
+Remove:      DRAFTSS_Working/Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018.pdf
+Keep:        ZOTPDF_References/Bennett et Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro  Implications fo.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #367
+Remove:      DRAFTSS_Working/Johansen et M. Bauer - 2024 - Reconceptualizing the Archaeology of Southern India Beyond Periodization and Toward a Politics of P.pdf
+Keep:        ZOTPDF_References/Johansen et M. Bauer - 2024 - Reconceptualizing the Archaeology of Southern India Beyond Periodization and Toward a Politics of P.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #368
+Remove:      Other_Collections/Kalicharan et al Ethnopharmacology and biological activities of the.pdf
+Keep:        ZOTPDF_References/Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the Aizoaceae.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #369
+Remove:      DRAFTSS_Working/Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the Aizoaceae.pdf
+Keep:        ZOTPDF_References/Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the Aizoaceae.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #370
+Remove:      Other_Collections/Kapewangolo et al Sceletium tortuosum demonstrates in vitro antiHIV.pdf
+Keep:        ZOTPDF_References/Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #371
+Remove:      DRAFTSS_Working/Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.pdf
+Keep:        ZOTPDF_References/Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #372
+Remove:      Other_Collections/Royston A et al Kh but Not Other Tested Alkaloids Derived.pdf
+Keep:        ZOTPDF_References/A_2023.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #373
+Remove:      DRAFTSS_Working/KH-001 BUT NOT OTHER TESTED ALKALOIDS DERIVED FROM.pdf
+Keep:        ZOTPDF_References/A_2023.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #374
+Remove:      DRAFTSS_Working/King - 2019 - Outlaws, Anxiety, and Disorder in Southern Africa Material Histories of the Maloti-Drakensberg.pdf
+Keep:        ZOTPDF_References/King - 2019 - Outlaws, Anxiety, and Disorder in Southern Africa Material Histories of the Maloti-Drakensberg.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #375
+Remove:      DRAFTSS_Working/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae)-1.pdf
+Keep:        ZOTPDF_References/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae)-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #376
+Remove:      Other_Collections/Klak et al Out of southern Africa Origin biogeography and a.pdf
+Keep:        ZOTPDF_References/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae).pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #377
+Remove:      DRAFTSS_Working/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae).pdf
+Keep:        ZOTPDF_References/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae).pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #378
+Remove:      Other_Collections/Koob and Volkow Neurobiology of addiction a neurocircuitry analys.pdf
+Keep:        ZOTPDF_References/Koob et Volkow - 2016 - Neurobiology of addiction a neurocircuitry analysis.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #379
+Remove:      DRAFTSS_Working/Koob et Volkow - 2016 - Neurobiology of addiction a neurocircuitry analysis.pdf
+Keep:        ZOTPDF_References/Koob et Volkow - 2016 - Neurobiology of addiction a neurocircuitry analysis.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #380
+Remove:      Other_Collections/Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+Keep:        ZOTPDF_References/Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #381
+Remove:      DRAFTSS_Working/Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+Keep:        ZOTPDF_References/Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #382
+Remove:      Other_Collections/Krstenansky Mesembrine alkaloids Review of their occurrence.pdf
+Keep:        ZOTPDF_References/Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, chemistry, and pharmacology.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #383
+Remove:      DRAFTSS_Working/Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, chemistry, and pharmacology.pdf
+Keep:        ZOTPDF_References/Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, chemistry, and pharmacology.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #384
+Remove:      Other_Collections/Leonti The future is written Impact of scripts on the co.pdf
+Keep:        ZOTPDF_References/Leonti - 2011 - The future is written Impact of scripts on the cognition, selection, knowledge and transmission of.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #385
+Remove:      DRAFTSS_Working/Leonti - 2011 - The future is written Impact of scripts on the cognition, selection, knowledge and transmission of.pdf
+Keep:        ZOTPDF_References/Leonti - 2011 - The future is written Impact of scripts on the cognition, selection, knowledge and transmission of.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #386
+Remove:      Other_Collections/Lewis Addiction and the Brain Development Not Disease.pdf
+Keep:        ZOTPDF_References/Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #387
+Remove:      DRAFTSS_Working/Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+Keep:        ZOTPDF_References/Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #388
+Remove:      DRAFTSS_Working/Low - 2007 - Different Histories of Buchu Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Pla.pdf
+Keep:        ZOTPDF_References/Low - 2007 - Different Histories of Buchu Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Pla.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #389
+Remove:      Other_Collections/Chris Low Wind Life Health Anthropological and Historical.pdf
+Keep:        ZOTPDF_References/Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #390
+Remove:      DRAFTSS_Working/Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+Keep:        ZOTPDF_References/Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #391
+Remove:      Other_Collections/Low Khoisan Wind Hunting and Healing.pdf
+Keep:        ZOTPDF_References/Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #392
+Remove:      DRAFTSS_Working/Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+Keep:        ZOTPDF_References/Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #393
+Remove:      Other_Collections/Luo et al A network pharmacologybased approach to explore t.pdf
+Keep:        ZOTPDF_References/Luo et al. - 2022 - A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #394
+Remove:      DRAFTSS_Working/Luo et al. - 2022 - A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in.pdf
+Keep:        ZOTPDF_References/Luo et al. - 2022 - A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #395
+Remove:      DRAFTSS_Working/Magill et al. - 1981 - Bryophyta.pdf
+Keep:        ZOTPDF_References/Magill et al. - 1981 - Bryophyta.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #396
+Remove:      ZOTPDF_References/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi.pdf
+Keep:        ZOTPDF_References/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi-1.pdf
+Size:        0.0 B
+Score (rm):  90.0
+Score (keep): 90.0
+Reason:      Higher overall score
+
+FILE #397
+Remove:      DRAFTSS_Working/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi.pdf
+Keep:        ZOTPDF_References/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #398
+Remove:      DRAFTSS_Working/Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020-1.pdf
+Keep:        ZOTPDF_References/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #399
+Remove:      DRAFTSS_Working/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid-1.pdf
+Keep:        ZOTPDF_References/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #400
+Remove:      Other_Collections/Makolo et al Mesembrine The archetypal psychoactive Sceletium.pdf
+Keep:        ZOTPDF_References/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #401
+Remove:      DRAFTSS_Working/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid.pdf
+Keep:        ZOTPDF_References/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #402
+Remove:      Other_Collections/Manda et al Quantification of mesembrine and mesembrenone in m.pdf
+Keep:        ZOTPDF_References/Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS Application to a.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #403
+Remove:      DRAFTSS_Working/Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS Application to a.pdf
+Keep:        ZOTPDF_References/Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS Application to a.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #404
+Remove:      Other_Collections/Manganyi et al Antibacterial activity of endophytic fungi isolate.pdf
+Keep:        ZOTPDF_References/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #405
+Remove:      DRAFTSS_Working/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)-1.pdf
+Keep:        ZOTPDF_References/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #406
+Remove:      DRAFTSS_Working/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed).pdf
+Keep:        ZOTPDF_References/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed).pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #407
+Remove:      Other_Collections/Manganyi et al A Chewable Cure Kanna Biological and Pharmaceut.pdf
+Keep:        ZOTPDF_References/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #408
+Remove:      DRAFTSS_Working/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum-1.pdf
+Keep:        ZOTPDF_References/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #409
+Remove:      DRAFTSS_Working/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum.pdf
+Keep:        ZOTPDF_References/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #410
+Remove:      Other_Collections/Maphanga et al Mesembryanthemum tortuosum L alkaloids modify anx.pdf
+Keep:        ZOTPDF_References/Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #411
+Remove:      DRAFTSS_Working/Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model.pdf
+Keep:        ZOTPDF_References/Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #412
+Remove:      DRAFTSS_Working/Martorell et Ezcurra - 2007 - The narrow-leaf syndrome a functional and evolutionary approach to the form of fog-harvesting roset.pdf
+Keep:        ZOTPDF_References/Martorell et Ezcurra - 2007 - The narrow-leaf syndrome a functional and evolutionary approach to the form of fog-harvesting roset.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #413
+Remove:      Other_Collections/Swart and Smith Modulation of glucocorticoid mineralocorticoid an.pdf
+Keep:        ZOTPDF_References/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #414
+Remove:      DRAFTSS_Working/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection-1.pdf
+Keep:        ZOTPDF_References/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #415
+Remove:      Other_Collections/Meyer et al GCMS LCMSn LChigh resolutionMSn and NMR stu.pdf
+Keep:        ZOTPDF_References/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #416
+Remove:      DRAFTSS_Working/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection.pdf
+Keep:        ZOTPDF_References/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #417
+Remove:      DRAFTSS_Working/Mitchell_2022_1.pdf
+Keep:        ZOTPDF_References/Mitchell_2022_1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #418
+Remove:      DRAFTSS_Working/Morris_2009.pdf
+Keep:        ZOTPDF_References/Morris_2009.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #419
+Remove:      Other_Collections/Nell et al A Randomized DoubleBlind ParallelGroup Placeb.pdf
+Keep:        ZOTPDF_References/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #420
+Remove:      DRAFTSS_Working/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos-1.pdf
+Keep:        ZOTPDF_References/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #421
+Remove:      DRAFTSS_Working/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos.pdf
+Keep:        ZOTPDF_References/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #422
+Remove:      Other_Collections/Hofford et al Neuroimmune mechanisms of psychostimulant and opio.pdf
+Keep:        ZOTPDF_References/Hofford et al. - 2019 - Neuroimmune mechanisms of psychostimulant and opioid use disorders.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #423
+Remove:      DRAFTSS_Working/Neuroimmune mechanisms of psychostimulant and opioEuropean Journal of NeuroscienHoffordEtAl2019.pdf
+Keep:        ZOTPDF_References/Hofford et al. - 2019 - Neuroimmune mechanisms of psychostimulant and opioid use disorders.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #424
+Remove:      Other_Collections/ODonnell and Zhang Antidepressant effects of inhibitors of cAMP phosp.pdf
+Keep:        ZOTPDF_References/O'Donnell et Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #425
+Remove:      DRAFTSS_Working/O'Donnell et Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+Keep:        ZOTPDF_References/O'Donnell et Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #426
+Remove:      Other_Collections/Olatunji et al Corrigendum to Sceletium tortuosum A review on i.pdf
+Keep:        ZOTPDF_References/Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological an.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #427
+Remove:      DRAFTSS_Working/Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological an.pdf
+Keep:        ZOTPDF_References/Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological an.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #428
+Remove:      Other_Collections/Olatunji et al Sceletium tortuosum A review on its phytochemistr.pdf
+Keep:        ZOTPDF_References/Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #429
+Remove:      DRAFTSS_Working/Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and.pdf
+Keep:        ZOTPDF_References/Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #430
+Remove:      Other_Collections/Olsen and Liu Phosphodiesterase inhibitors and drugs of abuse.pdf
+Keep:        ZOTPDF_References/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #431
+Remove:      DRAFTSS_Working/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities-1.pdf
+Keep:        ZOTPDF_References/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #432
+Remove:      DRAFTSS_Working/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities.pdf
+Keep:        ZOTPDF_References/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #433
+Remove:      DRAFTSS_Working/One_2023.pdf
+Keep:        ZOTPDF_References/One_2023.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #434
+Remove:      Other_Collections/Oteng Mintah et al Medicinal Plants for Treatment of Prevalent Diseas.pdf
+Keep:        ZOTPDF_References/Oteng Mintah et al. - 2019 - Medicinal Plants for Treatment of Prevalent Diseases.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #435
+Remove:      DRAFTSS_Working/Oteng Mintah et al. - 2019 - Medicinal Plants for Treatment of Prevalent Diseases.pdf
+Keep:        ZOTPDF_References/Oteng Mintah et al. - 2019 - Medicinal Plants for Treatment of Prevalent Diseases.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #436
+Remove:      DRAFTSS_Working/Past Environments and Plant Use in Holocene SoutheMvimi2022.pdf
+Keep:        ZOTPDF_References/Mvimi - 2022 - Past Environments and Plant Use in Holocene Southern Africa.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #437
+Remove:      DRAFTSS_Working/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona-1.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #438
+Remove:      Other_Collections/Patnala and Kanfer HPLC Analysis of MesembrineType Alkaloids in Scel.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #439
+Remove:      DRAFTSS_Working/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #440
+Remove:      Other_Collections/Patnala and Kanfer Chemotaxonomic studies of mesembrinetype alkaloid.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #441
+Remove:      DRAFTSS_Working/Patnala et Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #442
+Remove:      Other_Collections/Patnala and Kanfer Sceletium Plant Species Alkaloidal Components Ch.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #443
+Remove:      DRAFTSS_Working/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology-1.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #444
+Remove:      Other_Collections/Patnala and Kanfer 2017 Sceletium Plant Species Alkaloidal Components Ch.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #445
+Remove:      DRAFTSS_Working/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology.pdf
+Keep:        ZOTPDF_References/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #446
+Remove:      DRAFTSS_Working/PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011-1.pdf
+Keep:        ZOTPDF_References/Diamant et Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obstructive airways disease.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #447
+Remove:      Other_Collections/Diamant and Spina PDEinhibitors A novel targeted therapy for obs.pdf
+Keep:        ZOTPDF_References/Diamant et Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obstructive airways disease-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #448
+Remove:      DRAFTSS_Working/PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011-2.pdf
+Keep:        ZOTPDF_References/Diamant et Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obstructive airways disease-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #449
+Remove:      Other_Collections/Harvey et al Pharmacological actions of the South African medic.pdf
+Keep:        ZOTPDF_References/Harvey et al. - 2011 - Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #450
+Remove:      DRAFTSS_Working/Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011-1.pdf
+Keep:        ZOTPDF_References/Harvey et al. - 2011 - Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #451
+Remove:      DRAFTSS_Working/Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020-1.pdf
+Keep:        ZOTPDF_References/Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review of Psychiatric and Neurological Adverse Effects.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #452
+Remove:      DRAFTSS_Working/Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020-1.pdf
+Keep:        ZOTPDF_References/Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #453
+Remove:      Other_Collections/Bhat et al Phosphodiesterase enzyme as a therapeutic target.pdf
+Keep:        ZOTPDF_References/Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #454
+Remove:      DRAFTSS_Working/Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020-2.pdf
+Keep:        ZOTPDF_References/Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #455
+Remove:      Other_Collections/Pickard et al Alternative Models of Addiction.pdf
+Keep:        ZOTPDF_References/Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #456
+Remove:      DRAFTSS_Working/Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+Keep:        ZOTPDF_References/Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #457
+Remove:      DRAFTSS_Working/Pickrell et al. - 2012 - The genetic prehistory of southern Africa.pdf
+Keep:        ZOTPDF_References/Pickrell et al. - 2012 - The genetic prehistory of southern Africa.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #458
+Remove:      Other_Collections/Chiu et al ProofofConcept Randomized Controlled Study of Co.pdf
+Keep:        ZOTPDF_References/Chiu et al. - 2014 - Proof‐of‐Concept Randomized Controlled Study of Cognition Effects of the Proprietary Extract Scel.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #459
+Remove:      DRAFTSS_Working/Proof-of-Concept Randomized Controlled Study of CoEvidence-Based Complementary aChiuEtAl2014.pdf
+Keep:        ZOTPDF_References/Chiu et al. - 2014 - Proof‐of‐Concept Randomized Controlled Study of Cognition Effects of the Proprietary Extract Scel.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #460
+Remove:      DRAFTSS_Working/Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014-1.pdf
+Keep:        ZOTPDF_References/Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobotanical Research in Southern Africa (Review)-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #461
+Remove:      Other_Collections/JeanFrancois Psychoactive Plants A Neglected Area of Ethnobota.pdf
+Keep:        ZOTPDF_References/Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobotanical Research in Southern Africa (Review).pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #462
+Remove:      DRAFTSS_Working/Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014.pdf
+Keep:        ZOTPDF_References/Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobotanical Research in Southern Africa (Review).pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #463
+Remove:      Other_Collections/Dimpfel et al Psychophysiological Effects of Zembrinltsupgt.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #464
+Remove:      DRAFTSS_Working/Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016-1.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #465
+Remove:      Other_Collections/Dimpfel et al 2016 Psychophysiological Effects of Zembrinltsupgt 3.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #466
+Remove:      DRAFTSS_Working/Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016.pdf
+Keep:        ZOTPDF_References/Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #467
+Remove:      Other_Collections/Reay et al Sceletium tortuosum Zembrin.pdf
+Keep:        ZOTPDF_References/Reay et al. - 2020 - Sceletium tortuosum (Zembrin® ) ameliorates experimentally induced anxiety in heal.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #468
+Remove:      DRAFTSS_Working/Reay et al. - 2020 - Sceletium tortuosum (Zembrin® ) ameliorates experimentally induced anxiety in heal.pdf
+Keep:        ZOTPDF_References/Reay et al. - 2020 - Sceletium tortuosum (Zembrin® ) ameliorates experimentally induced anxiety in heal.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #469
+Remove:      Other_Collections/Stafford Skeletons in the closet Using a bibliometric le.pdf
+Keep:        ZOTPDF_References/Reddy et al. - 2024 - Skeletons in the closet Using a bibliometric lens to visualise phytochemical and pharmacological ac.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #470
+Remove:      DRAFTSS_Working/Reddy et al. - 2024 - Skeletons in the closet Using a bibliometric lens to visualise phytochemical and pharmacological ac.pdf
+Keep:        ZOTPDF_References/Reddy et al. - 2024 - Skeletons in the closet Using a bibliometric lens to visualise phytochemical and pharmacological ac.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #471
+Remove:      Other_Collections/Prasad et al Role of Traditional and Alternative Medicine in Tr.pdf
+Keep:        ZOTPDF_References/Prasad et al. - 2013 - Role of Traditional and Alternative Medicine in Treatment of Ulcerative Colitis.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #472
+Remove:      DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-3.pdf
+Keep:        ZOTPDF_References/Prasad et al. - 2013 - Role of Traditional and Alternative Medicine in Treatment of Ulcerative Colitis.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #473
+Remove:      Other_Collections/Rombaut et al PDE inhibition in distinct cell types to reclaim t.pdf
+Keep:        ZOTPDF_References/Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #474
+Remove:      DRAFTSS_Working/Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity.pdf
+Keep:        ZOTPDF_References/Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #475
+Remove:      Other_Collections/Rothman et al Dopamineserotonin releasers as medications for st.pdf
+Keep:        ZOTPDF_References/Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #476
+Remove:      DRAFTSS_Working/Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions.pdf
+Keep:        ZOTPDF_References/Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #477
+Remove:      Other_Collections/Morris Royal pharmaceuticals Bioprospecting rights and.pdf
+Keep:        ZOTPDF_References/Morris - 2016 - Royal pharmaceuticals Bioprospecting, rights, and traditional authority in South Africa.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #478
+Remove:      DRAFTSS_Working/Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016-1.pdf
+Keep:        ZOTPDF_References/Morris - 2016 - Royal pharmaceuticals Bioprospecting, rights, and traditional authority in South Africa.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #479
+Remove:      Other_Collections/Sarris et al Plantbased Medicines Phytoceuticals in the Trea.pdf
+Keep:        ZOTPDF_References/Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders A Meta-review of M.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #480
+Remove:      DRAFTSS_Working/Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders A Meta-review of M.pdf
+Keep:        ZOTPDF_References/Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders A Meta-review of M.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #481
+Remove:      Other_Collections/Gericke and Viljoen SceletiumA review update.pdf
+Keep:        ZOTPDF_References/Gericke et Viljoen - 2008 - Sceletium—A review update-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #482
+Remove:      DRAFTSS_Working/Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008-1.pdf
+Keep:        ZOTPDF_References/Gericke et Viljoen - 2008 - Sceletium—A review update-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #483
+Remove:      DRAFTSS_Working/Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008.pdf
+Keep:        ZOTPDF_References/Gericke et Viljoen - 2008 - Sceletium—A review update.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #484
+Remove:      Other_Collections/Gericke et al Sceletium tortuosumderived mesembrine significant.pdf
+Keep:        ZOTPDF_References/Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #485
+Remove:      DRAFTSS_Working/Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024-1.pdf
+Keep:        ZOTPDF_References/Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #486
+Remove:      DRAFTSS_Working/Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024-2.pdf
+Keep:        ZOTPDF_References/Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #487
+Remove:      DRAFTSS_Working/Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020-1.pdf
+Keep:        ZOTPDF_References/Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous System and Related Disease.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #488
+Remove:      Other_Collections/Wen et al Sceletium Tortuosum Effects on Central Nervous Sy.pdf
+Keep:        ZOTPDF_References/Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous System and Related Disease-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #489
+Remove:      DRAFTSS_Working/Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020-2.pdf
+Keep:        ZOTPDF_References/Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous System and Related Disease-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #490
+Remove:      DRAFTSS_Working/Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018-1.pdf
+Keep:        ZOTPDF_References/Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #491
+Remove:      Other_Collections/Bennett et al Sceletium tortuosum may delay chronic disease prog.pdf
+Keep:        ZOTPDF_References/Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #492
+Remove:      DRAFTSS_Working/Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018-2.pdf
+Keep:        ZOTPDF_References/Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #493
+Remove:      Other_Collections/Schifano et al Novel psychoactive substances of interest for psyc.pdf
+Keep:        ZOTPDF_References/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #494
+Remove:      DRAFTSS_Working/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry-1.pdf
+Keep:        ZOTPDF_References/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #495
+Remove:      DRAFTSS_Working/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry.pdf
+Keep:        ZOTPDF_References/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #496
+Remove:      Other_Collections/Maphanga et al Screening selected medicinal plants for potential.pdf
+Keep:        ZOTPDF_References/Maphanga et al. - 2020 - Screening selected medicinal plants for potential anxiolytic activity using an in vivo zebrafish mod.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #497
+Remove:      DRAFTSS_Working/Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020-2.pdf
+Keep:        ZOTPDF_References/Maphanga et al. - 2020 - Screening selected medicinal plants for potential anxiolytic activity using an in vivo zebrafish mod.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #498
+Remove:      Other_Collections/Shikanga et al In Vitro Permeation of Mesembrine Alkaloids.pdf
+Keep:        ZOTPDF_References/Shikanga et al. - 2012 - In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Bu.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #499
+Remove:      DRAFTSS_Working/Shikanga et al. - 2012 - In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Bu.pdf
+Keep:        ZOTPDF_References/Shikanga et al. - 2012 - In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Bu.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #500
+Remove:      DRAFTSS_Working/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations-1.pdf
+Keep:        ZOTPDF_References/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #501
+Remove:      Other_Collections/Shikanga et al The chemotypic variation of Sceletium tortuosum al.pdf
+Keep:        ZOTPDF_References/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #502
+Remove:      DRAFTSS_Working/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations.pdf
+Keep:        ZOTPDF_References/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #503
+Remove:      Other_Collections/Sibeko et al Traditional perinatal plant knowledge in SubSahar.pdf
+Keep:        ZOTPDF_References/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #504
+Remove:      DRAFTSS_Working/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary-1.pdf
+Keep:        ZOTPDF_References/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #505
+Remove:      DRAFTSS_Working/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary.pdf
+Keep:        ZOTPDF_References/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #506
+Remove:      Other_Collections/Smith The effects of Sceletium tortuosum in an in vivo m.pdf
+Keep:        ZOTPDF_References/Smith - 2011 - The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #507
+Remove:      DRAFTSS_Working/Smith - 2011 - The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf
+Keep:        ZOTPDF_References/Smith - 2011 - The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #508
+Remove:      Other_Collections/THELOSTHISTORYOFKHOISAN.pdf
+Keep:        ZOTPDF_References/Smith_unknown.pdf
+Size:        0.0 B
+Score (rm):  60.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #509
+Remove:      DRAFTSS_Working/Smith_unknown.pdf
+Keep:        ZOTPDF_References/Smith_unknown.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #510
+Remove:      Other_Collections/De Smet Some ethnopharmacological notes on African halluci.pdf
+Keep:        ZOTPDF_References/De Smet - 1996 - Some ethnopharmacological notes on African hallucinogens.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #511
+Remove:      DRAFTSS_Working/Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996-1.pdf
+Keep:        ZOTPDF_References/De Smet - 1996 - Some ethnopharmacological notes on African hallucinogens.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #512
+Remove:      Other_Collections/ZembeMkabile SAMANTHA REINDERS FOR NATURE.pdf
+Keep:        ZOTPDF_References/Nordling_2018.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #513
+Remove:      DRAFTSS_Working/SOUTH  AFRICAN  SCIENCE  FACES  ITS  FUTURE.pdf
+Keep:        ZOTPDF_References/Nordling_2018.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #514
+Remove:      DRAFTSS_Working/Spina - 2008 - PDE4 inhibitors current status-1.pdf
+Keep:        ZOTPDF_References/Spina - 2008 - PDE4 inhibitors current status-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #515
+Remove:      Other_Collections/Spina PDE inhibitors current status.pdf
+Keep:        ZOTPDF_References/Spina - 2008 - PDE4 inhibitors current status.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #516
+Remove:      DRAFTSS_Working/Spina - 2008 - PDE4 inhibitors current status.pdf
+Keep:        ZOTPDF_References/Spina - 2008 - PDE4 inhibitors current status.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #517
+Remove:      Other_Collections/Sreekissoon et al In vitro and ex vivo vegetative propagation and cy.pdf
+Keep:        ZOTPDF_References/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E.-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #518
+Remove:      DRAFTSS_Working/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E.-1.pdf
+Keep:        ZOTPDF_References/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E.-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #519
+Remove:      DRAFTSS_Working/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E..pdf
+Keep:        ZOTPDF_References/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E..pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #520
+Remove:      Other_Collections/Stafford et al Review on plants with CNSeffects used in traditio.pdf
+Keep:        ZOTPDF_References/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #521
+Remove:      DRAFTSS_Working/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases-1.pdf
+Keep:        ZOTPDF_References/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #522
+Remove:      DRAFTSS_Working/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases.pdf
+Keep:        ZOTPDF_References/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #523
+Remove:      DRAFTSS_Working/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma-1.pdf
+Keep:        ZOTPDF_References/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #524
+Remove:      Other_Collections/Terburg et al Acute effects of Sceletium tortuosum Zembrin a.pdf
+Keep:        ZOTPDF_References/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #525
+Remove:      DRAFTSS_Working/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma.pdf
+Keep:        ZOTPDF_References/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #526
+Remove:      Other_Collections/Schultes The Botanical and Chemical Distribution of Halluci.pdf
+Keep:        ZOTPDF_References/Schultes - 1970 - The Botanical and Chemical Distribution of Hallucinogens.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #527
+Remove:      DRAFTSS_Working/The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970-1.pdf
+Keep:        ZOTPDF_References/Schultes - 1970 - The Botanical and Chemical Distribution of Hallucinogens.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #528
+Remove:      DRAFTSS_Working/The Changing PastA Companion to Creative WritinHall.pdf
+Keep:        ZOTPDF_References/Hall - The Changing Past.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #529
+Remove:      DRAFTSS_Working/The ecology and management of biological invasions in Southern Africa.pdf
+Keep:        ZOTPDF_References/The ecology and management of biological invasions in Southern Africa.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 85.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #530
+Remove:      Other_Collections/James Faber et al The Importance of Sceletium tortuosum L.pdf
+Keep:        ZOTPDF_References/James Faber et al. - 2022 - The Importance of Sceletium tortuosum (L.) N.E. Brown and Its Viability as a Traditional Afri.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #531
+Remove:      DRAFTSS_Working/The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022-1.pdf
+Keep:        ZOTPDF_References/James Faber et al. - 2022 - The Importance of Sceletium tortuosum (L.) N.E. Brown and Its Viability as a Traditional Afri.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #532
+Remove:      Other_Collections/Wen et al The Phosphodiesterase span stylefontvarian.pdf
+Keep:        ZOTPDF_References/Wen et al. - 2012 - The Phosphodiesterase‐4 ( PDE 4) Inhibitor Rolipram De.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #533
+Remove:      DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-3.pdf
+Keep:        ZOTPDF_References/Wen et al. - 2012 - The Phosphodiesterase‐4 ( PDE 4) Inhibitor Rolipram De.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #534
+Remove:      Other_Collections/Chen and Viljoen To ferment or not to ferment Sceletium tortuosum.pdf
+Keep:        ZOTPDF_References/Chen et Viljoen - 2019 - To ferment or not to ferment Sceletium tortuosum – Do our ancestors hold the answer.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #535
+Remove:      DRAFTSS_Working/To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019-1.pdf
+Keep:        ZOTPDF_References/Chen et Viljoen - 2019 - To ferment or not to ferment Sceletium tortuosum – Do our ancestors hold the answer.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #536
+Remove:      Other_Collections/Torregrossa and Taylor Learning to forget manipulating extinction and re.pdf
+Keep:        ZOTPDF_References/Torregrossa et Taylor - 2013 - Learning to forget manipulating extinction and reconsolidation processes to treat addiction.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #537
+Remove:      DRAFTSS_Working/Torregrossa et Taylor - 2013 - Learning to forget manipulating extinction and reconsolidation processes to treat addiction.pdf
+Keep:        ZOTPDF_References/Torregrossa et Taylor - 2013 - Learning to forget manipulating extinction and reconsolidation processes to treat addiction.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #538
+Remove:      Other_Collections/Fajemiroye et al Treatment of anxiety and depression medicinal pla.pdf
+Keep:        ZOTPDF_References/Fajemiroye et al. - 2016 - Treatment of anxiety and depression medicinal plants in retrospect.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #539
+Remove:      DRAFTSS_Working/Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016-1.pdf
+Keep:        ZOTPDF_References/Fajemiroye et al. - 2016 - Treatment of anxiety and depression medicinal plants in retrospect.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #540
+Remove:      Other_Collections/Valente et al Correlates of hyperdiversity in southern African i.pdf
+Keep:        ZOTPDF_References/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #541
+Remove:      DRAFTSS_Working/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea-1.pdf
+Keep:        ZOTPDF_References/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #542
+Remove:      DRAFTSS_Working/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea.pdf
+Keep:        ZOTPDF_References/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #543
+Remove:      Other_Collections/Van Wyk A broad review of commercially important southern.pdf
+Keep:        ZOTPDF_References/Van Wyk - 2008 - A broad review of commercially important southern African medicinal plants.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #544
+Remove:      DRAFTSS_Working/Van Wyk - 2008 - A broad review of commercially important southern African medicinal plants.pdf
+Keep:        ZOTPDF_References/Van Wyk - 2008 - A broad review of commercially important southern African medicinal plants.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #545
+Remove:      Other_Collections/Van Wyk A review of KhoiSan and Cape Dutch medical ethnob.pdf
+Keep:        ZOTPDF_References/Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #546
+Remove:      DRAFTSS_Working/Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+Keep:        ZOTPDF_References/Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #547
+Remove:      Other_Collections/Van Wyk The potential of South African plants in the devel.pdf
+Keep:        ZOTPDF_References/Van Wyk - 2011 - The potential of South African plants in the development of new medicinal products.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #548
+Remove:      DRAFTSS_Working/Van Wyk - 2011 - The potential of South African plants in the development of new medicinal products.pdf
+Keep:        ZOTPDF_References/Van Wyk - 2011 - The potential of South African plants in the development of new medicinal products.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #549
+Remove:      Other_Collections/Van Wyk and Moteetee Ethnobotanical research in subSaharan Africa.pdf
+Keep:        ZOTPDF_References/Van Wyk et Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #550
+Remove:      DRAFTSS_Working/Van Wyk et Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about.pdf
+Keep:        ZOTPDF_References/Van Wyk et Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #551
+Remove:      Other_Collections/Faber et al Variabilities in alkaloid concentration of Sceleti.pdf
+Keep:        ZOTPDF_References/Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #552
+Remove:      DRAFTSS_Working/Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020-1.pdf
+Keep:        ZOTPDF_References/Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #553
+Remove:      DRAFTSS_Working/Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020-2.pdf
+Keep:        ZOTPDF_References/Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different-1.pdf
+Size:        0.0 B
+Score (rm):  45.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #554
+Remove:      DRAFTSS_Working/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation-1.pdf
+Keep:        ZOTPDF_References/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation-1.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #555
+Remove:      Other_Collections/Wynberg Biopiracy Crying wolf or a lever for equity and.pdf
+Keep:        ZOTPDF_References/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #556
+Remove:      DRAFTSS_Working/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation.pdf
+Keep:        ZOTPDF_References/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #557
+Remove:      Other_Collections/Yates Determinants of addiction neurobiological behavi.pdf
+Keep:        ZOTPDF_References/Yates - 2023 - Determinants of addiction neurobiological, behavioral, cognitive, and sociocultural factors.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #558
+Remove:      DRAFTSS_Working/Yates - 2023 - Determinants of addiction neurobiological, behavioral, cognitive, and sociocultural factors.pdf
+Keep:        ZOTPDF_References/Yates - 2023 - Determinants of addiction neurobiological, behavioral, cognitive, and sociocultural factors.pdf
+Size:        0.0 B
+Score (rm):  50.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References
+
+FILE #559
+Remove:      Other_Collections/Digby SelfMedication and the Trade in Medicine within a.pdf
+Keep:        ZOTPDF_References/Digby - 2005 - Self-Medication and the Trade in Medicine within a Multi-Ethnic Context A Case Study of South Afric.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #560
+Remove:      Other_Collections/Murbach et al A toxicological safety assessment of a standardize.pdf
+Keep:        ZOTPDF_References/Murbach et al. - 2014 - A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin®) in rat.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #561
+Remove:      Other_Collections/Namba et al Neuroimmune Mechanisms as Novel Treatment Targets.pdf
+Keep:        ZOTPDF_References/Namba et al. - 2021 - Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders and Associated Comorbi-1.pdf
+Size:        0.0 B
+Score (rm):  65.0
+Score (keep): 90.0
+Reason:      Preferred directory: ZOTPDF_References; More descriptive filename
+
+FILE #562
+Remove:      Other_Collections/Avchalumov and Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Dr.pdf
+Keep:        Other_Collections/Avchalumov and Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Dr 2.pdf
+Size:        0.0 B
+Score (rm):  70.0
+Score (keep): 70.0
+Reason:      Higher overall score
+
+FILE #563
+Remove:      Other_Collections/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog 2.pdf
+Keep:        Other_Collections/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog 2-1.pdf
+Size:        0.0 B
+Score (rm):  70.0
+Score (keep): 70.0
+Reason:      Higher overall score
+
+FILE #564
+Remove:      Other_Collections/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog.pdf
+Keep:        Other_Collections/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog 2-1.pdf
+Size:        0.0 B
+Score (rm):  70.0
+Score (keep): 70.0
+Reason:      Higher overall score
+
+FILE #565
+Remove:      Other_Collections/Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review .pdf
+Keep:        Other_Collections/Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review  2-1.pdf
+Size:        0.0 B
+Score (rm):  70.0
+Score (keep): 70.0
+Reason:      Higher overall score

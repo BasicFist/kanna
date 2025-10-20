@@ -1,0 +1,2859 @@
+================================================================================
+DUPLICATE FILES REPORT
+Generated: 2025-10-03T12:56:00.693353
+================================================================================
+
+Total duplicate sets: 254
+Total duplicate files: 565
+
+
+================================================================================
+DUPLICATE SET #1
+Hash: dee93e3293dc5c5be04e1d65ac71e8a4
+Files: 6
+Size: 453.6 KB
+Wasted space: 2.2 MB
+
+  - THESE_Main_Library/0011257478/Neuroimmune mechanisms of psychostimulant and.pdf
+  - THESE_Main_Library/1595173392/Neuroimmune mechanisms of psychostimulant and.pdf
+  - THESE_Main_Library/3747073341/Neuroimmune mechanisms of psychostimulant and1.pdf
+  - THESE_Main_Library/4159203872/Neuroimmune mechanisms of psychostimulant and1.pdf
+  - THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and.pdf
+  - THESE_Main_Library/Neuroimmune mechanisms of psychostimulant and1.pdf
+
+================================================================================
+DUPLICATE SET #2
+Hash: e76de10139d938861d8d5d50644dd246
+Files: 4
+Size: 4.1 MB
+Wasted space: 12.3 MB
+
+  - DRAFTSS_Working/Olatunji_2022_Sceletium tortuosum.pdf
+  - THESE_Main_Library/3190254737/Sceletium tortuosum_ A review on its phytochem.pdf
+  - THESE_Main_Library/3297879003/Sceletium tortuosum_ A review on its phytochem.pdf
+  - THESE_Main_Library/Sceletium tortuosum_ A review on its phytochem.pdf
+
+================================================================================
+DUPLICATE SET #3
+Hash: 4ee6fdf4b6d62ac9ce6b0baa93d07936
+Files: 4
+Size: 784.7 KB
+Wasted space: 2.3 MB
+
+  - DRAFTSS_Working/Rombaut_2021_PDE inhibition in distinct cell types to reclaim the balance of synaptic.pdf
+  - THESE_Main_Library/0153840207/PDE inhibition in distinct cell types to recla.pdf
+  - THESE_Main_Library/4104749933/PDE inhibition in distinct cell types to recla.pdf
+  - THESE_Main_Library/PDE inhibition in distinct cell types to recla.pdf
+
+================================================================================
+DUPLICATE SET #4
+Hash: 2abd354f69acd4832ae5038c8f7abe75
+Files: 7
+Size: 6.6 MB
+Wasted space: 39.9 MB
+
+  - DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-2.pdf
+  - THESE_Main_Library/0157707143/Psychophysiological Effects of Zembrin&amp;lt;.pdf
+  - THESE_Main_Library/1563078594/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+  - THESE_Main_Library/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+  - THESE_Main_Library/3353983694/Psychophysiological Effects of Zembrin&amp;lt;.pdf
+  - THESE_Main_Library/4214844280/18a11b7f-196b-4762-8c85-f7983b8e1ea9.pdf
+  - THESE_Main_Library/Psychophysiological Effects of Zembrin&amp;lt;.pdf
+
+================================================================================
+DUPLICATE SET #5
+Hash: 39b1337bfe314e3790fc19a762048c05
+Files: 7
+Size: 1.6 MB
+Wasted space: 9.5 MB
+
+  - DRAFTSS_Working/Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019.pdf
+  - THESE_Main_Library/0169175131/Emerging Roles of Complement in Psychiatric D1.pdf
+  - THESE_Main_Library/1102530164/Emerging Roles of Complement in Psychiatric D1.pdf
+  - THESE_Main_Library/1852849437/Emerging Roles of Complement in Psychiatric Di.pdf
+  - THESE_Main_Library/2250270795/Emerging Roles of Complement in Psychiatric Di.pdf
+  - THESE_Main_Library/Emerging Roles of Complement in Psychiatric D1.pdf
+  - THESE_Main_Library/Emerging Roles of Complement in Psychiatric Di.pdf
+
+================================================================================
+DUPLICATE SET #6
+Hash: ab63c11452e67cb699c9feb00239739e
+Files: 4
+Size: 2.4 MB
+Wasted space: 7.1 MB
+
+  - DRAFTSS_Working/An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021.pdf
+  - THESE_Main_Library/0190015188/An acute dose-ranging evaluation of the antide.pdf
+  - THESE_Main_Library/2618122539/An acute dose-ranging evaluation of the antide.pdf
+  - THESE_Main_Library/An acute dose-ranging evaluation of the antide.pdf
+
+================================================================================
+DUPLICATE SET #7
+Hash: 7699b7394d165ddf4421403df8ef1e8c
+Files: 6
+Size: 1.4 MB
+Wasted space: 7.2 MB
+
+  - THESE_Main_Library/0193752256/2008GerickeViljoenSceletiumreview1.pdf
+  - THESE_Main_Library/1215705939/2008GerickeViljoenSceletiumreview.pdf
+  - THESE_Main_Library/2008GerickeViljoenSceletiumreview.pdf
+  - THESE_Main_Library/2008GerickeViljoenSceletiumreview1.pdf
+  - THESE_Main_Library/2409573626/2008GerickeViljoenSceletiumreview1.pdf
+  - THESE_Main_Library/3002231984/2008GerickeViljoenSceletiumreview.pdf
+
+================================================================================
+DUPLICATE SET #8
+Hash: d4973f77062116c0a6c74f735d2ca8de
+Files: 4
+Size: 585.2 KB
+Wasted space: 1.7 MB
+
+  - DRAFTSS_Working/Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015.pdf
+  - THESE_Main_Library/0194930826/Exploring Zembrin Extract Derived from South A.pdf
+  - THESE_Main_Library/2610555476/Exploring Zembrin Extract Derived from South A.pdf
+  - THESE_Main_Library/Exploring Zembrin Extract Derived from South A.pdf
+
+================================================================================
+DUPLICATE SET #9
+Hash: b7f44efe969d0935b91d8a24b3562079
+Files: 4
+Size: 974.5 KB
+Wasted space: 2.9 MB
+
+  - DRAFTSS_Working/To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019.pdf
+  - THESE_Main_Library/0204215196/To ferment or not to ferment Sceletium tortuos.pdf
+  - THESE_Main_Library/1758555640/To ferment or not to ferment Sceletium tortuos.pdf
+  - THESE_Main_Library/To ferment or not to ferment Sceletium tortuos.pdf
+
+================================================================================
+DUPLICATE SET #10
+Hash: 267162669aeb32bffcd1fb22b388c04c
+Files: 4
+Size: 1.6 MB
+Wasted space: 4.7 MB
+
+  - DRAFTSS_Working/Van Wyk_2008_A broad review of commercially important southern African medicinal plants.pdf
+  - THESE_Main_Library/0265578321/A broad review of commercially important south.pdf
+  - THESE_Main_Library/3820498015/A broad review of commercially important south.pdf
+  - THESE_Main_Library/A broad review of commercially important south.pdf
+
+================================================================================
+DUPLICATE SET #11
+Hash: 1acd261f581355d047c34742e7de7871
+Files: 4
+Size: 2.4 MB
+Wasted space: 7.3 MB
+
+  - DRAFTSS_Working/Manda_2017_Quantification of mesembrine and mesembrenone in mouse plasma using.pdf
+  - THESE_Main_Library/0272784946/Quantification of mesembrine and mesembrenone.pdf
+  - THESE_Main_Library/0379546519/Quantification of mesembrine and mesembrenone.pdf
+  - THESE_Main_Library/Quantification of mesembrine and mesembrenone.pdf
+
+================================================================================
+DUPLICATE SET #12
+Hash: d116a7c723892d396106fee1f6cfc81c
+Files: 10
+Size: 2.6 MB
+Wasted space: 23.8 MB
+
+  - THESE_Main_Library/0282103650/Neurocircuitry of Addiction.pdf
+  - THESE_Main_Library/0462847204/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - THESE_Main_Library/1863608802/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - THESE_Main_Library/2051115389/Neurocircuitry of Addiction.pdf
+  - THESE_Main_Library/2363083852/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - THESE_Main_Library/2416275944/Neurocircuitry of Addiction.pdf
+  - THESE_Main_Library/2886308782/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - THESE_Main_Library/3211028977/Neurocircuitry of Addiction.pdf
+  - THESE_Main_Library/3a55c7f2-aa40-4f01-92fc-52a8e978c131.pdf
+  - THESE_Main_Library/Neurocircuitry of Addiction.pdf
+
+================================================================================
+DUPLICATE SET #13
+Hash: eed8f9931b1e312c3dcc754fd79cff4d
+Files: 3
+Size: 390.8 KB
+Wasted space: 781.6 KB
+
+  - THESE_Main_Library/0295136292/d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+  - THESE_Main_Library/3340504491/d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+  - THESE_Main_Library/d65c7c2f-a589-466a-a592-a01bc789ce33.pdf
+
+================================================================================
+DUPLICATE SET #14
+Hash: e20edf08fec49a52eed258e7e4d9778f
+Files: 6
+Size: 1.8 MB
+Wasted space: 9.0 MB
+
+  - THESE_Main_Library/0322464179/Modulation of glucocorticoid, mineralocorticoi.pdf
+  - THESE_Main_Library/0465721003/Modulation of glucocorticoid, mineralocorticoi.pdf
+  - THESE_Main_Library/1905725130/Electropharmacogram of Sceletium tortuosum ext.pdf
+  - THESE_Main_Library/4151994428/Electropharmacogram of Sceletium tortuosum ext.pdf
+  - THESE_Main_Library/Electropharmacogram of Sceletium tortuosum ext.pdf
+  - THESE_Main_Library/Modulation of glucocorticoid, mineralocorticoi.pdf
+
+================================================================================
+DUPLICATE SET #15
+Hash: f28125a13f96e0fedb3272645d647cac
+Files: 5
+Size: 470.3 KB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996.pdf
+  - THESE_Main_Library/0369340341/Some ethnopharmacological notes on African hal.pdf
+  - THESE_Main_Library/0417295614/Some ethnopharmacological notes on African hal.pdf
+  - THESE_Main_Library/2939492628/Some ethnopharmacological notes on African hal.pdf
+  - THESE_Main_Library/Some ethnopharmacological notes on African hal.pdf
+
+================================================================================
+DUPLICATE SET #16
+Hash: 7898391e07592a8880f7ce12d1a95bd9
+Files: 5
+Size: 969.1 KB
+Wasted space: 3.8 MB
+
+  - DRAFTSS_Working/Nordling_2018_How decolonization could reshape South African science.pdf
+  - DRAFTSS_Working/Zembe-Mkabile_SAMANTHA REINDERS FOR NATURE.pdf
+  - THESE_Main_Library/0377849273/nordling2018.pdf
+  - THESE_Main_Library/3996477640/nordling2018.pdf
+  - THESE_Main_Library/nordling2018.pdf
+
+================================================================================
+DUPLICATE SET #17
+Hash: b12086164efd9acfcf57d5c193612976
+Files: 5
+Size: 882.1 KB
+Wasted space: 3.4 MB
+
+  - DRAFTSS_Working/Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020.pdf
+  - THESE_Main_Library/0394410959/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+  - THESE_Main_Library/2593155741/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+  - THESE_Main_Library/Brunetti-2020-Pharmacology of Herbal Sexual En.pdf
+  - ZOTPDF_References/Brunetti_2020_Pharmacology of Herbal Sexual Enhancers.pdf
+
+================================================================================
+DUPLICATE SET #18
+Hash: 9d42362289d1e6adc70027618f002507
+Files: 4
+Size: 1010.4 KB
+Wasted space: 3.0 MB
+
+  - DRAFTSS_Working/Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018.pdf
+  - THESE_Main_Library/0403729504/Zembrim 4 Alcaloids.pdf
+  - THESE_Main_Library/2652989453/Zembrim 4 Alcaloids.pdf
+  - THESE_Main_Library/Zembrim 4 Alcaloids.pdf
+
+================================================================================
+DUPLICATE SET #19
+Hash: 72c505f45b527f91bb1a16ad1d0927bc
+Files: 4
+Size: 152.3 KB
+Wasted space: 456.9 KB
+
+  - DRAFTSS_Working/Self-Medication and the Trade in Medicine within aSocial History of MedicineDigby2005.pdf
+  - THESE_Main_Library/0406023391/Self-Medication and the Trade in Medicine with.pdf
+  - THESE_Main_Library/1290959315/Self-Medication and the Trade in Medicine with.pdf
+  - THESE_Main_Library/Self-Medication and the Trade in Medicine with.pdf
+
+================================================================================
+DUPLICATE SET #20
+Hash: a36b05853f4b635bc07469851359a490
+Files: 3
+Size: 176.4 KB
+Wasted space: 352.9 KB
+
+  - THESE_Main_Library/0521025725/A randomized, double-blind, parallel-group, pl.pdf
+  - THESE_Main_Library/1536584630/A randomized, double-blind, parallel-group, pl.pdf
+  - THESE_Main_Library/A randomized, double-blind, parallel-group, pl.pdf
+
+================================================================================
+DUPLICATE SET #21
+Hash: 8511f0f479fdab8156c4b8dcfb521d8d
+Files: 3
+Size: 581.1 KB
+Wasted space: 1.1 MB
+
+  - THESE_Main_Library/0532993907/Manganyi-2019-Antibacterial activity of endoph.pdf
+  - THESE_Main_Library/1090479875/Manganyi-2019-Antibacterial activity of endoph.pdf
+  - THESE_Main_Library/Manganyi-2019-Antibacterial activity of endoph.pdf
+
+================================================================================
+DUPLICATE SET #22
+Hash: 79897574a4cc05a9de7d2dbbc54df041
+Files: 4
+Size: 1.8 MB
+Wasted space: 5.4 MB
+
+  - DRAFTSS_Working/Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020.pdf
+  - THESE_Main_Library/0559378100/Faber-2020-Variabilities in alkaloid concentra.pdf
+  - THESE_Main_Library/2386842634/Faber-2020-Variabilities in alkaloid concentra.pdf
+  - THESE_Main_Library/Faber-2020-Variabilities in alkaloid concentra.pdf
+
+================================================================================
+DUPLICATE SET #23
+Hash: ad6ef4bd3b80c0cdabc8d5624a9273a3
+Files: 4
+Size: 298.0 KB
+Wasted space: 894.0 KB
+
+  - DRAFTSS_Working/Van Wyk_2008_A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+  - THESE_Main_Library/0569863110/A review of Khoi-San and Cape Dutch medical et.pdf
+  - THESE_Main_Library/1218262266/A review of Khoi-San and Cape Dutch medical et.pdf
+  - THESE_Main_Library/A review of Khoi-San and Cape Dutch medical et.pdf
+
+================================================================================
+DUPLICATE SET #24
+Hash: de685b9fbb16e557cc9c66ecfb387e29
+Files: 4
+Size: 152.0 KB
+Wasted space: 456.0 KB
+
+  - DRAFTSS_Working/Schifano_2015_Novel psychoactive substances of interest for psychiatry.pdf
+  - THESE_Main_Library/0632908320/Schifano-2015-Novel psychoactive substances of.pdf
+  - THESE_Main_Library/3871399262/Schifano-2015-Novel psychoactive substances of.pdf
+  - THESE_Main_Library/Schifano-2015-Novel psychoactive substances of.pdf
+
+================================================================================
+DUPLICATE SET #25
+Hash: c45b9f28dc446436d289fcf6e1efaac5
+Files: 3
+Size: 394.2 KB
+Wasted space: 788.4 KB
+
+  - THESE_Main_Library/0638281960/Immunomodulatory effects of Sceletium tortuosu.pdf
+  - THESE_Main_Library/2980506999/Immunomodulatory effects of Sceletium tortuosu.pdf
+  - THESE_Main_Library/Immunomodulatory effects of Sceletium tortuosu.pdf
+
+================================================================================
+DUPLICATE SET #26
+Hash: ca094a08fc34987ae4e96558ec00dc14
+Files: 4
+Size: 249.7 KB
+Wasted space: 749.2 KB
+
+  - DRAFTSS_Working/Pickard_2015_Alternative Models of Addiction.pdf
+  - THESE_Main_Library/0639324805/Alternative Models of Addiction.pdf
+  - THESE_Main_Library/2602985219/Alternative Models of Addiction.pdf
+  - THESE_Main_Library/Alternative Models of Addiction.pdf
+
+================================================================================
+DUPLICATE SET #27
+Hash: 76041e27be13f7aad5f91892e25bcaee
+Files: 4
+Size: 865.9 KB
+Wasted space: 2.5 MB
+
+  - DRAFTSS_Working/Kotadiya_In Silico Docking Analysis of Few Antidepressant Phytoconstituents of South.pdf
+  - THESE_Main_Library/0661539040/In Silico Docking Analysis of Few Antidepressa.pdf
+  - THESE_Main_Library/2056874247/In Silico Docking Analysis of Few Antidepressa.pdf
+  - THESE_Main_Library/In Silico Docking Analysis of Few Antidepressa.pdf
+
+================================================================================
+DUPLICATE SET #28
+Hash: dab7ac4bbe28e75f469d3f7a230d6e31
+Files: 4
+Size: 675.5 KB
+Wasted space: 2.0 MB
+
+  - DRAFTSS_Working/Stafford_2008_Review on plants with CNS-effects used in traditional South African medicine.pdf
+  - THESE_Main_Library/0681470934/Review on plants with CNS-effects used in trad.pdf
+  - THESE_Main_Library/3012898459/Review on plants with CNS-effects used in trad.pdf
+  - THESE_Main_Library/Review on plants with CNS-effects used in trad.pdf
+
+================================================================================
+DUPLICATE SET #29
+Hash: 32d5162de8e24c1166936feb71afdcf2
+Files: 4
+Size: 670.6 KB
+Wasted space: 2.0 MB
+
+  - DRAFTSS_Working/High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016.pdf
+  - THESE_Main_Library/0727216486/High-mesembrine Sceletium extract (Trimesemine.pdf
+  - THESE_Main_Library/2836621497/High-mesembrine Sceletium extract (Trimesemine.pdf
+  - THESE_Main_Library/High-mesembrine Sceletium extract (Trimesemine.pdf
+
+================================================================================
+DUPLICATE SET #30
+Hash: 76f71e99ef5f1afe5e6f1a53d4e8f35b
+Files: 4
+Size: 792.5 KB
+Wasted space: 2.3 MB
+
+  - DRAFTSS_Working/Terburg_2013_Acute effects of Sceletium tortuosum (Zembrin), a dual 5-HT reuptake and PDE4.pdf
+  - THESE_Main_Library/0766600932/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+  - THESE_Main_Library/2944520568/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+  - THESE_Main_Library/Terburg-2013-Acute effects of Sceletium tortuo.pdf
+
+================================================================================
+DUPLICATE SET #31
+Hash: b6160fe7b5c078f61a60f54c5d0b57b0
+Files: 4
+Size: 1.1 MB
+Wasted space: 3.3 MB
+
+  - DRAFTSS_Working/Modise_2018_Strengthening indigenous governance, benefit sharing and capacity building for.pdf
+  - THESE_Main_Library/0771922382/Strengthening indigenous governance, benefit s.pdf
+  - THESE_Main_Library/2537057753/Strengthening indigenous governance, benefit s.pdf
+  - THESE_Main_Library/Strengthening indigenous governance, benefit s.pdf
+
+================================================================================
+DUPLICATE SET #32
+Hash: bb23a3cc85b3d3d56104e4baeaf751f8
+Files: 4
+Size: 210.5 KB
+Wasted space: 631.5 KB
+
+  - DRAFTSS_Working/Van Wyk_Moteetee_2019_Ethnobotanical research in sub-Saharan Africa – documenting and analysing.pdf
+  - THESE_Main_Library/0787310714/Ethnobotanical research in sub-Saharan Africa.pdf
+  - THESE_Main_Library/1919575985/Ethnobotanical research in sub-Saharan Africa.pdf
+  - THESE_Main_Library/Ethnobotanical research in sub-Saharan Africa.pdf
+
+================================================================================
+DUPLICATE SET #33
+Hash: a5d5bf7292d54f989e01828aa298db8f
+Files: 5
+Size: 297.6 KB
+Wasted space: 1.2 MB
+
+  - DRAFTSS_Working/Murbach et al. - 2014 - A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin(R)) in r.pdf
+  - THESE_Main_Library/0794564473/A toxicological safety assessment of a standar.pdf
+  - THESE_Main_Library/4031344136/A toxicological safety assessment of a standar.pdf
+  - THESE_Main_Library/A toxicological safety assessment of a standar.pdf
+  - ZOTPDF_References/Murbach_2014_A toxicological safety assessment of a standardized extract of Sceletium.pdf
+
+================================================================================
+DUPLICATE SET #34
+Hash: b37d402c84b24f40d86a2d63cbdba2db
+Files: 4
+Size: 4.1 MB
+Wasted space: 12.4 MB
+
+  - DRAFTSS_Working/Luo_2022_A network pharmacology-based approach to explore the therapeutic potential of.pdf
+  - THESE_Main_Library/0813132226/Luo-2022-A network pharmacology-based approach.pdf
+  - THESE_Main_Library/3378809874/Luo-2022-A network pharmacology-based approach.pdf
+  - THESE_Main_Library/Luo-2022-A network pharmacology-based approach.pdf
+
+================================================================================
+DUPLICATE SET #35
+Hash: 37e089b4fff08698b91f61b2ea38f75f
+Files: 4
+Size: 468.4 KB
+Wasted space: 1.4 MB
+
+  - DRAFTSS_Working/Olsen_Liu_2016_Phosphodiesterase 4 inhibitors and drugs of abuse.pdf
+  - THESE_Main_Library/0819494367/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+  - THESE_Main_Library/1832479405/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+  - THESE_Main_Library/Phosphodiesterase 4 inhibitors and drugs of ab.pdf
+
+================================================================================
+DUPLICATE SET #36
+Hash: 1c5c03b8ae4673ab254b221bef5b5c17
+Files: 4
+Size: 266.6 KB
+Wasted space: 799.7 KB
+
+  - DRAFTSS_Working/Kapewangolo_2016_Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging.pdf
+  - THESE_Main_Library/0847735859/Sceletium tortuosum demonstrates in vitro anti.pdf
+  - THESE_Main_Library/2642234250/Sceletium tortuosum demonstrates in vitro anti.pdf
+  - THESE_Main_Library/Sceletium tortuosum demonstrates in vitro anti.pdf
+
+================================================================================
+DUPLICATE SET #37
+Hash: 8f51d621fd222aa83ad4ac61759c031d
+Files: 4
+Size: 2.8 MB
+Wasted space: 8.5 MB
+
+  - DRAFTSS_Working/Klak_2017_Out of southern Africa.pdf
+  - THESE_Main_Library/0870410800/Out of southern Africa_ Origin, biogeography a.pdf
+  - THESE_Main_Library/3731132666/Out of southern Africa_ Origin, biogeography a.pdf
+  - THESE_Main_Library/Out of southern Africa_ Origin, biogeography a.pdf
+
+================================================================================
+DUPLICATE SET #38
+Hash: ef3a85f76707c9b3c1b3fac2cd084545
+Files: 3
+Size: 769.4 KB
+Wasted space: 1.5 MB
+
+  - THESE_Main_Library/0888432512/Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+  - THESE_Main_Library/3010839109/Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+  - THESE_Main_Library/Patnala-2013-Chemotaxonomic studies of mesembr.pdf
+
+================================================================================
+DUPLICATE SET #39
+Hash: d59fc35d17cc7bf15d02e1390e6040a8
+Files: 3
+Size: 8.6 MB
+Wasted space: 17.1 MB
+
+  - THESE_Main_Library/0909666207/Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+  - THESE_Main_Library/1752637606/Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+  - THESE_Main_Library/Manganyi-2021-A Chewable Cure _Kanna__ Biologi.pdf
+
+================================================================================
+DUPLICATE SET #40
+Hash: 6c16b3e603ea7127d6b3f92c72fca6dd
+Files: 4
+Size: 2.0 MB
+Wasted space: 5.9 MB
+
+  - DRAFTSS_Working/Bonokwane_2022_Antidepressant Effects of South African Plants.pdf
+  - THESE_Main_Library/0914581282/Antidepressant Effects of South African Plants.pdf
+  - THESE_Main_Library/1842792262/Antidepressant Effects of South African Plants.pdf
+  - THESE_Main_Library/Antidepressant Effects of South African Plants.pdf
+
+================================================================================
+DUPLICATE SET #41
+Hash: 601b563104cd83f1ad4b29c6918a4ba9
+Files: 4
+Size: 3.3 MB
+Wasted space: 10.0 MB
+
+  - DRAFTSS_Working/Van Wyk_2011_The potential of South African plants in the development of new medicinal.pdf
+  - THESE_Main_Library/0941418020/The potential of South African plants in the d.pdf
+  - THESE_Main_Library/3051318042/The potential of South African plants in the d.pdf
+  - THESE_Main_Library/The potential of South African plants in the d.pdf
+
+================================================================================
+DUPLICATE SET #42
+Hash: 661e4a3f352643b258fc430e7a013ad0
+Files: 4
+Size: 152.0 KB
+Wasted space: 456.1 KB
+
+  - DRAFTSS_Working/Spina_2008_PDE4 inhibitors.pdf
+  - THESE_Main_Library/0999385710/PDE4 inhibitors_ current status.pdf
+  - THESE_Main_Library/4011596746/PDE4 inhibitors_ current status.pdf
+  - THESE_Main_Library/PDE4 inhibitors_ current status.pdf
+
+================================================================================
+DUPLICATE SET #43
+Hash: e528e8fe1968a556775ae273ba27fd5e
+Files: 9
+Size: 2.6 MB
+Wasted space: 20.9 MB
+
+  - DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-1.pdf
+  - DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-2.pdf
+  - DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf
+  - THESE_Main_Library/1008361187/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+  - THESE_Main_Library/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+  - THESE_Main_Library/1754163916/The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+  - THESE_Main_Library/3337579196/133c4148-299a-4b10-9bbb-ab0c5df8102c.pdf
+  - THESE_Main_Library/4283983086/The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+  - THESE_Main_Library/The Phosphodiesterase-4 (PDE4) Inhibitor Rolip.pdf
+
+================================================================================
+DUPLICATE SET #44
+Hash: 9b57a86917fbb944cf2a1cb8bfcf2643
+Files: 4
+Size: 678.7 KB
+Wasted space: 2.0 MB
+
+  - DRAFTSS_Working/Krstenansky_2017_Mesembrine alkaloids.pdf
+  - THESE_Main_Library/1057384820/Mesembrine alkaloids_ Review of their occurren.pdf
+  - THESE_Main_Library/4061902602/Mesembrine alkaloids_ Review of their occurren.pdf
+  - THESE_Main_Library/Mesembrine alkaloids_ Review of their occurren.pdf
+
+================================================================================
+DUPLICATE SET #45
+Hash: 916bcb049d04248bed1bc591785b7cb7
+Files: 3
+Size: 66.9 KB
+Wasted space: 133.8 KB
+
+  - THESE_Main_Library/(52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+  - THESE_Main_Library/1147561669/(52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+  - THESE_Main_Library/3037983055/(52) KH-001 BUT NOT OTHER TESTED ALKALOIDS DER.pdf
+
+================================================================================
+DUPLICATE SET #46
+Hash: 42cd7a05cbed8c76f577bbaf6e562f26
+Files: 4
+Size: 427.5 KB
+Wasted space: 1.3 MB
+
+  - DRAFTSS_Working/Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011.pdf
+  - THESE_Main_Library/1155286638/Pharmacological actions of the South African m.pdf
+  - THESE_Main_Library/1780968077/Pharmacological actions of the South African m.pdf
+  - THESE_Main_Library/Pharmacological actions of the South African m.pdf
+
+================================================================================
+DUPLICATE SET #47
+Hash: fb53472d31c48819f63e9a943b5088db
+Files: 4
+Size: 838.1 KB
+Wasted space: 2.5 MB
+
+  - DRAFTSS_Working/Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016.pdf
+  - THESE_Main_Library/1208445925/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+  - THESE_Main_Library/4238560424/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+  - THESE_Main_Library/Royal pharmaceuticals_ Bioprospecting, rights.pdf
+
+================================================================================
+DUPLICATE SET #48
+Hash: 9a74ec50d989870e9f92f1caa82f1c69
+Files: 4
+Size: 763.7 KB
+Wasted space: 2.2 MB
+
+  - DRAFTSS_Working/Rothman_2008_Dopamine-serotonin releasers as medications for stimulant addictions.pdf
+  - THESE_Main_Library/1261594621/Dopamine_serotonin releasers as medications fo.pdf
+  - THESE_Main_Library/3464237584/Dopamine_serotonin releasers as medications fo.pdf
+  - THESE_Main_Library/Dopamine_serotonin releasers as medications fo.pdf
+
+================================================================================
+DUPLICATE SET #49
+Hash: 84d583173f45e642158fad9dcb7799a0
+Files: 7
+Size: 771.5 KB
+Wasted space: 4.5 MB
+
+  - DRAFTSS_Working/Koob_Volkow_2016_Neurobiology of addiction.pdf
+  - THESE_Main_Library/1285217423/Neurobiology of addiction_ a neurocircuitry an.pdf
+  - THESE_Main_Library/2472793685/7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+  - THESE_Main_Library/2679466450/Neurobiology of addiction_ a neurocircuitry an.pdf
+  - THESE_Main_Library/3132320210/7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+  - THESE_Main_Library/7cc3ca81-2861-4f5b-a90d-50b78bedba44.pdf
+  - THESE_Main_Library/Neurobiology of addiction_ a neurocircuitry an.pdf
+
+================================================================================
+DUPLICATE SET #50
+Hash: d4faa0265e442b6b7d91c3bd4df74634
+Files: 4
+Size: 647.3 KB
+Wasted space: 1.9 MB
+
+  - DRAFTSS_Working/Wynberg_2023_Biopiracy.pdf
+  - THESE_Main_Library/1353290175/Biopiracy_ Crying wolf or a lever for equity a.pdf
+  - THESE_Main_Library/2628937522/Biopiracy_ Crying wolf or a lever for equity a.pdf
+  - THESE_Main_Library/Biopiracy_ Crying wolf or a lever for equity a.pdf
+
+================================================================================
+DUPLICATE SET #51
+Hash: 7b69410aa231d8f4d01d0e799fcee2ef
+Files: 4
+Size: 3.0 MB
+Wasted space: 8.9 MB
+
+  - DRAFTSS_Working/Patnala_Kanfer_2017_Sceletium Plant Species.pdf
+  - THESE_Main_Library/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+  - THESE_Main_Library/1370975236/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+  - THESE_Main_Library/2392064702/0a4de12f-574e-4e82-85b8-bd1c399b605e.pdf
+
+================================================================================
+DUPLICATE SET #52
+Hash: 4cf5995b84b36fd781860789922bfe79
+Files: 4
+Size: 787.2 KB
+Wasted space: 2.3 MB
+
+  - DRAFTSS_Working/Gericke_2018_Kabbo’s.pdf
+  - THESE_Main_Library/1388336285/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+  - THESE_Main_Library/4100155717/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+  - THESE_Main_Library/Kabbo’s !Kwaiń_ The Past, Present and Possible.pdf
+
+================================================================================
+DUPLICATE SET #53
+Hash: fab4620111336b1be93b5142ecff9a07
+Files: 4
+Size: 660.1 KB
+Wasted space: 1.9 MB
+
+  - DRAFTSS_Working/Bolger_2017_The PDE4 cAMP-Specific Phosphodiesterases.pdf
+  - THESE_Main_Library/1389324895/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+  - THESE_Main_Library/4081874354/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+  - THESE_Main_Library/The PDE4 cAMP-Specific Phosphodiesterases_ Tar.pdf
+
+================================================================================
+DUPLICATE SET #54
+Hash: cb6265e499bc511f0c1041b4f46a43ae
+Files: 4
+Size: 973.1 KB
+Wasted space: 2.9 MB
+
+  - DRAFTSS_Working/Sibeko_2023_Traditional perinatal plant knowledge in Sub-Saharan Africa.pdf
+  - THESE_Main_Library/1436458428/Traditional perinatal plant knowledge in Sub-S.pdf
+  - THESE_Main_Library/2862640773/Traditional perinatal plant knowledge in Sub-S.pdf
+  - THESE_Main_Library/Traditional perinatal plant knowledge in Sub-S.pdf
+
+================================================================================
+DUPLICATE SET #55
+Hash: 6f7f3b48dcb38c7f40117a2d8e9b44b8
+Files: 6
+Size: 1.6 MB
+Wasted space: 8.1 MB
+
+  - THESE_Main_Library/1482976073/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+  - THESE_Main_Library/2996988745/Proof-of-Concept Randomized Controlled Study o.pdf
+  - THESE_Main_Library/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+  - THESE_Main_Library/3780407774/Proof-of-Concept Randomized Controlled Study o.pdf
+  - THESE_Main_Library/4062345334/2bbc572e-bdcb-4ebb-9f67-22fd35aa92fe.pdf
+  - THESE_Main_Library/Proof-of-Concept Randomized Controlled Study o.pdf
+
+================================================================================
+DUPLICATE SET #56
+Hash: ad177d627a55cd0e80d52f811923f5db
+Files: 4
+Size: 588.2 KB
+Wasted space: 1.7 MB
+
+  - DRAFTSS_Working/Brendler_2021_Sceletium for Managing Anxiety, Depression and Cognitive Impairment.pdf
+  - THESE_Main_Library/1493527525/Brendler-2021-Sceletium for Managing Anxiety.pdf
+  - THESE_Main_Library/2842747878/Brendler-2021-Sceletium for Managing Anxiety.pdf
+  - THESE_Main_Library/Brendler-2021-Sceletium for Managing Anxiety.pdf
+
+================================================================================
+DUPLICATE SET #57
+Hash: 1e7ca45a2624e454dd718af2f3d36f97
+Files: 4
+Size: 6.5 MB
+Wasted space: 19.4 MB
+
+  - DRAFTSS_Working/Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020.pdf
+  - THESE_Main_Library/1523280143/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+  - THESE_Main_Library/1546414812/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+  - THESE_Main_Library/Phosphodiesterase-4 enzyme as a therapeutic ta.pdf
+
+================================================================================
+DUPLICATE SET #58
+Hash: 923234ac17dd71953761717b4bd21281
+Files: 3
+Size: 451.1 KB
+Wasted space: 902.1 KB
+
+  - DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf
+  - THESE_Main_Library/1595398980/UCreview.pdf
+  - THESE_Main_Library/UCreview.pdf
+
+================================================================================
+DUPLICATE SET #59
+Hash: 1cdbf5b7d12d586e57de530de76605ec
+Files: 3
+Size: 438.6 KB
+Wasted space: 877.1 KB
+
+  - THESE_Main_Library/1646290972/The effects of Sceletium tortuosum in an in vi.pdf
+  - THESE_Main_Library/2514912302/The effects of Sceletium tortuosum in an in vi.pdf
+  - THESE_Main_Library/The effects of Sceletium tortuosum in an in vi.pdf
+
+================================================================================
+DUPLICATE SET #60
+Hash: 7e4c7da64330289e9339ffa05c03118c
+Files: 4
+Size: 368.5 KB
+Wasted space: 1.1 MB
+
+  - DRAFTSS_Working/Lewis_2017_Addiction and the Brain.pdf
+  - THESE_Main_Library/1704358372/Addiction and the Brain_ Development, Not Dise.pdf
+  - THESE_Main_Library/2689230580/Addiction and the Brain_ Development, Not Dise.pdf
+  - THESE_Main_Library/Addiction and the Brain_ Development, Not Dise.pdf
+
+================================================================================
+DUPLICATE SET #61
+Hash: 7d8c39870b975e164fe9add0402f9222
+Files: 3
+Size: 1.2 MB
+Wasted space: 2.5 MB
+
+  - DRAFTSS_Working/Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020.pdf
+  - THESE_Main_Library/1775370468/JPBMS_Pei Yu_06_20_151_160.pdf
+  - THESE_Main_Library/JPBMS_Pei Yu_06_20_151_160.pdf
+
+================================================================================
+DUPLICATE SET #62
+Hash: a4523a61832f6049b5c8665bc4c3a373
+Files: 3
+Size: 120.1 KB
+Wasted space: 240.2 KB
+
+  - THESE_Main_Library/1809913732/3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+  - THESE_Main_Library/3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+  - THESE_Main_Library/3684985454/3131abeb-fb7f-4c6c-b347-0e8eea5f3701.pdf
+
+================================================================================
+DUPLICATE SET #63
+Hash: 3a65a5a929960ddbb569ae85cdeccf82
+Files: 2
+Size: 2.2 MB
+Wasted space: 2.2 MB
+
+  - THESE_Main_Library/1838227138/Reddy-2023-Skeletons in the closet_ – Using a.pdf
+  - THESE_Main_Library/Reddy-2023-Skeletons in the closet_ – Using a.pdf
+
+================================================================================
+DUPLICATE SET #64
+Hash: 9cd25f3fb3299e0c20d85a8b6e7e4c77
+Files: 5
+Size: 1.8 MB
+Wasted space: 7.3 MB
+
+  - DRAFTSS_Working/The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970.pdf
+  - THESE_Main_Library/1892447738/Journal of HIGH.pdf
+  - THESE_Main_Library/2135292275/Journal of HIGH.pdf
+  - THESE_Main_Library/3784075089/Journal of HIGH.pdf
+  - THESE_Main_Library/Journal of HIGH.pdf
+
+================================================================================
+DUPLICATE SET #65
+Hash: f1ad6abb532bb0dc9a349ef9884806a7
+Files: 3
+Size: 1.3 MB
+Wasted space: 2.6 MB
+
+  - THESE_Main_Library/1985870475/boj12117.pdf
+  - THESE_Main_Library/4170934191/boj12117.pdf
+  - THESE_Main_Library/boj12117.pdf
+
+================================================================================
+DUPLICATE SET #66
+Hash: 6e34494aa8145f2c0ba91a6444567541
+Files: 3
+Size: 2.2 MB
+Wasted space: 4.4 MB
+
+  - THESE_Main_Library/1994878191/Skeletons in the closet_ – Using a bibliometri.pdf
+  - THESE_Main_Library/3963954027/Skeletons in the closet_ – Using a bibliometri.pdf
+  - THESE_Main_Library/Skeletons in the closet_ – Using a bibliometri.pdf
+
+================================================================================
+DUPLICATE SET #67
+Hash: b51ca82d0dd84150091207642340f6cd
+Files: 3
+Size: 261.6 KB
+Wasted space: 523.2 KB
+
+  - THESE_Main_Library/1999726917/In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+  - THESE_Main_Library/4181869316/In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+  - THESE_Main_Library/In Vitro Permeation of Mesembrine Alkaloids fr.pdf
+
+================================================================================
+DUPLICATE SET #68
+Hash: db4f45965b318c09cbd09e85abc17b67
+Files: 3
+Size: 332.4 KB
+Wasted space: 664.8 KB
+
+  - THESE_Main_Library/2012119272/Learning to forget_ manipulating extinction an.pdf
+  - THESE_Main_Library/3223808357/Learning to forget_ manipulating extinction an.pdf
+  - THESE_Main_Library/Learning to forget_ manipulating extinction an.pdf
+
+================================================================================
+DUPLICATE SET #69
+Hash: 47d18b7485740ec18e97e8153e2d76a3
+Files: 3
+Size: 1.1 MB
+Wasted space: 2.2 MB
+
+  - THESE_Main_Library/2018732076/Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+  - THESE_Main_Library/4006505401/Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+  - THESE_Main_Library/Berry-2021-Effects of Zembrin® (Sceletium tort.pdf
+
+================================================================================
+DUPLICATE SET #70
+Hash: 83edee4a729ba6f18b3b9aec3a47478c
+Files: 4
+Size: 607.7 KB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016.pdf
+  - THESE_Main_Library/2026453812/Treatment of anxiety and depression_ medicinal.pdf
+  - THESE_Main_Library/3124522660/Treatment of anxiety and depression_ medicinal.pdf
+  - THESE_Main_Library/Treatment of anxiety and depression_ medicinal.pdf
+
+================================================================================
+DUPLICATE SET #71
+Hash: df77f47d222d2b7dac70a6c8ab2eab23
+Files: 3
+Size: 350.8 KB
+Wasted space: 701.5 KB
+
+  - THESE_Main_Library/2037803365/Medicinal Plants for Treatment of Prevalent Di.pdf
+  - THESE_Main_Library/3049735082/Medicinal Plants for Treatment of Prevalent Di.pdf
+  - THESE_Main_Library/Medicinal Plants for Treatment of Prevalent Di.pdf
+
+================================================================================
+DUPLICATE SET #72
+Hash: 405ab0d4840e259aa1f86847112a8ad8
+Files: 4
+Size: 322.7 KB
+Wasted space: 968.0 KB
+
+  - DRAFTSS_Working/O'Donnell_Zhang_2004_Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+  - THESE_Main_Library/2130011923/Antidepressant effects of inhibitors of cAMP p.pdf
+  - THESE_Main_Library/3248330876/Antidepressant effects of inhibitors of cAMP p.pdf
+  - THESE_Main_Library/Antidepressant effects of inhibitors of cAMP p.pdf
+
+================================================================================
+DUPLICATE SET #73
+Hash: 19c157880bde62fc3e496ff6df440a5b
+Files: 3
+Size: 1.2 MB
+Wasted space: 2.5 MB
+
+  - THESE_Main_Library/2146500633/Valente-2014-Correlates of hyperdiversity in s.pdf
+  - THESE_Main_Library/2197448639/Valente-2014-Correlates of hyperdiversity in s.pdf
+  - THESE_Main_Library/Valente-2014-Correlates of hyperdiversity in s.pdf
+
+================================================================================
+DUPLICATE SET #74
+Hash: 52d0ec5f207923c0ff6eccb828e75606
+Files: 4
+Size: 6.3 MB
+Wasted space: 19.0 MB
+
+  - DRAFTSS_Working/Maphanga_2022_Mesembryanthemum tortuosum L.pdf
+  - THESE_Main_Library/2147157566/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+  - THESE_Main_Library/4076890515/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+  - THESE_Main_Library/Mesembryanthemum tortuosum L. alkaloids modify.pdf
+
+================================================================================
+DUPLICATE SET #75
+Hash: 35e4d97f766521c3257a875d79e15e62
+Files: 4
+Size: 465.1 KB
+Wasted space: 1.4 MB
+
+  - DRAFTSS_Working/Shikanga_2012_The chemotypic variation of Sceletium tortuosum alkaloids and commercial.pdf
+  - THESE_Main_Library/2162907227/The chemotypic variation of Sceletium tortuosu.pdf
+  - THESE_Main_Library/3258410896/The chemotypic variation of Sceletium tortuosu.pdf
+  - THESE_Main_Library/The chemotypic variation of Sceletium tortuosu.pdf
+
+================================================================================
+DUPLICATE SET #76
+Hash: 86be53f30a80e102302869c5954bde06
+Files: 4
+Size: 294.7 KB
+Wasted space: 884.2 KB
+
+  - DRAFTSS_Working/Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020.pdf
+  - THESE_Main_Library/2183096411/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+  - THESE_Main_Library/2665949036/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+  - THESE_Main_Library/Ergogenic Effects of 8 Days of Sceletium Tortu.pdf
+
+================================================================================
+DUPLICATE SET #77
+Hash: 363b894a6076131299ae959f372a17af
+Files: 4
+Size: 47.2 MB
+Wasted space: 141.6 MB
+
+  - DRAFTSS_Working/Alvaro Viljoen_2023_The South African Herbal Pharmacopoeia.pdf
+  - THESE_Main_Library/2321378574/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+  - THESE_Main_Library/2843909590/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+  - THESE_Main_Library/Alvaro Viljoen, Maxleene Sandasi, Gerda Fouche.pdf
+
+================================================================================
+DUPLICATE SET #78
+Hash: 0f0f898eec829610a4277b7c6d889582
+Files: 4
+Size: 311.3 KB
+Wasted space: 933.8 KB
+
+  - DRAFTSS_Working/Low_2007_Different Histories of Buchu.pdf
+  - THESE_Main_Library/2383707266/low2007.pdf
+  - THESE_Main_Library/2480302077/low2007.pdf
+  - THESE_Main_Library/low2007.pdf
+
+================================================================================
+DUPLICATE SET #79
+Hash: 38a519eb15b0552f2315bcfc15bd3179
+Files: 2
+Size: 2.2 MB
+Wasted space: 2.2 MB
+
+  - THESE_Main_Library/2416739987/Kaylan-2023-Skeletons in the closet_ – Using a.pdf
+  - THESE_Main_Library/Kaylan-2023-Skeletons in the closet_ – Using a.pdf
+
+================================================================================
+DUPLICATE SET #80
+Hash: 2357ba4a320a1d32562ec13ec76b4e9c
+Files: 5
+Size: 975.3 KB
+Wasted space: 3.8 MB
+
+  - DRAFTSS_Working/Meyer_2015_GC-MS, LC-MS(n), LC-high resolution-MS(n), and NMR studies on the metabolism.pdf
+  - DRAFTSS_Working/Swart_Smith_2016_Modulation of glucocorticoid, mineralocorticoid and androgen production in H295.pdf
+  - THESE_Main_Library/2446979709/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+  - THESE_Main_Library/3689506985/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+  - THESE_Main_Library/GC-MS, LC-MS(n), LC-high resolution-MS(n), and.pdf
+
+================================================================================
+DUPLICATE SET #81
+Hash: 255525603a5c464cc168b1241a7896f4
+Files: 3
+Size: 3.8 MB
+Wasted space: 7.6 MB
+
+  - THESE_Main_Library/2459265787/Plant-based Medicines (Phytoceuticals) in the.pdf
+  - THESE_Main_Library/2466533921/Plant-based Medicines (Phytoceuticals) in the.pdf
+  - THESE_Main_Library/Plant-based Medicines (Phytoceuticals) in the.pdf
+
+================================================================================
+DUPLICATE SET #82
+Hash: 310effc145d972923b60a40c3546b82e
+Files: 4
+Size: 1.1 MB
+Wasted space: 3.2 MB
+
+  - DRAFTSS_Working/The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022.pdf
+  - THESE_Main_Library/2501994743/James Faber-2022-The Importance ofSceletium to.pdf
+  - THESE_Main_Library/2971516196/James Faber-2022-The Importance ofSceletium to.pdf
+  - THESE_Main_Library/James Faber-2022-The Importance ofSceletium to.pdf
+
+================================================================================
+DUPLICATE SET #83
+Hash: 6803978a95bc37d3a69753a60fe2b760
+Files: 4
+Size: 352.4 KB
+Wasted space: 1.0 MB
+
+  - DRAFTSS_Working/Patnala_Kanfer_2010_HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as.pdf
+  - THESE_Main_Library/2518938779/HPLC analysis of mesembrine-type alkaloids in.pdf
+  - THESE_Main_Library/2736220376/HPLC analysis of mesembrine-type alkaloids in.pdf
+  - THESE_Main_Library/HPLC analysis of mesembrine-type alkaloids in.pdf
+
+================================================================================
+DUPLICATE SET #84
+Hash: 465bdfeb90b3d44b9700ef62a2e66498
+Files: 4
+Size: 3.0 MB
+Wasted space: 8.9 MB
+
+  - DRAFTSS_Working/Patnala_Kanfer_2017_Sceletium Plant Species-1.pdf
+  - THESE_Main_Library/2525887026/Sceletium Plant Species_ Alkaloidal Components.pdf
+  - THESE_Main_Library/2897767444/Sceletium Plant Species_ Alkaloidal Components.pdf
+  - THESE_Main_Library/Sceletium Plant Species_ Alkaloidal Components.pdf
+
+================================================================================
+DUPLICATE SET #85
+Hash: 4cd2968dbada7f7a999ef2275d318e35
+Files: 5
+Size: 2.8 MB
+Wasted space: 11.3 MB
+
+  - DRAFTSS_Working/Chris Low_Wind, Life, Health Anthropological and Historical.pdf
+  - DRAFTSS_Working/Low_2007_Khoisan Wind.pdf
+  - THESE_Main_Library/2565843494/Wind, Life, Health Anthropological and Histori.pdf
+  - THESE_Main_Library/2598431911/Wind, Life, Health Anthropological and Histori.pdf
+  - THESE_Main_Library/Wind, Life, Health Anthropological and Histori.pdf
+
+================================================================================
+DUPLICATE SET #86
+Hash: b65e7fecea4d42ca844a010f1f1fc512
+Files: 3
+Size: 92.9 KB
+Wasted space: 185.7 KB
+
+  - THESE_Main_Library/2657839961/Psychoactive Plants_ A Neglected Area of Ethno.pdf
+  - THESE_Main_Library/3874422476/Psychoactive Plants_ A Neglected Area of Ethno.pdf
+  - THESE_Main_Library/Psychoactive Plants_ A Neglected Area of Ethno.pdf
+
+================================================================================
+DUPLICATE SET #87
+Hash: ffef6d2966a31a0ffebdc2651bb42160
+Files: 6
+Size: 1.1 MB
+Wasted space: 5.4 MB
+
+  - DRAFTSS_Working/Avchalumov_Mandyam_2021_Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+  - THESE_Main_Library/2689781939/Plasticity in the Hippocampus, Neurogenesis an.pdf
+  - THESE_Main_Library/2752005042/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+  - THESE_Main_Library/3422055178/Plasticity in the Hippocampus, Neurogenesis an.pdf
+  - THESE_Main_Library/Avchalumov-2021-Plasticity in the Hippocampus.pdf
+  - THESE_Main_Library/Plasticity in the Hippocampus, Neurogenesis an.pdf
+
+================================================================================
+DUPLICATE SET #88
+Hash: 410994497d98f1f7f03b17992e106271
+Files: 5
+Size: 391.7 KB
+Wasted space: 1.5 MB
+
+  - DRAFTSS_Working/PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011.pdf
+  - THESE_Main_Library/2714645415/a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+  - THESE_Main_Library/3108268670/a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+  - THESE_Main_Library/PDE4-inhibitors A novel targeted therapy for obstructive airways disease.pdf
+  - THESE_Main_Library/a7aefbcd-29d6-4673-b76e-4327840c23fc.pdf
+
+================================================================================
+DUPLICATE SET #89
+Hash: c2fdbd9114b4022d32719341c12d1766
+Files: 2
+Size: 390.8 KB
+Wasted space: 390.8 KB
+
+  - THESE_Main_Library/2716825154/Reay-2020-Sceletium tortuosum (Zembrin((R)) ).pdf
+  - THESE_Main_Library/Reay-2020-Sceletium tortuosum (Zembrin((R)) ).pdf
+
+================================================================================
+DUPLICATE SET #90
+Hash: fa98443fbbbdceacb558801faffed114
+Files: 2
+Size: 390.9 KB
+Wasted space: 390.9 KB
+
+  - THESE_Main_Library/2793761710/Sceletium tortuosum (Zembrin((R)) ) ameliorate.pdf
+  - THESE_Main_Library/Sceletium tortuosum (Zembrin((R)) ) ameliorate.pdf
+
+================================================================================
+DUPLICATE SET #91
+Hash: ab9d2a23f156853af4dcad85cf8bbd64
+Files: 4
+Size: 1.2 MB
+Wasted space: 3.5 MB
+
+  - DRAFTSS_Working/Sreekissoon_2021_In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium.pdf
+  - THESE_Main_Library/2926460303/In vitro and ex vivo vegetative propagation an.pdf
+  - THESE_Main_Library/2929617174/In vitro and ex vivo vegetative propagation an.pdf
+  - THESE_Main_Library/In vitro and ex vivo vegetative propagation an.pdf
+
+================================================================================
+DUPLICATE SET #92
+Hash: 69e83f03bd560a4bcf9878b070c46f01
+Files: 3
+Size: 451.1 KB
+Wasted space: 902.1 KB
+
+  - DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-1.pdf
+  - THESE_Main_Library/2958115612/Prasad-2013-Role of Traditional and Alternativ.pdf
+  - THESE_Main_Library/Prasad-2013-Role of Traditional and Alternativ.pdf
+
+================================================================================
+DUPLICATE SET #93
+Hash: 566fe22e0eb6723e2514bbb52c3c85e1
+Files: 7
+Size: 1.1 MB
+Wasted space: 6.5 MB
+
+  - DRAFTSS_Working/Namba_2021_Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders.pdf
+  - THESE_Main_Library/2972507366/Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+  - THESE_Main_Library/3417008641/Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+  - THESE_Main_Library/3637938295/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+  - THESE_Main_Library/Namba-2021-Neuroimmune Mechanisms as Novel Tre.pdf
+  - THESE_Main_Library/Neuroimmune Mechanisms as Novel Treatment Targ.pdf
+  - ZOTPDF_References/Namba_2021_Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders.pdf
+
+================================================================================
+DUPLICATE SET #94
+Hash: 81506952b3071e8a6ae8eabfffbb5860
+Files: 4
+Size: 7.0 MB
+Wasted space: 20.9 MB
+
+  - DRAFTSS_Working/Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024.pdf
+  - THESE_Main_Library/2981701698/Sceletium tortuosum-derived mesembrine signifi.pdf
+  - THESE_Main_Library/3500436563/Sceletium tortuosum-derived mesembrine signifi.pdf
+  - THESE_Main_Library/Sceletium tortuosum-derived mesembrine signifi.pdf
+
+================================================================================
+DUPLICATE SET #95
+Hash: 4a0ae2bd6895a2326b8efe9ebbc9c8ba
+Files: 4
+Size: 289.6 KB
+Wasted space: 868.8 KB
+
+  - DRAFTSS_Working/Torregrossa_Taylor_2013_Learning to forget.pdf
+  - THESE_Main_Library/3150408021/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+  - THESE_Main_Library/3424159397/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+  - THESE_Main_Library/e3a96035-9753-40de-a666-8a92a5c6216b.pdf
+
+================================================================================
+DUPLICATE SET #96
+Hash: 9bc8dfe1e0785964da9d0f9025bc5072
+Files: 4
+Size: 205.2 KB
+Wasted space: 615.7 KB
+
+  - DRAFTSS_Working/Olatunji_2022_Corrigendum to “Sceletium tortuosum.pdf
+  - THESE_Main_Library/3152539394/Corrigendum to “Sceletium tortuosum_ A review.pdf
+  - THESE_Main_Library/3307366350/Corrigendum to “Sceletium tortuosum_ A review.pdf
+  - THESE_Main_Library/Corrigendum to “Sceletium tortuosum_ A review.pdf
+
+================================================================================
+DUPLICATE SET #97
+Hash: 96335c2807ed244f056b39f6448f1351
+Files: 4
+Size: 653.9 KB
+Wasted space: 1.9 MB
+
+  - DRAFTSS_Working/Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020.pdf
+  - THESE_Main_Library/3267299618/Screening selected medicinal plants for potent.pdf
+  - THESE_Main_Library/3378867408/Screening selected medicinal plants for potent.pdf
+  - THESE_Main_Library/Screening selected medicinal plants for potent.pdf
+
+================================================================================
+DUPLICATE SET #98
+Hash: 0935c2e3e82a3a53a01705d980bfa15e
+Files: 4
+Size: 1.7 MB
+Wasted space: 5.0 MB
+
+  - DRAFTSS_Working/Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018.pdf
+  - THESE_Main_Library/3273593370/Sceletium tortuosum may delay chronic disease.pdf
+  - THESE_Main_Library/4099370051/Sceletium tortuosum may delay chronic disease.pdf
+  - THESE_Main_Library/Sceletium tortuosum may delay chronic disease.pdf
+
+================================================================================
+DUPLICATE SET #99
+Hash: 468092f7a7480051020286dff80db14b
+Files: 4
+Size: 8.1 MB
+Wasted space: 24.4 MB
+
+  - DRAFTSS_Working/Yates_2023_Determinants of addiction.pdf
+  - THESE_Main_Library/3363858398/DETERMINANTS OF ADDICTION.pdf
+  - THESE_Main_Library/3904430881/DETERMINANTS OF ADDICTION.pdf
+  - THESE_Main_Library/DETERMINANTS OF ADDICTION.pdf
+
+================================================================================
+DUPLICATE SET #100
+Hash: d74cbeec3d40c0af2d3fe0bea0dbc488
+Files: 4
+Size: 1.2 MB
+Wasted space: 3.7 MB
+
+  - DRAFTSS_Working/Leonti_2011_The future is written.pdf
+  - THESE_Main_Library/3364317337/The future is written_ Impact of scripts on th.pdf
+  - THESE_Main_Library/3451592334/The future is written_ Impact of scripts on th.pdf
+  - THESE_Main_Library/The future is written_ Impact of scripts on th.pdf
+
+================================================================================
+DUPLICATE SET #101
+Hash: 864628e32505dc04db2c29d2d63e041c
+Files: 2
+Size: 5.9 MB
+Wasted space: 5.9 MB
+
+  - THESE_Main_Library/3475156585/THE-LOST-HISTORY-OF-KHOI-SAN.pdf
+  - THESE_Main_Library/THE-LOST-HISTORY-OF-KHOI-SAN.pdf
+
+================================================================================
+DUPLICATE SET #102
+Hash: 0dc8af47b337c4aeb2174ce45280c551
+Files: 4
+Size: 994.9 KB
+Wasted space: 2.9 MB
+
+  - DRAFTSS_Working/Kalicharan_2023_Ethnopharmacology and biological activities of the Aizoaceae.pdf
+  - THESE_Main_Library/3673708749/Ethnopharmacology and biological activities of.pdf
+  - THESE_Main_Library/4148979834/Ethnopharmacology and biological activities of.pdf
+  - THESE_Main_Library/Ethnopharmacology and biological activities of.pdf
+
+================================================================================
+DUPLICATE SET #103
+Hash: 723e387e97c4c857727092b16a57bb7e
+Files: 4
+Size: 1.0 MB
+Wasted space: 3.0 MB
+
+  - DRAFTSS_Working/Capps_1977_Sceletium alkaloids.pdf
+  - THESE_Main_Library/1098 J.C.S. Perkin I1.pdf
+  - THESE_Main_Library/3888992697/1098 J.C.S. Perkin I1.pdf
+  - THESE_Main_Library/4105170100/1098 J.C.S. Perkin I1.pdf
+
+================================================================================
+DUPLICATE SET #104
+Hash: 56e73ed7dd038b7c74472472613a40cd
+Files: 3
+Size: 742.1 KB
+Wasted space: 1.4 MB
+
+  - THESE_Main_Library/4068276964/Mesembrine_ The archetypal psycho-active Scele.pdf
+  - THESE_Main_Library/4177226116/Mesembrine_ The archetypal psycho-active Scele.pdf
+  - THESE_Main_Library/Mesembrine_ The archetypal psycho-active Scele.pdf
+
+================================================================================
+DUPLICATE SET #105
+Hash: b1df176fc711d8a5902672f76f75ab43
+Files: 2
+Size: 350.8 KB
+Wasted space: 350.8 KB
+
+  - THESE_Main_Library/4123289578/64420-1.pdf
+  - THESE_Main_Library/64420-1.pdf
+
+================================================================================
+DUPLICATE SET #106
+Hash: 508820aeed66e50e3c637578728d22cf
+Files: 2
+Size: 2.1 MB
+Wasted space: 2.1 MB
+
+  - THESE_Main_Library/0093216941/Sceletium tortuosum_ A review on its phytochem.pdf
+  - THESE_Main_Library/2018339954/Sceletium tortuosum_ A review on its phytochem.pdf
+
+================================================================================
+DUPLICATE SET #107
+Hash: b5c64125e06f51d5771afc5149a2c8f7
+Files: 3
+Size: 833.5 KB
+Wasted space: 1.6 MB
+
+  - DRAFTSS_Working/2018 - Ethnopharmacologic search for psychoactive drugs 50 years of research 1967-2017.pdf
+  - Other_Collections/Kabbos Kwain The Past Present and Possible.pdf
+  - ZOTPDF_References/2018 - Ethnopharmacologic search for psychoactive drugs 50 years of research 1967-2017.pdf
+
+================================================================================
+DUPLICATE SET #108
+Hash: 9f6af4985a80193f625dad2b9015c42e
+Files: 2
+Size: 2.5 MB
+Wasted space: 2.5 MB
+
+  - DRAFTSS_Working/Akinyede et al. - 2020 - Ethnopharmacology, Therapeutic Properties and Nutritional Potentials of Carpobrotus edulis A Compre.pdf
+  - ZOTPDF_References/Akinyede et al. - 2020 - Ethnopharmacology, Therapeutic Properties and Nutritional Potentials of Carpobrotus edulis A Compre.pdf
+
+================================================================================
+DUPLICATE SET #109
+Hash: 123b00e02702de988fcc3f452fbba994
+Files: 3
+Size: 2.4 MB
+Wasted space: 4.7 MB
+
+  - DRAFTSS_Working/An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021-1.pdf
+  - Other_Collections/Gericke et al An acute doseranging evaluation of the antidepres.pdf
+  - ZOTPDF_References/Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®).pdf
+
+================================================================================
+DUPLICATE SET #110
+Hash: 95f8593b2a8ea688b0e843ff4191f387
+Files: 2
+Size: 2.3 MB
+Wasted space: 2.3 MB
+
+  - DRAFTSS_Working/An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021-2.pdf
+  - ZOTPDF_References/Gericke et al. - 2022 - An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®)-1.pdf
+
+================================================================================
+DUPLICATE SET #111
+Hash: 2f96185e3412a22381bf89e2979ff9cc
+Files: 2
+Size: 1.0 MB
+Wasted space: 1.0 MB
+
+  - DRAFTSS_Working/A Phytochemical and Biological Review on Plants ofJournal of Advanced Pharmacy RYoussifEtAl2019.pdf
+  - ZOTPDF_References/Youssif et al. - 2019 - A Phytochemical and Biological Review on Plants of The family Aizoaceae.pdf
+
+================================================================================
+DUPLICATE SET #112
+Hash: acf05286aa236dc360d6c63c9628ceab
+Files: 2
+Size: 1.2 MB
+Wasted space: 1.2 MB
+
+  - DRAFTSS_Working/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse-1.pdf
+  - ZOTPDF_References/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse-1.pdf
+
+================================================================================
+DUPLICATE SET #113
+Hash: b2d2105be42afabf702b11ac2147ca14
+Files: 3
+Size: 1.1 MB
+Wasted space: 2.3 MB
+
+  - DRAFTSS_Working/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+  - Other_Collections/Avchalumov and Mandyam Plasticity in the Hippocampus Neurogenesis and Dr.pdf
+  - ZOTPDF_References/Avchalumov et Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf
+
+================================================================================
+DUPLICATE SET #114
+Hash: f74af366a28b43c71e6d867d0f4fd598
+Files: 3
+Size: 1.8 MB
+Wasted space: 3.6 MB
+
+  - DRAFTSS_Working/Bank_2004_1.pdf
+  - Other_Collections/Strengthening indigenous governance benefit s.pdf
+  - ZOTPDF_References/Bank_2004_1.pdf
+
+================================================================================
+DUPLICATE SET #115
+Hash: f74004e45975289375c299a1e7e613ec
+Files: 3
+Size: 803.0 KB
+Wasted space: 1.6 MB
+
+  - DRAFTSS_Working/Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets for Drugs with Antidepressant and Memory-Enhancin.pdf
+  - Other_Collections/Bolger The PDE cAMPSpecific Phosphodiesterases Targets.pdf
+  - ZOTPDF_References/Bolger - 2017 - The PDE4 cAMP-Specific Phosphodiesterases Targets for Drugs with Antidepressant and Memory-Enhancin.pdf
+
+================================================================================
+DUPLICATE SET #116
+Hash: be3031305cae748db7dca786cb4d5642
+Files: 2
+Size: 2.7 MB
+Wasted space: 2.7 MB
+
+  - DRAFTSS_Working/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac-1.pdf
+  - ZOTPDF_References/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac-1.pdf
+
+================================================================================
+DUPLICATE SET #117
+Hash: 49c2d7cbfcc7de1ef0d19d0c46a97d32
+Files: 3
+Size: 2.1 MB
+Wasted space: 4.2 MB
+
+  - DRAFTSS_Working/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac.pdf
+  - Other_Collections/Bonokwane et al Antidepressant Effects of South African Plants An.pdf
+  - ZOTPDF_References/Bonokwane et al. - 2022 - Antidepressant Effects of South African Plants An Appraisal of Ethnobotanical Surveys, Ethnopharmac.pdf
+
+================================================================================
+DUPLICATE SET #118
+Hash: 2e6e5e1cd7b69d24ab089c68443e20e2
+Files: 3
+Size: 564.9 KB
+Wasted space: 1.1 MB
+
+  - DRAFTSS_Working/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cognitive Impairment A Traditional Herbal Medicine i.pdf
+  - Other_Collections/Brendler et al Sceletium for Managing Anxiety Depression and Cog.pdf
+  - ZOTPDF_References/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cognitive Impairment A Traditional Herbal Medicine i.pdf
+
+================================================================================
+DUPLICATE SET #119
+Hash: 670f5a945fa8fb9780685ffba96b2c9b
+Files: 3
+Size: 1.2 MB
+Wasted space: 2.4 MB
+
+  - DRAFTSS_Working/Capps et al. - 1977 - 1098 J.C.S. Perkin II Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Me.pdf
+  - Other_Collections/Capps et al Sceletium alkaloids Part Structure and absolut.pdf
+  - ZOTPDF_References/Capps et al. - 1977 - 1098 J.C.S. Perkin II Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Me.pdf
+
+================================================================================
+DUPLICATE SET #120
+Hash: c418b4cb014e7e30a955c27b7e0b3689
+Files: 3
+Size: 1.0 MB
+Wasted space: 2.0 MB
+
+  - DRAFTSS_Working/Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018-1.pdf
+  - Other_Collections/Dimpfel et al Effect of Zembrin and four of its alkaloid const.pdf
+  - ZOTPDF_References/Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid constituents on electric excitability of the rat hippoc.pdf
+
+================================================================================
+DUPLICATE SET #121
+Hash: 2a29fa8c5a66a8ea542fd2369ba3d5d4
+Files: 2
+Size: 1.1 MB
+Wasted space: 1.1 MB
+
+  - DRAFTSS_Working/Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018-2.pdf
+  - ZOTPDF_References/Dimpfel et al. - 2018 - Effect of Zembrin ® and four of its alkaloid constituents on electric excitability of the rat hippoc-1.pdf
+
+================================================================================
+DUPLICATE SET #122
+Hash: a3dddb2a3e4aa0ee8261a647a76798f2
+Files: 2
+Size: 1.9 MB
+Wasted space: 1.9 MB
+
+  - DRAFTSS_Working/Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016-1.pdf
+  - ZOTPDF_References/Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious-1.pdf
+
+================================================================================
+DUPLICATE SET #123
+Hash: e467f1e1c04a3c3f785c93cfbc88a251
+Files: 3
+Size: 1.9 MB
+Wasted space: 3.7 MB
+
+  - DRAFTSS_Working/Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016.pdf
+  - Other_Collections/Dimpfel et al Electropharmacogram of Sceletium tortuosum extract.pdf
+  - ZOTPDF_References/Dimpfel et al. - 2016 - Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious.pdf
+
+================================================================================
+DUPLICATE SET #124
+Hash: 73f3d6f92677de4a8bb88285ec399d87
+Files: 2
+Size: 5.4 MB
+Wasted space: 5.4 MB
+
+  - DRAFTSS_Working/El-Raouf - 2021 - Taxonomic significance of leaves in family Aizoaceae.pdf
+  - ZOTPDF_References/El-Raouf - 2021 - Taxonomic significance of leaves in family Aizoaceae.pdf
+
+================================================================================
+DUPLICATE SET #125
+Hash: 5b7458c6bc861e95c7db96f2df077e95
+Files: 2
+Size: 955.2 KB
+Wasted space: 955.2 KB
+
+  - DRAFTSS_Working/Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019-1.pdf
+  - ZOTPDF_References/Druart et Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disorders.pdf
+
+================================================================================
+DUPLICATE SET #126
+Hash: 8fc5b2bbc5f1144017a4e1b33dbf9818
+Files: 3
+Size: 1.9 MB
+Wasted space: 3.9 MB
+
+  - DRAFTSS_Working/Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019-2.pdf
+  - Other_Collections/Druart and Le Magueresse Emerging Roles of Complement in Psychiatric Disord.pdf
+  - ZOTPDF_References/Druart et Le Magueresse - 2019 - Emerging Roles of Complement in Psychiatric Disorders-1.pdf
+
+================================================================================
+DUPLICATE SET #127
+Hash: 14a7593bfd06444f3344727b113a6355
+Files: 3
+Size: 445.1 KB
+Wasted space: 890.2 KB
+
+  - DRAFTSS_Working/Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020-1.pdf
+  - Other_Collections/Hoffman et al Ergogenic Effects of Days of Sceletium Tortuosum.pdf
+  - ZOTPDF_References/Hoffman et al. - 2020 - Ergogenic Effects of 8 Days of Sceletium Tortuosum Supplementation on Mood, Visual Tracking, and Rea.pdf
+
+================================================================================
+DUPLICATE SET #128
+Hash: a1865599dd0ab4f7ea1a7e6956d18551
+Files: 3
+Size: 792.2 KB
+Wasted space: 1.5 MB
+
+  - DRAFTSS_Working/Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015-1.pdf
+  - Other_Collections/Chiu and Raheb Exploring Zembrin Extract Derived from South Afric.pdf
+  - ZOTPDF_References/Chiu et Raheb - 2015 - Exploring Zembrin Extract Derived from South African Plant, Sceletium tortuosum in Targeting cAMP-dr.pdf
+
+================================================================================
+DUPLICATE SET #129
+Hash: dd10c9647341c064af89c237a3e09d93
+Files: 2
+Size: 2.6 MB
+Wasted space: 2.6 MB
+
+  - DRAFTSS_Working/Güldemann et Fehn - 2014 - Beyond Khoisan historical relations in the Kalahari basin.pdf
+  - ZOTPDF_References/Güldemann et Fehn - 2014 - Beyond Khoisan historical relations in the Kalahari basin.pdf
+
+================================================================================
+DUPLICATE SET #130
+Hash: ad4a66f9723d5d6193cf81abb342c9de
+Files: 2
+Size: 3.4 MB
+Wasted space: 3.4 MB
+
+  - DRAFTSS_Working/Güldemann_unknown.pdf
+  - ZOTPDF_References/Güldemann_unknown.pdf
+
+================================================================================
+DUPLICATE SET #131
+Hash: b77b9398bcebd76f0e07ac83695544bb
+Files: 2
+Size: 45.5 MB
+Wasted space: 45.5 MB
+
+  - DRAFTSS_Working/HARTMANN_2000.pdf
+  - ZOTPDF_References/HARTMANN_2000.pdf
+
+================================================================================
+DUPLICATE SET #132
+Hash: f500b07afd08c1fe02696f4764d47acc
+Files: 3
+Size: 653.8 KB
+Wasted space: 1.3 MB
+
+  - DRAFTSS_Working/High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016-1.pdf
+  - Other_Collections/Coetzee et al Highmesembrine Sceletium extract Trimesemine.pdf
+  - ZOTPDF_References/Coetzee et al. - 2016 - High-mesembrine Sceletium extract (Trimesemine™) is a monoamine releasing agent, rather than only a.pdf
+
+================================================================================
+DUPLICATE SET #133
+Hash: e9f484809e0238186d254f313456a7d2
+Files: 2
+Size: 498.0 KB
+Wasted space: 498.0 KB
+
+  - DRAFTSS_Working/Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018-1.pdf
+  - ZOTPDF_References/Bennett et Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro  Implications fo-1.pdf
+
+================================================================================
+DUPLICATE SET #134
+Hash: a6cbf45470b56f51ae5742c575380770
+Files: 3
+Size: 429.0 KB
+Wasted space: 857.9 KB
+
+  - DRAFTSS_Working/Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018.pdf
+  - Other_Collections/Bennett and Smith Immunomodulatory effects of Sceletium tortuosum T.pdf
+  - ZOTPDF_References/Bennett et Smith - 2018 - Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro  Implications fo.pdf
+
+================================================================================
+DUPLICATE SET #135
+Hash: 872a5b69772a604304f9ebbebea5f038
+Files: 2
+Size: 21.6 MB
+Wasted space: 21.6 MB
+
+  - DRAFTSS_Working/Johansen et M. Bauer - 2024 - Reconceptualizing the Archaeology of Southern India Beyond Periodization and Toward a Politics of P.pdf
+  - ZOTPDF_References/Johansen et M. Bauer - 2024 - Reconceptualizing the Archaeology of Southern India Beyond Periodization and Toward a Politics of P.pdf
+
+================================================================================
+DUPLICATE SET #136
+Hash: 5c189c558442d95af1485736bb911d9b
+Files: 3
+Size: 1.1 MB
+Wasted space: 2.2 MB
+
+  - DRAFTSS_Working/Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the Aizoaceae.pdf
+  - Other_Collections/Kalicharan et al Ethnopharmacology and biological activities of the.pdf
+  - ZOTPDF_References/Kalicharan et al. - 2023 - Ethnopharmacology and biological activities of the Aizoaceae.pdf
+
+================================================================================
+DUPLICATE SET #137
+Hash: 00f5edb24cd6222e3ab712b7cfc9d004
+Files: 3
+Size: 271.2 KB
+Wasted space: 542.4 KB
+
+  - DRAFTSS_Working/Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.pdf
+  - Other_Collections/Kapewangolo et al Sceletium tortuosum demonstrates in vitro antiHIV.pdf
+  - ZOTPDF_References/Kapewangolo et al. - 2016 - Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.pdf
+
+================================================================================
+DUPLICATE SET #138
+Hash: 79cff1a5ed1f4b0cf0976eeac1b98672
+Files: 3
+Size: 70.0 KB
+Wasted space: 140.0 KB
+
+  - DRAFTSS_Working/KH-001 BUT NOT OTHER TESTED ALKALOIDS DERIVED FROM.pdf
+  - Other_Collections/Royston A et al Kh but Not Other Tested Alkaloids Derived.pdf
+  - ZOTPDF_References/A_2023.pdf
+
+================================================================================
+DUPLICATE SET #139
+Hash: cfc782ac05c76bce1326ce06d9b9c962
+Files: 2
+Size: 4.8 MB
+Wasted space: 4.8 MB
+
+  - DRAFTSS_Working/King - 2019 - Outlaws, Anxiety, and Disorder in Southern Africa Material Histories of the Maloti-Drakensberg.pdf
+  - ZOTPDF_References/King - 2019 - Outlaws, Anxiety, and Disorder in Southern Africa Material Histories of the Maloti-Drakensberg.pdf
+
+================================================================================
+DUPLICATE SET #140
+Hash: c3e147b12265928bd4d362952aa6bb3a
+Files: 2
+Size: 3.1 MB
+Wasted space: 3.1 MB
+
+  - DRAFTSS_Working/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae)-1.pdf
+  - ZOTPDF_References/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae)-1.pdf
+
+================================================================================
+DUPLICATE SET #141
+Hash: ddb9749d20ce5002a21a8d230a9fbc14
+Files: 3
+Size: 3.0 MB
+Wasted space: 5.9 MB
+
+  - DRAFTSS_Working/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae).pdf
+  - Other_Collections/Klak et al Out of southern Africa Origin biogeography and a.pdf
+  - ZOTPDF_References/Klak et al. - 2017 - Out of southern Africa Origin, biogeography and age of the Aizooideae (Aizoaceae).pdf
+
+================================================================================
+DUPLICATE SET #142
+Hash: 03063d451d430853433a3ece0b290cc0
+Files: 3
+Size: 1.1 MB
+Wasted space: 2.1 MB
+
+  - DRAFTSS_Working/Koob et Volkow - 2016 - Neurobiology of addiction a neurocircuitry analysis.pdf
+  - Other_Collections/Koob and Volkow Neurobiology of addiction a neurocircuitry analys.pdf
+  - ZOTPDF_References/Koob et Volkow - 2016 - Neurobiology of addiction a neurocircuitry analysis.pdf
+
+================================================================================
+DUPLICATE SET #143
+Hash: 420010b0ea715df7d571160e5d25bd41
+Files: 3
+Size: 902.1 KB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+  - Other_Collections/Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+  - ZOTPDF_References/Kotadiya et al In Silico Docking Analysis of Few Antidepressant P.pdf
+
+================================================================================
+DUPLICATE SET #144
+Hash: 449fe4f0875de550f51e880ec85bce18
+Files: 3
+Size: 688.4 KB
+Wasted space: 1.3 MB
+
+  - DRAFTSS_Working/Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, chemistry, and pharmacology.pdf
+  - Other_Collections/Krstenansky Mesembrine alkaloids Review of their occurrence.pdf
+  - ZOTPDF_References/Krstenansky - 2017 - Mesembrine alkaloids Review of their occurrence, chemistry, and pharmacology.pdf
+
+================================================================================
+DUPLICATE SET #145
+Hash: c358b6878df3edbec5cebfcdbada87d1
+Files: 3
+Size: 1.3 MB
+Wasted space: 2.6 MB
+
+  - DRAFTSS_Working/Leonti - 2011 - The future is written Impact of scripts on the cognition, selection, knowledge and transmission of.pdf
+  - Other_Collections/Leonti The future is written Impact of scripts on the co.pdf
+  - ZOTPDF_References/Leonti - 2011 - The future is written Impact of scripts on the cognition, selection, knowledge and transmission of.pdf
+
+================================================================================
+DUPLICATE SET #146
+Hash: 099fe237836573d15f71d7dea9b3acdd
+Files: 3
+Size: 431.2 KB
+Wasted space: 862.3 KB
+
+  - DRAFTSS_Working/Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+  - Other_Collections/Lewis Addiction and the Brain Development Not Disease.pdf
+  - ZOTPDF_References/Lewis - 2017 - Addiction and the Brain Development, Not Disease.pdf
+
+================================================================================
+DUPLICATE SET #147
+Hash: 8b6b9a0ea1b60dbd66456fa703446730
+Files: 2
+Size: 184.7 KB
+Wasted space: 184.7 KB
+
+  - DRAFTSS_Working/Low - 2007 - Different Histories of Buchu Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Pla.pdf
+  - ZOTPDF_References/Low - 2007 - Different Histories of Buchu Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Pla.pdf
+
+================================================================================
+DUPLICATE SET #148
+Hash: 3c67fb4824de9505df7cd4788c368f76
+Files: 3
+Size: 3.2 MB
+Wasted space: 6.3 MB
+
+  - DRAFTSS_Working/Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+  - Other_Collections/Chris Low Wind Life Health Anthropological and Historical.pdf
+  - ZOTPDF_References/Low - 2007 - Khoisan Wind Hunting and Healing-1.pdf
+
+================================================================================
+DUPLICATE SET #149
+Hash: 37857ce1b6e29819de4ddc4295778bad
+Files: 3
+Size: 3.2 MB
+Wasted space: 6.3 MB
+
+  - DRAFTSS_Working/Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+  - Other_Collections/Low Khoisan Wind Hunting and Healing.pdf
+  - ZOTPDF_References/Low - 2007 - Khoisan Wind Hunting and Healing.pdf
+
+================================================================================
+DUPLICATE SET #150
+Hash: e90632c103155a8b8e8a69466c46f5ee
+Files: 3
+Size: 4.3 MB
+Wasted space: 8.6 MB
+
+  - DRAFTSS_Working/Luo et al. - 2022 - A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in.pdf
+  - Other_Collections/Luo et al A network pharmacologybased approach to explore t.pdf
+  - ZOTPDF_References/Luo et al. - 2022 - A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in.pdf
+
+================================================================================
+DUPLICATE SET #151
+Hash: 3fc7d1a92dea4e25f87980faf0eef2c9
+Files: 2
+Size: 25.5 MB
+Wasted space: 25.5 MB
+
+  - DRAFTSS_Working/Magill et al. - 1981 - Bryophyta.pdf
+  - ZOTPDF_References/Magill et al. - 1981 - Bryophyta.pdf
+
+================================================================================
+DUPLICATE SET #152
+Hash: c2db2e823687fc688b8f297f039c8976
+Files: 4
+Size: 629.9 KB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi.pdf
+  - DRAFTSS_Working/Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020-1.pdf
+  - ZOTPDF_References/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi-1.pdf
+  - ZOTPDF_References/Mahlatsi et al. - 2021 - A conceptual framework for psychosocial health management grounded in the therapeutic merits of indi.pdf
+
+================================================================================
+DUPLICATE SET #153
+Hash: 332a1dd88e7f7bd7204079b818ace8c3
+Files: 2
+Size: 1.5 MB
+Wasted space: 1.5 MB
+
+  - DRAFTSS_Working/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid-1.pdf
+  - ZOTPDF_References/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid-1.pdf
+
+================================================================================
+DUPLICATE SET #154
+Hash: 21546e27d6dd85d803c57a4ad58f0b48
+Files: 3
+Size: 708.0 KB
+Wasted space: 1.4 MB
+
+  - DRAFTSS_Working/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid.pdf
+  - Other_Collections/Makolo et al Mesembrine The archetypal psychoactive Sceletium.pdf
+  - ZOTPDF_References/Makolo et al. - 2019 - Mesembrine The archetypal psycho-active Sceletium alkaloid.pdf
+
+================================================================================
+DUPLICATE SET #155
+Hash: a2f71522998e632b3a1c8269814fc0b3
+Files: 3
+Size: 9.2 MB
+Wasted space: 18.4 MB
+
+  - DRAFTSS_Working/Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS Application to a.pdf
+  - Other_Collections/Manda et al Quantification of mesembrine and mesembrenone in m.pdf
+  - ZOTPDF_References/Manda et al. - 2017 - Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS Application to a.pdf
+
+================================================================================
+DUPLICATE SET #156
+Hash: adc344d54064e13ef5552188cc1b083f
+Files: 3
+Size: 601.8 KB
+Wasted space: 1.2 MB
+
+  - DRAFTSS_Working/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)-1.pdf
+  - Other_Collections/Manganyi et al Antibacterial activity of endophytic fungi isolate.pdf
+  - ZOTPDF_References/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)-1.pdf
+
+================================================================================
+DUPLICATE SET #157
+Hash: 1da9fd3d2ee2f7dd5a228f12f3656bc7
+Files: 2
+Size: 699.5 KB
+Wasted space: 699.5 KB
+
+  - DRAFTSS_Working/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed).pdf
+  - ZOTPDF_References/Manganyi et al. - 2019 - Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed).pdf
+
+================================================================================
+DUPLICATE SET #158
+Hash: 23c0e2f291935bda3a4b0d7a53569afe
+Files: 3
+Size: 8.6 MB
+Wasted space: 17.2 MB
+
+  - DRAFTSS_Working/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum-1.pdf
+  - Other_Collections/Manganyi et al A Chewable Cure Kanna Biological and Pharmaceut.pdf
+  - ZOTPDF_References/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum-1.pdf
+
+================================================================================
+DUPLICATE SET #159
+Hash: 413cf91061ac5fb8cfb1321555e07a93
+Files: 2
+Size: 2.4 MB
+Wasted space: 2.4 MB
+
+  - DRAFTSS_Working/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum.pdf
+  - ZOTPDF_References/Manganyi et al. - 2021 - A Chewable Cure “Kanna” Biological and Pharmaceutical Properties of Sceletium tortuosum.pdf
+
+================================================================================
+DUPLICATE SET #160
+Hash: 806517acce6548ed92e9f651d5417657
+Files: 3
+Size: 6.3 MB
+Wasted space: 12.6 MB
+
+  - DRAFTSS_Working/Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model.pdf
+  - Other_Collections/Maphanga et al Mesembryanthemum tortuosum L alkaloids modify anx.pdf
+  - ZOTPDF_References/Maphanga et al. - 2022 - Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model.pdf
+
+================================================================================
+DUPLICATE SET #161
+Hash: 4e1ac502bf9e904a3a8e416e8c96af5f
+Files: 2
+Size: 394.5 KB
+Wasted space: 394.5 KB
+
+  - DRAFTSS_Working/Martorell et Ezcurra - 2007 - The narrow-leaf syndrome a functional and evolutionary approach to the form of fog-harvesting roset.pdf
+  - ZOTPDF_References/Martorell et Ezcurra - 2007 - The narrow-leaf syndrome a functional and evolutionary approach to the form of fog-harvesting roset.pdf
+
+================================================================================
+DUPLICATE SET #162
+Hash: 461a8e1c854e5f3db0735a3a460c7251
+Files: 3
+Size: 1.0 MB
+Wasted space: 2.1 MB
+
+  - DRAFTSS_Working/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection-1.pdf
+  - Other_Collections/Swart and Smith Modulation of glucocorticoid mineralocorticoid an.pdf
+  - ZOTPDF_References/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection-1.pdf
+
+================================================================================
+DUPLICATE SET #163
+Hash: b0f5c90053c89a6f05c5b925772ca8f2
+Files: 3
+Size: 1.0 MB
+Wasted space: 2.1 MB
+
+  - DRAFTSS_Working/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection.pdf
+  - Other_Collections/Meyer et al GCMS LCMSn LChigh resolutionMSn and NMR stu.pdf
+  - ZOTPDF_References/Meyer et al. - 2015 - GC-MS, LC-MSn, LC-high resolution-MSn, and NMR studies on the metabolism and toxicological detection.pdf
+
+================================================================================
+DUPLICATE SET #164
+Hash: 45432cda75348c3c38261061d3952c72
+Files: 2
+Size: 83.4 MB
+Wasted space: 83.4 MB
+
+  - DRAFTSS_Working/Mitchell_2022_1.pdf
+  - ZOTPDF_References/Mitchell_2022_1.pdf
+
+================================================================================
+DUPLICATE SET #165
+Hash: abec751d152528fef1dd08d3fdeee32e
+Files: 2
+Size: 479.0 KB
+Wasted space: 479.0 KB
+
+  - DRAFTSS_Working/Morris_2009.pdf
+  - ZOTPDF_References/Morris_2009.pdf
+
+================================================================================
+DUPLICATE SET #166
+Hash: 14f56bbb800e89b04e24569d7439347a
+Files: 3
+Size: 160.2 KB
+Wasted space: 320.5 KB
+
+  - DRAFTSS_Working/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos-1.pdf
+  - Other_Collections/Nell et al A Randomized DoubleBlind ParallelGroup Placeb.pdf
+  - ZOTPDF_References/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos-1.pdf
+
+================================================================================
+DUPLICATE SET #167
+Hash: 4f0bd8bcd32ae890dba957484cd24f5a
+Files: 2
+Size: 198.7 KB
+Wasted space: 198.7 KB
+
+  - DRAFTSS_Working/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos.pdf
+  - ZOTPDF_References/Nell et al. - 2013 - A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial of Extract Sceletium tortuos.pdf
+
+================================================================================
+DUPLICATE SET #168
+Hash: 4eb77a3aa20db9b756110f25c9879661
+Files: 3
+Size: 737.3 KB
+Wasted space: 1.4 MB
+
+  - DRAFTSS_Working/Neuroimmune mechanisms of psychostimulant and opioEuropean Journal of NeuroscienHoffordEtAl2019.pdf
+  - Other_Collections/Hofford et al Neuroimmune mechanisms of psychostimulant and opio.pdf
+  - ZOTPDF_References/Hofford et al. - 2019 - Neuroimmune mechanisms of psychostimulant and opioid use disorders.pdf
+
+================================================================================
+DUPLICATE SET #169
+Hash: 92e565258724feb8cbc946a540de8d51
+Files: 3
+Size: 341.2 KB
+Wasted space: 682.4 KB
+
+  - DRAFTSS_Working/O'Donnell et Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+  - Other_Collections/ODonnell and Zhang Antidepressant effects of inhibitors of cAMP phosp.pdf
+  - ZOTPDF_References/O'Donnell et Zhang - 2004 - Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf
+
+================================================================================
+DUPLICATE SET #170
+Hash: 3f765d63b952637351ecae882cdb3865
+Files: 3
+Size: 205.1 KB
+Wasted space: 410.1 KB
+
+  - DRAFTSS_Working/Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological an.pdf
+  - Other_Collections/Olatunji et al Corrigendum to Sceletium tortuosum A review on i.pdf
+  - ZOTPDF_References/Olatunji et al. - 2022 - Corrigendum to “Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological an.pdf
+
+================================================================================
+DUPLICATE SET #171
+Hash: f8a02cc0335ea39ad8397081c1ef7af8
+Files: 3
+Size: 4.1 MB
+Wasted space: 8.2 MB
+
+  - DRAFTSS_Working/Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and.pdf
+  - Other_Collections/Olatunji et al Sceletium tortuosum A review on its phytochemistr.pdf
+  - ZOTPDF_References/Olatunji et al. - 2022 - Sceletium tortuosum A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and.pdf
+
+================================================================================
+DUPLICATE SET #172
+Hash: 3c11d7e31c47cbf076c12139112002bf
+Files: 3
+Size: 687.0 KB
+Wasted space: 1.3 MB
+
+  - DRAFTSS_Working/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities-1.pdf
+  - Other_Collections/Olsen and Liu Phosphodiesterase inhibitors and drugs of abuse.pdf
+  - ZOTPDF_References/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities-1.pdf
+
+================================================================================
+DUPLICATE SET #173
+Hash: fdbc33c56d1584489c4255ecc9e1e26f
+Files: 2
+Size: 434.1 KB
+Wasted space: 434.1 KB
+
+  - DRAFTSS_Working/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities.pdf
+  - ZOTPDF_References/Olsen et Liu - 2016 - Phosphodiesterase 4 inhibitors and drugs of abuse current knowledge and therapeutic opportunities.pdf
+
+================================================================================
+DUPLICATE SET #174
+Hash: f7aa93c071d756307d8d80f31040d81d
+Files: 2
+Size: 17.7 MB
+Wasted space: 17.7 MB
+
+  - DRAFTSS_Working/One_2023.pdf
+  - ZOTPDF_References/One_2023.pdf
+
+================================================================================
+DUPLICATE SET #175
+Hash: 5f9d5e9f15d83d652522085e884bc8a6
+Files: 3
+Size: 428.3 KB
+Wasted space: 856.6 KB
+
+  - DRAFTSS_Working/Oteng Mintah et al. - 2019 - Medicinal Plants for Treatment of Prevalent Diseases.pdf
+  - Other_Collections/Oteng Mintah et al Medicinal Plants for Treatment of Prevalent Diseas.pdf
+  - ZOTPDF_References/Oteng Mintah et al. - 2019 - Medicinal Plants for Treatment of Prevalent Diseases.pdf
+
+================================================================================
+DUPLICATE SET #176
+Hash: 045b2bfd56f609b603a7d048aec7ee84
+Files: 2
+Size: 78.2 MB
+Wasted space: 78.2 MB
+
+  - DRAFTSS_Working/Past Environments and Plant Use in Holocene SoutheMvimi2022.pdf
+  - ZOTPDF_References/Mvimi - 2022 - Past Environments and Plant Use in Holocene Southern Africa.pdf
+
+================================================================================
+DUPLICATE SET #177
+Hash: 3f3c50c9365186e1101c2b9d080fd69b
+Files: 2
+Size: 835.2 KB
+Wasted space: 835.2 KB
+
+  - DRAFTSS_Working/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona-1.pdf
+  - ZOTPDF_References/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona-1.pdf
+
+================================================================================
+DUPLICATE SET #178
+Hash: 2056585f413979ab185636d13b536195
+Files: 3
+Size: 345.5 KB
+Wasted space: 690.9 KB
+
+  - DRAFTSS_Working/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona.pdf
+  - Other_Collections/Patnala and Kanfer HPLC Analysis of MesembrineType Alkaloids in Scel.pdf
+  - ZOTPDF_References/Patnala et Kanfer - 2010 - HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditiona.pdf
+
+================================================================================
+DUPLICATE SET #179
+Hash: 5ff09bdc6abbd722bf7c9f15cb7bf6cb
+Files: 3
+Size: 929.2 KB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Patnala et Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf
+  - Other_Collections/Patnala and Kanfer Chemotaxonomic studies of mesembrinetype alkaloid.pdf
+  - ZOTPDF_References/Patnala et Kanfer - 2013 - Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf
+
+================================================================================
+DUPLICATE SET #180
+Hash: 0e89081edddf8b7c157458110fb1ec13
+Files: 3
+Size: 1.8 MB
+Wasted space: 3.7 MB
+
+  - DRAFTSS_Working/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology-1.pdf
+  - Other_Collections/Patnala and Kanfer Sceletium Plant Species Alkaloidal Components Ch.pdf
+  - ZOTPDF_References/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology-1.pdf
+
+================================================================================
+DUPLICATE SET #181
+Hash: 466acff9df13795db3ceaa593555a68f
+Files: 3
+Size: 1.8 MB
+Wasted space: 3.7 MB
+
+  - DRAFTSS_Working/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology.pdf
+  - Other_Collections/Patnala and Kanfer 2017 Sceletium Plant Species Alkaloidal Components Ch.pdf
+  - ZOTPDF_References/Patnala et Kanfer - 2017 - Sceletium Plant Species Alkaloidal Components, Chemistry and Ethnopharmacology.pdf
+
+================================================================================
+DUPLICATE SET #182
+Hash: dbda9df0ec2df259d66f0d61be4b1ee1
+Files: 2
+Size: 1.4 MB
+Wasted space: 1.4 MB
+
+  - DRAFTSS_Working/PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011-1.pdf
+  - ZOTPDF_References/Diamant et Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obstructive airways disease.pdf
+
+================================================================================
+DUPLICATE SET #183
+Hash: 768dd95ac8f7332992deed1aff1e099d
+Files: 3
+Size: 461.6 KB
+Wasted space: 923.1 KB
+
+  - DRAFTSS_Working/PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011-2.pdf
+  - Other_Collections/Diamant and Spina PDEinhibitors A novel targeted therapy for obs.pdf
+  - ZOTPDF_References/Diamant et Spina - 2011 - PDE4-inhibitors A novel, targeted therapy for obstructive airways disease-1.pdf
+
+================================================================================
+DUPLICATE SET #184
+Hash: 57104743c12773e3ca4e367b616a915a
+Files: 3
+Size: 400.4 KB
+Wasted space: 800.9 KB
+
+  - DRAFTSS_Working/Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011-1.pdf
+  - Other_Collections/Harvey et al Pharmacological actions of the South African medic.pdf
+  - ZOTPDF_References/Harvey et al. - 2011 - Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum.pdf
+
+================================================================================
+DUPLICATE SET #185
+Hash: 50ddce47b5d52252528e210258934c1c
+Files: 2
+Size: 1.7 MB
+Wasted space: 1.7 MB
+
+  - DRAFTSS_Working/Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020-1.pdf
+  - ZOTPDF_References/Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review of Psychiatric and Neurological Adverse Effects.pdf
+
+================================================================================
+DUPLICATE SET #186
+Hash: 92de2a69ebab09337e0d6bab99f8bfb5
+Files: 2
+Size: 2.4 MB
+Wasted space: 2.4 MB
+
+  - DRAFTSS_Working/Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020-1.pdf
+  - ZOTPDF_References/Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders.pdf
+
+================================================================================
+DUPLICATE SET #187
+Hash: 91b269909f86dac37e8d6bf98f908bc9
+Files: 3
+Size: 2.1 MB
+Wasted space: 4.3 MB
+
+  - DRAFTSS_Working/Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020-2.pdf
+  - Other_Collections/Bhat et al Phosphodiesterase enzyme as a therapeutic target.pdf
+  - ZOTPDF_References/Bhat et al. - 2020 - Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders-1.pdf
+
+================================================================================
+DUPLICATE SET #188
+Hash: 2e57822d0b8ad12302e3c7832d4d563e
+Files: 3
+Size: 267.4 KB
+Wasted space: 534.8 KB
+
+  - DRAFTSS_Working/Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+  - Other_Collections/Pickard et al Alternative Models of Addiction.pdf
+  - ZOTPDF_References/Pickard et al. - 2015 - Alternative Models of Addiction.pdf
+
+================================================================================
+DUPLICATE SET #189
+Hash: ff3042077f76d09b646cba873eb045ef
+Files: 2
+Size: 2.8 MB
+Wasted space: 2.8 MB
+
+  - DRAFTSS_Working/Pickrell et al. - 2012 - The genetic prehistory of southern Africa.pdf
+  - ZOTPDF_References/Pickrell et al. - 2012 - The genetic prehistory of southern Africa.pdf
+
+================================================================================
+DUPLICATE SET #190
+Hash: b2260fb309d9837e560acf6d34c0c9e9
+Files: 3
+Size: 1.6 MB
+Wasted space: 3.2 MB
+
+  - DRAFTSS_Working/Proof-of-Concept Randomized Controlled Study of CoEvidence-Based Complementary aChiuEtAl2014.pdf
+  - Other_Collections/Chiu et al ProofofConcept Randomized Controlled Study of Co.pdf
+  - ZOTPDF_References/Chiu et al. - 2014 - Proof‐of‐Concept Randomized Controlled Study of Cognition Effects of the Proprietary Extract Scel.pdf
+
+================================================================================
+DUPLICATE SET #191
+Hash: a7e9d8638f612939babd53d1e1309ee5
+Files: 2
+Size: 118.7 KB
+Wasted space: 118.7 KB
+
+  - DRAFTSS_Working/Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014-1.pdf
+  - ZOTPDF_References/Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobotanical Research in Southern Africa (Review)-1.pdf
+
+================================================================================
+DUPLICATE SET #192
+Hash: 3c3203f8e216551649a9289845ea1411
+Files: 3
+Size: 128.1 KB
+Wasted space: 256.1 KB
+
+  - DRAFTSS_Working/Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014.pdf
+  - Other_Collections/JeanFrancois Psychoactive Plants A Neglected Area of Ethnobota.pdf
+  - ZOTPDF_References/Jean-Francois - 2014 - Psychoactive Plants A Neglected Area of Ethnobotanical Research in Southern Africa (Review).pdf
+
+================================================================================
+DUPLICATE SET #193
+Hash: 9bdaeaf947485f5a57408a5eaac6c720
+Files: 3
+Size: 6.8 MB
+Wasted space: 13.6 MB
+
+  - DRAFTSS_Working/Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016-1.pdf
+  - Other_Collections/Dimpfel et al Psychophysiological Effects of Zembrinltsupgt.pdf
+  - ZOTPDF_References/Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den-1.pdf
+
+================================================================================
+DUPLICATE SET #194
+Hash: b6632ff8c635ebe91fff3a8c1c344058
+Files: 3
+Size: 6.8 MB
+Wasted space: 13.6 MB
+
+  - DRAFTSS_Working/Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016.pdf
+  - Other_Collections/Dimpfel et al 2016 Psychophysiological Effects of Zembrinltsupgt 3.pdf
+  - ZOTPDF_References/Dimpfel et al. - 2016 - Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;sup&gt;Using Quantitative EEG Source Den.pdf
+
+================================================================================
+DUPLICATE SET #195
+Hash: ef9592ed8b86bed03c679872c2f32f39
+Files: 3
+Size: 535.9 KB
+Wasted space: 1.0 MB
+
+  - DRAFTSS_Working/Reay et al. - 2020 - Sceletium tortuosum (Zembrin® ) ameliorates experimentally induced anxiety in heal.pdf
+  - Other_Collections/Reay et al Sceletium tortuosum Zembrin.pdf
+  - ZOTPDF_References/Reay et al. - 2020 - Sceletium tortuosum (Zembrin® ) ameliorates experimentally induced anxiety in heal.pdf
+
+================================================================================
+DUPLICATE SET #196
+Hash: c2e22315e613451dfc7c4af77c891505
+Files: 3
+Size: 2.2 MB
+Wasted space: 4.3 MB
+
+  - DRAFTSS_Working/Reddy et al. - 2024 - Skeletons in the closet Using a bibliometric lens to visualise phytochemical and pharmacological ac.pdf
+  - Other_Collections/Stafford Skeletons in the closet Using a bibliometric le.pdf
+  - ZOTPDF_References/Reddy et al. - 2024 - Skeletons in the closet Using a bibliometric lens to visualise phytochemical and pharmacological ac.pdf
+
+================================================================================
+DUPLICATE SET #197
+Hash: 2a297296c0110bf54e637e2d0574f437
+Files: 3
+Size: 465.7 KB
+Wasted space: 931.4 KB
+
+  - DRAFTSS_Working/Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013-3.pdf
+  - Other_Collections/Prasad et al Role of Traditional and Alternative Medicine in Tr.pdf
+  - ZOTPDF_References/Prasad et al. - 2013 - Role of Traditional and Alternative Medicine in Treatment of Ulcerative Colitis.pdf
+
+================================================================================
+DUPLICATE SET #198
+Hash: b1bc30a29f994e333c113fbc4d4759a2
+Files: 3
+Size: 858.8 KB
+Wasted space: 1.7 MB
+
+  - DRAFTSS_Working/Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity.pdf
+  - Other_Collections/Rombaut et al PDE inhibition in distinct cell types to reclaim t.pdf
+  - ZOTPDF_References/Rombaut et al. - 2021 - PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity.pdf
+
+================================================================================
+DUPLICATE SET #199
+Hash: 6c8be10c3269abe879b76eaff37f123a
+Files: 3
+Size: 826.3 KB
+Wasted space: 1.6 MB
+
+  - DRAFTSS_Working/Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions.pdf
+  - Other_Collections/Rothman et al Dopamineserotonin releasers as medications for st.pdf
+  - ZOTPDF_References/Rothman et al. - 2008 - Dopamineserotonin releasers as medications for stimulant addictions-1.pdf
+
+================================================================================
+DUPLICATE SET #200
+Hash: 98891d657b0e52fda6c9e8477f6eac68
+Files: 3
+Size: 839.8 KB
+Wasted space: 1.6 MB
+
+  - DRAFTSS_Working/Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016-1.pdf
+  - Other_Collections/Morris Royal pharmaceuticals Bioprospecting rights and.pdf
+  - ZOTPDF_References/Morris - 2016 - Royal pharmaceuticals Bioprospecting, rights, and traditional authority in South Africa.pdf
+
+================================================================================
+DUPLICATE SET #201
+Hash: ab3395536e18f299ed427595d5187b59
+Files: 3
+Size: 1.0 MB
+Wasted space: 2.1 MB
+
+  - DRAFTSS_Working/Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders A Meta-review of M.pdf
+  - Other_Collections/Sarris et al Plantbased Medicines Phytoceuticals in the Trea.pdf
+  - ZOTPDF_References/Sarris et al. - 2021 - Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders A Meta-review of M.pdf
+
+================================================================================
+DUPLICATE SET #202
+Hash: 1bf441325ac3532eef459daf6795ac24
+Files: 3
+Size: 1.5 MB
+Wasted space: 3.0 MB
+
+  - DRAFTSS_Working/Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008-1.pdf
+  - Other_Collections/Gericke and Viljoen SceletiumA review update.pdf
+  - ZOTPDF_References/Gericke et Viljoen - 2008 - Sceletium—A review update-1.pdf
+
+================================================================================
+DUPLICATE SET #203
+Hash: d44d1a9ec8025e09930f214795c0a6b4
+Files: 2
+Size: 1.6 MB
+Wasted space: 1.6 MB
+
+  - DRAFTSS_Working/Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008.pdf
+  - ZOTPDF_References/Gericke et Viljoen - 2008 - Sceletium—A review update.pdf
+
+================================================================================
+DUPLICATE SET #204
+Hash: 7a58a4b6a55e341873341f15bc6dd06a
+Files: 3
+Size: 7.0 MB
+Wasted space: 13.9 MB
+
+  - DRAFTSS_Working/Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024-1.pdf
+  - Other_Collections/Gericke et al Sceletium tortuosumderived mesembrine significant.pdf
+  - ZOTPDF_References/Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin.pdf
+
+================================================================================
+DUPLICATE SET #205
+Hash: e79d6a5bd2948d1c7727ff5fc8a69c94
+Files: 2
+Size: 6.9 MB
+Wasted space: 6.9 MB
+
+  - DRAFTSS_Working/Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024-2.pdf
+  - ZOTPDF_References/Gericke et al. - 2024 - Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin-1.pdf
+
+================================================================================
+DUPLICATE SET #206
+Hash: 8541e3401a7b37ccc0dc4226193f9efd
+Files: 2
+Size: 2.2 MB
+Wasted space: 2.2 MB
+
+  - DRAFTSS_Working/Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020-1.pdf
+  - ZOTPDF_References/Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous System and Related Disease.pdf
+
+================================================================================
+DUPLICATE SET #207
+Hash: 003bf11d7b29962188cf88925e0bd6d1
+Files: 3
+Size: 1.4 MB
+Wasted space: 2.8 MB
+
+  - DRAFTSS_Working/Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020-2.pdf
+  - Other_Collections/Wen et al Sceletium Tortuosum Effects on Central Nervous Sy.pdf
+  - ZOTPDF_References/Wen et al. - 2020 - Sceletium Tortuosum Effects on Central Nervous System and Related Disease-1.pdf
+
+================================================================================
+DUPLICATE SET #208
+Hash: 4e7d30665081324d2edc9563503822bb
+Files: 2
+Size: 1.2 MB
+Wasted space: 1.2 MB
+
+  - DRAFTSS_Working/Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018-1.pdf
+  - ZOTPDF_References/Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti.pdf
+
+================================================================================
+DUPLICATE SET #209
+Hash: e128c68d0ac97a8fe6ca7ef9a6845a16
+Files: 3
+Size: 1.7 MB
+Wasted space: 3.4 MB
+
+  - DRAFTSS_Working/Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018-2.pdf
+  - Other_Collections/Bennett et al Sceletium tortuosum may delay chronic disease prog.pdf
+  - ZOTPDF_References/Bennett et al. - 2018 - Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti-1.pdf
+
+================================================================================
+DUPLICATE SET #210
+Hash: 57df090c5632e5c8d183aa8e96dd9993
+Files: 3
+Size: 177.5 KB
+Wasted space: 355.0 KB
+
+  - DRAFTSS_Working/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry-1.pdf
+  - Other_Collections/Schifano et al Novel psychoactive substances of interest for psyc.pdf
+  - ZOTPDF_References/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry-1.pdf
+
+================================================================================
+DUPLICATE SET #211
+Hash: 163755dcf4ff0d7cd19dbff952badad7
+Files: 2
+Size: 305.7 KB
+Wasted space: 305.7 KB
+
+  - DRAFTSS_Working/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry.pdf
+  - ZOTPDF_References/Schifano et al. - 2015 - Novel psychoactive substances of interest for psychiatry.pdf
+
+================================================================================
+DUPLICATE SET #212
+Hash: 7e9ccb30827b41b8e79ee1249b9171d0
+Files: 3
+Size: 712.8 KB
+Wasted space: 1.4 MB
+
+  - DRAFTSS_Working/Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020-2.pdf
+  - Other_Collections/Maphanga et al Screening selected medicinal plants for potential.pdf
+  - ZOTPDF_References/Maphanga et al. - 2020 - Screening selected medicinal plants for potential anxiolytic activity using an in vivo zebrafish mod.pdf
+
+================================================================================
+DUPLICATE SET #213
+Hash: e3712514908bb6210189fdfa9b41f039
+Files: 3
+Size: 327.3 KB
+Wasted space: 654.7 KB
+
+  - DRAFTSS_Working/Shikanga et al. - 2012 - In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Bu.pdf
+  - Other_Collections/Shikanga et al In Vitro Permeation of Mesembrine Alkaloids.pdf
+  - ZOTPDF_References/Shikanga et al. - 2012 - In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Bu.pdf
+
+================================================================================
+DUPLICATE SET #214
+Hash: cbeaaef6fbdda692f33638e925f5d7a6
+Files: 2
+Size: 613.2 KB
+Wasted space: 613.2 KB
+
+  - DRAFTSS_Working/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations-1.pdf
+  - ZOTPDF_References/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations-1.pdf
+
+================================================================================
+DUPLICATE SET #215
+Hash: 130b9b3e36b7d36c0216224b41f86d0e
+Files: 3
+Size: 496.3 KB
+Wasted space: 992.7 KB
+
+  - DRAFTSS_Working/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations.pdf
+  - Other_Collections/Shikanga et al The chemotypic variation of Sceletium tortuosum al.pdf
+  - ZOTPDF_References/Shikanga et al. - 2012 - The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations.pdf
+
+================================================================================
+DUPLICATE SET #216
+Hash: ebb6b9deda02d5640cd651d4070762cf
+Files: 3
+Size: 936.5 KB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary-1.pdf
+  - Other_Collections/Sibeko et al Traditional perinatal plant knowledge in SubSahar.pdf
+  - ZOTPDF_References/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary-1.pdf
+
+================================================================================
+DUPLICATE SET #217
+Hash: a13525e69c0dfa959e1efe078a726280
+Files: 2
+Size: 1.1 MB
+Wasted space: 1.1 MB
+
+  - DRAFTSS_Working/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary.pdf
+  - ZOTPDF_References/Sibeko et al. - 2023 - Traditional perinatal plant knowledge in Sub-Saharan Africa Comprehensive compilation and secondary.pdf
+
+================================================================================
+DUPLICATE SET #218
+Hash: ffbd01e11e13527f2d295ab0e8da2b75
+Files: 3
+Size: 438.6 KB
+Wasted space: 877.2 KB
+
+  - DRAFTSS_Working/Smith - 2011 - The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf
+  - Other_Collections/Smith The effects of Sceletium tortuosum in an in vivo m.pdf
+  - ZOTPDF_References/Smith - 2011 - The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf
+
+================================================================================
+DUPLICATE SET #219
+Hash: 6de6ea91ac27ee4a425ef575f1b33c65
+Files: 3
+Size: 6.2 MB
+Wasted space: 12.4 MB
+
+  - DRAFTSS_Working/Smith_unknown.pdf
+  - Other_Collections/THELOSTHISTORYOFKHOISAN.pdf
+  - ZOTPDF_References/Smith_unknown.pdf
+
+================================================================================
+DUPLICATE SET #220
+Hash: 167b636102db22f957c3ed84ed8338e0
+Files: 3
+Size: 471.9 KB
+Wasted space: 943.8 KB
+
+  - DRAFTSS_Working/Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996-1.pdf
+  - Other_Collections/De Smet Some ethnopharmacological notes on African halluci.pdf
+  - ZOTPDF_References/De Smet - 1996 - Some ethnopharmacological notes on African hallucinogens.pdf
+
+================================================================================
+DUPLICATE SET #221
+Hash: fd4a184953e4a92515395b38000acbbc
+Files: 3
+Size: 998.8 KB
+Wasted space: 2.0 MB
+
+  - DRAFTSS_Working/SOUTH  AFRICAN  SCIENCE  FACES  ITS  FUTURE.pdf
+  - Other_Collections/ZembeMkabile SAMANTHA REINDERS FOR NATURE.pdf
+  - ZOTPDF_References/Nordling_2018.pdf
+
+================================================================================
+DUPLICATE SET #222
+Hash: a8ccf0fc7b06289e57288b369f692a3f
+Files: 2
+Size: 260.5 KB
+Wasted space: 260.5 KB
+
+  - DRAFTSS_Working/Spina - 2008 - PDE4 inhibitors current status-1.pdf
+  - ZOTPDF_References/Spina - 2008 - PDE4 inhibitors current status-1.pdf
+
+================================================================================
+DUPLICATE SET #223
+Hash: ccea8281149d75e025449d34caec02cd
+Files: 3
+Size: 193.8 KB
+Wasted space: 387.5 KB
+
+  - DRAFTSS_Working/Spina - 2008 - PDE4 inhibitors current status.pdf
+  - Other_Collections/Spina PDE inhibitors current status.pdf
+  - ZOTPDF_References/Spina - 2008 - PDE4 inhibitors current status.pdf
+
+================================================================================
+DUPLICATE SET #224
+Hash: be24af42f19722ceb31057bb99749656
+Files: 3
+Size: 1.2 MB
+Wasted space: 2.3 MB
+
+  - DRAFTSS_Working/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E.-1.pdf
+  - Other_Collections/Sreekissoon et al In vitro and ex vivo vegetative propagation and cy.pdf
+  - ZOTPDF_References/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E.-1.pdf
+
+================================================================================
+DUPLICATE SET #225
+Hash: d63c72a01a66530174699e99c207a441
+Files: 2
+Size: 884.2 KB
+Wasted space: 884.2 KB
+
+  - DRAFTSS_Working/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E..pdf
+  - ZOTPDF_References/Sreekissoon et al. - 2021 - In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E..pdf
+
+================================================================================
+DUPLICATE SET #226
+Hash: 4a9863bb4a79868718eeeeb5e2511782
+Files: 3
+Size: 734.9 KB
+Wasted space: 1.4 MB
+
+  - DRAFTSS_Working/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases-1.pdf
+  - Other_Collections/Stafford et al Review on plants with CNSeffects used in traditio.pdf
+  - ZOTPDF_References/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases-1.pdf
+
+================================================================================
+DUPLICATE SET #227
+Hash: a26363b9c42fa5b2f3ecead0da957235
+Files: 2
+Size: 1009.4 KB
+Wasted space: 1009.4 KB
+
+  - DRAFTSS_Working/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases.pdf
+  - ZOTPDF_References/Stafford et al. - 2008 - Review on plants with CNS-effects used in traditional South African medicine against mental diseases.pdf
+
+================================================================================
+DUPLICATE SET #228
+Hash: 6aed2918cdcdfbf472042744cb0c1197
+Files: 2
+Size: 825.6 KB
+Wasted space: 825.6 KB
+
+  - DRAFTSS_Working/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma-1.pdf
+  - ZOTPDF_References/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma-1.pdf
+
+================================================================================
+DUPLICATE SET #229
+Hash: 189b1338052740a11348b2c0f6245caa
+Files: 3
+Size: 876.7 KB
+Wasted space: 1.7 MB
+
+  - DRAFTSS_Working/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma.pdf
+  - Other_Collections/Terburg et al Acute effects of Sceletium tortuosum Zembrin a.pdf
+  - ZOTPDF_References/Terburg et al. - 2013 - Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Huma.pdf
+
+================================================================================
+DUPLICATE SET #230
+Hash: d87016718b8220baf8f310d70a54885b
+Files: 3
+Size: 2.0 MB
+Wasted space: 3.9 MB
+
+  - DRAFTSS_Working/The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970-1.pdf
+  - Other_Collections/Schultes The Botanical and Chemical Distribution of Halluci.pdf
+  - ZOTPDF_References/Schultes - 1970 - The Botanical and Chemical Distribution of Hallucinogens.pdf
+
+================================================================================
+DUPLICATE SET #231
+Hash: 11b525ce2db1df7bcfef8e45487ac7d8
+Files: 2
+Size: 66.6 MB
+Wasted space: 66.6 MB
+
+  - DRAFTSS_Working/The Changing PastA Companion to Creative WritinHall.pdf
+  - ZOTPDF_References/Hall - The Changing Past.pdf
+
+================================================================================
+DUPLICATE SET #232
+Hash: e55831e5aafc0ff6ee96a42d6ec189a4
+Files: 2
+Size: 125.9 MB
+Wasted space: 125.9 MB
+
+  - DRAFTSS_Working/The ecology and management of biological invasions in Southern Africa.pdf
+  - ZOTPDF_References/The ecology and management of biological invasions in Southern Africa.pdf
+
+================================================================================
+DUPLICATE SET #233
+Hash: 2bf5337cff769d632645673f041245cb
+Files: 3
+Size: 1.1 MB
+Wasted space: 2.2 MB
+
+  - DRAFTSS_Working/The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022-1.pdf
+  - Other_Collections/James Faber et al The Importance of Sceletium tortuosum L.pdf
+  - ZOTPDF_References/James Faber et al. - 2022 - The Importance of Sceletium tortuosum (L.) N.E. Brown and Its Viability as a Traditional Afri.pdf
+
+================================================================================
+DUPLICATE SET #234
+Hash: 62c85d292540c3bc335d1fc5044467dc
+Files: 3
+Size: 2.7 MB
+Wasted space: 5.4 MB
+
+  - DRAFTSS_Working/The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012-3.pdf
+  - Other_Collections/Wen et al The Phosphodiesterase span stylefontvarian.pdf
+  - ZOTPDF_References/Wen et al. - 2012 - The Phosphodiesterase‐4 ( PDE 4) Inhibitor Rolipram De.pdf
+
+================================================================================
+DUPLICATE SET #235
+Hash: 175d8caa069f8064e56aa1ebc2e8c10d
+Files: 3
+Size: 982.9 KB
+Wasted space: 1.9 MB
+
+  - DRAFTSS_Working/To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019-1.pdf
+  - Other_Collections/Chen and Viljoen To ferment or not to ferment Sceletium tortuosum.pdf
+  - ZOTPDF_References/Chen et Viljoen - 2019 - To ferment or not to ferment Sceletium tortuosum – Do our ancestors hold the answer.pdf
+
+================================================================================
+DUPLICATE SET #236
+Hash: 741691695055ebe24b435094da555907
+Files: 3
+Size: 373.5 KB
+Wasted space: 746.9 KB
+
+  - DRAFTSS_Working/Torregrossa et Taylor - 2013 - Learning to forget manipulating extinction and reconsolidation processes to treat addiction.pdf
+  - Other_Collections/Torregrossa and Taylor Learning to forget manipulating extinction and re.pdf
+  - ZOTPDF_References/Torregrossa et Taylor - 2013 - Learning to forget manipulating extinction and reconsolidation processes to treat addiction.pdf
+
+================================================================================
+DUPLICATE SET #237
+Hash: 599e20c8cfe325a7ea90f33eec1c4231
+Files: 3
+Size: 645.9 KB
+Wasted space: 1.3 MB
+
+  - DRAFTSS_Working/Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016-1.pdf
+  - Other_Collections/Fajemiroye et al Treatment of anxiety and depression medicinal pla.pdf
+  - ZOTPDF_References/Fajemiroye et al. - 2016 - Treatment of anxiety and depression medicinal plants in retrospect.pdf
+
+================================================================================
+DUPLICATE SET #238
+Hash: 38ecaaef7cdf4408466b2e9d10fdcea7
+Files: 3
+Size: 1.3 MB
+Wasted space: 2.5 MB
+
+  - DRAFTSS_Working/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea-1.pdf
+  - Other_Collections/Valente et al Correlates of hyperdiversity in southern African i.pdf
+  - ZOTPDF_References/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea-1.pdf
+
+================================================================================
+DUPLICATE SET #239
+Hash: 17d971ba43a8e29cab3406271ea07fa7
+Files: 2
+Size: 1.8 MB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea.pdf
+  - ZOTPDF_References/Valente et al. - 2014 - Correlates of hyperdiversity in southern African ice plants (Aizoaceae) Diversification in Aizoacea.pdf
+
+================================================================================
+DUPLICATE SET #240
+Hash: 21b3d9303f9d47766ce0da17cdfcc7fc
+Files: 3
+Size: 1.6 MB
+Wasted space: 3.2 MB
+
+  - DRAFTSS_Working/Van Wyk - 2008 - A broad review of commercially important southern African medicinal plants.pdf
+  - Other_Collections/Van Wyk A broad review of commercially important southern.pdf
+  - ZOTPDF_References/Van Wyk - 2008 - A broad review of commercially important southern African medicinal plants.pdf
+
+================================================================================
+DUPLICATE SET #241
+Hash: 6e10417fe381324019cecc57b7668b2d
+Files: 3
+Size: 341.7 KB
+Wasted space: 683.3 KB
+
+  - DRAFTSS_Working/Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+  - Other_Collections/Van Wyk A review of KhoiSan and Cape Dutch medical ethnob.pdf
+  - ZOTPDF_References/Van Wyk - 2008 - A review of Khoi-San and Cape Dutch medical ethnobotany.pdf
+
+================================================================================
+DUPLICATE SET #242
+Hash: f5ee3d57c30861f0b8be8dc16f8a24b5
+Files: 3
+Size: 3.1 MB
+Wasted space: 6.2 MB
+
+  - DRAFTSS_Working/Van Wyk - 2011 - The potential of South African plants in the development of new medicinal products.pdf
+  - Other_Collections/Van Wyk The potential of South African plants in the devel.pdf
+  - ZOTPDF_References/Van Wyk - 2011 - The potential of South African plants in the development of new medicinal products.pdf
+
+================================================================================
+DUPLICATE SET #243
+Hash: caa7ad902c28d94338dd2677d9c5eb8c
+Files: 3
+Size: 203.8 KB
+Wasted space: 407.6 KB
+
+  - DRAFTSS_Working/Van Wyk et Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about.pdf
+  - Other_Collections/Van Wyk and Moteetee Ethnobotanical research in subSaharan Africa.pdf
+  - ZOTPDF_References/Van Wyk et Moteetee - 2019 - Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about.pdf
+
+================================================================================
+DUPLICATE SET #244
+Hash: 99f1482b0f539b027795b6ae256334a3
+Files: 3
+Size: 1.8 MB
+Wasted space: 3.6 MB
+
+  - DRAFTSS_Working/Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020-1.pdf
+  - Other_Collections/Faber et al Variabilities in alkaloid concentration of Sceleti.pdf
+  - ZOTPDF_References/Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different.pdf
+
+================================================================================
+DUPLICATE SET #245
+Hash: caab65ec6748dbdfdf50633bb44df75c
+Files: 2
+Size: 1.9 MB
+Wasted space: 1.9 MB
+
+  - DRAFTSS_Working/Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020-2.pdf
+  - ZOTPDF_References/Faber et al. - 2020 - Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different-1.pdf
+
+================================================================================
+DUPLICATE SET #246
+Hash: 67f4fe96217b1f811037578ecf3aa7c9
+Files: 2
+Size: 732.6 KB
+Wasted space: 732.6 KB
+
+  - DRAFTSS_Working/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation-1.pdf
+  - ZOTPDF_References/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation-1.pdf
+
+================================================================================
+DUPLICATE SET #247
+Hash: 9451a714e94d182770af9d58b52b941b
+Files: 3
+Size: 939.1 KB
+Wasted space: 1.8 MB
+
+  - DRAFTSS_Working/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation.pdf
+  - Other_Collections/Wynberg Biopiracy Crying wolf or a lever for equity and.pdf
+  - ZOTPDF_References/Wynberg - 2023 - Biopiracy Crying wolf or a lever for equity and conservation.pdf
+
+================================================================================
+DUPLICATE SET #248
+Hash: 4c481e6acb4de4cee86c45814c7dc338
+Files: 3
+Size: 12.7 MB
+Wasted space: 25.4 MB
+
+  - DRAFTSS_Working/Yates - 2023 - Determinants of addiction neurobiological, behavioral, cognitive, and sociocultural factors.pdf
+  - Other_Collections/Yates Determinants of addiction neurobiological behavi.pdf
+  - ZOTPDF_References/Yates - 2023 - Determinants of addiction neurobiological, behavioral, cognitive, and sociocultural factors.pdf
+
+================================================================================
+DUPLICATE SET #249
+Hash: 06a6d207d02a8f5c10941dfd6b180080
+Files: 2
+Size: 187.2 KB
+Wasted space: 187.2 KB
+
+  - Other_Collections/Digby SelfMedication and the Trade in Medicine within a.pdf
+  - ZOTPDF_References/Digby - 2005 - Self-Medication and the Trade in Medicine within a Multi-Ethnic Context A Case Study of South Afric.pdf
+
+================================================================================
+DUPLICATE SET #250
+Hash: a12fd572cd0ff1004dca3073380a8aa7
+Files: 2
+Size: 301.6 KB
+Wasted space: 301.6 KB
+
+  - Other_Collections/Murbach et al A toxicological safety assessment of a standardize.pdf
+  - ZOTPDF_References/Murbach et al. - 2014 - A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin®) in rat.pdf
+
+================================================================================
+DUPLICATE SET #251
+Hash: 7101877db7527be55c500e38efa26893
+Files: 2
+Size: 1.4 MB
+Wasted space: 1.4 MB
+
+  - Other_Collections/Namba et al Neuroimmune Mechanisms as Novel Treatment Targets.pdf
+  - ZOTPDF_References/Namba et al. - 2021 - Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders and Associated Comorbi-1.pdf
+
+================================================================================
+DUPLICATE SET #252
+Hash: e1b8b263af7c999f527e9feec4e09722
+Files: 2
+Size: 1.1 MB
+Wasted space: 1.1 MB
+
+  - Other_Collections/Avchalumov and Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Dr 2.pdf
+  - Other_Collections/Avchalumov and Mandyam - 2021 - Plasticity in the Hippocampus, Neurogenesis and Dr.pdf
+
+================================================================================
+DUPLICATE SET #253
+Hash: d7c47caffc3fba643a19d47854b2b6fa
+Files: 3
+Size: 507.6 KB
+Wasted space: 1015.2 KB
+
+  - Other_Collections/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog 2-1.pdf
+  - Other_Collections/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog 2.pdf
+  - Other_Collections/Brendler et al. - 2021 - Sceletium for Managing Anxiety, Depression and Cog.pdf
+
+================================================================================
+DUPLICATE SET #254
+Hash: f72e565b75fc7a3a176bf39b858ec08b
+Files: 2
+Size: 879.2 KB
+Wasted space: 879.2 KB
+
+  - Other_Collections/Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review  2-1.pdf
+  - Other_Collections/Brunetti et al. - 2020 - Pharmacology of Herbal Sexual Enhancers A Review .pdf
