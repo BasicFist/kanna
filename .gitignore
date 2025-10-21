@@ -256,3 +256,5 @@ literature/zotero-export/**/*.backup
 
 # Force commit de-identified interview protocols
 !fieldwork/protocols/**
+# Large PDFs - tracked in external backups (3-2-1 strategy)
+literature/Sceletium_Thesis_PDFs/DRAFTSS_Working/*.pdf
