@@ -94,13 +94,16 @@ rm -rf literature/pdfs/test-extractions/
 - `extract-pdfs-simple.sh` (~100 lines) - pdfplumber
 - `extract-pdfs-mineru-batch-simple.sh` (~80 lines) - Batch wrapper
 
-**Phase 1**: Create Shared Library (2 hours)
-- [ ] Create `tools/scripts/lib/pdf-common.sh`
-- [ ] Implement `log()` function (unified logging)
-- [ ] Implement `activate_conda()` function
-- [ ] Implement `check_output_quality()` function
-- [ ] Implement `count_pdfs()` function
-- [ ] Test shared library standalone
+**Phase 1**: Create Shared Library (2 hours) ✅ COMPLETED
+- [x] Create `tools/scripts/lib/pdf-common.sh`
+- [x] Implement `log()` function (unified logging)
+- [x] Implement `activate_conda()` function
+- [x] Implement `check_output_quality()` function
+- [x] Implement `count_pdfs()` function
+- [x] Additional utilities: `format_duration()`, `create_output_dir()`, `calculate_success_rate()`
+- [x] Create test script (`test-pdf-common.sh`)
+
+**Completion Date**: October 21, 2025
 
 **Phase 2**: Refactor Primary Scripts (3 hours)
 - [ ] Refactor `extract-pdfs-mineru-production.sh` to use library
