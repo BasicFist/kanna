@@ -25,12 +25,12 @@ This document serves as the **definitive tracking roadmap** for all cleanup, opt
 | Category | Total Items | Completed | In Progress | Pending | % Complete |
 |----------|-------------|-----------|-------------|---------|------------|
 | High Priority | 2 | 2 | 0 | 0 | 100% ✅ |
-| Medium Priority | 3 | 1 | 0 | 2 | 33% |
+| Medium Priority | 3 | 2 | 0 | 1 | 67% |
 | Low Priority | 3 | 0 | 0 | 3 | 0% |
-| **TOTAL** | **8** | **4** | **0** | **4** | **50%** |
+| **TOTAL** | **8** | **5** | **0** | **3** | **63%** |
 
 **Time Investment**:
-- Committed: 6.08 hours (HP: 0.05h + MP-1 All Phases: 5h + validation: 0.03h + docs: 1h)
+- Committed: 8.58 hours (HP: 0.05h + MP-1: 5h + MP-2: 2.5h + validation: 0.03h + docs: 1h)
 - Estimated Total: 23-24 hours
 - Expected ROI: 121-152 hours saved over 42 months (5.0-6.3×)
 
@@ -175,42 +175,50 @@ rm -rf literature/pdfs/test-extractions/
 ---
 
 ### ✅ MP-2: Configuration Management System
-**Status**: ⏳ Pending
-**Effort**: 3 hours
+**Status**: ✅ COMPLETE
+**Effort**: 2.5 hours (actual)
 **Value**: Reproducibility, version control, rollback capability
 
 **Tasks**:
 
-**Step 1**: Create Directory Structure (30 min)
-- [ ] Create `tools/config/mineru/`
-- [ ] Copy `~/magic-pdf.json` → `tools/config/mineru/production.json`
-- [ ] Copy `config-backup/mineru-config-20251009-pre-optimization.json` → `tools/config/mineru/baseline-20251009.json`
-- [ ] Create `tools/config/mineru/experimental.json` (copy of production for testing)
+**Step 1**: Create Directory Structure (30 min) ✅
+- [x] Create `tools/config/mineru/`
+- [x] Copy `~/magic-pdf.json` → `tools/config/mineru/production.json`
+- [x] Copy `config-backup/mineru-config-20251009-pre-optimization.json` → `tools/config/mineru/baseline-20251009.json`
+- [x] Create `tools/config/mineru/experimental.json` (copy of production for testing)
 
-**Step 2**: Document Configuration Fields (1.5 hours)
-- [ ] Create `tools/config/mineru/CONFIG-FIELDS.md`
-- [ ] Document each JSON field (purpose, valid values, performance impact)
-- [ ] Add example configurations for common use cases
-- [ ] Document tuning recommendations from Codex session
+**Step 2**: Document Configuration Fields (1.5 hours) ✅
+- [x] Create `tools/config/mineru/CONFIG-FIELDS.md` (609 lines)
+- [x] Document each JSON field (purpose, valid values, performance impact)
+- [x] Add example configurations for common use cases
+- [x] Document tuning recommendations from Codex session
+- [x] Create README.md with quick reference guide
 
-**Step 3**: Standardize Location (1 hour)
-- [ ] Verify `~/.config/mineru/` directory exists
-- [ ] Copy `production.json` → `~/.config/mineru/mineru.json`
-- [ ] Create symlink: `ln -sf ~/.config/mineru/mineru.json ~/magic-pdf.json`
-- [ ] Update scripts to prefer `~/.config/mineru/mineru.json` as primary location
-- [ ] Test extraction with new config location
-- [ ] Commit: `git commit -m "feat: centralize MinerU configuration management"`
+**Step 3**: Standardize Location (1 hour) ✅
+- [x] Verify `~/.config/mineru/` directory exists
+- [x] Create symlink: `~/.config/mineru/mineru.json` → `production.json`
+- [x] Create legacy symlink: `~/magic-pdf.json` → `~/.config/mineru/mineru.json`
+- [x] Backup existing config: `~/magic-pdf.json.backup-20251021`
+- [x] Update scripts with config documentation headers
+- [x] Test extraction with new config location
+- [x] Commit: Two commits (3f360bb + 2b95c6c)
 
-**Success Criteria**:
-- Configuration under version control
-- Clear rollback path (baseline-20251009.json)
+**Success Criteria**: ✅ All Met
+- Configuration under version control (Git-tracked in tools/config/mineru/)
+- Clear rollback path (baseline-20251009.json preserved)
 - Single source of truth (~/.config/mineru/mineru.json)
+- Comprehensive documentation (CONFIG-FIELDS.md, README.md)
+- Scripts updated with config references
 
-**Completion Date**: _____________
+**Completion Date**: October 21, 2025
+
+**Git Commits**:
+- 3f360bb: Initial config directory and files
+- 2b95c6c: CONFIG-FIELDS.md documentation and script headers
 
 ---
 
-### ✅ MP-3: Documentation Consolidation
+### MP-3: Documentation Consolidation
 **Status**: ⏳ Pending
 **Effort**: 7-9 hours
 **ROI**: 50+ hours saved (troubleshooting lookups over 42 months)
