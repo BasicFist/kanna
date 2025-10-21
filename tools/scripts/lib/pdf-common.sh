@@ -320,6 +320,8 @@ calculate_success_rate() {
 # =============================================================================
 
 # Export functions for use in other scripts
+# NOTE: export -f may produce warnings in zsh (bash-specific feature)
+# This is cosmetic only - functions work correctly when sourced
 export -f log
 export -f activate_conda
 export -f count_pdfs

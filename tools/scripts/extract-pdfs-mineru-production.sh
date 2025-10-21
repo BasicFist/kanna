@@ -21,8 +21,8 @@
 #
 # Example:
 #   ./extract-pdfs-mineru-production.sh \
-#     ~/LAB/projects/KANNA/literature/pdfs/BIBLIOGRAPHIE \
-#     ~/LAB/projects/KANNA/literature/pdfs/extractions
+#     ~/LAB/academic/KANNA/literature/pdfs/BIBLIOGRAPHIE \
+#     ~/LAB/academic/KANNA/literature/pdfs/extractions
 
 set -Eeuo pipefail
 
@@ -72,7 +72,7 @@ if [ -z "$CONFIG_IN_USE" ]; then
     log "" "ERROR"
     log "Create one using:" "ERROR"
     log "  mkdir -p ~/.config/mineru" "ERROR"
-    log "  cp ~/LAB/academic/KANNA/tools/templates/mineru.json ~/.config/mineru/mineru.json" "ERROR"
+    log "  ln -s ~/LAB/academic/KANNA/tools/config/mineru/production.json ~/.config/mineru/mineru.json" "ERROR"
     exit 1
 fi
 
