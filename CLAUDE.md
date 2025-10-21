@@ -50,6 +50,26 @@ Task Type → Environment
 └─ General R Statistics? → r-gis (tidyverse)
 ```
 
+## PDF Extraction Philosophy
+
+**CRITICAL PRINCIPLE**: Quality over quantity in extraction testing.
+
+**DO NOT**:
+- Rush to extract at all costs
+- Launch extraction after extraction without methodical analysis
+- Bypass configuration investigation to "just get something working"
+- Use workaround modes (CPU, OCR-only) without understanding optimal config
+
+**DO**:
+- We only need ONE quality extraction to begin working
+- Identify the BEST configuration first, THEN extract
+- Methodically investigate all config options before testing
+- Understand what each extraction mode (auto, ocr, txt) actually does
+- Document findings from Codex/docs before trying alternatives
+- Test configuration changes one at a time with clear hypothesis
+
+**Rationale**: 142 papers × multiple failed extractions = wasted time. One properly configured extraction with formulas, tables, and images preserved is worth 100 rushed text-only attempts.
+
 ## Memory Management
 
 ### Classification System
