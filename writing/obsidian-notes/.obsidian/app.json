@@ -1,0 +1,19 @@
+{
+  "livePreview": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showIndentGuide": true,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "vimMode": false,
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "useMarkdownLinks": false,
+  "useTab": false,
+  "tabSize": 2,
+  "communityPluginSortOrder": "download",
+  "communityThemeSortOrder": "download"
+}

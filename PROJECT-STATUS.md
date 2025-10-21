@@ -16,7 +16,10 @@
 - [ ] Year 3: Integration & Writing (Months 27-38)
 - [ ] Year 4: Finalization & Defense (Months 39-42)
 
-**Current Status**: Project Setup Complete ✅
+**Current Status**: Infrastructure Complete ✅ + Research Automation Week 1 Started 🚀
+
+**Infrastructure Health**: 98/100 (recovered from 92/100 on Oct 21, 2025)
+**Current Phase**: Month 1, Week 1 - Research Automation Kickoff
 
 ---
 
@@ -147,6 +150,49 @@
 - [x] config/models.yaml (375 lines) - Comprehensive model registry (12+ models, conflict resolution)
 - [x] config/rag-pipeline.yaml (450 lines) - Semantic chunking + BGE-M3 + chemistry integration
 - [x] config/environments.yaml (550 lines) - Two conda environments (vllm vs kanna)
+
+### Research Automation Infrastructure (October 21, 2025)
+**Status**: Week 1 Started ✅
+
+**Recovery Actions Completed**:
+- [x] Backup system verified operational (log directory created, script path fixed)
+- [x] Conda activation fixed (all 3 environments tested: kanna, r-gis, mineru)
+- [x] CUDA GPU acceleration confirmed working (PyTorch 2.6.0+cu124)
+- [x] Obsidian vault created (4 directories + configuration)
+
+**Knowledge Graph Construction Timeline** (4-week plan):
+- **Week 1** (Oct 22-28): Obsidian vault ✅ + Zotero integration + Literature notes generation
+- **Week 2** (Oct 29-Nov 4): Analysis pipeline automation + Cross-reference validation
+- **Week 3** (Nov 5-11): Writing workflow + French academic coherence checker
+- **Week 4** (Nov 12-18): Documentation + integration + buffer for slips
+
+**Vault Structure**:
+```
+writing/obsidian-notes/
+├── literature/    # 142 paper notes (from MinerU extractions)
+├── concepts/      # Cross-cutting themes (alkaloids, mechanisms, methods)
+├── data/          # Field notes and survey planning
+├── chapters/      # Chapter drafts and outlines
+└── .obsidian/     # Configuration (workspace, plugins, themes)
+```
+
+**Integration Architecture**:
+- MinerU → Markdown extractions (142 papers)
+- Zotero Better BibTeX → Auto-export (`literature/zotero-export/kanna.bib`)
+- Obsidian → Graph-based knowledge organization
+- Memory MCP → Entity relationship graph
+- RAG MCP → Semantic search across corpus
+
+**Automation Scripts** (to be created Week 1):
+- [ ] `tools/scripts/generate-lit-notes.py` - Literature notes from MinerU
+- [ ] `tools/scripts/build-concept-graph.py` - Memory MCP entity extraction
+- [ ] Zotero import of 142 PDFs
+
+**Success Metrics**:
+- [ ] 142 literature notes generated with frontmatter
+- [ ] Semantic query "mesembrine AND Khoisan" returns linked notes
+- [ ] Concept graph queryable via Memory MCP
+- [ ] Graph view shows 500+ bidirectional links
 
 **Phase 2: Critical Path Complete** ✅ (8/8 deliverables)
 
