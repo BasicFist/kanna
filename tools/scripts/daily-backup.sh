@@ -8,7 +8,7 @@
 
 set -euo pipefail
 
-KANNA_DIR="$HOME/LAB/projects/KANNA"
+KANNA_DIR="$HOME/LAB/academic/KANNA"
 BACKUP_DIR="/run/media/miko/AYA/KANNA-backup"
 CLOUD_REMOTE="tresorit:KANNA"
 LOG_FILE="$HOME/LAB/logs/kanna-backup.log"
