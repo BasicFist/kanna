@@ -19,10 +19,10 @@ for img in "$OUTPUT_DIR"/page-*.png; do
         "${img%.png}_enhanced.png"
 done
 
-# OCR with Tesseract (high quality)
+# OCR with Tesseract (high quality, English only)
 for img in "$OUTPUT_DIR"/*_enhanced.png; do
     tesseract "$img" "${img%.png}" \
-        -l eng+fra \
+        -l eng \
         --psm 6 \
         --dpi 600 \
         pdf
