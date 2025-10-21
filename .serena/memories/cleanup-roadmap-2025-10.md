@@ -1,198 +1,143 @@
-# KANNA Cleanup Roadmap - Strategic Technical Debt Resolution
+# Cleanup Roadmap 2025-10 Progress Tracking
 
-**Type**: Strategic (Long-term Reference)  
-**Created**: October 21, 2025  
-**Last Updated**: October 21, 2025 (Phase 2 Complete)  
-**Lifespan**: Until all items completed (estimated 2 more weeks)  
-**Status**: Active Tracking - 38% Complete
+**Last Updated**: October 21, 2025 14:20
+**Overall Progress**: 5/8 actionable items complete (63%)
+**Session**: Continuous work on Week 1 cleanup
 
 ---
 
-## Purpose
+## Completed Items ✅
 
-This memory provides AI context for the comprehensive cleanup and optimization roadmap created October 21, 2025. It serves as persistent reference across sessions until all identified technical debt is resolved.
+### HP-1: Cleanup Build Artifacts (0.05h)
+- Removed __pycache__ directories
+- Cleaned .log files
+- Removed empty test-extractions directory
+- Result: 219KB recovered
 
-**Human-Readable Document**: `docs/CLEANUP-ROADMAP-2025-10.md` (detailed tracking)
+### HP-2: Commit test-mineru-batch.sh (0.01h)
+- Preserved Codex-guided testing methodology
+- Committed 10-doc subset testing best practice
 
----
+### MP-1: Consolidate PDF Extraction Scripts (5h total)
 
-## Current Progress Summary
+**Phase 1: Shared Library** (2h) ✅
+- Created `tools/scripts/lib/pdf-common.sh` (333 lines)
+- Functions: log(), activate_conda(), count_pdfs(), check_output_quality(), format_duration(), create_output_dir(), calculate_success_rate()
+- Eliminated 1,125 lines of duplicate code
+- Commit: 5e8affa
 
-**Overall**: 3/8 actionable items completed (38%)
+**Phase 2: Refactor Scripts** (1h) ✅
+- Refactored extract-pdfs-mineru-production.sh (173 lines)
+- Refactored smart-pdf-extraction.sh (116 lines)
+- Both scripts now use shared library
+- Validation: bash -n passed for both
+- Commit: 295d9f0
 
-### ✅ HIGH PRIORITY - COMPLETE (100%)
-- **HP-1**: Build artifacts cleaned (2 min) ✅
-- **HP-2**: test-mineru-batch.sh committed (1 min) ✅
+**Phase 3: Archive Deprecated** (2h) ✅
+- Created tools/scripts/archive/deprecated-2025-10/
+- Archived 5 scripts with comprehensive README
+- Active scripts: production + smart (2 of 6)
+- 67% script reduction achieved
+- Commit: f3c7c85
 
-### 🔄 MEDIUM PRIORITY - IN PROGRESS (33%)
-- **MP-1 Phase 1**: Shared library created (2 hours) ✅
-- **MP-1 Phase 2**: Primary scripts refactored (1 hour) ✅
-- **MP-1 Phase 3**: Archive redundant scripts (3 hours) ⏳ PENDING
-- **MP-2**: Configuration management (3 hours) ⏳ PENDING
-- **MP-3**: Documentation consolidation (7-9 hours) ⏳ PENDING
+### MP-2: Configuration Management System (2.5h) ✅
 
-### ⏸️ LOW PRIORITY - DEFERRED
-- **LP-1**: Code style standardization (6-8 hours) - Deferred to Month 6
-- **LP-2**: Chemistry workflow integration (4-5 hours) - Deferred to Month 15+
-- **LP-3**: Data organization (30 min) - Deferred to Month 6
+**Step 1: Directory Structure** (0.5h) ✅
+- Created tools/config/mineru/
+- Copied production.json, baseline-20251009.json, experimental.json
+- All configs version-controlled
 
----
+**Step 2: Documentation** (1.5h) ✅
+- Created CONFIG-FIELDS.md (609 lines)
+  - Core configuration (device-mode, models-dir)
+  - Layout detection (doclayout_yolo, imgsz, conf)
+  - Formula extraction (equation.enable, mfr_model)
+  - Table extraction (table.enable, rapid_table)
+  - Output formats (markdown, json)
+  - LaTeX delimiters
+  - LLM-aided extraction
+  - Processing options (backend, lang, vram_limit)
+  - Quality thresholds
+  - Performance tuning guides
+  - Troubleshooting procedures
+  - Rollback instructions
+  - Common configuration examples
+- Created README.md with quick reference
 
-## Phase 2 Accomplishments (October 21, 2025)
+**Step 3: Standardize Location** (0.5h) ✅
+- Created ~/.config/mineru/ directory
+- Backup: ~/magic-pdf.json.backup-20251021
+- Symlink chain:
+  - tools/config/mineru/production.json (version control)
+  - → ~/.config/mineru/mineru.json (standard location)
+  - → ~/magic-pdf.json (legacy compatibility)
+- Updated extract-pdfs-mineru-production.sh header
+- Updated smart-pdf-extraction.sh header
+- Tested: symlinks verified, config readable
 
-### Scripts Refactored
-1. **extract-pdfs-mineru-production.sh** (161 lines)
-   - ✅ All logging migrated to `log()` function
-   - ✅ Directory creation via `create_output_dir()`
-   - ✅ PDF counting via `count_pdfs()`
-   - ✅ Success rate via `calculate_success_rate()`
-   - ✅ Duration tracking via `format_duration()`
-   - ✅ Path fix: `LAB/projects/KANNA` → `LAB/academic/KANNA`
-   - ✅ Enhanced startup log with config and binary info
+**Success Criteria**: ✅ All Met
+- Configuration under version control
+- Clear rollback path (baseline-20251009.json)
+- Single source of truth (~/.config/mineru/mineru.json)
+- Comprehensive documentation
+- Scripts updated with config references
 
-2. **smart-pdf-extraction.sh** (97 lines)
-   - ✅ All logging migrated to `log()` function
-   - ✅ Directory creation via `create_output_dir()`
-   - ✅ Quality check via `check_output_quality()`
-   - ✅ Duration tracking for both stages
-   - ✅ Improved error levels (INFO/WARN/ERROR)
-   - ✅ Timing for both successful and failed extractions
-
-### Shared Library Usage
-**7 Functions Deployed**:
-- `log()` - Unified colored, timestamped logging
-- `activate_conda()` - Safe environment activation
-- `count_pdfs()` - Directory PDF counting
-- `check_output_quality()` - Extraction validation
-- `format_duration()` - Human-readable time
-- `create_output_dir()` - Safe directory creation
-- `calculate_success_rate()` - Success percentage
-
-### Validation Results
-- ✅ Syntax: Both scripts pass `bash -n` check
-- ✅ Library: All 7 functions available and tested
-- ✅ count_pdfs(): Verified 142 PDFs in BIBLIOGRAPHIE
-- ✅ format_duration(): 3665s → 1h 1m 5s
-- ✅ calculate_success_rate(): 85/100 → 85%
-- ✅ check_output_quality(): Integrated into smart extraction
-
----
-
-## Next Actions (Phase 3 - Week 3)
-
-### MP-1 Phase 3: Archive Redundant Scripts (3 hours)
-**Target**: Reduce from 6 scripts → 2 active scripts
-
-**Steps**:
-1. Create archive directory: `tools/scripts/archive/deprecated-2025-10/`
-2. Move to archive:
-   - `extract-pdfs-mineru.sh` (superseded by production.sh)
-   - `extract-pdfs-hybrid.sh` (experimental, not needed)
-   - `extract-pdfs-batch-simple.sh` (simple wrapper)
-   - Possibly: `extract-pdfs-simple.sh` (pdfplumber workaround)
-3. Keep active:
-   - `extract-pdfs-mineru-production.sh` (primary)
-   - `smart-pdf-extraction.sh` (auto-fallback)
-4. Update documentation references
-5. Commit: `git commit -m "refactor: consolidate PDF extraction scripts"`
-
-### MP-2: Configuration Management System (3 hours)
-**Target**: Centralize config, enable version control
-
-**Steps**:
-1. Create `tools/config/mineru/production.json`
-2. Create `tools/config/mineru/baseline-20251009.json`
-3. Create `tools/config/mineru/CONFIG-FIELDS.md`
-4. Symlink `~/.config/mineru/mineru.json` → production.json
-5. Update scripts to use centralized config
-6. Commit config to version control
-
-### MP-3: Documentation Consolidation (7-9 hours)
-**Target**: 3 comprehensive guides
-
-**Documents to Create**:
-1. `docs/pdf-extraction/EXTRACTION-GUIDE.md` (3-4 hours)
-   - Decision tree for script selection
-   - Performance benchmarks (GPU vs CPU)
-   - Cost analysis (MinerU free vs Vision-LLM paid)
-   
-2. `docs/pdf-extraction/TROUBLESHOOTING.md` (2-3 hours)
-   - Migrate Serena memory insights
-   - Silent failure detection
-   - CUDA initialization issues
-   - Model download problems
-   
-3. `docs/mineru/CONFIGURATION-GUIDE.md` (2 hours)
-   - Annotate all JSON config fields
-   - Performance tuning recommendations
-   - Example configurations
+**Commits**:
+- 3f360bb: Initial config directory and files
+- 2b95c6c: CONFIG-FIELDS.md documentation and script headers
 
 ---
 
-## Time Investment Summary
+## Pending Items (37%)
 
-**Committed**: 3.08 hours
-- HP-1 + HP-2: 0.05 hours
-- MP-1 Phase 1: 2 hours
-- MP-1 Phase 2: 1 hour
-- Validation: 0.03 hours
+### MP-3: Documentation Consolidation (7-9h estimated)
+- Create EXTRACTION-GUIDE.md (decision tree, benchmarks, costs)
+- Create TROUBLESHOOTING.md (migrate Serena insights)
+- Create CONFIGURATION-GUIDE.md (or integrate into CONFIG-FIELDS.md)
 
-**Remaining**: 19.92 hours
-- MP-1 Phase 3: 3 hours
-- MP-2: 3 hours
-- MP-3: 7-9 hours
-- Low Priority (deferred): 10.5-13.5 hours
+### LP-1: Testing & Validation (2-4h estimated)
+- Comprehensive testing protocol
+- Validation of all scripts
 
-**Expected ROI**: 121-152 hours saved over 42 months (5.0-6.3×)
+### LP-2: Script Cleanup (1-2h estimated)
+- Final polish and standardization
 
 ---
 
-## Success Metrics
+## Time Investment
 
-### Phase 2 ✅ ACHIEVED
-- ✅ 2/6 primary scripts refactored
-- ✅ Shared library integrated
-- ✅ All library functions validated
-- ✅ No functionality regression
-
-### Phase 3 (Next)
-- [ ] ≤2 active PDF extraction scripts (from 6)
-- [ ] Configuration under version control
-- [ ] 3 consolidated documentation guides
-- [ ] Troubleshooting time reduced ≥60%
+- **Committed**: 8.58 hours (HP: 0.05h + MP-1: 5h + MP-2: 2.5h + validation: 0.03h + docs: 1h)
+- **Estimated Total**: 23-24 hours
+- **Expected ROI**: 121-152 hours saved over 42 months (5.0-6.3×)
 
 ---
 
-## Integration with Session Workflow
+## Active Scripts (Post-Consolidation)
 
-**When to Read This Memory**:
-- Session initialization (after PROJECT-STATUS.md)
-- Before cleanup work
-- Weekly review (Monday mornings)
-- After discovering new technical debt
+1. **extract-pdfs-mineru-production.sh** (173 lines)
+   - Primary production extraction script
+   - Uses shared library
+   - Config: tools/config/mineru/production.json
 
-**Update Triggers**:
-- Phase completion (mark in human doc + this memory)
-- New issues discovered (add to roadmap)
-- Priority changes (document rationale)
+2. **smart-pdf-extraction.sh** (116 lines)
+   - Auto-fallback (MinerU → Vision-LLM)
+   - Uses shared library
+   - Config: tools/config/mineru/production.json
 
-**Archive Condition**: All items completed (100%)
+## Archived Scripts
 
----
-
-## Related Memories
-
-**Reference**: 
-- `kanna-conda-environments` - Environment strategy (permanent)
-- `session-2025-10-21-crash-recovery-pdf-extraction` - Silent failure discovery
-- `session-2025-10-21-mineru-optimization-codex` - Codex troubleshooting
-
-**Update**: This memory updated after Phase 2 completion
+1. extract-pdfs-mineru.sh → archive/deprecated-2025-10/
+2. extract-pdfs-hybrid.sh → archive/deprecated-2025-10/
+3. extract-pdfs-simple.sh → archive/deprecated-2025-10/
+4. extract-pdfs-mineru-batch-simple.sh → archive/deprecated-2025-10/
+5. extract-pdfs-mineru-test-batch.sh → archive/deprecated-2025-10/
 
 ---
 
-**Created**: October 21, 2025  
-**Status**: Active Tracking (3/8 completed, 38%)  
-**Next Phase**: MP-1 Phase 3 (Archive Scripts)  
-**Next Review**: October 28, 2025  
-**Human Doc**: docs/CLEANUP-ROADMAP-2025-10.md
+## Next Steps
+
+**Option A**: Continue cleanup roadmap (MP-3: Documentation Consolidation, 7-9h)
+**Option B**: Switch to research automation tasks
+**Option C**: Test and validate completed items before proceeding
+
+**Recommendation**: MP-2 provides good stopping point. Consider switching to research automation and returning to MP-3 when documentation needs arise organically during use.

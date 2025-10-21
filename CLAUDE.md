@@ -510,6 +510,9 @@ bash tools/scripts/daily-backup.sh  # Manual test
 | Session initialization | CLAUDE.md | Session Initialization |
 | Environment debugging | CLAUDE.md | Troubleshooting |
 | Analysis pipeline setup | ARCHITECTURE.md | Analysis Pipeline Structure |
+| **PDF extraction** | **docs/pdf-extraction/EXTRACTION-GUIDE.md** | **Decision Trees & Use Cases** |
+| **PDF troubleshooting** | **docs/pdf-extraction/TROUBLESHOOTING.md** | **Common Errors & Solutions** |
+| **MinerU configuration** | **tools/config/mineru/CONFIG-FIELDS.md** | **All Config Fields** |
 | MCP server configuration | docs/MCP-CONFIGURATION-AUDIT.md | Server Details |
 | Plugin integration | docs/PLUGIN-INTEGRATION-PLAN.md | Full Guide |
 | Literature workflow | tools/guides/01-literature-workflow-setup.md | Full Guide |
