@@ -2,6 +2,15 @@
 
 > **PhD Thesis**: Interdisciplinary Analysis of *Sceletium tortuosum* - From Khoisan Traditional Knowledge to Modern Neuropharmacology
 
+**📚 Documentation Navigation**: See [DOCUMENTATION-INDEX.md](./DOCUMENTATION-INDEX.md) for complete documentation index and quick-access decision trees
+
+**🚀 Quick Start**:
+- **For Claude Code**: Start with [CLAUDE.md](./CLAUDE.md) (session initialization, environments, workflows)
+- **For Architecture**: See [ARCHITECTURE.md](./ARCHITECTURE.md) (39 KB definitive reference)
+- **For Current Status**: Check [PROJECT-STATUS.md](./PROJECT-STATUS.md) (updated weekly)
+
+---
+
 ## Project Overview
 
 This repository contains all research materials, data, analysis scripts, and writing for a comprehensive interdisciplinary doctoral thesis on *Sceletium tortuosum* (Kanna), covering:
