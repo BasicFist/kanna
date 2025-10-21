@@ -2,6 +2,14 @@
 # Smart PDF Extraction with Automatic Fallback
 # Tries MinerU first (fast, free), falls back to Vision-LLM for failures
 # Refactored: October 21, 2025 (MP-1 Phase 2)
+#
+# CONFIGURATION:
+# - Config: ~/LAB/academic/KANNA/tools/config/mineru/production.json
+# - Symlinked: ~/.config/mineru/mineru.json -> production.json
+# - See: tools/config/mineru/CONFIG-FIELDS.md for field documentation
+#
+# Usage:
+#   ./smart-pdf-extraction.sh <pdf-file> [output-dir]
 
 set -Eeuo pipefail
 

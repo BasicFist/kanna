@@ -10,6 +10,12 @@
 # - Tables: RapidTable (working)
 # - LLM: Kilo API ready (not needed for text-only extraction)
 #
+# CONFIGURATION:
+# - Config: ~/LAB/academic/KANNA/tools/config/mineru/production.json
+# - Symlinked: ~/.config/mineru/mineru.json -> production.json
+# - Legacy: ~/magic-pdf.json -> ~/.config/mineru/mineru.json
+# - See: tools/config/mineru/CONFIG-FIELDS.md for field documentation
+#
 # Usage:
 #   ./extract-pdfs-mineru-production.sh [input_dir] [output_dir]
 #
