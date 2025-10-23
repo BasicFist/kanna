@@ -1,0 +1,1198 @@
+[
+    {
+        "type": "text",
+        "text": "Research article ",
+        "bbox": [
+            62,
+            185,
+            186,
+            199
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different soilless growing media and fertigation regimes in hydroponics ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            208,
+            818,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Richard James Faber a , Charles Petrus Laubscher a, \\*, Fanie Rautenbach b , Muhali Olaide Jimoh a ",
+        "bbox": [
+            58,
+            283,
+            811,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Department of Horticultural Sciences, Cape Peninsula University of Technology, Bellville 7537, Cape Town, South Africa b Department of Biomedical Sciences, Cape Peninsula University of Technology, Bellville 7537, Cape Town, South Africa ",
+        "bbox": [
+            63,
+            310,
+            610,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A R T I C L E I N F O ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            361,
+            193,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A B S T R A C T ",
+        "text_level": 1,
+        "bbox": [
+            337,
+            361,
+            433,
+            373
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nAlkaloids   \nDelta 7 mesembrenone   \nFertigation regimes   \nHydroponics   \nMesembrenone   \nMesembrine   \nSoilless media   \nFood science   \nAgricultural science   \nEnvironmental science   \nBiological sciences   \nMetabolite   \nPharmaceutical science ",
+        "bbox": [
+            62,
+            387,
+            173,
+            538
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This study was designed to investigate the variations in alkaloid concentrations of Sceletium tortuosum when grown in soilless mediums under different fertigation regimes and to examine the suitability of the plant for hydroponic cultivation. A mother plant obtained from Verve Dynamics (Pty) Ltd (a manufacturer and supplier of purified botanical extracts) was cultivated into three hundred plants used for this research study. Twenty treatments were evaluated with 15 sample replicates. Treatments were made up of 4 different soilless growing media, namely: pure silica sand, $5 0 \\%$ silica sand with $5 0 \\%$ coco-peat, $5 0 \\%$ silica sand with $5 0 \\%$ vermiculite, and $5 0 \\%$ silica sand with $5 0 \\%$ perlite. These growing media were tested in conjunction with 5 different fertigation regimes (FR). Plants grown in FR1 received aqueous nutrient solution once every week, FR2 received aqueous nutrient solution once every second week, FR3 received aqueous nutrient solution once every third week, FR4 received aqueous nutrient solution once every fourth week and FR5 received aqueous nutrient solution once every fifth week respectively. Results from this experiment showed that different soilless growing media and fertigation had varying effects on alkaloid concentrations in S. tortuosum. It was also observed that roots contained higher amounts of delta 7 mesembrenone and mesembrenone, while shoots contained higher amounts of the alkaloid mesembrine. ",
+        "bbox": [
+            337,
+            387,
+            937,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            593,
+            161,
+            605
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In modern societies, plant-derived medicines are progressively becoming popular and generally embraced in traditional cultures globally as natural drugs and safe alternatives to synthetic chemicals. The biologically active ingredients locked up in plant tissues as secondary metabolites are the major drivers of plant-based treatments and are the target molecules by pharmaceutical, flavour, aroma, and agrochemical industries [1, 2]. Early detection of penicillin from mould, salicylic acid in willow bark, cardiotonic in foxglove and morphine from poppies aided the establishment of pharmaceutical industries [3]. In addition, increased knowledge about bioactive compounds in medicinal plants coupled with sustained efforts on the analysis of micronutrients that are responsible for this bioactivity has led to the development of refined and purified dose-dependent chemical compounds as drugs [3, 4, 5]. The present and future priority thus lie in finding new plant-based chemicals, bearing in mind, sustainable conservation, rational utilization, and biodiversity management [6]. ",
+        "bbox": [
+            62,
+            620,
+            485,
+            803
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            593,
+            936,
+            619
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Secondary metabolites have been reported to be responsible for antibacterial, anti-fungal and anti-viral properties exhibited by plants and are thought to play a major role in the adaptation of plants to their environment [7, 8, 9]. Apart from protecting plants from pathogens, they confer allelopathic properties on plants, they possess ultra-violet absorbing structures capable of protecting plants from leaf damage caused by incident light intensity, and also, they have anti-feeding properties, protecting plants from insects and even larger animals [10, 11]. ",
+        "bbox": [
+            514,
+            620,
+            937,
+            737
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One of the potent compounds being isolated from plants for medicinal purposes is an alkaloid. Examples of alkaloids in isolated forms and their uses are caffeine (a stimulant), ephedrine (a stimulant), scopolamine (travel sickness), capsaicin (rheumatic pains), morphine (pain killer), codeine (antitussive), papaverine (phosphodiesterase inhibitor), quinine (anti-malarial), colchicines (gout), yohimbine (aphrodisiac), pilocarpine (glaucoma), berberine (psoriasis), ajmaline (antiarrhythmic) and various cardiac glycosides [4, 12, 13, 14, 15]. ",
+        "bbox": [
+            514,
+            738,
+            937,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            66,
+            484,
+            92
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typically, Sceletium spp. contain four classes of alkaloids; the 3a-arylcis-octahydroindole class, C-secomesembrine alkaloids, alkaloids containing a 2,3-disubstituted pyridine moiety and a ring C-seco Sceletium alkaloid A4 group and in particular, is one of the only plant genera known to carry mesembrine alkaloids [16, 17]). In S. tortuosum, alkaloids responsible for these psychoactive, sedative, euphoric properties and other biological activities are mesembrine and mesembrenone although, the concentration of alkaloids may vary within individual plants depending on their chemotype and degree of exposure to environmental stress [18, 19]. S. tortuosum is a succulent plant that belongs to the family Mesembryanthemaceae. It is indigenous to South Africa, especially in Namaqualand, where the plant is utilized regularly for its medicinal and psychoactive properties [20, 21]. With clear ethno-pharmaceutical value, it is also worthy to mention that the use of S. tortuosum develops no physical or psychological dependency [22]. ",
+        "bbox": [
+            62,
+            93,
+            485,
+            290
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mesembrine serves a primary function as a monoamine releasing agent (MRA) and secondly as a selective serotonin reuptake inhibitor (SSRI), drug classes most commonly utilized in the treatment of anxiety and depression [23, 24]. Another alkaloid found in S. tortuosum is delta 7 mesembrenone, it is a potent antioxidant, and a powerful inhibitor of tyrosinase activity, kojic acid at high doses had an almost identical effect on this enzyme [25]. Alkaloid composition in different S. tortuosum plant extracts vary, and higher concentrations of certain alkaloids can have different medical properties. Thus, this study aimed to determine an optimal protocol for cultivating S. tortuosum with an adequate concentration of total alkaloids, as well as the alkaloids delta 7 mesembrenone, mesembrenone, and mesembrine to produce consistent high-quality medicinal plants. ",
+        "bbox": [
+            62,
+            291,
+            485,
+            461
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            475,
+            228,
+            486
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Greenhouse experiment ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            501,
+            221,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This investigation was conducted between December 4th, 2017 and January 12 2018 in the research greenhouse facility at the Cape Peninsula University of Technology, Bellville, Cape Town, South Africa; GPS coordinates - $3 3 ^ { \\circ } 5 5 ^ { \\prime } 4 5 . 5 3 S$ , $1 8 ^ { \\circ } ~ 3 8 ^ { \\prime }$ 31. 16E. The nature of the structure and the technology installed ensured control of the environment within the greenhouse. Midday ambience of the greenhouse was maintained between temperatures of $2 3 \\mathrm { - } 2 7 ^ { \\circ } \\mathrm { C }$ and relative humidity between $4 0 - 8 7 \\%$ . ",
+        "bbox": [
+            62,
+            528,
+            485,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Plant preparation ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            634,
+            189,
+            646
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One Sceletium tortuosum mother plant was obtained from Verve Dy-– namics, Somerset West. An additional ten mother plants were propagated and cultivated from this plant. Once these ten plants were large enough, $\\pm 6 0 0 2 . 5 \\mathrm { - } 3 \\mathrm { c m }$ stem cuttings were propagated from the mother plants to ensure a supply of more than 300 rooted cuttings, which was the number of plant material required for the experiment. ",
+        "bbox": [
+            62,
+            660,
+            485,
+            738
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cuttings were treated with Dynaroot™ No 1 (Active ingredient: $0 . 1 \\%$ I.B.A.) as rooting hormone and planted into 200 and 128 cell styrofoam trays containing a 50/50 mixture of silica sand, and coco-peat as rooting medium. The trays were placed in an environmentally controlled propagation greenhouse at the Cape Peninsula University of Technology, Bellville campus. The first sign of roots was observed after 2 weeks, and roots had fully developed after 2 months. After rooting, trays were moved to the research greenhouse for acclimatization and watering was administered by hand. The best quality rooted cuttings in the batch were selected for the experiment. ",
+        "bbox": [
+            62,
+            740,
+            485,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3. Hydroponic experiment ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            886,
+            221,
+            897
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Five identical hydroponic systems were constructed following Teto et al. (2016). Each system consisted of one $^ { 7 0 \\mathrm { ~ L ~ } }$ capacity low-density polyethylene (LDPE) reservoir; four polyvinyl chlorides (PVC) square gutters $( 1 3 0 \\mathrm { m m } \\times 7 0 \\mathrm { m m } \\times 2 5 0 0 \\mathrm { m m } )$ secured onto wire mesh tables– $( 9 0 0 \\mathrm { m m } \\times 1 2 5 0 \\mathrm { m } \\times 2 5 0 0 \\mathrm { m } )$ ; sixty $1 2 . 5 \\times 1 2 . 5 \\mathrm { c m }$ plastic pots, a 2 000 $\\mathrm { L } / \\mathrm { h }$ submersible water pump with a $2 . 5 \\mathrm { m }$ head capacity, ten-meter $\\mathbf { x } \\ : 2 0$ mm LDPE irrigation piping; four reducers $( 2 0 \\mathrm { m m } { - } 1 5 \\mathrm { m m } )$ ; four $1 5 \\mathrm { m m }$ flow regulators; one air pump, one air stone (15cm) and eight $2 0 \\ \\mathrm { m m }$ bulkhead connectors. Reservoirs were kept filled to a level of approximately $5 0 \\mathrm { L }$ with aqueous nutrient solution. Each gutter was sealed with PVC adhesive and fitted with an inlet guiding water towards the gutters and an outlet to return excess water to the reservoir. Each inlet consisted of LDPE irrigation piping converted from $2 0 \\mathrm { m m }$ to $1 5 \\mathrm { m m }$ diameter and each fitted with a $1 5 ~ \\mathrm { m m }$ valve allowing maximum control of aqueous nutrient solution flow into gutters. All gutters were filled with silica sand to a depth of $\\pm 1 . 5 \\mathrm { c m }$ . Fifteen pots $( 1 2 . 5 \\mathrm { c m } \\times 1 2 . 5 \\mathrm { c m } )$ were placed into each gutter on top of the silica sand. As water passes through the gutter the sand becomes fully saturated with an aqueous nutrient solution which is then imbibed by soilless growing media in pots via capillary action. Every gutter for each system represented a different soilless substrate in 15 pots, as follows: $1 0 0 \\%$ silica sand (SS); a 50/50 mixture of silica sand and coco-peat (SC); a 50/50 mixture of silica sand and vermiculite (SV) and a $5 0 / 5 0$ mixture of silica sand and perlite (SP). ",
+        "bbox": [
+            60,
+            911,
+            485,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            65,
+            937,
+            341
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Each separate system was manually controlled to fertigate plants with the same amount of aqueous nutrient solution at different time intervals. The five systems were given aqueous nutrient solution amounts as follows: Fertigation regime 1 (FR1) was fertigated once a week at $\\pm 3 5 0 \\mathrm { m L }$ per minute for $^ \\mathrm { ~ 1 ~ h ~ }$ . Fertigation regime 2 (FR2) was fertigated every second week at $\\pm 3 5 0 \\mathrm { m L }$ per minute for $^ { 1 \\mathrm { h } }$ . Fertigation regime 3 (FR3) was fertigated once every third week at $\\pm \\ : 3 5 0 \\ : \\mathrm { m l }$ per minute for $^ { 1 \\mathrm { ~ h ~ } }$ . Fertigation regime 4 (FR4) was fertigated once every fourth week at $\\pm$ $3 5 0 ~ \\mathrm { m L }$ per minute for $^ \\textrm { \\scriptsize 1 h }$ . Fertigation regime 5 (FR5) was fertigated once every fifth week at $\\pm 3 5 0 \\mathrm { m L }$ per minute for $^ { 1 \\mathrm { h } }$ . Fifteen plants, one per pot were placed into each soilless substrate of each system, which totals to 60 plants per hydroponic system and 300 plants for the entire experiment. Therefore 15 replicates in a randomized blocked design were tested for each media and fertigation regime combination. ",
+        "bbox": [
+            514,
+            344,
+            937,
+            527
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All aqueous nutrient solutions used in the experiment were kept at a pH level of 6.0, and an electrical conductivity (EC) level of 0.5. EC levels of the aqueous nutrient solutions were monitored with a calibrated handheld digital EC meter (Hanna Instruments $\\mathbf { \\textcircled { R } } ^ { \\mathrm { T M } }$ HI 98312). Water reservoir pH levels were monitored with a calibrated handheld digital pH meter (Eurotech $\\mathbb { ( B ) } ^ { \\mathrm { T M } } \\mathbb { p } \\mathrm { H } \\ 2$ pen). For increasing $\\mathtt { p H }$ , potassium hydroxide was used, while phosphoric acid was used for decreasing $\\mathsf { p H }$ of aqueous nutrient solutions. For decreasing the EC of aqueous nutrient solutions, reverse osmosis water was added into reservoirs, while adding Hoagland Solution to aqueous nutrient solutions in reservoirs increased the EC. Pots were individually numbered and arranged randomly [26]. All gutters were slightly tilted to allow aqueous nutrient solutions to flow from one end (inlet) to the other (outlet). Each outlet was guided to a separate smaller gutter which then returned the aqueous nutrient solution to the reservoir, creating a circulating system. ",
+        "bbox": [
+            514,
+            528,
+            937,
+            725
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4. Treatment preparation ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            740,
+            668,
+            752
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soilless medium treatments were prepared using four different soilless medium combinations, namely: $1 0 0 \\%$ silica sand (SS); a 50/50 mixture of silica sand and coco-peat (SC); a 50/50 mixture of silica sand and vermiculite (SV) and a 50/50 mixture of silica sand and perlite (SP). For treatments SC, SV and SP equal parts of silica sand and coco-peat/ vermiculite/perlite were mixed. All silica sand used was thoroughly rinsed with tap water until water poured through the sand ran clear. ",
+        "bbox": [
+            514,
+            766,
+            937,
+            857
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fertigation regimes were achieved by installing identical pumps to all hydroponic systems. The amount of aqueous nutrient solution delivered to each grow bed was controlled by adjusting all output valves until $\\pm 3 5 0$ mL per minute was measured. Measurement was achieved by placing an empty bucket below each output for $1 \\ \\mathrm { m i n }$ , the liquid captured in the bucket was decanted and measured using a $5 0 0 ~ \\mathrm { m L }$ Erlenmeyer flask until the amount of aqueous nutrient solution for each output was measured at $\\pm 3 5 0 ~ \\mathrm { m L }$ for $1 \\ \\mathrm { m i n }$ . Treatment SSFR3 was selected for the control, as it contained $1 0 0 \\%$ silica sand, which was the base of all soilless mediums used in this experiment as well as a mid-frequent fertigation regime (see Table 1). ",
+        "bbox": [
+            514,
+            858,
+            937,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            66,
+            485,
+            131
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5. Data collection ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            151,
+            176,
+            162
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.1. Drying and milling of plant material ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            177,
+            305,
+            190
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Plants were placed in brown paper bags post-harvest and dried at $3 0 { - } 3 1 ~ ^ { \\circ } \\mathrm { C }$ in a forced convection oven (Daihan Labtech LDO-150F) until the material was crisp dry. Plants were then weighed using an electronic balance (RADWAG® Model PS 750.R2) with $_ { 0 . 0 0 1 \\ g }$ readability and recorded. Dried plants of each treatment were combined and milled to powder using a $5 0 \\ g$ capacity standard coffee grinder (Mellerware - Aromatic Coffee Mill & Grinder), and stored in transparent zip-locked plastic bags. The coffee grinder was cleaned thoroughly between the milling of each treatment. ",
+        "bbox": [
+            62,
+            191,
+            485,
+            308
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.2. Measuring total alkaloids ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            324,
+            245,
+            335
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The total alkaloid content for roots and shoots were measured using the Bromo cresol green method based on an atropine standard [27]. For every treatment, 5 extractions were made. Extraction was done by placing $1 0 0 ~ \\mathrm { { m g } }$ of plant material in $1 0 ~ \\mathrm { m L }$ of methanol within a $1 5 ~ \\mathrm { m L }$ lab-grade plastic tube for $2 4 \\mathrm { h }$ after which tubes were centrifuged at 4000 rpm for $2 \\mathrm { m i n }$ . One mL of methanol extract was transferred to a $5 0 ~ \\mathrm { m L }$ lab-grade plastic tube with $5 \\mathrm { m l }$ of buffered solution $\\mathrm { ( p H 4 . 7 ) }$ , $1 2 ~ \\mathrm { m L }$ of Bromo cresol green and $1 2 ~ \\mathrm { m L }$ of chloroform. The chloroform separates from the Bromo cresol green and buffering solution and if a yellow colour is observed it means alkaloids are present in the extract. The yellow chloroform liquid was then placed in a 96 cell well plate using a pipette, 3 cells per extraction at $3 0 0 \\mu \\mathrm { L }$ and placed in a multi-scan spectrum reader. Extractions were observed at $4 1 7 \\ \\mathrm { n m }$ , the wavelength for the colour yellow, and analysed with the software program SkanIt™ which measured the number of yellow pigments in a sample, that is, the total amount of alkaloids [28]. This analysis did not specify which individual alkaloids are present in extract samples, but rather just the total amount of alkaloids present in a sample. ",
+        "bbox": [
+            62,
+            336,
+            485,
+            572
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.3. Measuring delta 7 mesembrenone, mesembrenone and mesembrine area $\\%$ ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            587,
+            472,
+            610
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The most commonly used technique for analysing natural products is high-performance liquid chromatography (HPLC) with ultraviolet light detection. Due to the commercial unavailability of S. tortuosum alkaloid standards the HPLC tests for the area $\\%$ of delta 7 mesembrenone, mesembrenone and mesembrine were based on standard references for mesembrine-type alkaloids as reported by [29]. The liquid or mobile phase used for S. tortuosum is water plus acetonitrile at a ratio of 72:28 plus $0 . 0 1 \\%$ ammonia hydroxide. $2 0 ~ \\mu \\mathrm { L }$ of extractions were filtered into HPLC vials, the vials were then numerically placed in the sample collector according to treatment. From here the mobile phase and extract samples individually got injected into a column (C18-kromasil 100-5-C18) at a flow rate of $1 ~ { \\mu \\mathrm { L / m i n } }$ , which separated the molecules and passed them through a UV detector and UV signatures at $2 8 0 ~ \\mathrm { n m }$ were recorded and in turn, determined the area $\\%$ of the different alkaloids. Procedures were done at room temperature and repeated 5 times for each treatment extraction sample. ",
+        "bbox": [
+            62,
+            612,
+            485,
+            744
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            66,
+            937,
+            143
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.4. Measuring mesembrine ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            158,
+            684,
+            170
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The pure mesembrine compound was injected into the HPLC system by itself, the peak observed as a result on the chromatograph represents mesembrine, which then draws a standard reference for other molecules to compare to, therefore if another molecule is injected and analysed in the same way and results are in the same peak on the chromatograph, they are the same molecule as the standard [21]. The HPLC method with UV detection was again used for this analysis. About $2 0 ~ \\mu \\mathrm { L }$ of extractions were filtered into HPLC vials, the vials were then numerically placed in the sample collector according to treatment. From here the mobile phase and extract samples individually got injected into a column (C18-kromasil 100-5-C18) at a flow rate of $1 ~ { \\mu \\mathrm { L / m i n } }$ , which separated the molecules and passed them through a UV detector and UV signatures at 280 nm, molecules that were identical to the mesembrine standard were recorded. Procedures were done at room temperature and repeated 5 times for each treatment extraction sample [29]. The standard for mesembrine (Verve Dynamics (Pty) Ltd) was used as a reference (Figure 1). ",
+        "bbox": [
+            514,
+            172,
+            937,
+            394
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6. Statistical analysis ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            412,
+            647,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All data collected were statistically analysed using two-way analysis of variance (ANOVA). Treatment means were compared and separated with Fischer's Least Significant Difference (L.S.D) at values of $\\mathbf { p } \\leq 0 . 0 5$ , p $\\leq 0 . 0 1$ and $\\mathbf { p } \\leq 0 . 0 0 1$ . The software program STATISTICA version 13 was used to perform all calculations on Windows 10 [30]. ",
+        "bbox": [
+            514,
+            438,
+            937,
+            503
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            518,
+            579,
+            529
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1. Total alkaloid concentrations in roots ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            544,
+            752,
+            556
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on total alkaloid concentrations in the root of S. tortuosum was statistically significant at the value of $\\mathbf { p } \\leq 0 . 0 0 1$ . The highest concentration of alkaloid $\\left( 1 . 6 8 ~ \\mathrm { m g / } \\right.$ mL) was recorded in the SP medium under fertigation regime 4 (FR4) while the least value $\\mathrm { 0 . 7 1 \\ m g / m L }$ ) was observed in SV medium under fertigation regime 3 (FR3). ",
+        "bbox": [
+            514,
+            571,
+            937,
+            649
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2. Total alkaloid concentrations in shoots ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            665,
+            759,
+            678
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on total alkaloid concentrations in the shoot of S. tortuosum was statistically significant at the value of $\\mathbf { p } \\leq 0 . 0 0 1$ . At $\\mathbf { p } \\leq 0 . 0 0 1$ , soilless media SP and SS yielded the highest concentrations of alkaloid respectively under fertigation regime 3 (FR3) while the least value $( 1 . 0 7 ~ \\mathrm { m g / m L } )$ was recorded in SV medium under fertigation regime 4 (FR4). Generally, roots were found to have an overall lowest concentration of total alkaloids than shoots whereas an overall highest concentration of total alkaloids was recorded in the shoots (Figure 2). Both soilless media SS and SP had equivalent and the highest influence on the total alkaloid concentration in the shoot under fertigation regime 3(FR3). This was followed by the soilless media SC while the least influence on the shoot was observed in SV media. Similarly, the root had the lowest alkaloid concentration in SV media under fertigation regime 4, followed by SC media under FR2; SS media under ",
+        "bbox": [
+            514,
+            692,
+            937,
+            744
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b51aa75a2b26a180fbd7b748a34da63189e27407626ec431550c967f92071f95.jpg",
+        "table_caption": [
+            "able 1. Treatment application which consisted of 4 different soilless growth media and 5 different fertigation regimes in a circulating capillary action hydroponi ystem. "
+        ],
+        "table_footnote": [
+            "Note: $\\mathrm { F R } 1 =$ fertigation regime of $\\pm 3 5 0 ~ \\mathrm { m L }$ aqueous nutrient solution per minute for 1 h once a week. $\\mathbf { F } \\mathbf { R } 2 =$ fertigation regime of $\\pm 3 5 0 ~ \\mathrm { m L }$ aqueous nutrient solution per minute for 1 h once every second week. FR3 $=$ fertigation regime of $\\pm 3 5 0 ~ \\mathrm { m L }$ aqueous nutrient solution per minute for 1 h once every third week. $\\mathrm { F R 4 = }$ fertigation regime of $\\pm 3 5 0 ~ \\mathrm { m L }$ aqueous nutrient solution per minute for 1 h once every fourth week. FR5 $=$ fertigation regime of $\\pm 3 5 0 ~ \\mathrm { m L }$ aqueous nutrient solution per minute for $^ { 1 \\mathrm { ~ h ~ } }$ once every fourth week. "
+        ],
+        "table_body": "<table><tr><td>(FR1)</td><td>(FR2)</td><td>（FR3)</td><td>(FR4)</td><td>(FR5)</td></tr><tr><td>100% Silica sand (Ss)</td><td>SSFR1 SSFR2</td><td>SSFR3</td><td>SSFR4</td><td>SSFR5</td></tr><tr><td>50% Silica sand &amp; 50% coco-peat (SC)</td><td>SCFR1</td><td>SCFR2</td><td>SCFR3 SCFR4</td><td>SCFR5</td></tr><tr><td>50% Silica sand &amp; 50% vermiculite (SV)</td><td>SVFR1 SVFR2</td><td>SVFR3</td><td>SVFR4</td><td>SVFR5</td></tr><tr><td>50% Silica sand &amp; 50% perlite (SP)</td><td> SPFR1</td><td>SPFR2 SPFR3</td><td> SPFR4</td><td>SPFR5</td></tr></table>",
+        "bbox": [
+            60,
+            795,
+            941,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4da3e40d910f4389a4b56e59ed8e600de77789b7abd60d8112be2a18110e5ba.jpg",
+        "image_caption": [
+            "Figure 1. A chromatograph displaying mesembrine standard obtained from Verve Dynamics (Pty) Lt "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            189,
+            69,
+            811,
+            358
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            409,
+            485,
+            540
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FR2 and FR3; then SP media under FR4 which recorded the highest alkaloid concentration in the root. ",
+        "bbox": [
+            512,
+            409,
+            937,
+            435
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3. Delta 7 mesembrenone area $\\%$ in roots ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            448,
+            761,
+            461
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on total alkaloid concentrations in the root of S. tortuosum was statistically significant at the value of $\\mathtt { p } \\le 0 . 0 0 1$ . The highest concentration of delta 7 mesembrenone in terms of area $( 5 2 . 3 7 \\% )$ was recorded in the SV medium under fertigation regime 4 (FR4) while the least value $\\left( 2 6 . 3 5 \\% \\right)$ ) was observed in SC medium under fertigation regime 2 (FR2). ",
+        "bbox": [
+            512,
+            476,
+            937,
+            528
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e27922f90eb6088a75c042e8a42f87cce804de44be78370602d7f4e88ea3e48c.jpg",
+        "image_caption": [
+            "Figure 2. Comparing the results of S. tortuosum root vs shoot total alkaloid concentration in response to 4 different soilless media and five fertigation regimes in hydroponics. Treatment SSFR3 was selected for the control. Mean values $\\pm \\mathrm { \\textrm { ~ \\tiny ~ S E } }$ are shown in columns. The mean values with different letters are significantly different at $\\mathrm { P } \\leq 0 . 0 0 1$ $( ^ { 2 } \\ast ^ { 2 } \\ast ^ { 2 } \\ast )$ as calculated by Fisher's Least Significant Difference. FR1 $=$ fertigation regime 1; $\\mathrm { F R 2 = }$ fertigation regime 2; FR3 $=$ fertigation regime 3; $\\mathrm { F R 4 = }$ fertigation regime 4; FR5 $=$ fertigation regime 5. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            65,
+            569,
+            673,
+            916
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/823dd4eac82d74623baa049f543be859c4531d8174c06f98f76c5f8b00b2b3c5.jpg",
+        "image_caption": [
+            "Figure 3. Comparing the results of S. tortuosum root vs shoot delta 7 mesembrenone concentration in terms of area $\\%$ in response to 4 different soilless media and five fertigation regimes in hydroponics. Treatment SSFR3 was selected for the control. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            70,
+            803,
+            397
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            461,
+            484,
+            488
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4. Delta 7 mesembrenone area $\\%$ in shoots ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            510,
+            317,
+            523
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on total alkaloid concentrations in the shoot of S. tortuosum was statistically significant at the value of $\\mathtt { p } \\le 0 . 0 0 1$ . At $\\mathtt { p } \\le 0 . 0 0 1$ , soilless media SV yielded the highest concentration of delta 7 mesembrenone area $( 3 7 . 2 3 \\% )$ under fertigation regime 4 (FR4) while the least value $( 1 0 . 8 5 \\% )$ was recorded in SP medium under fertigation regime 3 (FR3). In general, roots had an overall higher concentration of delta 7 mesembrenone in terms of area $\\%$ than shoots while shoots had an overall lower concentration of delta 7 mesembrenone in terms of area $\\%$ than roots (Figures 3, 6, and 7). ",
+        "bbox": [
+            60,
+            537,
+            485,
+            563
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            461,
+            939,
+            553
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/77a8ca263994cb0b5826c71d656b1300761a64a99153de83e767d067cd5750d7.jpg",
+        "image_caption": [
+            "Figure 4. Comparing the results of S. tortuosum root vs shoot mesembrenone concentration in terms of area $\\%$ in response to 4 different soilless media and five fertigation regimes in hydroponics. Treatment SSFR3 was selected for the control. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            194,
+            581,
+            805,
+            901
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/19a5af5355882d04ab384d6193dbf93f0c510ac0180ef2c9ab44035969168b82.jpg",
+        "image_caption": [
+            "Figure 5. Comparing the results of S. tortuosum root vs shoot mesembrenone concentration in terms of area $\\%$ in response to 4 different soilless media and five fertigation regimes in hydroponics. Treatment SSFR3 was selected for the control. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            189,
+            69,
+            806,
+            353
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5. Mesembrenone area % in root ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            418,
+            262,
+            430
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on mesembrenone area $\\%$ in the root of S. tortuosum was statistically significant at the value of $\\mathrm { ~ p ~ } \\leq \\ 0 . 0 0 1$ . At $\\mathrm { ~ p ~ } \\leq \\ 0 . 0 0 1$ , the highest concentrations of mesembrenone area $\\%$ were recorded in the SC medium under fertigation regime 5 (FR5) and SP medium under fertigation regime 2 (FR2) while the least value $( 1 7 . 5 6 \\%$ ) was observed in SP medium under fertigation regime 2 (FR2). ",
+        "bbox": [
+            60,
+            443,
+            487,
+            535
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.6. Mesembrenone area % in shoot ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            417,
+            721,
+            430
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on mesembrenone area $\\%$ in the shoot of S. tortuosum was statistically significant at the value of $\\begin{array} { r } { \\mathbf { p } \\leq 0 . 0 0 1 } \\end{array}$ . At $\\mathtt { p } \\le 0 . 0 0 1$ , soilless medium SS yielded the highest mesembrenone area $\\%$ under fertigation regime 1 (FR1) while the least value (2.02) was recorded in SC medium under fertigation regime 3 (FR3). In general, roots had an overall higher concentration of mesembrenone in terms of area $\\%$ than shoots while shoots had an overall lower concentration of mesembrenone in terms of area $\\%$ than roots (Figures 4, 6, and 7). ",
+        "bbox": [
+            514,
+            443,
+            939,
+            549
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3336c7efe594a23e902b0f8c206d8e88196a3c863e20f81300415d90ab0ee50.jpg",
+        "image_caption": [
+            "Figure 6. HPLC chromatograph results for treatment SSFR3 root extract displaying delta 7 mesembrenone, mesembrenone and mesembrine area $\\%$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            189,
+            619,
+            811,
+            915
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/078114551d9d232265942f137968776d16ad3b165b8650ac0b578e1965233376.jpg",
+        "image_caption": [
+            "Figure 7. HPLC chromatograph results for treatment SPFR4 shoot extract displaying delta 7 mesembrenone, mesembrenone and mesembrine area $\\%$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            200,
+            68,
+            801,
+            317
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.7. Mesembrine area $\\%$ of root ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            382,
+            245,
+            393
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on mesembrine area $\\%$ in the root of S. tortuosum was statistically significant at the value of $\\mathbf { p } \\leq 0 . 0 0 1$ . At $\\mathbf { p } \\leq 0 . 0 0 1$ , the highest mesembrine area of $5 1 . 8 3 \\%$ was recorded in the SP medium under fertigation regime 3 (FR3) while the least value $( 1 6 . 4 5 ~ \\% )$ was observed in SV medium under fertigation regime 4 (FR4). ",
+        "bbox": [
+            62,
+            408,
+            485,
+            486
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.8. Mesembrine area $\\%$ of the shoot ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            382,
+            727,
+            393
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on mesembrine area $\\%$ in the shoot of S. tortuosum was statistically significant at the value of $\\mathtt { p } \\le 0 . 0 0 1$ . At $\\mathtt { p } \\le 0 . 0 0 1$ , soilless medium SS yielded the highest mesembrine area $\\%$ $8 6 . 5 2 \\%$ and $8 6 . 6 5 \\%$ ) respectively under fertigation regime 3 (FR3) while the least value $( 5 6 . 6 5 \\% )$ was recorded in SV medium under fertigation regime 4 (FR4). In general, shoots had an overall higher concentration of mesembrine area $\\%$ than roots while roots had an overall lower mesembrine area in terms of area $\\%$ than roots (Figures 5, 6, and 7). ",
+        "bbox": [
+            514,
+            408,
+            939,
+            499
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fc1ca06507c4cc7e0ef20b54999ba4fe58cc1de4daeb1ff8f9e2839e85f7d1b.jpg",
+        "image_caption": [
+            "Figure 8. Comparing total mesembrine concentration in the root and shoot extracts of S. tortuosum in response to four different soilless media and five fertigation regimes in hydroponics. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            198,
+            563,
+            806,
+            902
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            66,
+            484,
+            92
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.9. Mesembrine concentrations in root ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            112,
+            285,
+            123
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on mesembrine concentrations in the root of S. tortuosum was statistically significant at the value of $\\begin{array} { r } { \\mathbf { p } \\leq 0 . 0 0 1 } \\end{array}$ . At $\\begin{array} { r } { \\mathbf { p } \\leq 0 . 0 0 1 } \\end{array}$ , the highest mesembrine concentration of (1.14) was recorded in the SC medium under fertigation regime 2 (FR2) while the least value (0.10) was observed in SV medium under fertigation regime 4 (FR4). ",
+        "bbox": [
+            62,
+            137,
+            485,
+            215
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.10. Mesembrine concentrations in shoot ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            235,
+            299,
+            248
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The effect of soilless media and fertigation regime on mesembrine concentration in the shoot of S. tortuosum was statistically significant at the value of $\\mathtt { p } \\le 0 . 0 0 1$ . At $\\mathtt { p } \\le 0 . 0 0 1$ , soilless medium SC yielded the highest concentration of mesembrine (4.19) respectively under fertigation regime 3 (FR3) while the least value (0.59) was recorded in SV medium under fertigation regime 4 (FR4). In general, shoots had an overall higher concentration of mesembrine concentration than roots while roots had an overall lower mesembrine concentration than shoots. All 20 treatments significantly differed from one another (Figure 8). ",
+        "bbox": [
+            62,
+            262,
+            485,
+            380
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion & conclusion ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            395,
+            236,
+            407
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Treatments applied in this investigation had a significant effect on the alkaloid concentrations of S. tortuosum. The results obtained in this research agree with [10] and [8] which state that S. tortuosum responds to biotic and abiotic stresses by controlling their influx of secondary metabolite concentrations. It was further noticed that root extracts of plants samples had more delta 7 mesembrenone and mesembrenone concentrations than shoots, while shoots had more mesembrine. Shoots had a higher content of total alkaloids than the roots. ",
+        "bbox": [
+            62,
+            422,
+            485,
+            525
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "S. tortuosum is a one of a kind medicinal crop plant, containing various alkaloids for application in the pharmacological industry [16, 19, 20]. This study has shown there is a clear effect on alkaloid concentration in S. tortuosum root and shoots extracts in response to different soilless media, fertigation regimes as well as soilless media in conjunction with fertigation regimes [31, 32]. Shoot extracts contained a higher concentration of total alkaloids than root extracts, however, root extracts had an overall higher amount of delta 7 mesembrenone, and mesembrenone in terms of area $\\%$ , while shoots had higher amounts of mesembrine. ",
+        "bbox": [
+            62,
+            528,
+            485,
+            645
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Compared with the mesembrine standard, shoots had an overall higher concentration of mesembrine than the roots. These results suggest that roots of S. tortuosum should be harvested to extract delta 7 mesembrenone and mesembrenone molecules, while the shoots should be harvested for extracting mesembrine. These findings agree with [21], which states that mesembrine is the major alkaloid in S. tortuosum along with minor alkaloids delta 7 mesembrenone and mesembrenone. Further studies would be needed to test how other methods of fertigation, various organic/soilless media and a combination of both would affect the concentration yields of mesembrine-type alkaloids when cultivating S. tortuosum in soil or hydroponics. More research is also required on how the fermentation of S. tortuosum plant material affects alkaloid concentrations. ",
+        "bbox": [
+            62,
+            646,
+            485,
+            817
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Declarations ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            832,
+            141,
+            843
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Author contribution statement ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            858,
+            228,
+            870
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Richard James Faber: Performed the experiments; Analyzed and interpreted the data; Wrote the paper. ",
+        "bbox": [
+            60,
+            885,
+            485,
+            910
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Charles Petrus Laubscher: Conceived and designed the experiments; Contributed reagents, materials, analysis tools or data. ",
+        "bbox": [
+            60,
+            911,
+            484,
+            936
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fanie Rautenbach: Contributed reagents, materials, analysis tools or data. ",
+        "bbox": [
+            510,
+            66,
+            937,
+            90
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Muhali Olaide Jimoh: Analyzed and interpreted the data; Wrote the paper. ",
+        "bbox": [
+            512,
+            93,
+            937,
+            118
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Funding statement ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            136,
+            615,
+            148
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by Cape Peninsula University of Technology (CPUT), through the National Research Foundation and University Research Fund. ",
+        "bbox": [
+            514,
+            162,
+            937,
+            200
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data availability statement ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            219,
+            665,
+            230
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data included in article. ",
+        "bbox": [
+            534,
+            245,
+            675,
+            257
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Declaration of interests statement ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            276,
+            699,
+            287
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest. ",
+        "bbox": [
+            534,
+            301,
+            784,
+            313
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            332,
+            640,
+            344
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "No additional information is available for this paper. ",
+        "bbox": [
+            534,
+            359,
+            845,
+            370
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            385,
+            636,
+            398
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Authors appreciate Richard Davies, Managing Director of Verve Dynamics (Pty) Ltd who supplied the initial Sceletium tortuosum mother plant for this study and gave special permission for the use of their mesembrine standard. ",
+        "bbox": [
+            512,
+            412,
+            937,
+            464
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            480,
+            583,
+            491
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] B.-E. van Wyk, M. Wink, Medicinal Plants of the World, second ed., Briza Publications, Pretoria, South Africa & CAB International, Nosworthy Way, Wallingford, 2018. https://books.google.co.za/books?. (Accessed 22 July 2020).   \n[2] M.O. Jimoh, A.J. Afolayan, F.B. Lewu, Antioxidant and phytochemical activities of Amaranthus caudatus L . harvested from different soils at various growth stages, Sci.– Rep. 9 (2019) 12965.   \n[3] G.M. Rishton, Natural products as a robust source of new drugs and drug leads: past successes and present day issues, Am. J. Cardiol. 101 (2008) S43 S49.–   \n[4] S. Karuppusamy, A review on trends in production of secondary metabolites from higher plants by in vitro tissue, organ and cell cultures, J. Med. Plants Res. 3 (2009) 1222 1239.   \n[5] M.O. Jimoh, A.J. Afolayan, F.B. Lewu, Nutrients and antinutrient constituents of Amaranthus caudatus L. Cultivated on different soils, Saudi J. Biol. Sci. (2020). In press.   \n[6] J.D. Philipson, Plants as source of valuable products, in: Secondary Products from Plant Tissue Culture, Clarendon Press, Oxford, 1990.–   \n[7] O.D. Adegbaju, G.A. Otunola, A.J. Afolayan, Effects of growth stage and seasons on the phytochemical content and antioxidant activities of crude extracts of Celosia argentea L. Heliyon 6 (6) (2020), e04086, 1 11.   \n[8] M.A. Ashraf, M. Iqbal, R. Rasheed, I. Hussain, M. Riaz, M.S. Arif, Environmental Stress and Secondary Metabolites in Plants: an Overview, 2018.–   \n[9] O.A. Idris, O.A. Wintola, A.J. Afolayan, Evaluation of the bioactivities of Rumex crispus L. leaves and root extracts using toxicity, antimicrobial, and antiparasitic– assays, Evidence-Based Compl. Altern. Med. (2019) 1 13.   \n[10] F. Bourgaud, A. Gravot, S. Milesi, E. Gontier, Production of plant secondary metabolites: a historical perspective, Plant Sci. 161 (2001) 839 851.–   \n[11] M.A. Jimoh, O.A. Idris, M.O. Jimoh, Cytotoxicity, phytochemical, antiparasitic screening, and antioxidant activities of Mucuna pruriens (Fabaceae), Plants 9 (2020) 1 13.   \n[12] M. Wink, A.W. Alfermann, R. Franke, B. Wetterauer, M. Distl, J. Windho€vel,– O. Krohn, E. Fuss, H. Garden, A. Mohagheghzaden, E. Wildi, P. Ripplinger, Sustainable bioproduction of phytochemicals by plant in vitro cultures: anticancer agents, Plant Genet. Resour. 3 (2) (2005) 90 100.–   \n[13] T.L. Olatunji, A.J. Afolayan, Comparison of nutritional, antioxidant vitamins and capsaicin contents in Capsicum annuum and C. frutescens, Int. J. Veg. Sci. 18 (2019) 1 18.–   \n[14] М.R. Hamidi, B. Jovanova, Т.K. Panovska, Toxicоlogical evaluation of the plant products using Brine Shrimp (Artemia salina L.) model, Maced. Pharm. Bull. 60– (2014) 9 18.   \n[15] S.O. Salami, A.J. Afolayan, Suitability of Roselle- Hibiscus sabdariffa L. as raw– material for soft drink production, J. Food Qual. (2020) 1 9.   \n[16] O. Gericke, N. Gericke, D.J. Stein, Sceletium tortuosum, in: Complement. Integr. Treat., 2017, pp. 195 199.   \n[17] J.L. Krstenansky, Mesembrine alkaloids: review of their occurrence, chemistry, and pharmacology, J. Ethnopharmacol. 195 (2017).–   \n[18] B. Muszynska, M.- Łojewski, J. Rojowski, W. Opoka, K. Sułkowska-Ziaja, Natural products of relevance in the prevention and supportive treatment of depression, Psychiatr. Pol. 49 (2015) 435 453.   \n[19] A.L. Harvey, L.C. Young, A.M. Viljoen, N.P. Gericke, Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum and its principal alkaloids, J. Ethnopharmacol. (2011).–   \n[20] W. Dimpfel, L. Schombert, N. Gericke, Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious freely moving– rats, J. Ethnopharmacol. 177 (2016) 140 147.   \n[21] S. Patnala, I. Kanfer, Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species, S. Afr. J. Sci. 109 (2013) 1 5.   \n[22] B.-E. van Wyk, M. Wink, Phytomedicines, Herbal Drugs, and Plant Poisons, first ed., Briza Publications, Pretoria, 2015.   \n[23] D.D. Coetzee, V. Lopez, C. Smith, High-mesembrine Sceletium extract - (TrimesemineTM) is a monoamine releasing agent, rather than only a selective serotonin reuptake inhibitor, J. Ethnopharmacol. 177 (2016) 111 116.–   \n[24] G.I. Stafford, M.E. Pedersen, J. van Staden, A.K. J€ager, Review on plants with CNSeffects used in traditional South African medicine against mental diseases, J. Ethnopharmacol. 119 (2008) 513 537.   \n[25] A.C. Bennett, A. Van-Camp, V. Lopez, C. Smith, Sceletium tortuosum may delay - chronic disease progression via alkaloid-dependent antioxidant or antiinflammatory action, J. Physiol. Biochem. 74 (2018) 539 547.   \n[26] A.A. Teto, C.P. Laubscher, P.A. Ndakidemi, I. Matimati, Paclobutrazol retards– vegetative growth in hydroponically-cultured Leonotis leonurus (L.) R.Br. Lamiaceae for a multipurpose flowering potted plant, South Afr. J. Bot. 106 (2016) 67 70.   \n[27] M. Hadizadeh, H. Ofoghi, M. Kianirad, Z. Amidi, Elicitation of pharmaceutical alkaloids biosynthesis by salicylic acid in marine microalgae Arthrospira platensis, Algal Res. 42 (2019) 101597.–   \n[28] S. Fadhil, M.H. Reza, G. Rouhollah, V.R.M. Reza, Spectrophotometric determination of total alkaloids in peganum harmala L. Using Bromocresol green, Res. J. Phytochem. 1 (2007) 79 82.–   \n[29] S. Patnala, I. Kanfer, HPLC analysis of mesembrine-type alkaloids in Sceletium plant material used as an african traditional medicine, J. Pharm. Pharmaceut. Sci. 13 (2010) 558 570.   \n[30] I. TIBCO Software, Statistica (data analysis software system), version 13, 2017.   \n[31] A.K. Shukla, M. Mall, S.K. Rai, S. Singh, P. Nair, G. Parashar, A.K. Shasany,– S.C. Singh, V.K. Joshi, S.P.S. Khanuja, A transcriptomic approach for exploring the molecular basis for dosha-balancing property-based classification of plants in Ayurveda, Mol. Biol. Rep. 40 (2013) 3255 3262.   \n[32] A. Silber, A. Bar-Tal, Nutrition of Substrate-Grown Plants, 2008. ",
+        "bbox": [
+            515,
+            501,
+            934,
+            936
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            66,
+            484,
+            277
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            66,
+            936,
+            287
+        ],
+        "page_idx": 8
+    }
+]

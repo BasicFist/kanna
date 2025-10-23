@@ -1,0 +1,1058 @@
+[
+    {
+        "type": "text",
+        "text": "Ethnopharmacology and biological activities of the Aizoaceae ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            206,
+            687,
+            226
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. Kalicharan a,b, Y. Naidooä, J. van Staden b, \\* ",
+        "bbox": [
+            60,
+            239,
+            428,
+            257
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Scoloffsilti   \nRee   \nAfrica ",
+        "bbox": [
+            60,
+            267,
+            813,
+            297
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            327,
+            193,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nAizoaceae   \nMesembryanthemum   \nSucculent   \nAntimicrobial   \nAntioxidant   \nCosmetics ",
+        "bbox": [
+            62,
+            354,
+            154,
+            427
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            337,
+            329,
+            433,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ethnopharmacological relevance:The Aizoaceae is one of the largest succulentplantfamilies.Most members of the family are ornamental and form partof specialist succulent collections.The exceptional diversityof the Aizoaceae is notonlylimited to its growth forms,habitat,and chemistry,butisalsoreflected inits many traditional uses.Selected species are well known for their use in traditional medicines,with recent scientific studies validating their biological activity. ",
+        "bbox": [
+            337,
+            353,
+            937,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aimof the study: Herein,this review aimed to articulate foundational and current global research endeavors related to the traditional uses and pharmacological activities of the Aizoaceae. ",
+        "bbox": [
+            336,
+            414,
+            937,
+            437
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods: Research articles and search terms related to the ethnopharmacologyand bioactivities of the Aizoaceae between 1940 and 2022 were evaluated using electronic databases such as Google Scholar, PubMed, ScienceDirect, Scopus,JSTOR,and Web of Science. ",
+        "bbox": [
+            334,
+            438,
+            937,
+            472
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: Popular Aizoaceae genera including Mesembryanthemum,Trianthema,and Tetragoniaare noted for their cultural value and are key components in herbal medicines for the treatmentof a myriad of disorders.Isolated bioactive compounds isolated from selected species demonstrated varied antimicrobial,antioxidant,and neuroprotective functions in basic pharmacological studies.However,most studies lacked reliable correlation to in vivo activity and did not adequately validate the safetyand eficacy of potential therapeutic compounds. ",
+        "bbox": [
+            337,
+            474,
+            936,
+            533
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: While the cultural and therapeutic value of popular Aizoaceae species have been highlighted in the literature,there remains glaring inconsistencies among otherrelated species.Data deficiency may be ameliorated by further studies focused on taxonomic markers,chemical characterization and underlying molecular mechanisms of activity of a wider pool of species to enhance our knowledge of this hyperdiverse family. ",
+        "bbox": [
+            336,
+            535,
+            937,
+            582
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            620,
+            163,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The socio-economic status of many countries is a limiting factor for the provision of basic healthcare to the general population. The use of traditional remedies sourced from medicinal plants is prevalent in rural communities,mainly due to the inaccessibility,unavailability,and cost of conventional drugs (Mbuni et al., 2O2O).In recent times, traditional medicine has gained an increasingly large following and is often a preferred component of healthcare by both rural and urban consumers due to its integrated use with ritual and divination for comprehensive and holistic treatment (Mander et al., 2OO7). The use of succulents and semi-succulents in traditional and/or folk medicine is steeped in the history of many cultural systems worldwide,with information on plant use and preparation being passed down from generation to generation (Smith and Crouch， 1999). An estimated $5 0 \\%$ ofapproved pharmaceutical drugs established within the last 3O years are derived directly or indirectly from botanical resources (Veeresham, 2Ol2).Due to the growing interest in succulent plants by researchers and those in industry,a number of indigenous botanical resources have been screened and evaluated for their pharmacologically important phytocompounds (Street and Prinsloo, 2013). ",
+        "bbox": [
+            62,
+            646,
+            485,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            620,
+            937,
+            698
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Aizoaceae,which constitutes one of the largest succulent families of the Angiosperms, represents a currently underexplored source of potential therapeutic compounds,despite the evidence of some members being used extensively in traditional medicine practices to treat a myriad of health conditions.Moreover,despite growing ethnobotanical and scientific research in recent decades,we have only begun the journey to validate the therapeutic activity of this family.Thus,this review seeks to comprehensively outline the global cultural and traditional uses of the Aizoaceae as well as evaluate the biological activity and pharmacological potential of representative members that occur worldwide. ",
+        "bbox": [
+            514,
+            699,
+            937,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            66,
+            484,
+            90
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Methods ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            107,
+            137,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The current research endeavor included a wide variety of international and local literature sources to comprehensively evaluate foundationalandrecentinformationfocusingontheglobal ethnopharmacology,traditional uses,and pharmacological activities of the hyperdiverse Aizoaceae.To this end,full-length research and review articles,in vivo and in vitro studies,dissertations,and clinical studies, obtained from international databases such as Google Scholar, JSTOR, ScienceDirect, Scopus,Web of Science,and PubMed,were included in this extensive review on global Aizoaceae species.A combination of specific keywords related to the ethnopharmacology and biological activities of Aizoaceae whole plants,extracts,and products were used. Additionally,search terms related to the traditional and cultural uses of species were included either individually or in combination with pharmacology-related terms.Letters and conference proceedings were excluded,as well as dataobtained prior to 1940.The literature review search was initially confined to the period between 2ooo and 2o22 and focused on the most recent articles.However,due to data deficiency, fragmented research records,and the fact that research on this family was primarily conducted during the period 194O-1999,several earlier articles that were pertinent to the review were also included.Scientific names of plant species included the authority at first mention and were screened for any updated changes according to The International Plant Names Index (IPNI) (IPNI,2O22)and cross-referenced with “World Flora Online”(WFO)[(WFO，2022)；previously theplantlist.org].Comprehensive taxonomic delimitations are beyond the scope of the current review, thus scientific names have been retained as cited in reviewed publications for cross-referencing purposes.However,where possible, alternate,newly revised,or previously accepted scientific names (basionyms) for certain species have been included. ",
+        "bbox": [
+            62,
+            134,
+            485,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Distribution and general characteristics ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            529,
+            337,
+            540
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Aizoaceae include at least 13O recognized genera and approximately 2ooo species occupying diverse subtropical and tropical habitats worldwide (Fig.1).Despite their wide range, the majority of species are endemic to the southern Africa region, especially the Succulent Karoo biome.However,approximately 25 genera and around 90 species can be found naturalized or introduced to parts of Australasia and the Americas (Morris and Duretto, 2Oo9),wherein they are regarded as weeds. There are reports of Lampranthus in Portugal (Smith et al.,2Ol8), Carpobrotus across the Mediterranean islands (Fenollosa and Munné-Bosch, 2019) and Tetragonia in Chile and Argentina (Taylor, 1994). The Aizoaceae contain annual and perennial succulent herbs and shrubs,rarely trees. Despite a plethora of diverse leaf forms,defining characters of the family include the hygrochastic fruiting capsule,perianth stamen tube and bladder cels which account for the numerous common names associated with these plants (Klak et al., 2Oo3). The light reflective capacity of bladder cells embedded in the foliage is the basis for the common name “ice plant\",whilst the South African Afrikaans vernacular term“vygies” meaning“little fig\"is used due to the resemblance of the fruit capsule to a tiny fig. ",
+        "bbox": [
+            62,
+            556,
+            484,
+            646
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            66,
+            937,
+            224
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.Taxonomy ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            238,
+            601,
+            250
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The succulent Aizoaceae form a major family within the Caryophyllales and can be divided sensu stricto into five sub-families including Aizooideae,Mesembryanthemoideae,Ruschioideae,Sesuvioideae and Tetragonioideae (Hassan et al., 2Oo5). Studies to date have not wholly resolved the debate concerning relationships among these sub-families,with some groups regarded as distinct families (Klak et al., 2013).In fact,Mesembryanthemaceae is frequently used by many researchers to refer to members of the Mesembryanthemoideae and Ruschioideae (Klak et al.，2Oo3) and are colloquially regarded as “mesembs'.Despite the apparent richness and hyperdiversity of the Aizoaceae,there is significant data deficiency pertaining to the majority of taxa.Even within the various sub-families,many genera are being revised and re-circumscribed as new molecular and morphological data becomes available.For instance,the Mesembryanthemoideae previously contained many genera including Sceletium,until Klak et al. (2017) provided a revised phylogeny of the sub-family,which resulted in recognition of Mesembryanthemum as the sole genus within the Mesembryanthemoideae and members of Sceletium,Aptenia,Phylobolus, and Psilocaulon (among others) being reduced to synonymy (Brendler et al., 2021). Von Staden et al. (2013) indicated that at least $5 5 \\%$ of taxa in the Aizoaceae require taxonomic revision. Classfication discrepancies at species and genera level and rapid evolutionary radiation further add to delimitation woes.In terms of this review,all taxa mentioned are classified under the currently accepted Aizoaceae (Bittrich and Hartmann, 1988; Klak et al., 2003; Klak et al., 2017). ",
+        "bbox": [
+            514,
+            264,
+            937,
+            592
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. Traditional medicinal uses ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            609,
+            705,
+            620
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notable ethnomedicinal uses of members of the Aizoaceae have been documented (Table 1).Among the plant parts used, the leaves and roots appear in various preparatory forms with herbal formulations primarily ingested as juices and decoctions.Decoctions are known to be the most common route of administration,possibly due to its perceived quick absorption and potent action (Yang,2OlO).Aizoaceae plants have been used to treata variety of ailments due to their sedative,analgesic,and antimicrobial activity,amongst others.Hypertension and respiratory, digestive,neurological,and cardiac (to a lesser extent) conditions have been alleviated by traditional remedies derived from plants of the Aizoaceae.The medicinal value of genera such as Mesembryanthemum, Trianthema and Tetragonia appear to be more widely represented in comparison to others.However, there are many limitations in validating and obtaining reliable conclusions regarding the overall medicinal potential of the Aizoaceae.Much of the earlier literature does not confirm the species used in many reports. Scientific identification of medicinal species may have been hampered by the similar plant morphology shared by different species;whilst some species exhibit varied morphology within the same genus.Further complications arise due to incorrect classification within the family.Genera such as Gisekia, Glinus andMollugo,previously included in Aizoaceae,have since been redistributed to their own distinct families.As a result,some published research conducted on these species have incorrectly linked ethnobotanical and pharmacological use to other members of the Aizoaceae based on perceived relatedness (Napagoda et al., 2O16). Thus, there is still much to learn regarding the traditional uses of this family. ",
+        "bbox": [
+            532,
+            635,
+            937,
+            646
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ae6698589a535ca23fe2eef51384b524d1d069021680280aa76ba9a5017eb69.jpg",
+        "image_caption": [
+            "ig fro of this article.) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            206,
+            665,
+            791,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            66,
+            484,
+            394
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. Cultural uses ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            409,
+            166,
+            421
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.1．Rituals and divination ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            436,
+            216,
+            447
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Plants of the Aizoaceae have been utilized by many cultural and ethnic groups for the purposes of divination and ritual, to ameliorate ancestral wrath,and to communicate with the ancestors for guidance to diagnose and treat medical conditions.IsiZulu warriors of South Africa added the ground plant material of Delosperma saturatumL.Bolus to a mix of various other unknown plants (called intelezi in the IsiZulu language) in water,which was used for cleansing and washing of weapons priorto battle.It was believed to provide“powers”to pre-empt the enemies plan (Burgoyne,2Oo5).Bergeranthus artus,another constituent of intelezi, is also used as a protective charm (Dold et al.,2Oo5). The indigenous people of southern Africa,the Khoisan,used pulverized Mesembryanthemum tortuosum L.N.E.Br (syn. Sceletium tortuosum (L.) N. E.Br)as an intoxicant called “kanna\"during various divination rituals as well as communal dance and healing ceremonies (Smith et al.,1996). The Nama people,an ethnic derivative of the Khoikhoi,used Mesembryanthemum spp.(syn.Sceletium spp.) as a narcotic leading to euphoria and heightened sexual desire (Ratsch, 2005). ",
+        "bbox": [
+            62,
+            462,
+            485,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Many of the Aizoaceae were used in the manufacture of aphrodisiacs and love charms to secure or break relationships.Indigenous African tribes employed Aptenia cordifolia (L.f.) Schwantes (now Mesembryanthemum cordifolium) as a love charm and protection against witchcraft (van Wyk and Gericke, 2OoO). In the case of Lithops lesliei N.E.Br.,its physical resemblance to female genitalia supported its inclusion in charms to recall “lost love”and as a remedy for gynecological disorders (Smith and Crouch,1999). In Andean culture, Tetragonia crystallina L'Hér.,colloquially knownas“Hierba de la Senorita”formed part of a collection of plants and perfumes used in the preparation of a“bano de florecimiento”(flowering bath) or “seguros\"(herbal talisman),created to protect the user against evil and bring good fortune and health (Bussmann et al., 2010). ",
+        "bbox": [
+            62,
+            687,
+            485,
+            857
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.2. Food and beverage ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            872,
+            200,
+            883
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Bedouin and Tuareg nomadic inhabitants of North Africa and the Arabian Peninsula consume parts of Mesembryanthemum spp. (Mesembryanthemum forskahlii,Mesembryanthemum nodiflorum L.，and ",
+        "bbox": [
+            60,
+            899,
+            484,
+            936
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mesembryanthemum crystallinum L.) and Aizoon canariense L.The green leaves are consumed as a cooked vegetable or included ina salad,whilst the seeds are ground and used in the preparation of porridge and soup, especially in times of famine (Mandaville, 2019; Oztirk et al., 2019). In parts of south-east Asia,Australia,and New Zealand the tangy leaves of Tetragonia tetragonioides (Pall.） Kuntze,Disphyma crassifolium (L.） L. Bolus and Trianthema portulacastrum L.are used as a spinach substitute and eaten raw or cooked (Gaddeyya and Ratna Kumar, 2O15). Several of the Aizoaceae are known for their edible fruits including the Australian endemic Sarcozona sp.and many Carpobrotus spp.[C.acinaciformis (L.) L.Bolus, C.edulis (L.) N.E.Br.,C.mellei (L.Bolus) L.Bolus, C.deliciosus (L. Bolus) L.Bolus, C. dimidiatus L.Bolus] (Broomhead et al., 2019; Kapitany, 2013).Carpobrotus sp.are eaten raw or dried and used in the preparation of fruit preserves and jams in South Africa (Springfield et al., 2003). Welcome and van Wyk (2O19) outline many Aizoaceae genera that are used for human consumption as vegetables or snacks in South Africa, including lesser-known species such as Aizoon glinoides Eckl.& Zeyh., Conophytum truncatum(Thunb.) N.E.Br.,Cleretum papulosum (L.f.) N.E. Br.,Nananthus aloides Schwantes,and Pleiospilos nelii Schwantes.In the southern African region,many Aizoaceae species are used by local and indigenous people to make alcoholic beverages; either as an ingredient [Bergeranthus spp.;Khadia acutipetala (N.E.Br.）N.E.Br.;Glottiphyllum linguiforme N.E.Br.； Rhus lancea L.f.；Trichodiadema intonsum (Haw.) Schwantes;Delosperma mahonia (N.E.Br.) N.E.Br.] or for fermentation purposes (Mesembryanthemum spp.Delosperma spp.and Trichodiadema stellatum Schwantes) (Dold et al., 2005; Onderstall, 2007; Welcome and vanWyk,2O19).PlantpartsofKhadia,Mestoklemaand Trichodiadema spp.are used as a leavening agent when making bread. ",
+        "bbox": [
+            514,
+            68,
+            937,
+            433
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition to humans,animals favour the succulent,arid species of the Aizoaceae.For example,Mesembryanthemum cryptanthum Hook.f. (syn.M.forskahlii) is a popular forage plant,whilst the aerial parts of A.canariense are specially fed to female camels of the Sahrawi nomads to increase milk production (Volpato and Puri, 2O14). In parts of Central and South Africa,and Australia,many individual species of Drosanthemum are popular grazing plants and are highly palatable to domestic livestock (Haarmeyer etal., 2O1O),whilst Ruschia robusta Schwantes has been known to be semi-palatable (Nenzhelele, 2Ol7). Conversely, Trianthema, Tetragonia and Galenia spp.contain high levels of toxic oxalates,which causes poisoning in poultry,cattle,and horses (Burrows and Tyrl,2Ol3).Ingestion of Galenia spp.by sheep and goats may result in the development of ascites,a condition known colloquially as“waterpens\"(water belly) in the Western Cape province of South Africa (Botha and Penrith，2Oo8). Interestingly，some livestock are sufficiently knowledgeable in that they avoid the young and green plants and forage on the dry,older plants that presumably contain lower,more tolerable levels of oxalate. ",
+        "bbox": [
+            514,
+            436,
+            937,
+            672
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.3.Miscellaneous uses ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            687,
+            650,
+            698
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mesembryanthemum noctiflorumL.,Galenia africana L.,Polymita albiflora (L.Bolus) L.Bolus and Stoeberia arborea van Jaarsv.are some species known for their usefulness as firewood (van Jaarsveld, 2Oo5;Wheat, 2013; Nortje and van Wyk, 2O19) whilst Ruschia spp. has been used by the Nama indigenous people to build cooking shelters (Wheat, 2O13).In New Zealand,the red juice of T.tetragonioides berries are used by the Maori people as ink and dye for tattoos (Burton,2Ol2).However, the majority of Aizoaceae species are used as ornamentals or in the horticulture industry.The vibrant,distinctly colourful flowers of Carpobrotus, Frithia and Erepsia and the quirky,unusual shape of Faucaria, Lithops, Conophytum and Gibbaeum make them prized pot plants and succulent collector items. ",
+        "bbox": [
+            514,
+            715,
+            937,
+            870
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Chemistry and pharmacological activities ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            885,
+            803,
+            897
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The sparse literature concerning the identification and characterization of chemical phytocompounds such as alkaloids, flavonoids, ",
+        "bbox": [
+            512,
+            911,
+            936,
+            936
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8b5cf71d9ecd2eca6b7426da5d1c472f01907db8c74d13d2e8606932f6752cc.jpg",
+        "table_caption": [
+            "Table 1 Ethnomedicinal properties of the Aizoaceae. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=20>Scientific namea                         Vernacular/         Plant part   Mode of       Traditional medicine use                Reference/straditional name     used       preparation</td></tr><tr><td rowspan=2 colspan=20>Aizoon canariense L.                                          whole plant                indigestion, hypertension                Adam et al. (2018);Al-Laith et al. (2019)Aptenia cordifolia (L.f.) Schwantes          Ibohlololo SA[z] rooi  stem,leaves poultice       treatment of nervous complaints,pleurisy,   Bhowmik et al. (2014)</td></tr><tr><td rowspan=3 colspan=6>treatment of nervous complaints,pleurisy,   Bhowmik et al. (2014)and dropsygargle for mouth infections,laxative       Iwu (2014)</td><td rowspan=1 colspan=1>omplaints</td></tr><tr><td rowspan=1 colspan=1>(=Mesem</td><td rowspan=1 colspan=13>(=Mesembryanthemum cordifolium L.f.)     brakvygie SA[A]</td><td rowspan=1 colspan=2>and dropsy</td></tr><tr><td rowspan=1 colspan=14>Carpobrotus acinaciformis L.Bolus           elandvye SA[A]       leaves       juice(=Mesembryanthemum acinaciforme)</td></tr><tr><td rowspan=2 colspan=14>(=Mesembryanthemum acinaciforme)Carpobrotus dimidiatus L.Bolus             Natalse suurvy SA[A]   leaves       juice(=Mesembryanthemum dimidiatum Haw)Carpobrotus edulis (L.) N.E.Br.              suurvygie SA[A]      leaves      leaf juice</td><td rowspan=1 colspan=6>dysentery,sore throat                  Iwu (2014)</td></tr><tr><td rowspan=1 colspan=12>Carpobrotus edulis (L.) N.E.Br.              suurvygie SA[A]      leaves      leaf juice</td><td rowspan=1 colspan=5>topical treatment for eczema, wounds,</td><td rowspan=4 colspan=1>Akinyede et al. (2020)Moteetee and van</td></tr><tr><td rowspan=1 colspan=6>(=Mesembryanthemum edule L.)</td><td rowspan=1 colspan=8>igcukuma SA[x]</td><td rowspan=1 colspan=5>sores,and burns; leaf juice gargled to treat</td></tr><tr><td rowspan=3 colspan=14>Chasmatophyllum musculinum (Haw.) Dinter &amp;                      leavesSchwantes                           [A]</td><td rowspan=1 colspan=5>mouth and throat infections</td></tr><tr><td rowspan=2 colspan=4>used to treat swollen feet</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Wyk (2011)</td></tr><tr><td rowspan=1 colspan=6>Cleretum belldiforme (Burm.f.) G.D.Rowley</td><td rowspan=1 colspan=8>bokbaivygie SA[A]   leaves      juice,</td><td rowspan=1 colspan=5>antiseptic properties, treatment for</td><td rowspan=1 colspan=1>Pappe (1847)</td></tr><tr><td rowspan=1 colspan=6>[previously Dorotheanthus bellidiformis</td><td rowspan=1 colspan=2></td><td rowspan=5 colspan=6>decoction ofthe leaves</td><td rowspan=5 colspan=5>dysentery,mild diuretic</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td rowspan=3 colspan=2>m</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=4 colspan=1>Iwu (1993)</td></tr><tr><td rowspan=2 colspan=6>(Burm.f.) N.E.Br.and Mesembryanthemumbellidiforme Burm.f.]</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2></td></tr><tr><td rowspan=5 colspan=8>Conophytum africanaConophytum bilobum (Marloth) N.E.Br.       pianta sasso IDelosperma herbeum N.E.BrDelosperma ecklonisSchwantes</td><td rowspan=1 colspan=6>leaves,roots, stems</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>analgesic,anti-infective,sedative</td></tr><tr><td rowspan=1 colspan=2>pianta sasso I</td><td rowspan=1 colspan=4>roots, stemsleaves,roots</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=5>analgesic,anti-infective,sedative</td><td rowspan=1 colspan=1>Iwu (2014)</td></tr><tr><td rowspan=2 colspan=6>rootsroot</td><td rowspan=1 colspan=5>treatment of the so-called climacteric</td><td rowspan=1 colspan=1>Breyer- Brandwijk and</td></tr><tr><td rowspan=1 colspan=5></td><td rowspan=1 colspan=1>Watt (1962)</td></tr><tr><td rowspan=1 colspan=6>aerial parts</td><td rowspan=1 colspan=5>stomach aches</td><td rowspan=1 colspan=1>Iwu (2014)</td></tr><tr><td rowspan=3 colspan=5>SchwantesDelosperma reseiDrosanthemum hispidum (L.) Schwantes</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=8>leaves</td><td rowspan=1 colspan=5>anti-ulceritic</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=2 colspan=3>Skaapvygie SA[A]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1>(2018)</td></tr><tr><td rowspan=1 colspan=6>aerial part   decoction</td><td rowspan=1 colspan=5>laxative</td><td rowspan=1 colspan=1>Iwu (2014)</td></tr><tr><td rowspan=4 colspan=14>Galenia africana L.                       kraalbos SA[A]       leaves,      decoctionstemsJordaaniella spongiosa (L.Bolus) H.E.K.       ostrich ice plant ENGHartmann</td><td rowspan=1 colspan=1>kraalbos SA[A]</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>leaves,</td><td rowspan=1 colspan=2>decoction</td><td rowspan=1 colspan=1>rheumatism,relieved toothache,wounds</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3>stems</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=5>and eye infections,tuberculosis treatment,</td><td rowspan=3 colspan=1>Iwu (2014)</td></tr><tr><td rowspan=1 colspan=5>treats skin diseases such as ringworm</td></tr><tr><td rowspan=1 colspan=5></td><td rowspan=1 colspan=5>skin infections</td></tr><tr><td rowspan=3 colspan=8>Khadia acutipetala (N.E.Br.) N.E.Br.Lampranthus elegans (Jacq.) Schwantes(=Mesembryanthemum elegans)</td><td rowspan=1 colspan=6></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>root</td><td rowspan=1 colspan=2>fermented</td><td rowspan=2 colspan=1>remedy for problems linked to the malereproductive system</td></tr><tr><td rowspan=2 colspan=4></td><td rowspan=2 colspan=4>leaves</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>beverage</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>infusion</td><td rowspan=1 colspan=5>headache</td><td rowspan=1 colspan=1>Andrade et al. (2017)</td></tr><tr><td rowspan=18 colspan=13>Lampranthus multiradiatus (Jacq.)N.E.Br.                          essentialoils, leavesLampranthus francisci L.Bolus                                  leavesLithops lesliei N.E.Br.                     living stones ENG     leavesbeeskloutjies SA[A]Mesembryanthemum crystallinum L.          ice plant ENG        leavesMesembryanthemum nodiflorum L.            slenderleaf ice plant   whole plantENG</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=3 colspan=4>essential</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=2 colspan=3>essential</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>decoction</td><td rowspan=1 colspan=5>treatment of respiratory tract infections,</td><td rowspan=1 colspan=1>Moyo and</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=3>oils, leaves</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>tuberculosis,dysentery,diabetes mellitus,</td><td rowspan=1 colspan=1> Mukanganyama</td></tr><tr><td rowspan=1 colspan=5></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>laryngitis,and vaginal infections</td><td rowspan=1 colspan=1>(2015)</td></tr><tr><td rowspan=3 colspan=5>leaves</td><td rowspan=2 colspan=1>fresh sap</td><td rowspan=1 colspan=5>treatment for fungal infections of the scalp</td><td rowspan=2 colspan=1>Moyo and Mukanganyama</td></tr><tr><td rowspan=1 colspan=5></td></tr><tr><td rowspan=1 colspan=1></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1>(2015)</td></tr><tr><td rowspan=1 colspan=1>decoction</td><td rowspan=1 colspan=5>used to treat issues relating to female</td><td rowspan=1 colspan=1>Smith and Crouch</td></tr><tr><td rowspan=1 colspan=6></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>reproductive health i.e. prevent bleeding</td><td rowspan=1 colspan=1>(1999)</td></tr><tr><td rowspan=2 colspan=5>ice plant ENG</td><td rowspan=2 colspan=4>leaves</td><td rowspan=2 colspan=1>juice, paste</td><td rowspan=1 colspan=5>during pregnancy,anti- abortifacient</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>juice ingested to treat dysentery,liver and</td><td rowspan=1 colspan=1>Ibtissem et al. (2012)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>kidney diseases, pneumonia and as a</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>diuretic,used topically to relieve itching,</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>pain,swelling and redness of the skin</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>whole plant</td><td rowspan=1 colspan=1>decoction</td><td rowspan=1 colspan=5>treat gastric disease,used as an emetic in</td><td rowspan=1 colspan=1>Doudach et al. (2013)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>acute poisoning,treatment of eye infection</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=6>Mestoklema elatum N.E.Br.ex Glen</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3>leaves</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>anti-inflammatory</td><td rowspan=1 colspan=1>Iwu (2014)</td></tr><tr><td rowspan=1 colspan=6>Opophytum forsskalii (Hochst. ex Boiss.) N.E.Br.(=Mesembryanthemum forskahlii)</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>seeds</td><td rowspan=1 colspan=1>powdered</td><td rowspan=1 colspan=5>controls cholesterol and creatinine levels</td><td rowspan=1 colspan=1>Abdel-Farid et al.(2016)</td></tr><tr><td rowspan=1 colspan=4>Br.(=Mesembryanthemum forskahlii)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=3 colspan=6>Pleiospilos bolusii N.E.Br.Polymita albiflora (L.Bolus)L.Bolus</td><td rowspan=1 colspan=2>dumpiesnuif SA[A]</td><td rowspan=1 colspan=5>leaves</td><td rowspan=1 colspan=1>dried and</td><td rowspan=1 colspan=5>used for its inebriating properties and as a</td><td rowspan=1 colspan=1>Breyer-Brandwijk and</td></tr><tr><td rowspan=2 colspan=3></td><td rowspan=1 colspan=4></td><td rowspan=1 colspan=1>powdered</td><td rowspan=1 colspan=5>sedative</td><td rowspan=1 colspan=1>Watt (1962)</td></tr><tr><td rowspan=1 colspan=4>leaves</td><td rowspan=1 colspan=1>decoction</td><td rowspan=1 colspan=5>relieves abdominal cramps</td><td rowspan=1 colspan=1>Wheat (2013)</td></tr><tr><td rowspan=1 colspan=6>Psilocaulon coriarium N.E.Br.</td><td rowspan=1 colspan=3>loogbossie SA[A]</td><td rowspan=1 colspan=4></td><td rowspan=1 colspan=1>poultice,infusion</td><td rowspan=1 colspan=5>used to treat acne and infections on the scalp</td><td rowspan=6 colspan=1>van Wyk et al. (2008)Emboden (1972)Wheat (2013)</td></tr><tr><td rowspan=1 colspan=6>(=Mesembryanthemum coriarium)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=2 colspan=6>Rabiea albinota (Haw.) N.E.Br.(=Nananthus</td><td rowspan=2 colspan=3>S&#x27;Keng Keng SA[G]</td><td rowspan=2 colspan=4>whole plant</td><td rowspan=2 colspan=1>dried and</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=2 colspan=5>used for its reported inebriating properties</td></tr><tr><td rowspan=1 colspan=6>albinotus (Haw.) N.E.Br.</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=4></td><td></td></tr><tr><td rowspan=1 colspan=6>Ruschia fredericii (L.Bolus) L.Bolus</td><td rowspan=1 colspan=3>vygiebos SA[A]</td><td rowspan=1 colspan=4>leaves</td><td rowspan=1 colspan=1>decoction</td><td rowspan=1 colspan=5>leaves are chewed to relieve abdominal pain</td></tr><tr><td rowspan=1 colspan=6>Ruschia putterilli (L.Bolus) L.Bolus</td><td rowspan=1 colspan=8>Sebabetsi SA[X]       leaves</td><td rowspan=1 colspan=5>used to treat swollen feet</td><td rowspan=2 colspan=1>Moteetee and vanWyk (2011)</td></tr><tr><td rowspan=2 colspan=6>Ruschia spinosa (L.) Dehn (=Eberlanzia spinosaSchwantes)</td><td rowspan=2 colspan=8>doringvygie SA[A]     aerial parts  leaf decoction</td><td></td><td rowspan=1 colspan=4></td></tr><tr><td rowspan=1 colspan=5>skin infections, treatment for angina</td><td rowspan=1 colspan=1>van Wyk et al. (2008);</td></tr><tr><td rowspan=3 colspan=20>Schwantes)                                                                                                                Iwu (2014)Sceletium emarcidum (Thunb.) L.Bolus        kanna/kougoed SA[A]  leaves      powdered,     used to treat kidney failure and            van Wyk et al. (2008)(=Mesembryanthemum emarcidum Thunb.)                                    juice         inflammation,treatment of Crimean-Congohemorrhagic feverSceletium tortuosum (L.) N.E.Br.(=           kanna/kougoud SA[A] leaves,     powdered,     toothache,narcotic,sedative             Gericke and Viljoen,Mesembryanthemum tortuosum L.)                              whole       juice                                               2008plants</td></tr><tr><td rowspan=2 colspan=6>(=Mesembryanthemum emarcidum Thunb.)Sceletium tortuosum (L.) N.E.Br.(=</td><td rowspan=1 colspan=8> juice</td></tr><tr><td rowspan=1 colspan=8>kanna/kougoud SA[A] leaves,     powdered,</td></tr></table>",
+        "bbox": [
+            67,
+            97,
+            932,
+            911
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(continued on next page) ",
+        "bbox": [
+            813,
+            916,
+            927,
+            928
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/60c7b2890019fc72cbc591fabfa0e04f94e359c83206dfddb4f062b93401a6c0.jpg",
+        "table_caption": [
+            "Table 1 (continued) "
+        ],
+        "table_footnote": [
+            "ENGEiH:ou SP: Spanish. (-): unknown/not stated in publication. aScientific namesincludeacceptedauthorties (atfirstmention)and synonyms (inparentheses)whereavailable. "
+        ],
+        "table_body": "<table><tr><td>Scientific namea</td><td>Vernacular/ traditional name</td><td>Plant part used</td><td>Mode of preparation</td><td>Traditional medicine use</td><td>Reference/s</td></tr><tr><td>Sesuvium portulacastrum (L.) L. (=Portulaca portulacastrum L.)</td><td>sea purslane ENG</td><td>leaves</td><td>=</td><td>treatment for fever,kidney disorders, scurvy,antidote for venomous fish and</td><td>Magwa et al. (2006)</td></tr><tr><td>Stoeberia utilis (L.Bolus) van Jaarsv.</td><td>Gifberg tree-mesemb ENG</td><td>aerial part</td><td></td><td>infections fever, skin infections</td><td>Iwu (2014)</td></tr><tr><td>Tetragonia fruticose L.</td><td>kinkelbossie SA[A]</td><td>leaves</td><td></td><td>leaves are mixed with other plants in a range of different medicinal preparations</td><td>Wheat (2013)</td></tr><tr><td>Tetragonia tetragonoides (Pall.) Kuntze</td><td>kokihi M New Zealand spinach ENG</td><td>whole plant,</td><td>tonic</td><td>ulcer treatment,anti-inflammatory activity, septicemia,and asthma</td><td>Lee and Kang (2014)</td></tr><tr><td>Trianthema decandra L.(=Zaleya decandra (L.) Burm.f.)</td><td>pigweed ENG</td><td>leaves leaves,root</td><td> juice</td><td>analgesic,anti-inflammatory,anti-diabetic; relieves skin disorders; the root is used for the treatment of hepatitis,asthma,and leaf</td><td>Veeresh et al. (2017)</td></tr><tr><td>Trianthema portulacastrum L.</td><td>horsepurslane ENG gadabani H</td><td>whole plant,</td><td>decoction, poultice</td><td>juice for headache analgesic,wound healing,laxative,large doses used as an abortifacient, root applied for corneal ulcers,itching,diminished sight,</td><td>Gaddeyya and Ratna Kumar (2015)</td></tr><tr><td>Zaleya pentandra (L.) C.Jeffrey</td><td>african purslane ENG</td><td>whole plant</td><td>dried and</td><td>and night blindness,useful in rheumatism treats Athlete&#x27;s foot and very septic wounds,</td><td>Afzal et al. (2015)</td></tr><tr><td>(=Trianthema pentandra)</td><td></td><td>roots, leaves</td><td>powdered, decoction</td><td>used as a stringent, treats snake bite and influenza</td><td></td></tr></table>",
+        "bbox": [
+            57,
+            80,
+            941,
+            343
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "steroids,and their related intermediary compounds in the Aizoaceae is concentrated on select species and interspersed throughout the years. Notably,mesembrine alkaloids were earlier isolated from Mesembryathemum spp. (syn.Sceletium spp.) (Smith et al.,1996) with renewed interest in later publications focusing on mesembrine-type alkaloid derivatives such as mesembranol,mesembrenol,and mesembrenone (Harvey et al.， 201l; Krstenansky，2017). Of interest are the chromoalkaloids,betacyanin and betaxanthin (collectively called betalains), which are plant pigments specific to the Caryophyllales and used as synthetic dye replacements.Betanin pigments such as 2-Descarboxy-betanidin and Lampranthin Iand II were isolated from C.acinaciformis and Lampranthus spp.respectively.Noteworthy betalain content was detected in the flowers of Erepsia spp.,Smicrostigma viride N.E.Br., Glottiphylum spp. and Lampranthus productus N.E.Br. (Khan and Giridhar, 2015). Phytochemical evaluation and screening of betalains represents a potential research focus as they are known to exhibit antioxidant,anticancer and anti-inflammatory activity (Gandia-Herrero et al., 2016). While iridoids have yet to be confirmed in the Aizoaceae,a novel, antifungal tetraterpenoid,trianthenol 1 was isolated from the chloroform extract of T. portulacastrum (Nawaz et al., 2Oo1) as well as ecdysterone,a potential chemosterilant (Sukalingam et al., 2017). Phytosterols such as sitosterol and stigmasterol were isolated from the ethanol extract of the aerial part of A. cordifolia.The presence of beta-sitosterol and campesterol in the seed oil of M.forskalii implied its usefulness in attenuating high cholesterol and cardiovascular diseases (Bilel et al., 2O2O) while the isolated steroidal compound, pentandraol, isolated from Zaleya pentandra (L.) C.Jeffrey was implicated in the antibacterial and antioxidant activity of the extract. A novel lignan N-2, 3-dihydroxy-3-(3,4-dihydroxyphenol) tyramine was isolated from the aerial regions of Tetragonia tetragonoides (Pall.) Kuntze, (Choi et al., 2019).Flavonoids including flavones, flavonols, flavanones, chalcones, and proanthocyanidins have been detected in at least 14 genera of the Aizoaceae. Kaempferol $( 3 , 4 ^ { \\prime } , 5 , 7$ -tetrahydroxyflavone) and/or quercetin was commonly isolated in members of Mesembryanthemum,Lithops, Lampranthus, and Conophytum (Iwashina, 2015). Recently,Abuzaid et al. (2020) identified anovel kaempferol derivative, kaempferol-3-O-(2\"-O-βD-glucopyranosyl)- $\\cdot \\boldsymbol { 6 } \\because$ -O-E-feruloyl-βD-glucopyranoside D-glucopyranosyl) $\\cdot { } _ { 6 } \\cdot { } _ { \\cdot }$ -O-E-feruloyl $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ D-glucopyranoside in T. portulaca strum.Proanthocyanidins containing cyanidin were identified in the unripe seeds of Sesuvium portulacastrum (L.) L.,A. glinoides, A. cordifolia and T. tetragonioides (Bittrich and Amaral, 1991). Other specific pharmacological effects of the Aizoaceae are discussed further. ",
+        "bbox": [
+            62,
+            404,
+            484,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            409,
+            936,
+            433
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7.1. Central and nervous system (CNS) ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            450,
+            741,
+            461
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The activity of psychoactive plants can be attributed to phytocompounds involved in sedative or calming,hallucinogenic,and/or stimulatory effects (Alrashedy and Molina, 2O16).Many psychoactive species of Sceletium/Mesembryanthemum are widely recognized for their efficacy against multiple CNS conditions.Perhaps one of the most popular poster plants for the treatment of neurological and psychological disorders,M. tortuosum(S.tortuosum) has been extensively studied for its anxiolytic properties,and usefulness in attenuating cognitive decline (Smith et al., 1996; Gericke and Viljoen, 2008; Patnala and Kanfer, 2013; Krstenansky, 2017; Brendler et al., 2021). The efficacy of the plant extract in both in vitro and in vivo clinical trials has been attributed to its alkaloid content,specifically the phytocompound, mesembrine and related mesembrine derivatives such as mesembrenol, mesembrenone,mesembranol and epimesembranol (Patnala and Kanfer, 2017; Brendler et al., 2O21). These compounds are currently being used in commercially available pharmaceutical preparations for the treatment of anxiety,depression,post-traumatic stress disorder (PTSD) and dementia due to their effectiveness as potent serotonin re-uptake inhibitors in maintaining neurochemical homeostasis (Krstenansky, 2017; Makolo et al., 2019; Brendler et al., 2021). Mesembrine and/or its derivatives are present in related genera of the Aizoaceae including Lampranthus,Bergeranthus,Delosperma,Drosanthemum,Glottiphyllum, Oscularia,and Ruschia,albeit in varying minimal amounts (Smith et al., 1998). ",
+        "bbox": [
+            514,
+            476,
+            937,
+            791
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Serotonergic hallucinogens such as tryptamines and tryptamine derivatives- N，N-dimethyltryptamine (DMT） and 5-MeO-DMT/5- methoxy-N,N-dimethyltryptamine have been shown to induce mood changes,euphoria and provide the user with an altered or distorted view of objects and reality (Schifano et al., 2O16). These compounds have been found to occur at high levels in many Delosperma spp.Studies show that other plants,such as A.cordifolia,Plinthus sericeus Pax and Psilocaulon coriarium N.E.Br (previously known as Psilocaulon absimile N.E.Br, now also known as Mesembryanthemum coriarium) contain appreciable levels of currently unidentified alkaloids which may be of therapeutic value (Said et al., 2019; Smith etal.,1998) and thus serve as a potential ",
+        "bbox": [
+            514,
+            793,
+            937,
+            936
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "avenue of future research. ",
+        "bbox": [
+            62,
+            66,
+            216,
+            78
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Afew studies have highlighted the efficacy of Aizoaceae extracts in treating neurodegenerative diseases such as Alzheimer's.The dichloromethane crude extract and currently unidentified compound GA2 from G.africana inhibited acetylcholinesterase activity (Phungula et al., 2014).Silver nanoparticles synthesized from the aqueous extract of Lampranthus coccineus (Haw.) N.E.Br.(LC) and Malephora lutea (Haw.) Schwantes (ML） showed greater acetylcholinesterase inhibition in comparison to crude aqueous extracts (LC: $0 . 8 2 \\pm 0 . 0 3 \\mathrm { n g / m L }$ vs. 1.23 $\\pm 0 . 0 1 \\mathrm { n g / m L }$ ,ML: $1 . 3 6 \\pm 0 . 0 1 ~ \\mathrm { n g / m L }$ Vs. $1 . 9 5 \\pm 0 . 0 1 ~ \\mathrm { { n g / m L } }$ despite poor activity against the standard drug Rivastigmine $( 0 . 7 9 ~ \\pm ~ 0 . 0 1$ $\\mathrm { n g / m L }$ $\\mathbf { p } < 0 . 0 5 )$ (Youssif etal.,2019).The leaves of C.edulis showed an affinity to treat cognitive impairment due to the AChE- and BuChE-inhibitory activity of their dichloromethane and methanol extracts (Rocha et al., 2O17).However, the fruit peel of C.edulis demonstrated little to no acetylcholinesterase activity (Castaneda-Loaiza etal., 2020). ",
+        "bbox": [
+            62,
+            80,
+            485,
+            288
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7.2. Antimicrobial activity ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            305,
+            215,
+            316
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Many members of the Aizoaceae have been used as part of traditional medicine practices for the treatment of infections and related microbial diseases.This has led to the evaluation of the antimicrobial activity of a select few plants (Table 2).Various conventional methods,such as disc or agar diffusion and microdilution assays have been used for the preliminary screening of plants with potential microbial-inhibitory effects. Whilst most studies indicated broad-spectrum antimicrobial activity, gram-positive bacteria in comparison to gram-negative bacteria, appeared to have greater susceptibility to the bactericidal and inhibitory effects of Aizoaceae plant extracts and oils.This may be attributed to the lipopolysaccharide-enriched outer membrane of Gram-negative bacteria that serve as a permeability barrier to antimicrobial agents.Interestingly,many studies have focused on the identification and isolation of specific compounds or secondary metabolites involved in microbial inhibition.For example,Nawaz et al.(2Ool) isolated an antifungal triterpenoid, Trianthenol 1 fromthechloroform extractof T.portulacastrum. Neubauerova et al.(2O11） isolated low molecular weight peptides from the leaves of T. tetragonioides which demonstrated moderate antimicrobial activity,detected by a $9 \\mathrm { m m }$ and $7 \\mathrm { m m }$ inhibition zone,against Staphylococcus aureus and Pseudomonas aeruginosa, respectively.In a study by Ticha et al. (2015),two compounds,a flavonoid ((S)-5,7-dihydroxy $2 ^ { \\prime }$ -methoxyflavanone） and a chalcone ((E)-2-hydroxy $^ { . 3 ^ { \\prime } , 6 ^ { \\prime } }$ -dimethoxychalcone) were isolated from the leaves of $G .$ 、africana.The latter compound presented a $\\mathbf { M } \\mathbf { I } _ { \\mathbf { \\lambda } } \\mathrm { C _ { 9 9 } }$ of $5 ~ { \\mu \\mathrm { M } }$ against Mycobacterium tuberculosis necessitating further investigation of the chalcone as an effective antimycobacterial compound.In another study evaluating the antituberculotic activity of flavonoids isolated from G. africana leaves by Mativandlela et al. (2Oo9), the synergistic combination of (2S)-5,7,2'-trihydroxyflavanone,isolated from the ethanolic fraction,and an existing antituberculotic drug,isoniazid,reduced the initial minimum inhibitory concentration 16-fold against Mycobacterium tuberculosis.Further studies would be required to fully evaluate the combined effects and potential toxicity of these compounds in in vivo models. ",
+        "bbox": [
+            62,
+            329,
+            484,
+            779
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The use of Carpobrotus spp. (most commonly C. edulisand C.acinaciformis) for the traditional treatment of oral infections,insect bites,and toothache is well documented in southern Africa (Springfield et al.,2003;van Wyk et al., 2008). As a result, there are numerous studies evaluating the antimicrobial activity and efficacy of C.edulis crude extracts and isolated fractions against a range of Gram-positive and Gram-negative microorganisms (van der Watt and Pretorius, 2001; Springfield and Weitz, 2006; Ibtissem et al., 2012). This activity has been attributed to various flavonoids,such as rutin,hyperoside, neohesperidin,catechin and ferulic acid,and tannins isolated from the plant (van der Watt and Pretorius, 2OO1).The crude leaf extracts of Carpobrotus muiri L.Bolus, C.mellei,and Carpobrotus quadrifidus L.Bolus also showed antimicrobial activity against S.aureus and Mycobacterium smegmatis in the disc diffusion assay (Springfield et al., 2Oo3; Springfield and Weitz, 2Oo6). Interestingly, the authors pointed out that C.edulis and C. mellei were morphologically congruent to each other and widespread in the Western Cape region of South Africa.It is surmised that these species may have potentially been utilized interchangeably in traditional medicine preparations.However,Akhalwaya et al. (2018) evaluated the in vitro antimicrobial efficacy of 139 South African medicinal plants and found that the dichloromethane extract of C.edulis showed noteworthy activity for only one out of nine tested oral pathogens (Fusobacterium nucleatum, MIC: $0 . 5 0 \\mathrm { m g / m L }$ . According to existing ethnobotanical literature,traditional healers utilize water and alcohol decoctions derived from the aerial parts and roots of Carpobrotus spp. to treat fungal and HIV-related infections (Otang et al., 2Ol2). However, the aqueous and ethanol extracts were inactive against various strains of Candida spp.and Cryptococcus neoformans in comparison to the antibiotics,Nystatin and Amphotericin B (Springfield et al., 2003; Omoruyi, 2014).Subsequently,C.edulis was disregarded as a hospital and home-care remedy for the treatment of oral candidiasis affecting HIV patients in KwaZulu-Natal, South Africa (Motsei et al., 2Oo3). Moreover, fungal growth was promoted,like that of C.albicans and C.krusei in the aqueous extracts of Lampranthus francisci L.Bolus (Moyo and Mukanganyama,2Ol5).It is important to note that solvent polarity and the extract concentration may affect antifungal activity as herbal practitioners often prescribe remedies in multiple doses,prepared via different methods and which may,or may not contain other plant extracts derived from various plant organs (Omoruyi, 2014). ",
+        "bbox": [
+            62,
+            780,
+            485,
+            936
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            68,
+            937,
+            422
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7.3. Antioxidant activity ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            437,
+            657,
+            448
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Oxidative stress occurs when reactive oxygen species (ROS） production exceeds intrinsic antioxidant mechanisms,resulting in cell damage and degradation of macromolecules,which further leads to chronic and degenerative diseases such as diabetes,cardio-vascular conditions,cancers,and neurodegenerative disorders(Szymanska et al.,2Ol6).Current research trends indicate the effectiveness of exogenous antioxidants,especially plant-derived extracts,or compounds,for free radical scavenging,chelation of transition metals,and inhibition of peroxidation.The in vitro antioxidant activity of some members of the Aizoaceae is outlined in Table 3.Most studies utilized the 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay to determine the antioxidant capacity of selected samples.Whilst no single method can comprehensively describe and evaluate the mechanism of action of antioxidants in vitro,the DPPH assay is useful for the preliminary screening of plants with free radical scavenging capabilities and identification of novel compounds with antioxidant value. ",
+        "bbox": [
+            514,
+            464,
+            937,
+            672
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Oxidative stress is one of the primary mechanisms that facilitates the progression of HIV to AIDS and increases patient susceptibility to opportunistic infections (Kapewangolo et al., 2016). Some members of the Aizoaceae have demonstrated significant antioxidant activity and have been indirectly implicated in reducing the viral load in infected individuals. For example, Omoruyi et al.(2Ol2) identified significant radical scavenging activity in C.edulis extracts (DPPH $\\mathrm { I C } _ { 5 0 }$ of aqueous and ethanolic extract: $0 . 0 1 8 \\mathrm { m g / m L }$ and $0 . 0 1 6 \\mathrm { m g / m L }$ respectively, $\\boldsymbol { \\mathsf { p } } <$ 0.05) thereby supporting the traditional use of the plant in managing HIV and AIDS related infections.The ethanol and ethyl acetate crude extracts of M.tortuosum (S.tortuosum) were found to inhibit HIV-1 enzymes,reverse transcriptase (RT) and protease (PR).Both extracts demonstrated values of $\\mathrm { I C } _ { 5 0 } < 5 0 ~ \\mu \\mathrm { g / m L }$ and $\\mathrm { I C } _ { 5 0 } < 1 0 0 \\mu \\mathrm { g / m L }$ for RT and PR inhibition respectively，suggesting further monitoring of M.tortuosum (S. tortuosum) as a potential therapeutic agent (Kapewangolo et al., 2016). ",
+        "bbox": [
+            514,
+            674,
+            937,
+            883
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Many halophytic members of the Aizoaceae have demonstrated enhanced ROS scavenging as an adaptive mechanism in response to abiotic stresses.Noteworthy examples include M.crystallinum (Agarie et al.,2Oo9) and Trianthema triquetra Willd. ex Spreng (Sharma and ",
+        "bbox": [
+            512,
+            886,
+            936,
+            936
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0feb28ff346c30571f452cdc16dd8b045e9b37c4856a84e12fb1bec3b34f4fe.jpg",
+        "table_caption": [
+            "Table 2 List of studies evaluating the antimicrobial activity of the Aizoaceae. "
+        ],
+        "table_footnote": [
+            "MIC:minimum inhibitory concentration. (-): unknown/not stated in publication. "
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=12>Plant name              Part used  Extraction   Method/assay       Test organisms                Key findings/responses         Reference/ssolvent</td></tr><tr><td rowspan=5 colspan=10>Aizoon canariense L.       aerial      MeOH      agar well diffusion   Pseudomonas syringae pv tomato   Aizoon canariense inhibition zoneparts                   and broth dilution   DC3000                      of 21 mm, MIC: 4.0 mg/mLassayCarpobrotus edulis (L.) N.E.  leaves     water       broth dilution       Escherichia coli,Pseudomonas      S.aureus (MIC 0.4%),Br.                                                               aeruginosa, Staphylococcus ureus   P.aeruginosa (MIC 6.6%)and E.(=Mesembryanthemum                                                                              coli (MIC 1.6%)edule L.)</td><td rowspan=6 colspan=2>Elkhalfi et al.(2013) Ibtissem et al.(2012)Springfield et al.</td></tr><tr><td rowspan=1 colspan=3>and broth dilution   DC3000                      of 21 mm, MIC: 4.0 mg/mLassay</td></tr><tr><td rowspan=1 colspan=1>assaybroth dilution</td><td rowspan=1 colspan=1>Escherichia coli,Pseudomonas</td><td rowspan=1 colspan=1>S.aureus (MIC 0.4%),</td></tr><tr><td rowspan=1 colspan=1>aeruginosa, Staphylococcus ureus</td><td rowspan=1 colspan=1>P.aeruginosa (MIC 6.6%)and E.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>coli (MIC 1.6%)</td></tr><tr><td rowspan=1 colspan=7>Carpobrotus muirii         whole     MeOH</td><td rowspan=1 colspan=1>disc diffusion assay</td><td rowspan=1 colspan=1>S. aureus, P.aeruginosd</td><td rowspan=1 colspan=1>Both Carpobrotus spp.showed</td></tr><tr><td rowspan=2 colspan=7>L.Bolus               plant      MeOH(Mesembryanthemum     whole</td><td rowspan=1 colspan=1>and TLC direct</td><td rowspan=1 colspan=1>Candida albicans,Mycobacterium</td><td rowspan=1 colspan=1>antimicrobial activity against</td><td rowspan=5 colspan=2>(2003) Sharma and Lall</td></tr><tr><td rowspan=1 colspan=1>bioautography</td><td rowspan=1 colspan=1>smegmatis.</td><td rowspan=1 colspan=1>S.aureus and M.smegmatis by</td></tr><tr><td rowspan=5 colspan=7>muirii L. Bolus),         plantCarpobrotus quadrifidusL.BolusGalenia africana L.         leaves     EtOHMesembryanthemum       aerial     MeOH,</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>clear zones of inhibition in both</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=2 colspan=1>methodsMIC of 125 μg/mL against tested</td></tr><tr><td rowspan=1 colspan=6>leaves     EtOH</td><td rowspan=1 colspan=1>broth dilution assay</td><td rowspan=2 colspan=1>Propionibacterium acnes</td></tr><tr><td rowspan=2 colspan=1>disc diffusion and</td><td rowspan=2 colspan=1>Micrococcus luteus, S.aureus,</td><td rowspan=2 colspan=1>Methanol extracts active against</td><td></td><td></td></tr><tr><td rowspan=1 colspan=2>(2014) Doudach et al.</td></tr><tr><td rowspan=5 colspan=7>nodiflorum L.           parts      waterMesembryanthemum       whole     EtOH</td><td rowspan=2 colspan=1>microdilution assay</td><td rowspan=1 colspan=1>Bacillus subtilis,</td><td rowspan=2 colspan=1>all strains except B.subtilus (MIC:3.12-6.25 mg/mL) Poor</td><td rowspan=5 colspan=2>(2013)Mohammed et al.</td></tr><tr><td rowspan=1 colspan=1>Klebsiella pneumoniae,P.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>aeruginosa, E. coli</td><td rowspan=1 colspan=1>antibacterial activity of aqueous</td></tr><tr><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1>extract against all tested bacteria</td></tr><tr><td rowspan=1 colspan=1>agar well diffusion</td><td rowspan=1 colspan=1>S.aureus, B.subtilis,P.aeruginosd,</td><td rowspan=1 colspan=1>Inhibition zone of 27-22 mm</td></tr><tr><td rowspan=6 colspan=7>crystallinum L.          plant</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Salmonella enterica serotype typhi</td><td rowspan=1 colspan=1>against B.subtilis,S.aureus.No</td><td rowspan=1 colspan=2>(2012)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(S.typhi),E.coli, C.lbicans,</td><td rowspan=1 colspan=1>activity against P.aeruginosa or</td><td rowspan=6 colspan=2> Magwa et al.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Aspergillus fumigates,Penicillium</td><td rowspan=1 colspan=1>B.cinerrea.Poor activity of polar</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>italicum, Fusarium solani f.sp.</td><td rowspan=3 colspan=1>extracts</td></tr><tr><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>cucurbitae,Fusarium niveum,</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Botrytis cinerrea</td></tr><tr><td rowspan=1 colspan=7>Sesuvium portulacastrum    leaves     essential oils</td><td rowspan=1 colspan=1>antibacterial: agar</td><td rowspan=1 colspan=1>Acetobacter calcoacetica, B.subillis,</td><td rowspan=1 colspan=1>The oil exhibited antibacterial</td></tr><tr><td rowspan=8 colspan=7>(L.) L. (=Portulacaportulacastrum L.)Sesuvium portulacastrum    aerial     DCM, EtOH,</td><td rowspan=1 colspan=1>well diffusion</td><td rowspan=1 colspan=1>Clostridium sporogenes, Clostridium</td><td rowspan=1 colspan=1>and antifungal activity against</td><td rowspan=1 colspan=2>(2006)</td></tr><tr><td rowspan=1 colspan=1>antifungal:</td><td rowspan=1 colspan=1>perfringens,E.coli, S. typhi,.</td><td rowspan=1 colspan=1>all tested strains</td><td rowspan=7 colspan=2>Al-Azzawi et al.</td></tr><tr><td rowspan=1 colspan=1>mycelium growth</td><td rowspan=1 colspan=1>aureus,Yersinia enterocolitica. C.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>inhibition assay</td><td rowspan=1 colspan=1>albicans,Aspergillus niger,</td><td rowspan=5 colspan=1>Ethanolic extract showed</td></tr><tr><td rowspan=1 colspan=1>Aspergillus flavus,</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Penicillium chrysogenum (previously</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Penicillium notatum)</td></tr><tr><td rowspan=1 colspan=1>agar well diffusion</td><td rowspan=1 colspan=1>S.aureus,E.coli</td></tr><tr><td rowspan=10 colspan=7>(L.)L.(=Portulaca       parts      waterportulacastrum L.)Tetragonia tetragonoides    leaves     MeOH, HX,(Pall.) Kuntze                      DCM,EA,BuOHTrianthema decandra L.     essential(=Zaleya decandra (L.)   oil from</td><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>antimicrobial activity against</td><td rowspan=1 colspan=1>(2012)</td><td rowspan=1 colspan=1></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1>agar well diffusion</td><td rowspan=2 colspan=1>Listeria monocytogenes,M. luteus,</td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>both microorganismsRelatively high antibacterial</td><td rowspan=1 colspan=2>Choi et al. (2008)</td></tr><tr><td rowspan=1 colspan=3>EA，</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Bacillus cereus,K. pneumoniae,</td><td rowspan=1 colspan=1>activity against most of the</td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=2 colspan=5>BuOH</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Proteus mirabilis,Proteus vulgaris</td><td rowspan=1 colspan=1>tested bacteria with inhibition</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>and Shigella sonnei</td><td rowspan=1 colspan=1>zones (9.0-15.4 mm) MIC values</td><td rowspan=3 colspan=2>Geethalakshmi</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>for active fractions were 15.63-1000 μg/mL</td></tr><tr><td rowspan=1 colspan=1>disc diffusion and</td><td rowspan=1 colspan=1>S.aureus, Streptococcus faecalis,</td><td rowspan=1 colspan=1>MIC of essential oil against all</td></tr><tr><td rowspan=1 colspan=1>broth dilution assay</td><td rowspan=1 colspan=1>Enterococcus faecalis,E.coli, P.</td><td rowspan=1 colspan=1>microbial strains ranged</td><td rowspan=1 colspan=2> and Sarada</td></tr><tr><td rowspan=5 colspan=7>Burm.f.)               leavesTrianthema decandra L.     whole</td><td rowspan=1 colspan=1>leaves</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>aeruginosa,S.typhi, Vibrio cholera,</td><td rowspan=1 colspan=2>between 625 and 1250 ug/mL</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>P.vulgaris,B.subtilis,Y.</td><td rowspan=3 colspan=1></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>enterocolitica, C.albicans,</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Cryptococcus neoformans</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>agar well diffusion</td><td rowspan=1 colspan=1>B.subtilis,S.aureus,E.coli,P.</td><td rowspan=1 colspan=1>Ethyl acetate extract showed</td><td></td><td></td></tr><tr><td rowspan=18 colspan=10>(=Zaleya decandra (L.)   plant                                       aeruginosa,E.aerogenes,Raoultella  potent activity against all testBurm.f.)                                                           planticola, C.albicans,A.niger,A.  strains with an MIC 125 μg/mLflavus,Trichophyton rubrum,P.     in all caseschrysogenumTrianthema decandra L.     leaves                  disc diffusion assay   E.faecalis,S.aureus,S.faecalis,E.  Potent activity of isolated(=Zaleya decandra (L.)                                                coli, P.aeruginosa, S. typh, V.      compounds against all the testedBurm.f.)                                                           cholera,P.vulgaris,B.subtilis,Y.    microorganismsenterocoliticaTrianthema portulacastrum  whole     EtOH       disc diffusion assay   E.coli, Vibrio harveyi, S.aureus and Notable activity against all fourL                    plant                                       B. cereus                      strains of bacteria compared tothe aqueous extract, withB.cereus noted as mostsusceptible (12 mm zone ofinhibition)Zaleya pentandra (L.) C.    whole                  agar well diffusion   E.coli, S.tyi, cillus siz,.  S.typhi, with zone of inhibitionJeffrey               plant                   assay              aureus,Staphylococcus epidermidis  13 mm and 1l mm at(=Trianthema pentandra)                                                                            concentration 3 mg/10o μL and1.5 mg/100 μL,respectively.S.aureus with zone of inhibition17.5 mm at concentration 3 mg/</td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>planticola, C.albicans,A.niger,A.</td><td rowspan=1 colspan=1>strains with an MIC 125 μg/mL</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>flavus,Trichophyton rubrum,P.</td><td rowspan=1 colspan=1>in all cases</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>chrysogenum</td><td></td><td></td></tr><tr><td rowspan=2 colspan=1>disc diffusion assay</td><td rowspan=2 colspan=1>E.faecalis,S.aureus,S.faecalis,E.</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>Potent activity of isolated</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>coli, P.aeruginosa, S. typh, V.</td><td rowspan=1 colspan=1>compounds against all the tested</td><td rowspan=2 colspan=2>and Sarada(2018)</td></tr><tr><td rowspan=1 colspan=1>cholera,P.vulgaris,B.subtilis,Y.</td><td rowspan=1 colspan=1>microorganisms</td></tr><tr><td rowspan=1 colspan=1>enterocolitica</td><td></td><td></td></tr><tr><td rowspan=2 colspan=1>E.coli, Vibrio harveyi, S.aureus and</td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>Notable activity against all four</td><td rowspan=1 colspan=2>Vohora et al.</td></tr><tr><td rowspan=1 colspan=1>B. cereus</td><td rowspan=1 colspan=1>strains of bacteria compared to</td><td rowspan=5 colspan=2>(1983)Afzal et al.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>the aqueous extract, with</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>B.cereus noted as most</td></tr><tr><td rowspan=1 colspan=1>susceptible (12 mm zone ofinhibition)</td></tr><tr><td rowspan=1 colspan=3>agar well diffusion</td><td rowspan=1 colspan=1>E.coli, S.tyi, cillus siz,.</td><td rowspan=1 colspan=1>S.typhi, with zone of inhibition</td></tr><tr><td rowspan=1 colspan=1>aureus,Staphylococcus epidermidis</td><td rowspan=1 colspan=1>13 mm and 1l mm at</td><td rowspan=2 colspan=2>(2016)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>concentration 3 mg/10o μL and1.5 mg/100 μL,respectively.</td></tr></table>",
+        "bbox": [
+            67,
+            98,
+            941,
+            895
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/211d7bb564a184d0992431527871652ac01bea9e0bb4dc41039af63e80705ac5.jpg",
+        "table_caption": [
+            "Table 3 Studies evaluating antioxidant activity and free radical scavenging capability of the Aizoaceae. "
+        ],
+        "table_footnote": [
+            "DPPH:2,2-diphenyl-1-picrylhydrazyl. ABTS: $^ { 2 , 2 ^ { \\prime } }$ -azino-bis (3-ethylbenzothiazoline-6-sulphonic acid). MeOH: Methanolic extract, EtOH: Ethanol extract,EA: Ethyl Acetate,PE: Petroleum ether. (-): unknown/not stated in publication. a Plant names include accepted authorities (at first mention)and synonyms (in parentheses)where availal "
+        ],
+        "table_body": "<table><tr><td rowspan=2 colspan=18>Plant namea                     Plant part   Solvent used for  Antioxidant assay         Results                                  referencetested/used extraction</td><td></td></tr><tr><td rowspan=2 colspan=1></td></tr><tr><td rowspan=4 colspan=18>Aizoon canariense L.               whole plant MeOH           FRAP,DPPH and ABTS     DPPH: IC5o = 66.56 mg/mL; poor activity and not  Al-Laith et al.significantly different from other tested species   (2019)(p &gt; 0.05)Aizoon hispanicum L.              aerial parts  MeOH          DPPH                   IC50 = 292.3 μg/mL                        Khettaf et al.(2016)Carpobrotus dimidiatus             leaves      MeOH, water     DPPH                  MeOH extract: IC5o value of 240 μg/mL and water  HurinanthanL.Bolus (=Mesembryanthemum                                                           extract had an IC5o value of 1125 μg/mL        (2009)</td></tr><tr><td rowspan=1 colspan=11>significantly different from other tested species   (2019)(p &gt; 0.05)MeOH          DPPH                   IC50 = 292.3 μg/mL                        Khettaf et al.</td><td rowspan=13 colspan=1></td></tr><tr><td rowspan=8 colspan=10>leaves      MeOH, water     DPPHL.Bolus (=Mesembryanthemumleaves      Water extract     DPPH(=Mesembryanthemum edule L.)aerial parts  MeOH          DPPH, ABTS, Beta</td><td rowspan=1 colspan=5>DPPH                  MeOH extract: IC5o value of 240 μg/mL and water</td><td rowspan=1 colspan=3>(2016)Hurinanthan</td></tr><tr><td rowspan=1 colspan=1>extract had an IC5o value of 1125 μg/mL</td><td rowspan=2 colspan=4>(2009)</td></tr><tr><td rowspan=1 colspan=4>dimidiatum)</td><td></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=2 colspan=3>Carpobrotus edulis (L.) N.E.Br.</td><td rowspan=3 colspan=2>94.6% DPPH inhibition at 2 mg/mL</td><td></td><td rowspan=2 colspan=3>Ibtissem et al.</td></tr><tr><td rowspan=2 colspan=4>leavesaerial parts</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=3 colspan=2>Carpobrotus edulis (L.) N.E.Br.</td><td rowspan=3 colspan=4>(=Mesembryanthemum edule L.)Carpobrotus edulis (L.) N.E.Br.</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=2 colspan=4>aerial parts</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=3>IC5o Value of 29.8 μg/mL for MeOH extract</td><td rowspan=1 colspan=3>(2012)Hanen et al.</td></tr><tr><td rowspan=3 colspan=5>(=Mesembryanthemum edule L.)</td><td rowspan=1 colspan=4>themumeduleL.）</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>carotene-linoleic bleaching</td><td rowspan=1 colspan=3>against DPPH.IC5o Value of 431.76 μg/mL for</td><td rowspan=1 colspan=3>(2009)</td></tr><tr><td rowspan=2 colspan=3></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>and superoxide anion assay</td><td rowspan=1 colspan=3>antiradical activity against ABTS synthetic</td><td rowspan=2 colspan=3></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=3>radical,compared to 355 μg/mL for BHT</td></tr><tr><td rowspan=1 colspan=5>Galenia africana L.</td><td rowspan=1 colspan=3>leaves,</td><td rowspan=1 colspan=2>EtOH</td><td rowspan=1 colspan=2>DPPH</td><td rowspan=1 colspan=3>EC5o value of 90.92 μg/mL</td><td rowspan=1 colspan=3>Sharma and Lall</td></tr><tr><td rowspan=3 colspan=5>Mesembryanthemum crystallinum L.</td><td rowspan=1 colspan=3>root, bark,</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=3></td><td rowspan=3 colspan=3>(2014)Ibtissem et al.</td><td rowspan=3 colspan=1></td></tr><tr><td rowspan=1 colspan=3>and twigs</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=3>leaves</td><td rowspan=1 colspan=2>Water extract</td><td rowspan=1 colspan=2>DPPH</td><td rowspan=2 colspan=3>75.5% DPPH inhibition at 2 mg/mL</td></tr><tr><td rowspan=3 colspan=8>Mesembryanthemum crystallinum L.   aerial parts</td><td rowspan=3 colspan=2>MeOH</td><td rowspan=3 colspan=2>DPPH,ABTS,β carotene-</td><td rowspan=3 colspan=3>DPPH activity: IC5o = 160 μg/mL</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=2 colspan=3> Hanen et al.</td><td></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=6 colspan=10>Mesembryanthemum nodiflorum L.    aerial parts  MeOH</td><td rowspan=1 colspan=2>linoleic bleaching,iron</td><td rowspan=2 colspan=3>Iron chelating activity with EC5o value of 2.13mg/mL</td><td rowspan=4 colspan=4>Iron chelating activity with EC5o value of 2.13    (2009)mg/mLDPPH: IC50 =112.5 μg/mL                   Hanen et al.</td></tr><tr><td rowspan=1 colspan=4></td><td rowspan=1 colspan=2>chelating and superoxide</td></tr><tr><td rowspan=1 colspan=2>anion assay</td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=2>DPPH,ABTS,β carotene-</td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>linoleic bleaching and</td><td rowspan=3 colspan=7>(2009)Radical scavenging activity (%) decreased in the  Abdel-Farid et al.</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>superoxide anion assay</td></tr><tr><td rowspan=1 colspan=8>Opophytum forsskalii (Hochst. ex     shoots,</td><td rowspan=1 colspan=2>MeOH</td><td rowspan=1 colspan=2>DPPH</td></tr><tr><td rowspan=1 colspan=8>Boiss.) N.E.Br.                 seeds, fruit</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=3 colspan=7>order,shoots (14%),seed (10%)and fruit (2%)at  (2016)400 μg/mlIC5o Values of the EtOH and EA extracts were 49  Kapewangolo</td></tr><tr><td rowspan=1 colspan=8>(=Mesembryanthemum forskahlii)</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=3>400 μg/ml</td></tr><tr><td rowspan=1 colspan=8>Sceletium tortuosum (L.) N.E.Br. (=   not stated</td><td rowspan=1 colspan=2>EA,EtOH</td><td rowspan=1 colspan=2>DPPH</td></tr><tr><td rowspan=1 colspan=5>Mesembryanthemum tortuosum L.)</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=7>μg/ml and 64.7 μg/mL respectively            et al. (2016)</td></tr><tr><td rowspan=1 colspan=5>Sesuvium portulacastrum (L.) L.</td><td rowspan=1 colspan=3>leaves</td><td rowspan=1 colspan=2>PE,MeOH, EtOH,</td><td rowspan=1 colspan=2>DPPH, superoxide anion,</td><td rowspan=6 colspan=7>IC5o value of MeOH extract in DPPH assay was   Paulpriya et al.31.53 μg/mL.                             (2013)Hydroxyl superoxide: IC5o value of MeOH extractwas 19.17 μg/mL.Potent scavenging activity ofmethanolic extract (94.70%) in ABTS assay,compared to the standard Trolox (70.29%)EtOH extract showed highest activity (DPPH     Geethalakshmi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=2>EA, Benzene</td><td rowspan=1 colspan=2>ABTS radical scavenging</td><td rowspan=1 colspan=2>31.53 μg/mL.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=2>and reducing power assay</td><td rowspan=1 colspan=1>Hydroxyl superoxide: IC5o value of MeOH extract</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>was 19.17 μg/mL.Potent scavenging activity of</td><td rowspan=1 colspan=2>Geethalakshmi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>methanolic extract (94.70%) in ABTS assay,compared to the standard Trolox (70.29%)</td><td rowspan=1 colspan=1></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=2>EtOH extract showed highest activity (DPPH</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=4>inhibition) of 46.9% at100 μg/mL73% radical scavenging at concentration 161 μL/</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=2></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            55,
+            131,
+            952,
+            624
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ramawat,2O14） which exhibited increased antioxidant activity in response to elevated levels of NaCl.In addition,there was a corresponding increase in the production of polyols and phenolic compounds, which are recognized as osmoregulants and potent natural antioxidants respectively (Agarie et al., 2Oo9).Phenolic compounds are significant contributors to the radical scavenging capability in many Aizoaceae species.For example,high levels of polyphenolics in M.crystallinumand M. nodiflorum extracts correlated to greater antioxidant activity (Hanen et al., 2Oo9). Similar results were obtained with C.edulis (Omoruyi et al., 2012) and C. rossi (Geraghty et al., 2011). ",
+        "bbox": [
+            62,
+            701,
+            485,
+            831
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition to biological and environmental factors,the choice of solvents for chemical extraction affects phenolic content and antioxidantactivity.For instance,the methanolic extract ofM.edule (C.edulis) contained higherlevels of polyphenols than the ethanolic extract (Ksouri et al.,2Oo8).Whilst there are a plethora of preliminary studies assessing the invitro antioxidant activity of Aizoaceae extracts,few,if any, have evaluated the in vivo effects.Consideration must be given to the fact that significant in vitro antioxidant activity does not necessarily pre-empt in ",
+        "bbox": [
+            62,
+            832,
+            485,
+            936
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "vivo activity. ",
+        "bbox": [
+            514,
+            701,
+            588,
+            712
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.4. Cosmetic use ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            727,
+            616,
+            738
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Traditional methods have seen the incorporation of plant extracts into poultices,lotions,and topical ointments for the treatment of a variety of skin ailments including aging,inflammation,and pigmentation (Mabona and van Vuuren, 2O13).Moreover, the cosmetic industry has seen a shift in consumer demand toward more eco-friendly and natural treatments,with many recent skin care products being supplemented with plant extracts (Lall and Kishore, 2Ol4).Members of the Aizoaceae that display wound-healing,anti-inflammatory,antioxidant,antimicrobial,antimutagenic and anti-aging properties,can be used to alleviate the effects of various skin conditions (De Beer and van Wyk, 2011; Martins et al., 2O11). For example, C. edulis,used traditionally as an antiseptic and astringent against itching,insect bites and wounds has shown to exhibit antioxidant and antibacterial activity (Falleh et al., 2012; Ibtissem et al.,2Ol2). This served as the basis of its use in a commercial patent as a cosmetic agent to enhance skin brightness and texture (Laperdrix et al., 2013). Kim et al. (2017) related the use of M.crystallinum alcohol extracts to delays in skin cell aging and enhanced skin whitening.Additionally,ferulic acid isolated from T.tetragonioides, has been evaluated for its whitening effect and anti-wrinkle activity on mouse melanoma cell lines and human dermal fibroblast cell lines respectively (Park et al., 2018). ",
+        "bbox": [
+            514,
+            754,
+            937,
+            936
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            66,
+            485,
+            156
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Of interest was the detection of gamma linolenic acid (GLA),a fatty acid found primarily in seed oils,at appreciable levels in the leaves of A.canariense (Freije etal., 2O13). Gamma linolenic acid is widely used as a homeopathic remedy for inflammatory skin conditions such as psoriasis and eczema.Additionally,the appreciable inhibitory effect of M.forskahlii seed oil extract on P.chysogenum and A. fumigatus underpinned its usefulness for the treatment of fungal infections of the scalp and hair (Bilel et al.,2O2O).The increasing prevalence of botanical derived skin care products requires further scientific and clinical exploration.Health and safety implications should be a significant consideration when evaluating the in vitro and in vivo efficacy of plant extracts on dermatological conditions. ",
+        "bbox": [
+            62,
+            158,
+            485,
+            315
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.5.Cytotoxicity/anti-cancer agents ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            331,
+            268,
+            343
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Due to the high incidence and aggressive nature of many cancers globally,it has become imperative to evaluate plants and naturally derived products to ameliorate current cancer strategies.There is growing evidence of the use of plant-derived compounds for adjuvant treatment during chemo- and radio-therapy as well as for their antimutagenic and antitumorigenic activity.The anti-cancer potential of the ethanolic and chloroform fractions of T.portulacastrum was evaluated in n-diethylnitrosoamine(DENA)-inducedrathepatocarcinogenesis (Bhattacharya and Chatterjee, 1999) and 7,12-dimethylbenz(a)anthracene (DMBA)-induced rat mammary tumorigenesis models (Mandal and Bishayee,2Ol5).In the earlier study,a marked reduction in the size and distribution of nodules and liver focal lesions was observed,with no apparent toxic side-effects.T.portulacastrum suppressed (DMBA)-initiated mammary tumor incidence without any toxicity due to the regulation of NF- $\\mathbf { \\kappa B }$ and Nrf2 signaling pathways involved in inflammation responses. ",
+        "bbox": [
+            62,
+            358,
+            485,
+            567
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Efflux pumps, such as P-glycoprotein are known to confer multidrug resistance to cancer by extruding chemotherapy drugs as well as other drugs to which cancers have become refractory (resistant).Currently, compounds used to block these efflux pumps are toxic at active levels and may lead to increased cancer risk overall.However,a study conducted by Martins et al.(2O1O) demonstrated the antiproliferative activity of the chloroform and ethyl acetate soluble fractions from C.edulis on mouse lymphoma cell lines.All isolated compounds,especially Uvaol,were effective in the reversal of multidrug resistance in cancer and displayed no toxicity at concentrations evaluated in the study. Whilst this basic study supports the potential use of plant derived compounds to indirectly supplement anti-cancer therapies,much research is required to evaluate the chemo-preventative efficacy of such compounds in humans. ",
+        "bbox": [
+            62,
+            568,
+            485,
+            751
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Other members of the Aizoaceae that have demonstrated promising anti-carcinogenic and immunomodulatory effects include Z. pentandra (Mughal et al., 202O) and Trianthema decandra L. (Gajjala et al., 2019) extracts against breast adenocarcinoma cell line MCF-7， and M.crystallinum against HCT116 human colon cancer cells (Seo and Ju, 2019).The cytotoxic potential of T.portulacastrum and A.canariense fractions against human hepatocellular carcinoma (HepG2) cell lines was evaluated by Abuzaid et al. (202O),with noteworthy cytotoxic activity of the n-hexane and n-butanol extracts of A.canariense $( 2 4 . 7 \\pm 3 . 5 $ and $5 5 . 3 \\pm 4 . 9 \\mu \\mathrm { g / m L }$ ,respectively). Conversely,M. nodiflorum did not exhibit any significant cytotoxic activity on breast cancer (MCF7) and cervix adenocarcinoma (HeLa） cells,at concentrations ranging from 31.25 to $1 0 0 0 ~ { \\mu \\mathrm { g / m L } }$ $( \\mathbf { p } > 0 . 0 5 )$ (Doudach et al., 2013). Furthermore, mesembrenone isolated from M.tortuosum (S.tortuosum）and cannabidiol from Cannabis sativa were tested for their anti-cancer activity against three breast cancer cell lines,MCFl2A，MCF7 and MDA-MB-231. Unfortunately, not only did mesembrenone show insignificant activity against the three cancer cell lines in comparison to cannabidiol,but it also demonstrated high levels of toxicity in healthy breast cells at all tested concentrations,which could not be alleviated by co-treatment with cannabidiol (Tunstall, 2019). ",
+        "bbox": [
+            62,
+            754,
+            485,
+            936
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            66,
+            937,
+            156
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.6. Other pharmacological activities ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            171,
+            726,
+            184
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Moawad et al. (2O2O） evaluated the acaricidal activity of T.portulacastrum L.and A.canariense against Rhipicephalus annulatus tick using adult and larval immersion tests at increasing concentrations. While the crude hydroalcoholic extract of T. portulacastrum demonstrated $1 0 0 \\%$ adult and larval mortality,A.canariense did not show appreciable acaricidal effects ( ${ < } 2 5 \\%$ adult and larval mortality, $\\boldsymbol { \\mathrm { ~ p ~ } } _ { \\geq }$ 0.05).The anthelminthic activity of the aqueous methanolic extract of T.decandra Linn.against female Haemonchus contortus and their eggs was assessed by Hussain et al. (2O11). Significant anthelmintic activity $( \\mathtt { p } < 0 . 0 5 )$ on live worms as well as egg hatching was noted. ",
+        "bbox": [
+            514,
+            199,
+            937,
+            329
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Various ethanolic extracts of M. tortuosum (S. tortuosum) were evaluated for their anti-malarial activity and three extracts demonstrated potent in vitro anti-malarial activity against a chloroquine-sensitive Plasmodium falciparum strain (Setshedi et al.,2Ol2). The methanol extract of T. portulacastrum and Zaleya decandra (L.) Burm.f.roots produced dose-dependent hypoglycemic,hypolipidemic, andantihyperglycemic activity in alloxan-induced diabetic rats,which was comparable to a standard oral hypoglycemic agent,glibenclamide (Anreddy et al., 2010; Meenakshi et al., 2010). ",
+        "bbox": [
+            514,
+            330,
+            937,
+            447
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8.Conclusion and future research ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            462,
+            736,
+            474
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The present review evaluated the traditional uses and pharmacological activities of representative members of the Aizoaceae.Most species are used as ornamentals and form part of specialist succulent collections.The traditional uses of popular genera such as Mesembryanthemum, Sesuvium,Trianthema and Carpobrotus are well documented in South African and Indian traditional medicine systems for their antidepressant,anxiolytic,antimicrobial,anti-inflammatory,and antioxidant effects.However,few scientific studies have comprehensively validated their clinical efcacy or safety.Lesser-known genera like Ruschia, Lithops and Delosperma have been used in traditional medicine, especially in the southern Africa region,without any significant scientific validation of therapeutic activity.Hence,isolation and chemical characterization of therapeutic compounds of interest are a potential research focus for further studies.It was noted that the taxonomic discrepancies within the family add to existing confusion regarding species delimitation and reliable evaluation of most taxa.For this reason,evidence of biological activity based on species relatedness should be carefully reviewed.Moreover,incorrect and/or duplicated species nomenclature,and morphological changes which have contributed to the taxonomic irregularities within the Aizoaceae may be resolved by future studies focusing on genomic analyses and chemotaxonomic markers.It is apparent that the findings of most studies on the Aizoaceae are inconsistent and cannot be used to make accurate conclusions regarding the family.Moreover,a sparse number of publications in recent years have comprehensively addressed the ethnobotany,pharmacognosy and chemical constituents of the hyperdiverse Aizoaceae, thus these focus areas are worthy of further investigation. ",
+        "bbox": [
+            514,
+            490,
+            937,
+            843
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            858,
+            566,
+            870
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by funding received from the National Research Foundation, South Africa. ",
+        "bbox": [
+            514,
+            885,
+            936,
+            909
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CRediT authorship contribution statement ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            66,
+            334,
+            79
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "B.Kalicharan: Conceptualization, Investigation,Writing-original draft.Y.Naidoo: Supervision,Writing-review & editing.J.van Staden: Supervision, Writing -review & editing. ",
+        "bbox": [
+            60,
+            93,
+            484,
+            131
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Declaration of competing interest ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            160,
+            278,
+            171
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that there is no conflict of interest. ",
+        "bbox": [
+            84,
+            185,
+            411,
+            197
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Data availability ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            211,
+            168,
+            224
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Data will be made available on request. ",
+        "bbox": [
+            82,
+            238,
+            317,
+            250
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            268,
+            131,
+            279
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abdel-Farid, I.B., Mahalel, U.A., Jahangir,M., Elgebaly, H.A., El-Naggar, S.A., 2016. Metabolomic profiling and antioxidant activity of Opophytum forsskalii. Aljouf Sci. Eng. J286, 1-6.   \nAbuzaid,H.,Amin,E.,Moawad,A.,Abdelmohsen, U.R.,Hetta,M., Mohammed,R.,2020. Liquid chromatography high-resolution mass spectrometry analysis,phytochemical and biological study of two Aizoaceae plants:a new kaempferol derivative from Trianthema portulacastrum L.Pharmacogn. Res.12, 212.https://doi.org/10.4103/pr. pr_119_19.   \nAdam,M.,Elhassan, G.O.,Yagi, S., Senol, F.S.,Orhan,IE.,Ahmed,A.A.,Efferth,T., 2018.In vitro antioxidant and cytotoxic activities of 18 plants from the Erkowit Region, Eastern Sudan.Nat.Products Bioprospect 8, 97-1o5.https://doi.org/ 10.1007/s13659-018-0155-0.   \nAfzal, S., Chaudhary, B.A., Ahmad, A., Afzali, K., 2015. Prelimiary phytochemical analysis and antifungal activities of crude extracts of Zaleya pentandra and Corchorus depressus linn. Acta Pol. Pharm. 72, 329-334.   \nAfzal, S., Chaudhry, B.A., Saeed, J.,Afzal, K., Ahmed, B., Qadir, M.I.,2016. Antibacterial and antioxidant activity of methanolic extract of Zaleya pentandra. Acta Pol. Pharm. 73, 147-151.   \nAgarie,S.,Kawaguchi,A.,Kodera,A.,Sunagawa,H.,Kojima,H.,Nose,A.,Nakahara,T., 2009.Potential of the common ice plant,Mesembryanthemum crystallinum as a new high-functional food as evaluated by polyol accumulation.Plant Prod. Sci. 12, 37-46. https://doi.org/10.1626/pps.12.37.   \nAkhalwaya,S.,van Vuuren,S.,Patel, M.,2O18.An in vitro investigation of indigenous South African medicinal plants used to treat oral infections.J. Ethnopharmacol. 210, 359-371. https://doi.org/10.1016/j.jep.2017.09.002.   \nAkinyede,K.A.,Ekpo, O.E., Oguntibeju, O.O.,2020.Ethnopharmacology, therapeutic properties and nutritional potentials of Carpobrotus edulis: a comprehensive review. Sci.Pharm.88,39.https://doi.org/10.3390/scipharm88030039.   \nAl-Azzawi,A.,Alguboori,A.,Hachim,M.Y.,Najat, M.,Al Shaimaa,A., Sad,M.,2012. Preliminary phytochemical and antibacterial screening of Sesuvium portulacastrum in the United Arab Emirates.Pharmacogn.Res.4, 219-224.https://doi.org/10.4103/ 0974-8490.102269.   \nAl-Laith,A.A.,Alkhuzai,J.,Freije,A.,2O19.Assessment of antioxidant activities of three wild medicinal plants from Bahrain. Arab.J.Chem.12, 2365-2371.https://doi.org/ 10.1016/j.arabjc.2015.03.004.   \nAlrashedy, N.A., Molina,J.,2Ol6. The ethnobotany of psychoactive plant use: a phylogenetic perspective. PeerJ 4, e2546. https://doi.org/10.7717/peerj.2546.   \nAndrade, J.M.,Lucero Mosquera,H.,Armijos, C.,2o17.Ethnobotany of indigenous saraguros: medicinal plants used by community healers \"hampiyachakkuna\" in the San Lucas Parish,Southern Ecuador. BioMed Res.Int. 9343724 https://doi.org/ 10.1155/2017/9343724.   \nAnreddy, R.N.R.,Porika, M., Yell, N.R., Devarakonda, R.K., 201o. Hypoglycemic and hypolipidemic activities of Trianthema portulacastrum Linn. plant in normal and alloxan induced diabetic rats. Int. J. Pharmacol. 6, 129-133.   \nBhattacharya, S., Chatterjee, M.,1999. Inhibitory efect of Trianthema portulacastrum L. diethylnitroso-amine-induced phenobarbital promoted hepatocarcinogenesis. Neoplasma 46, 105-111.   \nBhowmik,R.,Saha,M.R.,Rahman,M.A.,Islam,M.A.U.,2014.Ethnomedicinal survey of plants in the southern district noakhali, Bangladesh. Bangladesh Pharm.J.17, 205-214. https://doi.org/10.3329/bpj.v17i2.22342.   \nBilel,H.,Elsherif,M.A.,Moustafa, S.M.N.,202o.Seeds oil extract of Mesembryanthemum forskali from Aljouf,Saudi Arabia: chemical composition,DPPH radical scavenging and antifungal activities. OCL- Oilseeds & Fats Crops and Lipids 27,10.https://doi. org/10.1051/ocl/2020005.   \nBittrich, V., Hartmann, H.E.,1988.The Aizoaceae—a new approach.Bot.J.Linn. Soc. 97, 239-254. https://doi.0rg/10.1111/j.1095-8339.1988.tb01581.x.   \nBitrich, $\\mathrm { V } _ { \\cdot s }$ Amaral, M.D.C.E., 1991. Proanthocyanidins in the testa of centrospermous seeds. Biochem. Systemat. Ecol. 19, 319-321.   \nBotha, C.J.,Penrith,M.L.,2oo8.Poisonous plants of veterinary and human importance in southern Africa. J. Ethnopharmacol.119,549-558.https://doi.org/10.1016/j. jep.2008.07.022.   \nBrendler,T.,Brinckmann, J.A.,Feiter,U.,Gericke,N.,Lang,L.,Pozharitskaya,O.N., Shikov,A.N.,Smith, M.,van Wyk,B.-E.,2021. Sceletium for managing anxiety, denreccinn and rnonitive imnairment'a traditinnal herhal medirine in mndern-dav regulatory systems.Curr. Neuropharmacol. 19,1384-1400.https://doi.org/ 10.2174/1570159X19666210215124737.   \nBreyer-Brandwijk, M.G., Watt, J.M., 1962. The Medicinal and Poisonous Plants of Southern and Eastern Africa, second ed. E.and S. Livingstone Ltd., Edinburgh.   \nBroomhead,N.K.,Moodley,R.,Jonnalagadda, S.B., 2019. Chemical and elemental analysis of the edible fruit of five Carpobrotus species from South Africa: assessment of nutritional value and potential metal toxicity.Int. J.Environ.Health Res. 30, 357-371. https://doi.0rg/10.1080/09603123.2019.1595539.   \nBurgoyne, P.,20o5. Delosperma N.E.Br.. Retrieved from. htp://pza.sanbi.org/delos perma. (Accessed 14 October 2020).   \nBurrows, G.E., Tyrl, R.J., 2013. Toxic Plants of North America. John Wiley & Sons.   \nBurton,E., 20l2. Uses of some common native species-abeginner's guide to ethnobotany. Wellington Bot. Soc. Bull. 54, 9-17.   \nBussmann, R.W., Glenn, A., Sharon, D., 201o. Healing the body and soul: traditional remedies for magical ailments, nervous system,and psychosomatic disorders in Northern Peru. Afr. J. Pharm. Pharmacol 4, 580-629.   \nCastaneda-Loaiza,V.,Placines, C.,Rodrigues,M.J., Guerreiro Pereira,C., Zengin,G., Uysal,A.,Jeko,J., Cziaky,Z.,Reis,C.,Gaspar,M., Custódio,L.,202o.If you cannot beat them, join them: exploring the fruits of the invasive species Carpobrotus edulis (L.) N.E.Br as a source of bioactive products.Ind.Crop.Prod.144,1l20o5 https:// doi.org/10.1016/j.indcrop.2019.112005.   \nChoi,H.S.,Cho,J.Y.,Kim,S.J.,Ham,K.S.,Moon, J.H.,2019.New lignan tyramide, phenolics,megastigmanes,and their glucosides from aerial parts of New Zealand spinach, Tetragonia tetragonoides.Food Sci. Biotechnol. 29,599-608.https://doi. org/10.1007/s10068-019-00700-x.   \nChoi,H.J.,Park, M.R.,Kang,J.S.,Choi, Y.W.,Jeong,Y.K.,Joo,W.H,2008. Antimicrobial activity of four solvent fractions of Tetragonia tetragonioides. Cancer Prev. Res. (Phila.) 13, 205-211.   \nDe Beer,J.J.J., van Wyk, B.-E.,2Ol1.An ethnobotanical survey of the agter-hantam, northern Cape province, South Africa.South Afr. J. Bot.77,741-754. https://doi. org/10.1016/j.sajb.2011.03.013.   \nDold,A.P.,Hammer,S.A.,Barker,N.P.,2oo5.Leaves of grass: a taxonomic revision of the genus Bergeranthus (Aizoaceae). Haseltonia 11,78-97. htps://doi.org/10.2985/ 1070-0048 (2005)11[78:LOGATR]2.0.CO;2.   \nDoudach, L., Meddah, B., Alnamer, R., Faouzi, M., Chibani, F., Abdelhakim, E., Cherah, Y.,2013.In vitroantibacterial potential activityof themethanolic and aqueous extracts of Corrigiola telephiifolia pourr. and Mesembryanthemum nodiflorum. J. Biol. Act. Prod. Nat. 2, 284-291,   \nElkhalfi,B.,sari,A.,rr,A,oukri,A..Antbaerlaciityft methanolic extracts on a field isolate of Pseudomonas syringae p.v tomato from the Casablanca region (Morocco).Adv. Biosci. Biotechnol. 4,1-9. https://doi.org/ 10.4236/abb.2013.47A2001.   \nEmboden, W.A., 1972. Narcotic Plants. Macmillan, New York.   \nFalleh,H., Ksouri,R., Lucchessi, M.E.,Abdelly,C., Magné,C., 2ol2. Ultrasound-assisted extraction: efect of extraction time and solvent power on the levels of polyphenols and antioxidant activity of Mesembryanthemum edule L.Aizoaceae shoots.Trop.J. Pharmaceut. Res.11, 243-249. https://doi.org/10.4314/tjpr.v11i2.10.   \nFenollosa,E.,Munné-Bosch,S.,2O19.Increased chilling tolerance of the invasive species Carpobrotus edulis may explain its expansion across new territories.Conserv.Physiol 7. https://doi.org/10.1093/conphys/coz075.   \nFreije,A.,Alkhuzai,J.,Al-Lith,AA,13.Fatyacidcompositionof threemedicinal plants from Bahrain: new potential sources of $\\gamma$ -linolenic acid and dihomoγ-linolenic.Ind. Crop.Prod.43,218-224.https://doi.org/10.1016/j. indcrop.2012.07.021.   \nGaddeyya, G., Ratna Kumar, P.K., 2015. A comprehensive review on ethnobotany and photochemistry of a herbal weed Trianthema portulacastrum L. J. Pharmacogn. Phytochem. 4, 25-31.   \nGajala,K.,Anseti,R,Dodla,J.P,Rathod,A.K.,219.Phyochemicalinvestigatioad cytotoxic activity of hydro alcoholic fraction of Trianthema decandra. Indian J. Biotechnol. 18, 193-203.   \nGandia-Herrero,F., Escribano,J.,Garcia-Carmona,F.,2O16.Biological activities of plant pigments betalains.Crit.Rev.Food Sci. Nutr.56,937-945.https://doi.org/10.1080/ 10408398.2012.740103.   \nGeethalakshmi,R.,Sarada,V.D.,2018.In vitro and in silico antimicrobial activity of sterol and flavonoid isolated from Trianthema decandra L.Microb.Pathog.121, 77-86. https://doiorg/10.1016/j.micpath.2018.05.018.   \nGeethalakshmi, R., Sarada, D.V.L., Marimuthu, P., 201o. Evaluation of antimicrobial and antioxidant potentials of Trianthema decandra L. Asian J. Biotechnol. 2, 225-231.   \nGeethalakshmi,R., Sarada, V.L.D., 2Ol3. Characterization and antimicrobial activity of gold and silver nanoparticles synthesized using saponin isolated from Trianthema decandra L. Ind.Crop.Prod.5i,107-115.htps://doi.org/10.1016/j. indcrop.2013.08.055.   \nGeraghty,D.P.,Ahuja,K.D.,Pitaway,J., Shing,C., Jacobson, G.A.,Jager, N., Jurkovic,S.,Narkowicz, C.,Saunders, C.I., Ball,M.,Pinkard,A.,Vennavaram,R.., Adams,M.J., 20l1.In vitro antioxidant,antiplatelet and anti-inflammatory activity of Carpobrotus rossi (pigface) extract.J.Ethnopharmacol.134,97-103. https://doi. org/10.1016/j.jep.2010.11.060.   \nGericke,N., Viljoen, A.M.,2oo8.Sceletium—a review update.J. Ethnopharmacol.119, 653-663. https://doi.org/10.1016/j.jep.2008.07.043.   \nHaarmeyer,D.H.,Bosing,B.M., Schmiedel, U.,Dengler,J.,201o.The role of domestic herbivores in endozoochorous plant dispersal in the arid Knersvlakte, South Africa. South Afr. J. Bot.76, 359-364. https://doi.0rg/10.1016/j.sajb.2009.12.001.   \nHanen,F.adiaO.,nGisi,dy,. variability of antioxidant activities and phenolic composition in Mesembryanthemum genus.Food Chem. Toxicol. 47,2308-2313. https://doi.org/10.1016/j.   \nHartmann, H.E.K., Gerbaulet, M., 2017. Illustrated Handbook of Succulent Plants: Aizoaceae A-Z. Springer, Berlin.   \nHarvey,A.L.,Young,L.C., Viljoen,A.M., Gericke,N.P.,2011.Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum and its principal alkaloids.J.Ethnopharmacol.137,1124-1129.https://doi.org/10.1016/j. jep.2011.07.035.   \nHassan,N.,Thiede,J.,Liede-Schumann, S.,2oo5.Phylogenetic analysis of Sesuvioideae (Aizoaceae) inferred from nrDNA internal transcribed spacer (ITS) sequences and morphological data.Plant Systemat. Evol. 255,121-143.https://doi.org/10.1007/ s00606-005-0357-x.   \nHurinanthan, V., 2Oo9.Immune Modulatory Effect of Dichrostachys Cinerea, Carpobrotus Dimidiatus, Capparis Tomentosa and Leonotis Leonurus (Doctoral Dissertation).   \nHussain,A.,Khan,M.N.,Iqbal, Z.,Sajid,M.S.,Khan,M.K.,2o11.Anthelmintic activity of Trianthema portulacastrum L.and Musa paradisiaca L.against gastrointestinal nematodes of sheep.Vet.Parasitol.179,92-99. https://doi.org/10.1016/j. vetpar.2011.02.022.   \nIbtissem,B.,Abdelly, C., Sfar, S.,20l2.Antioxidant and antibacterial properties of Mesembryanthemum crystallinumand Carpobrotus edulis extracts.Adv.Chem.Eng.2, 359-365.10.4236/aces.2012.23042.   \nIPNI, 2022.International Plant Names Index.The Royal Botanic Gardens,Kew, Harvard University Herbaria & Libraries and Australian National Botanic Gardens. http://www.ipni.org. (Accessed 5 September 2022).   \nIwashina,T.,2015.Flavonoid properties in plant families synthesizing betalain pigments (Review). Nat. Prod. Commun.10,1103-1114. https://doi.org/10.1177/ 1934578X1501000675.   \nIwu, M.M., 1993. Handbook of African Medicinal Plants. CRC Press, London, pp.183-184.   \nIwu,M.M.,2014.Handbook of African Medicinal Plants. CRC press,Boca Raton.https:// doi.org/10.1201/b16292.   \nJain, S.C.,Pancholi,B., Jain,R., 20l2. Aizoaceae plants as potential antimicrobial agents. Rom. Biotechnol. Lett 17, 7577.   \nKapewangolo,P.,Tawha,T.,Nawinda,T.,Knott,M.,Hans,R.,2016.Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity.South Afr. J.Bot. 106,140-143. https://doi.org/10.1016/j.sajb.2016.06.009.   \nKapitany, A., 2013. Disphyllum ‘sunburn'. Cactus Succulent J. 29,8-20.   \nKhan,M.I., Giridhar, P., 2015. Plant betalains: chemistry and biochemistry. Phytochemistry 117, 267-295.   \nKhettaf,A.,Belloula,N.,Dridi, S.,2Ol6.Antioxidant activity,phenolic and flavonoid contents of some wild medicinal plants in southeastern Algeria.Afr.J. Biotechnol. 15,524-530. https://doi.org/10.5897/AJB2015.14459.   \nKim,D.E.,Chang,B.Y.,Hwang, Y.S.,Park,J.H.,Kim,K.Y.,Jung,S.K.,Kim, S.Y.,2017. Effects of Mesembryanthemum crystallinum on the anti-oxidant,anti-wrinkle and whitening skin agents.Nat. Prod. Chem.Res.5,5. https://doi.org/10.4172/2329- 6836-C1-017.   \nKlak,C.,Bruyns,P.V.,Hanacek,P.,2013.A phylogenetic hypothesis for the recently diversified Ruschieae (Aizoaceae) in southern Africa.Mol.Phylogenet. Evol.69, 1005-1020. https://doi.org/10.1016/j.ympev.2013.05.030.   \nKlak, C.,Hanacek,P.,Bruyns,P.V.,2017.Out of southern Africa: origin, biogeography and age of the Aizooideae (Aizoaceae).Mol. Phylogenet. Evol.1o9,203-216. https://doi.0rg/10.1016/j.ympev.2016.12.016.   \nKlak, C.,Hedderson,T.inderH.P.Amoleularstematicstdyofthe Lampranthus group (Aizoaceae) based on the chloroplast TrnL-trnF and nuclear ITS and 5S NTS sequence data.Syst. Biol. 28,70-85.https://doi.org/10.1043/0363- 6445-28.1.70.   \nKrstenansky,JL.2017.Mesembrinealkaloids:reviewof theiroccurrence,chemistry and pharmacology.J. Ethnopharmacol.195,10-19.https://doi.org/10.1016/j. jep.2016.12.004.   \nKsouri,R., Megdiche,W.,Falleh,H.,Trabelsi,N.,Boulaaba,M.,Smaoui,A.,Abdelly,C., 2008.Influence of biological,environmental,and technical factors on phenolic content and antioxidant activities of Tunisian halophytes.C.R. Biol. 331,865-873. https://doi.0rg/10.1016/j.crvi.2008.07.024.   \nLall,N., Kishore,N.,2014. Are plants used for skin care inSouth Africa fully explored? J. Ethnopharmacol. 153,61-84. https://doi.org/10.1016/j.jep.2014.02.021.   \nLaperdrix,C.,Lubrano,C.,Touzeau,B.,Robin, J.R.,2o13. Use of a Carpobrotus edulis Extract in a Cosmetic Composition.IFI CLAIMS Patent Services Patent number: FR3013593A1. Available at. htps://patents.google.com/patent/FR3013593A1/en (Accessed 20 October 2020).   \nLee,S.G., Kang,H.,2014.Inhibition of lipopolysaccharide-stimulated neuroinflammatory kuntze in BV-2 microglial cell mediators by Tetragonia tetragonoides (Pal).Trop.J.Pharmaceut. Res.13, 2005-2010. https://doi.org/10.4314/tjpr. v13i12.8.   \nMabona,U.,vanVuuren,S.F.,2013.Southern African medicinal plantsused to treat skin diseases.South Afr. J. Bot.87,175-193. https://doi.org/10.1016/j. sajb.2013.04.002.   \nMagwa, M.L.,Gundidza,M., Gweru, N., Humphrey,G., 2oo6.Chemical composition and biological activities of essential oil from the leaves of Sesuvium portulacastrum. J. Ethnopharmacol.103,85-89. https://doi.org/10.1016/j.jep.2005.07.024.   \nMakolo,F., Viljoen,A., Veale, C.G.,2019.Mesembrine: the archetypal psycho-active Sceletium alkaloid.Phytochemistry 166,112061. https://doi.org/10.1016/j. phytochem.2019.112061.   \nMandal,A.,Bishayee,A.,2015.Trianthema portulacastrum Linn.displays antiinflammatory responses during chemically induced rat mammary tumorigenesis through simultaneous and differential regulation of NF-kB and Nrf2 signaling pathways. Int. J. Mol. Sci.16,2426-2445. htps://doi.0rg/10.3390/ijms16022426.   \nMandaville,J.P.,2019.Bedouin Ethnobotany:Plant Concepts and Uses in a Desert Pastoral World. University of Arizona Press.http://www.jstor.org/stable/j.ctt1814h Xq. (Accessed 14 October 2020).   \nMander, M., Ntuli, L., Diederichs, N., Mavundla, K., 20o7. Economics of the traditional medicine trade in South Africa: health care delivery. S. Afr. Health Rev. 1,189-196.   \nMartins,A., Vasas, A., Schelz, Z.S., Viveiros, M., Molnar, J., Hohmann, J., Amaral, L. 2010. Constituents of Carpobrotus edulis inhibit P-glycoprotein of MDR1-transfected mouse lymphoma cels. Anticancer Res. 30,829-835.   \nMartins,A.,Vasas,A.,Viveiros,M.,Molnar,J.,Hohmann,J.,Amaral,L.,2011. Antibacterial properties of compounds isolated from Carpobrotus edulis.Int.J. Antimicrob. Agents 37,438-444. htps://doi.0rg/10.1016/j. ijantimicag.2011.01.016.   \nMativandlela, S.P.,Muthivhi, T.,Kikuchi, H.,Oshima, Y.,Hamilton,C., Hussein,A.A., van der Walt, M.L.,Houghton,P.J.,Lall,N.,2oo9.Antimycobacterial flavonoids from the leaf extract of Galenia africana.J. Nat.Prod.72,2169-2171. https://doi. org/10.1021/np800778b.   \nMbuni, Y.M.,Wang,S.,Mwangi, B.N.,Mbari, N.J.,Musili,P.M.,Walter,N.O.,Hu, G., Zhou,Y.,Wang,Q.,2020.Medicinal plants and their traditional uses in local communities around Cherangani Hills,Western Kenya.Plants (Basel, Switzerland) 9, 31. https://doi.org/10.3390/plants9030331.   \nMeenakshi,P., Bhuvaneshwari, R.,Rathi, M.A.,Thirumoorthi,L.,Guravaiah,D.C., Jiji,M.J.,Gopalakrishnan,V.K.,2O1o.Antidiabetic activity of ethanolic extract of Zaleya decandra in alloxan-induced diabetic rats.Appl. Biochem. Biotechnol. 162, 1153-1159. https://doi.0rg/10.1007/s12010-009-8871-x.   \nMoawad,A.,Abuzaid,H.,Arafa,W.M.,Ahmed, O.,Hetta,M.,Mohammed,R.,2020. Anticholinesterase and acaricidal activities of steroids isolated from Trianthema portulacastrum L.against Rhipicephalus annulatus tick. J.Appl.Pharmaceut. Sci. 10 https://doi.0rg/10.7324/JAPS.2020.104008, 047-055.   \nMohammed, R., El-Hawary, S.S., Abo-youssef, A.M., 20l2. Biological investigation of some wild Aizoaceae and Chenopediaceae species growing in Egypt. J. Nat. Prod. 5, 193-206.   \nMonakisi, C.M., 20o7. Knowledge and Use of Traditional Medicinal Plants by the Setswana-Speaking Community of Kimberley, Northern Cape of South Africa. Stellenbosch University, Stellenbosch. Doctoral dissertation.   \nMorris, D., Duretto, M.F., 2oo9.101 Aizoaceae. In: Flora of Tasmania Online. Tasmanian Herbarium,Tasmanian Museum & Art Gallery,pp.1-16.   \nMoteetee,A., van Wyk,B.-E.,2011.The medical ethnobotany of Lesotho: a review. Bothalia 41,209-228.https://doi.org/10.4102/abc.v41i1.52.   \nMotsei, M.L.,Lindsey,K.V.,van Staden,J., Jäger,A.K.,2oo3.Screening of traditionally used South African plants for antifungal activity against Candida albicans. J. Ethnopharmacol. 86, 235-241. https://doi.org/10.1016/S0378-8741(03)00082- 5.   \nMoyo,B.,Mukanganyama, S.,2Ol5.The anticandidal and toxicity properties of Lampranthus francisci.J.Mycol. https://doi.org/10.1155/2015/898202.   \nMughal, T.A.,Aslam,F.,Yousaf, Z.,Nisar,N.,Leung,P.C.,202o.In vitro cytotoxic activity of Zaleya Pentandra L.Extracts against the breast cancer adenocarcinoma cell line MCF-7.J.Pakistan Med. Assoc.70,35-41. https://doi.org/10.5455/ jpma.299690.   \nNapagoda,.T.,Malkanthi, B..,Abayawardana,S.A.,Qader,M..,Jayasinghe,L 2016.Photoprotective potential in some medicinal plants used to treat skin diseases in Sri Lanka. BMC Compl.Alternative Med.16,479.https://doi.org/10.1186/ s12906-016-1455-8.   \nNawaz,H., Malik,A.,Ali, M.,2oo1. Trianthenol: an antifungal tetraterpenoid from Trianthemaportlacastrum(zoaeae).Phyochemistry6,992.htps:/og 10.1016/S0031-9422(00)00270-3.   \nNenzhelele, E., 2017. Long-term Impacts of Livestock Grazing in the Succulent Karoo: A 20-year Study of Vegetation Change under Different Grazing Regimes in Namaqualand (Doctoral Dissertation). University of Cape Town.   \nNeubauerova,T.,Mackova,M.,Macek,T., Sanda,M.,Kralova,M., Dolezilkova,I, Holmsgaard,P.N., 2011. Isolation of antimicrobial peptides from New Zealand spinach Tetragonia tetragonioides.In: Science and Technology against Microbial Pathogens: Research, pp.13-17. htps://doi.0rg/10.1142/9789814354868_0004 development, and evaluation.   \nNortje,J.M., van Wyk, B.-E., 2019. Useful plants of Namaqualand, South Africa: a checklist and analysis. South Afr. J. Bot. 122, 120-135.   \nOmoruyi, B., Bradley,G.,Afolayan,A.,20l2.Antioxidant and phytochemical properties of Carpobrotus edulis (L.) bolus leaf used for the management of common infections in HIV/AIDS patients in Eastern Cape Province.BMC Compl. Alternative Med.12,215. https://doi.0rg/10.1186/1472-6882-12-215.   \nOmoruyi, B.E., 2014. Evaluation of the Efficacy of Carpobrotus edulis (L.) Bolus Leaf as a Traditional Treatment for the Management of HIV/AIDs. Doctoral dissertation, University of Fort Hare).   \nOnderstall, J., 2007. Honey beer. Veld and Flora 93,101.   \nOtang,W.M., Grierson,D.S.,Ndip,R.N.,2012.Ethnobotanical survey of medicinal plants used in the management of opportunistic fungal infections in HIV/AIDS patients in the Amathole district of the Eastern Cape Province, South Africa.J.Med.Plants Res. 6,2071-2080. https://doi.0rg/10.1186/1472-6882-12-43.   \nOztirk, M., Altay, V., Givensen, A., 2019. Sustainable use of halophytic taxa as food and fodder: animportant genetic resource in Southwest Asia. In: Ecophysiology, Abiotic Stress Responses and Utilization of Halophytes.Springer, Singapore, pp. 235-257.   \nPappe,L.,1847. AList of South African Indigenous Plants, Used as Remedies by Colonists of the Cape of Good Hope. G.J. Pike Publishers, Cape Town,South Africa,pp. 6-7.   \nPark,H.J.,Cho,J.H.,Hong,S.H.,Kim,D.H.,Jung,H.Y.,Kang,LK.,Cho,Y.J.,2018. Whitening and anti-wrinkle activities of ferulic acid isolated from Tetragonia tetragonioides in B16F10 melanoma and CCD-986sk fibroblast cells.J.Nat.Med.72,   \nPatnala, S., Kanfer, I., 20l3. Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species. South Afr. J. Sci. 109, 01-05.   \nPatnala, S., Kanfer, 1., 2017. Sceletium Plant Species: Alkaloidal Components, Chemistry and Ethnopharmacology. Alkaloids: Alternatives in Synthesis, Modification and Application. Intech Ltd, London, pp. 85-101.   \nPaulpriya, K.,PackiaLincy, M., Mohan, V.R., Unit, E.,2013. Total phenolic, flavonoid contents and in vitro antioxidant activity of leaf of Sesuvium portulacastrum. L (Aizoaceae). J. Adv. Pharm. Educ. Res.3.   \nPhungula,K.V.,Marston,A.,van Vuuren, S.F., Zietsman,P.C., Bonnet, S.L., van der Westhuizen, J.H.,2014.Antioxidant,acetylcholinesterase inhibition and antimicrobial activities of the dichloromethane extracts from the aerial parts of Galenia africana L.Planta Med.80,LP83.https://doi.org/10.1055/s-0034-1395114.   \nRatsch, C. 2oo5. The Encyclopaedia of Psychoactive Plants: Ethnopharmacology and its Applications. Inner Traditions Bear and Company, Rochester, United States. -13: 978-0892819782.   \nRocha,M.I.,Rodrigues,M.J.,Pereira, C.,Pereira,H.,da Silva,M.M.,Neng,N.D.R., Nogueira, J.M.F., Varela,J.,Barreira,L., Custódio,L.,2O17.Biochemical profile and in vitro neuroprotective properties of Carpobrotus edulis L.,a medicinal and edible halophyte native to the coast of South Africa. South Afr.J.Bot.111,222-231. https://doi.org/10.1016/j.sajb.2017.03.036.   \nRouibi,A., Boukrita, S.,2o18.Phytochemical characterization,anti-inflammatory,and anti-ulcer activity of a spontaneous succulent Delosperma resei. Univers. J.Agric. Res. 6,113-117.https://doi.org/10.13189/ujar.2018.060303.   \nSaid,A.A.E.,Attia,E.Z.,Abdelmohsen, U.R.,Fouad,M.A.,2o19.Natural products potential of the genus Aptenia.J.Adv.Biomed.& Pharm. Sci.2,59-62.10.21608/j abps.2019.6908.1032.   \nSchifano,F.,Papanti, G.D.,Orsolini,L.,Corkery,J.M.,2016.Novel psychoactive substances: the pharmacology of stimulants and hallucinogens. Expet Rev. Clin. Pharmacol. 9, 943-954. https://doi.0rg/10.1586/17512433.2016.1167597.   \nSeo,J.A., Ju,J.,2o19.Antioxidant and growth inhibitory activities of Mesembryanthemum crystallinum L.in HCT116 human colon cancer cells.J.Nutr. Health 52,157-167. https://doi.org/10.4163/jnh.2019.52.2.157   \nSetshedi,I.I.,Fouche,G.,Dewar,J.,Maharaj,V.,Myer,M.S.,2012.Phytochemical isolation of compounds from Sceletium tortuosum and activity testing against Plasmodium falciparum.J.Vet. Res 79.10.4102/ojvr.v79i2.481.   \nSharma,R.,Lall,N.,2Ol4.Antibacterial,antioxidant activities and cytotoxicity of plants against Propionibacterium acnes.South Afr.J.Sci.11o,1-8.https://doi.org/10.1590/ sajs.2014/20130293.   \nSharma, V., Ramawat, K.G., 2O14.Salt stress enhanced antioxidant response in calus of three halophytes (Salsola baryosma, Trianthema triquetra, Zygophylum simplex)of Thar Desert. Biologia 69,178-185. https://doi.0rg/10.2478/s11756-013-0298-8.   \nSmith, G.F., Crouch, N.R.,1999. Mesembs in the muthimarket: Lithops lesliei as an ethnomedicinal plant. Br. Cactus Succulent J.17, 133-137.   \nSmith,M.T.,Field, C.R., Crouch,N.R., Hirst, M.,1998.The distribution of mesembrine alkaloids in selected taxa of the Mesembryanthemaceae and their modification in the Sceletium derived ‘Kougoed'.Pharm.Biol. 36,173-179.https://doi.org/10.1076/ phbi.36.3.173.6350.   \nSmith, G.F., Figueiredo, E., Silva, V., 2O18. The curious case of the occurrence of Lampranthus glaucus (L.) N.E.Br. (Aizoaceae/Mesembryanthemaceae) in Europe. Bradleya 36, 189-199.   \nSmith,M.T., Crouch,N.R.,Gericke,N.,Hirst,M.,1996.Psychoactive constituents of the genus Sceletium N.E.Br.and other Mesembryanthemaceae: a review. J. Ethnopharmacol.50,119-130. https://doi.org/10.1016/0378-8741(95)01342-3.   \nSpringfield,E.P.,Weitz,F.,2oo6.The scientific merit of Carpobrotus melleiL.based on antimicrobial activityand chemical profiling.Afr.J. Biotechnol.5 https://doi.org/ 10.5897/AJB06.146, 1289-129.   \nSpringfield, E.P., Amabeoku, G., Weitz, F., Mabusela, W., Johnson, Q., 2003.An assessment of two Carpobrotus species extracts as potential antimicrobial agents. Phytomedicine 10, 434-439.   \nStreet,R.A.,Prinsloo,G.,2ol3. Commercially important medicinal plants of South Africa: a Review.J. Chem.1-16 https://doi.org/10.1155/2013/205048.   \nSukalingam,K.,Ganesan,K.,Xu,B.,2O17.Trianthema portulacastrum L.(giant pigweed): phytochemistry and pharmacological properties.Phytochemistry Rev.16,461-478. https://doi.0rg/10.1007/s11101-017-9493-5.   \nSzymanska,R.,Pospisil,P.,Kruk,J.,2o16.Plant-derived antioxidants in disease prevention. Oxid. Med. Cell.Longev., 1920208 htps://doi.org/10.1155/2016/ 1920208, 2016.   \nTaylor, C.,1994.Revision of Tetragonia (Aizoaceae) in South America. Syst. Bot.19, 575-589. https://doi.org/10.2307/2419778.   \nTicha,L.A.,Klaasen,J.A.,Green,IR.,Naidoo,S.,Baker,B.,Pietersen,R.D.,2015. Phytochemical and antimicrobial screening of flavanones and chalcones from Galenia africana and Dicerothamnus rhinocerotis.Nat.Prod.Commun.1o https://doi. org/10.1177/1934578X1501000713.   \nTunstall,R., 2019. Potential for Modulation of Cancer-Associated Oxidative Stress: an in Vitro Investigation. Stellenbosch University, Stellenbosch. Doctoral dissertation.   \nvan Der Watt,E.,Pretorius,J.C.,oo1.Purification and identification of active antibacterial components in Carpobrotus edulis L.J. Ethnopharmacol.76,87-91. https://doi.0rg/10.1016/s0378-8741(01)00197-0.   \nvan Jaarsveld, E., 2Oo5. Stoeberia Arborea Van Jaarsv (Mesembryanthemaceae).   \nvan Wyk, B.-E., Gericke, N., 20oo. People's Plants: A Guide to Useful Plants of Southern Africa. Briza publications.   \nvan Wyk,B.-E.,De Wet, H.,van Heerden,F.R.,2Oo8.An ethnobotanical survey of medicinal plants in the southeastern Karoo,South Africa. South Afr.J. Bot. 74, 696-704. https://doi.org/10.1016/j.sajb.2008.05.001.   \nVeeresh, P.K., Lavanya, A., Suresh, P., Mounika, N., 2O17. Pharmacological potentials of Trianthema decandra-A review. J. Pharmacogn. Phytochem. 6, 290-294.   \nVeeresham,C.,2o12.Natural products derived from plants as a source of drugs.\"J.Adv. Pharm.Technol.Research\"\" (JAPTR)\"3,200-201. https://doi.org/10.4103/2231- 4040.104709.   \nVohora,S.B., Shah,S.A.,Naqvi, S.A.H.,Ahmad, S.,Khan, M.S.Y.,1983. Studies on Trianthema portulacastrum.Planta Medica 47,i06-108.https://doi.org/10.1055/s2007-969964.   \nVolpato, G., Puri, R.K., 2O14. Dormancy and revitalization: the fate of ethnobotanical knowledge of camel forage among Sahrawi nomads and refugees of Western Sahara. Ethnobot. Res. Appl.12, 183-210.   \nVon Staden, L., Raimondo, D., Dayaram, A.,2O13. Taxonomic research priorities for the conservation of the South African flora. South Afr. J. Sci. 109,1-10.   \nWelcome, A.K., van Wyk, B.-E., 2019. An inventory and analysis of the food plants of southern Africa. South Afr. J. Bot.122, 136-179.   \nWFO,2022.World flora online.Published on the Internet.http://www.worldfloraonline. org.(Accessed 5 September 2022).   \nWheat, N.M., 2013. An Ethnobotanical, Phytochemical and Metabolomics Investigation of Plants from the Paulshoek Communal Area. Namaqualand (Doctoral dissertation) University of Cape Town.   \nYang,Y., 201o. Chinese Herbal Formulas: Treatment Principles and Composition Strategies, first ed. Churchill Livingstone (Chapter 5):11.   \nYoussif, K.A.,Haggag,E.G.,Elshamy,A.M.,Rabeh,M.A., Gabr,N.M.,Seleem,A., Salem,M.A.,Hussein,A.S.,Krischke,M.,Mueller,M.J.,Abdelmohsen,U.R.,2019. Anti-Alzheimer potential, metabolomic profiling and molecular docking of green synthesized silver nanoparticles of Lampranthus coccineus and Malephora lutea aqueous extracts.PLoS One 14,e0223781. https://doi.org/10.1371/journal. none 0223781 ",
+        "bbox": [
+            60,
+            287,
+            482,
+            933
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            60,
+            936,
+            923
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            58,
+            55,
+            484,
+            911
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            63,
+            937,
+            924
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            58,
+            60,
+            484,
+            631
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            64,
+            936,
+            626
+        ],
+        "page_idx": 11
+    }
+]
