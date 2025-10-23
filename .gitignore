@@ -273,8 +273,11 @@ test-*/
 mineru-extraction-log-*.log
 
 # NOTE: extractions-mineru/ tracked via Git LFS (see .gitattributes)
-# Future extraction directories excluded by default
-literature/pdfs/extractions-*/
+# Exclude other extraction directories but NOT extractions-mineru
+literature/pdfs/extractions-PRODUCTION/
+literature/pdfs/extractions-old/
+literature/pdfs/extractions-smart/
+literature/pdfs/extractions-test/
 
 # MinerU config with API keys (sensitive)
 magic-pdf.json
