@@ -193,6 +193,40 @@ See `.claude/commands/academic-enhance-fr.md` for detailed documentation.
 
 ## Data Privacy (FPIC Compliance)
 
+### Critical Principle: NO MOCK DATA
+
+**⛔ ABSOLUTE PROHIBITION ON MOCK/PLACEHOLDER DATA**
+
+Given the immense responsibility this work carries—involving Indigenous Khoisan knowledge, clinical patient data, and decolonial research ethics—**we cannot and will not allow mock data, placeholder values, or synthetic test data in any analysis, validation, or publication pipeline**.
+
+**Why this matters**:
+- **FPIC violations**: Mock data undermines Free, Prior, Informed Consent protocols
+- **Research integrity**: Placeholders corrupt ethnobotanical indices (BEI, ICF)
+- **Legal liability**: Fake clinical data violates ethics approvals
+- **Community trust**: One mock data incident destroys years of partnership building
+- **Publication retraction risk**: Journals retract papers with fabricated data
+
+**Enforcement**:
+- All analysis scripts MUST validate input data authenticity
+- Tests use REAL anonymized samples (minimum viable subset)
+- Development workflows use actual extractions (not Lorem ipsum)
+- Code reviews check for `TODO`, `FIXME`, `mock_`, `placeholder_` patterns
+- Git pre-commit hooks block files containing synthetic data markers
+
+**Acceptable practices**:
+- ✅ Small real data subsets for testing (5-10 de-identified records)
+- ✅ Historical public datasets (with proper citation)
+- ✅ Simulated chemical structures (QSAR model validation only)
+
+**Unacceptable practices**:
+- ❌ Fictional interview transcripts or survey responses
+- ❌ Random number generators for ethnobotanical data
+- ❌ Lorem ipsum in analysis outputs
+- ❌ Synthetic patient records for clinical meta-analysis
+- ❌ Made-up GIS coordinates for field sites
+
+**If you need test data**: Use the smallest viable subset of REAL anonymized data. If none exists yet, WAIT for real data collection rather than fabricating placeholders.
+
 ### Three-Tier Classification
 
 **🔴 Tier 1: Git-Excluded (SENSITIVE - NEVER commit)**:
