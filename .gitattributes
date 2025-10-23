@@ -1,0 +1,3 @@
+literature/pdfs/extractions-mineru/**/*.md filter=lfs diff=lfs merge=lfs -text
+literature/pdfs/extractions-mineru/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+literature/pdfs/extractions-mineru/**/*.png filter=lfs diff=lfs merge=lfs -text
