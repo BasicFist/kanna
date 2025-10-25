@@ -50,6 +50,26 @@ Task Type → Environment
 └─ General R Statistics? → r-gis (tidyverse)
 ```
 
+## PDF Extraction Philosophy
+
+**CRITICAL PRINCIPLE**: Quality over quantity in extraction testing.
+
+**DO NOT**:
+- Rush to extract at all costs
+- Launch extraction after extraction without methodical analysis
+- Bypass configuration investigation to "just get something working"
+- Use workaround modes (CPU, OCR-only) without understanding optimal config
+
+**DO**:
+- We only need ONE quality extraction to begin working
+- Identify the BEST configuration first, THEN extract
+- Methodically investigate all config options before testing
+- Understand what each extraction mode (auto, ocr, txt) actually does
+- Document findings from Codex/docs before trying alternatives
+- Test configuration changes one at a time with clear hypothesis
+
+**Rationale**: 142 papers × multiple failed extractions = wasted time. One properly configured extraction with formulas, tables, and images preserved is worth 100 rushed text-only attempts.
+
 ## Memory Management
 
 ### Classification System
@@ -172,6 +192,40 @@ See `.claude/commands/academic-enhance-fr.md` for detailed documentation.
 | **LaTeX compile** | Full thesis PDF | any | `bash tools/scripts/compile-thesis-pdf.sh` |
 
 ## Data Privacy (FPIC Compliance)
+
+### Critical Principle: NO MOCK DATA
+
+**⛔ ABSOLUTE PROHIBITION ON MOCK/PLACEHOLDER DATA**
+
+Given the immense responsibility this work carries—involving Indigenous Khoisan knowledge, clinical patient data, and decolonial research ethics—**we cannot and will not allow mock data, placeholder values, or synthetic test data in any analysis, validation, or publication pipeline**.
+
+**Why this matters**:
+- **FPIC violations**: Mock data undermines Free, Prior, Informed Consent protocols
+- **Research integrity**: Placeholders corrupt ethnobotanical indices (BEI, ICF)
+- **Legal liability**: Fake clinical data violates ethics approvals
+- **Community trust**: One mock data incident destroys years of partnership building
+- **Publication retraction risk**: Journals retract papers with fabricated data
+
+**Enforcement**:
+- All analysis scripts MUST validate input data authenticity
+- Tests use REAL anonymized samples (minimum viable subset)
+- Development workflows use actual extractions (not Lorem ipsum)
+- Code reviews check for `TODO`, `FIXME`, `mock_`, `placeholder_` patterns
+- Git pre-commit hooks block files containing synthetic data markers
+
+**Acceptable practices**:
+- ✅ Small real data subsets for testing (5-10 de-identified records)
+- ✅ Historical public datasets (with proper citation)
+- ✅ Simulated chemical structures (QSAR model validation only)
+
+**Unacceptable practices**:
+- ❌ Fictional interview transcripts or survey responses
+- ❌ Random number generators for ethnobotanical data
+- ❌ Lorem ipsum in analysis outputs
+- ❌ Synthetic patient records for clinical meta-analysis
+- ❌ Made-up GIS coordinates for field sites
+
+**If you need test data**: Use the smallest viable subset of REAL anonymized data. If none exists yet, WAIT for real data collection rather than fabricating placeholders.
 
 ### Three-Tier Classification
 
@@ -490,6 +544,9 @@ bash tools/scripts/daily-backup.sh  # Manual test
 | Session initialization | CLAUDE.md | Session Initialization |
 | Environment debugging | CLAUDE.md | Troubleshooting |
 | Analysis pipeline setup | ARCHITECTURE.md | Analysis Pipeline Structure |
+| **PDF extraction** | **docs/pdf-extraction/EXTRACTION-GUIDE.md** | **Decision Trees & Use Cases** |
+| **PDF troubleshooting** | **docs/pdf-extraction/TROUBLESHOOTING.md** | **Common Errors & Solutions** |
+| **MinerU configuration** | **tools/config/mineru/CONFIG-FIELDS.md** | **All Config Fields** |
 | MCP server configuration | docs/MCP-CONFIGURATION-AUDIT.md | Server Details |
 | Plugin integration | docs/PLUGIN-INTEGRATION-PLAN.md | Full Guide |
 | Literature workflow | tools/guides/01-literature-workflow-setup.md | Full Guide |

@@ -258,3 +258,27 @@ literature/zotero-export/**/*.backup
 !fieldwork/protocols/**
 # Large PDFs - tracked in external backups (3-2-1 strategy)
 literature/Sceletium_Thesis_PDFs/DRAFTSS_Working/*.pdf
+
+# ============================================================================
+# TEST ARTIFACTS & TEMPORARY EXTRACTION FILES
+# ============================================================================
+
+# Test directories (consolidation 2025-10-23)
+test-*/
+*-cli/
+*-test/
+*-working/
+
+# Old extraction logs (superseded by current extractions)
+mineru-extraction-log-*.log
+
+# NOTE: extractions-mineru/ tracked via Git LFS (see .gitattributes)
+# Exclude other extraction directories but NOT extractions-mineru
+literature/pdfs/extractions-PRODUCTION/
+literature/pdfs/extractions-old/
+literature/pdfs/extractions-smart/
+literature/pdfs/extractions-test/
+
+# MinerU config with API keys (sensitive)
+magic-pdf.json
+magic-pdf-cloud.json

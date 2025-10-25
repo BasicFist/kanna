@@ -1,0 +1,4380 @@
+{
+  "summary": {
+    "totals": {
+      "biblio_items": 179,
+      "attachments": 447
+    },
+    "missing_counts": {
+      "issue": 90,
+      "pages": 59,
+      "tag:year": 6,
+      "volume": 58,
+      "journalAbbreviation": 64,
+      "ISSN": 57,
+      "abstractNote": 45,
+      "publicationTitle": 42,
+      "identifier": 36,
+      "year": 3
+    },
+    "potential_duplicates": [
+      {
+        "signature": [
+          "the botanical and chemical distribution of hallucinogens",
+          "2010"
+        ],
+        "keys": [
+          "SSDXIPJ5",
+          "ST2VH9V7",
+          "RXUDSBJW"
+        ]
+      },
+      {
+        "signature": [
+          "sceletium alkaloids part 71 structure and absolute stereochemistry of mesembrane and pmb  3   prime   methoxy pmb  4    prime  pmb   0  methyljoubertiamine two minor bases from s namaquense l bolus pmb  chi  ray analysis of  mesembrane hydrochloride monohydrate",
+          "2003"
+        ],
+        "keys": [
+          "SQSSQBER",
+          "QP38TVZ8",
+          "BZK5AHID"
+        ]
+      }
+    ],
+    "attachment_issues": [
+      {
+        "key": "PCUJR6BW",
+        "title": "THE ROLE MODELS",
+        "issues": [
+          "attachment:orphan"
+        ]
+      },
+      {
+        "key": "IWXNXIMD",
+        "title": "THE ROLE MODELS",
+        "issues": [
+          "attachment:orphan"
+        ]
+      },
+      {
+        "key": "JQGCRSKX",
+        "title": "Wynberg_2023_Biopiracy.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "QZCETQ8C",
+        "title": "Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WUACTSAN",
+        "title": "Pharmacology of Herbal Sexual Enhancers_ A Review Pharmaceuticals (Basel)BrunettiEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "QNEDTQ3C",
+        "title": "To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WIFJ34L5",
+        "title": "To ferment or not to ferment Sceletium tortuosum –South African Journal of BotanChenEtAl2019.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "V6ZPK2LF",
+        "title": "Proof-of-Concept Randomized Controlled Study of CoEvidence-Based Complementary aChiuEtAl2014.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XUL45SJC",
+        "title": "Proof-of-Concept Randomized Controlled Study of CoEvidence-Based Complementary aChiuEtAl2014.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "S6ZH8SMA",
+        "title": "High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "SNEAHMHL",
+        "title": "High-mesembrine Sceletium extract (Trimesemine) isJ EthnopharmacolCoetzeeEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "F5FF4RKJ",
+        "title": "Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "E8NAFFBG",
+        "title": "Exploring Zembrin Extract Derived from South AfricInternational Journal of MentaChiuEtAl2015.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "HU82NK43",
+        "title": "Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7CMWEYC7",
+        "title": "Some ethnopharmacological notes on African halluciJournal of EthnopharmacologyDe Smet1996.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "BYMMJRN5",
+        "title": "PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "795NDEA6",
+        "title": "PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XAJ9JQ7W",
+        "title": "PDE4-inhibitors_ A novel, targeted therapy for obsPulmonary Pharmacology & TheraDiamantEtAl2011.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "Y7VPDG4C",
+        "title": "Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "GIUWT8TP",
+        "title": "Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "Y3YPXXZ2",
+        "title": "Electropharmacogram of Sceletium tortuosum extractJ EthnopharmacolDimpfelEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "CA9R8RQ4",
+        "title": "Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "HARDSTME",
+        "title": "Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZBL23THE",
+        "title": "Effect of Zembrin((R)) and four of its alkaloid coJ EthnopharmacolDimpfelEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "GN6Z22XF",
+        "title": "Self-Medication and the Trade in Medicine within aSocial History of MedicineDigby2005.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "BRH7RDKF",
+        "title": "Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8JUFPXCE",
+        "title": "Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "SCN2ZX3L",
+        "title": "Emerging Roles of Complement in Psychiatric DisordFront PsychiatryDruartEtAl2019.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "URTHVGCP",
+        "title": "Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "876C29MT",
+        "title": "Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "P9FQNUMM",
+        "title": "Psychophysiological Effects of Zembrin&lt;sup&gt;&Neuroscience and MedicineDimpfelEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "MPRZZU5T",
+        "title": "Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "AW5QKC5I",
+        "title": "Treatment of anxiety and depression_ medicinal plaFundamental & Clinical PharmacFajemiroyeEtAl2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5DZLGWHT",
+        "title": "Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3BTIBEB5",
+        "title": "Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KI2BY9IP",
+        "title": "Variabilities in alkaloid concentration of SceletiHeliyonFaberEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "PHCZLJ3B",
+        "title": "An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "H7PFP88F",
+        "title": "An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YF8G9JUL",
+        "title": "An acute dose-ranging evaluation of the antidepresJ EthnopharmacolGerickeEtAl2021.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "BWCD5WGU",
+        "title": "Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "AD78JK7X",
+        "title": "Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "T8FH36ZL",
+        "title": "Sceletium tortuosum-derived mesembrine significantJ EthnopharmacolGerickeEtAl2024.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "VIDZY4RF",
+        "title": "Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "CY67TNV2",
+        "title": "Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "PMHN9HE2",
+        "title": "Sceletium—A review updateJournal of EthnopharmacologyGerickeEtAl2008.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "CFF56ANX",
+        "title": "Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZSITTART",
+        "title": "Pharmacological actions of the South African medicJ EthnopharmacolHarveyEtAl2011.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5BICHAML",
+        "title": "Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "U6W6J29A",
+        "title": "Ergogenic Effects of 8 Days of Sceletium TortuosumJ Strength Cond ResHoffmanEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NMBLZ7U3",
+        "title": "Neuroimmune mechanisms of psychostimulant and opioEuropean Journal of NeuroscienHoffordEtAl2019.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "2IYRYKJ2",
+        "title": "Neuroimmune mechanisms of psychostimulant and opioEuropean Journal of NeuroscienHoffordEtAl2019.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "IDXKT9MK",
+        "title": "The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "962XVHMQ",
+        "title": "The Importance of _i_Sceletium tortuosum_i_ (L.) A. El-ShemyEtAl2022.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZPIWV66K",
+        "title": "Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FWTCDZPL",
+        "title": "Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WI537HC8",
+        "title": "Psychoactive Plants_ A Neglected Area of EthnobotaStudies on Ethno-MedicineJean-Francois2014.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "C5N2YHRN",
+        "title": "Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "42YRCPK3",
+        "title": "Royal pharmaceuticals_ Bioprospecting, rights, andAmerican EthnologistMorris2016.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FUA2M8RR",
+        "title": "Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "55RGWYXN",
+        "title": "Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "VCMHNHUE",
+        "title": "Phosphodiesterase-4 enzyme as a therapeutic targetPharmacological ResearchBhatEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZS8EDIF5",
+        "title": "Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8KHHPGGU",
+        "title": "Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "Q5GZ5WVM",
+        "title": "Immunomodulatory effects of Sceletium tortuosum (TJ EthnopharmacolBennettEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "AUCQD8T6",
+        "title": "Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6Q8QKX4A",
+        "title": "Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YVSBG8VR",
+        "title": "Sceletium tortuosum may delay chronic disease progJ Physiol BiochemBennettEtAl2018.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "N7MCNEV9",
+        "title": "Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WR64H7VA",
+        "title": "Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WZEPPQ7M",
+        "title": "Sceletium Tortuosum_ Effects on Central Nervous SyPLOS ONEWenEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZBNE4S7E",
+        "title": "The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DKXHJ4KC",
+        "title": "The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NHTNSFWZ",
+        "title": "The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "SNEWPSMK",
+        "title": "The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NZDJ2LUX",
+        "title": "The phosphodiesterase-4 (PDE4) inhibitor rolipram Alcohol Clin Exp ResWenEtAl2012.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XJHFZHNE",
+        "title": "Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DAHW8WWB",
+        "title": "Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3B9Z758N",
+        "title": "Screening selected medicinal plants for potential PsychopharmacologyMaphangaEtAl2020.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DXKDCA8Q",
+        "title": "The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "796B9EP8",
+        "title": "The Botanical and Chemical Distribution of HalluciAnnual Review of Plant PhysiolSchultes1970.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "HIUJSLXT",
+        "title": "Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "F8PVGY9N",
+        "title": "Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NSA9BPVT",
+        "title": "Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DA5X9NVE",
+        "title": "Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4YQIUIZD",
+        "title": "Role of Traditional and Alternative Medicine in TrMEDS Chinese MedicinePrasadEtAl2013.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "L6DJM4CB",
+        "title": "32840669",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YL8GGMIK",
+        "title": "s00213-020-05642-5",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "VRLSKMLB",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "IPYJG7G8",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "2UY46H54",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "BSSQHLZJ",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZPTZQTLP",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FNSDQBRS",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7FBRCF6N",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "QPHKGDFL",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "GHQ59QV8",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FBZ7IQTP",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DYRPV8M5",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "BUN53ULQ",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "MK3HD5CI",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KYJNVMQF",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KBP4AS3A",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "PWPV533F",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "MX7MRDWB",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NZTU6YDZ",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "A5NCB5P6",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "74FBIP2R",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XDEYB9FH",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "98BLIIP8",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "GN6R8T7M",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "U6B7LVSI",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "LK5L7JZC",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "SX3Z7BJ9",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "E3SJDQBD",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DTU7SRVQ",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4EEQLCNL",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "PJF6QFBW",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "2QYQ7N9M",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "Y5X86S6Z",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "2VMIM7CL",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YHBG2HNY",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "Q3EVV2GT",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8SZADAKT",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KHI84NKX",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "K7DVUWFD",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5Q7UQJYZ",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "56A54K2B",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KSV6GJR5",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "87M727X3",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5ZXQLZFD",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "LNWTA2MX",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XCSJGYXS",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "N25D7JBF",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "F8K57WAU",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "76RQ3AXM",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YQDUBCQ3",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "LWNS2B7K",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "CK8UV9KX",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8S6WHK7Z",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5ZY9G9S3",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WMPAQF6R",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TYVGLVP6",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "P6HMFGGX",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NA9NICB5",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6NFVIAZC",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "P9BPFYPH",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7H98YDT4",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6XK6MGYL",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KY3I5ZXT",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "EZFNKAYF",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "82VUWMQH",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YT357C79",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NDD99ML5",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7KI24E6Z",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "CJFCQNLL",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "HQPKT5EJ",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "EJIZ7H2R",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "N8SRX2G3",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "A499FETF",
+        "title": "PDF",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "I5VIESWP",
+        "title": "Zembe-Mkabile_SAMANTHA REINDERS FOR NATURE.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "IZ7W6F3G",
+        "title": "Yates_2023_Determinants of addiction.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "SW6K66SM",
+        "title": "Van Wyk_Moteetee_2019_Ethnobotanical research in sub-Saharan Africa – documenting and analysing.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "PBZLSGSA",
+        "title": "Van Wyk_2011_The potential of South African plants in the development of new medicinal.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "EFFQQPU9",
+        "title": "Van Wyk_2008_A review of Khoi-San and Cape Dutch medical ethnobotany.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "C8TK44WF",
+        "title": "Van Wyk_2008_A broad review of commercially important southern African medicinal plants.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5QZYIRTA",
+        "title": "Valente_2014_Correlates of hyperdiversity in southern African ice plants (Aizoaceae).pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "D4IEHD29",
+        "title": "Torregrossa_Taylor_2013_Learning to forget.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "MVCB8U3G",
+        "title": "Terburg_2013_Acute effects of Sceletium tortuosum (Zembrin), a dual 5-HT reuptake and PDE4.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5KSKZG3M",
+        "title": "Swart_Smith_2016_Modulation of glucocorticoid, mineralocorticoid and androgen production in H295.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "JKVN5VBY",
+        "title": "Stafford_2008_Review on plants with CNS-effects used in traditional South African medicine.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8ZB3ZJJL",
+        "title": "Sreekissoon_2021_In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4BI7GMCH",
+        "title": "Stafford_Skeletons in the closet.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "AW32TXXU",
+        "title": "Spina_2008_PDE4 inhibitors.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TJGNXSVM",
+        "title": "Shikanga_2011_In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4CZR5U6I",
+        "title": "Sibeko_2023_Traditional perinatal plant knowledge in Sub-Saharan Africa.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WKV6WV9X",
+        "title": "Smith_2011_The effects of Sceletium tortuosum in an in vivo model of psychological stress.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "MEQIEMDS",
+        "title": "Shikanga_2012_The chemotypic variation of Sceletium tortuosum alkaloids and commercial.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TM3AW3SQ",
+        "title": "Schifano_2015_Novel psychoactive substances of interest for psychiatry.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3TLSZ5VD",
+        "title": "Royston A_2023_(52) Kh-001 but Not Other Tested Alkaloids Derived from Sceletium Tortuosum.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3IP7DLZG",
+        "title": "Rothman_2008_Dopamine-serotonin releasers as medications for stimulant addictions.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "X5TJQS2I",
+        "title": "Sarris_2021_Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "D2FP7LKY",
+        "title": "Rombaut_2021_PDE inhibition in distinct cell types to reclaim the balance of synaptic.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "P93RVRSR",
+        "title": "Reay_2020_iSceletium tortuosum-i (Zembrin sup®-sup ) ameliorates experimentally.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "C39KE7C8",
+        "title": "Pickard_2015_Alternative Models of Addiction.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4VP6EDTR",
+        "title": "Patnala_Kanfer_2017_Sceletium Plant Species.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YRKY4BWJ",
+        "title": "Oteng Mintah_2019_Medicinal Plants for Treatment of Prevalent Diseases.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "GJYTYTL5",
+        "title": "Patnala_Kanfer_2017_Sceletium Plant Species.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "VCJUIB6Z",
+        "title": "Patnala_Kanfer_2013_Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "EIRVZ5MN",
+        "title": "Patnala_Kanfer_2010_HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "J7DXH7L9",
+        "title": "Olsen_Liu_2016_Phosphodiesterase 4 inhibitors and drugs of abuse.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4G5ZSEQY",
+        "title": "Olatunji_2022_Sceletium tortuosum.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "JBG7RDWU",
+        "title": "Olatunji_2022_Corrigendum to “Sceletium tortuosum.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "585XU8ZK",
+        "title": "Namba_2021_Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3CCSUJUI",
+        "title": "O'Donnell_Zhang_2004_Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4).pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZVXSVP57",
+        "title": "Nell_2013_A randomized, double-blind, parallel-group, placebo-controlled trial of Extract.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FLETH5YF",
+        "title": "Nordling_2018_How decolonization could reshape South African science.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8CR7RCSQ",
+        "title": "Murbach_2014_A toxicological safety assessment of a standardized extract of Sceletium.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "2MWIER42",
+        "title": "Modise_2018_Strengthening indigenous governance, benefit sharing and capacity building for.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TWBMYHNB",
+        "title": "Meyer_2015_GC-MS, LC-MS(n), LC-high resolution-MS(n), and NMR studies on the metabolism.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "IDAH8KC3",
+        "title": "Manganyi_2021_A Chewable Cure Kanna.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7YQCPCB4",
+        "title": "Maphanga_2022_Mesembryanthemum tortuosum L.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "VS6HMN9N",
+        "title": "Manganyi_2019_Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "US7DDGE7",
+        "title": "Luo_2022_A network pharmacology-based approach to explore the therapeutic potential of.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "L7UJ9K56",
+        "title": "Luo_2022_A network pharmacology-based approach to explore the therapeutic potential of.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "89Z7L52Y",
+        "title": "Manda_2017_Quantification of mesembrine and mesembrenone in mouse plasma using.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ZXJMX4VS",
+        "title": "Makolo_2019_Mesembrine.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "5CAZQR3R",
+        "title": "Low_2007_Different Histories of Buchu.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3FQJGVJI",
+        "title": "Low_2007_Khoisan Wind.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "BD32ALF8",
+        "title": "Lewis_2017_Addiction and the Brain.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TCMEWJL4",
+        "title": "Leonti_2011_The future is written.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3P9ARPGV",
+        "title": "Krstenansky_2017_Mesembrine alkaloids.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "U9M2XLCU",
+        "title": "Kotadiya_In Silico Docking Analysis of Few Antidepressant Phytoconstituents of South.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "9SIIDUV8",
+        "title": "Koob_Volkow_2016_Neurobiology of addiction.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TJMZDCCI",
+        "title": "Kapewangolo_2016_Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KATPTLBM",
+        "title": "Klak_2017_Out of southern Africa.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DCT4PRA4",
+        "title": "Kalicharan_2023_Ethnopharmacology and biological activities of the Aizoaceae.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4NMJXGPP",
+        "title": "Gericke_2018_Kabbo’s.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "2YSJLS8M",
+        "title": "Chris Low_Wind, Life, Health Anthropological and Historical.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8YMPGIZB",
+        "title": "Brendler_2021_Sceletium for Managing Anxiety, Depression and Cognitive Impairment.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "DL6X9A67",
+        "title": "Capps_1977_Sceletium alkaloids.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "K5YRI7IM",
+        "title": "Bonokwane_2022_Antidepressant Effects of South African Plants.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "UI2C8PTJ",
+        "title": "Bolger_2017_The PDE4 cAMP-Specific Phosphodiesterases.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7UFJR66T",
+        "title": "Avchalumov_Mandyam_2021_Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "X3GMSI36",
+        "title": "Andrew Smith_THE-LOST-HISTORY-OF-KHOI-SAN.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "KLTXZER5",
+        "title": "Alvaro Viljoen_2023_The South African Herbal Pharmacopoeia.pdf",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "MQLK3SR5",
+        "title": "S0254629923000091",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TW8YIRGT",
+        "title": "S0254629923000091?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4C5Y5IY5",
+        "title": "25389443",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6QNUDU7T",
+        "title": "S0079612308009199",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "E9TRCH3T",
+        "title": "S0079612308009199?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FJYA5YGR",
+        "title": "v11p2080",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TARDTVQ8",
+        "title": "thnov11p2080",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6I2DWNFX",
+        "title": "Role-of-Traditional-and-Alternative-Medicine-in-Treatment-of-Ulcerative-Colitis",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "QKH2LUSJ",
+        "title": "fpsyt-06-00020",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "SAKQLKFX",
+        "title": "53426",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "I37N63AX",
+        "title": "66482",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "CAGU7PYK",
+        "title": "5346",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ME6KD744",
+        "title": "21486531",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "67W3TJVN",
+        "title": "618",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "L73GM6HE",
+        "title": "34758918",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "8J5CSBG4",
+        "title": "S0378874121009405?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6SPLR79L",
+        "title": "S0378874121009417",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XGRLPV46",
+        "title": "S0378874121009417?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "AVA47Q9N",
+        "title": "amet",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "QRAZJIZB",
+        "title": "amet",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "VYMEZAR8",
+        "title": "27526669",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "P37G6TN2",
+        "title": "s13213-019-1444-5",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ENU92C37",
+        "title": "s13213-019-1444-5",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "LD2RN82C",
+        "title": "S0305197812001378",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "U8WRSL9R",
+        "title": "S0305197812001378?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "GS36P6CC",
+        "title": "annurev.pp.21.060170",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "EZ9SPJPL",
+        "title": "25655145",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4U2DEWXN",
+        "title": "33596697",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XYCQLDGS",
+        "title": "33810204",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7NYBL282",
+        "title": "33235938",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "I3GL6WTA",
+        "title": "32673703",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4A46U82K",
+        "title": "25821244",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YC2HY9WY",
+        "title": "31299396",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "K7E52B5A",
+        "title": "36460295",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "IKM9J4RT",
+        "title": "26608705",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "ASYVSN8V",
+        "title": "S0378874115302373?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NNBG8K8M",
+        "title": "s13105-018-0620-6",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "R6UCPUJ2",
+        "title": "29520661",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "EZETTIAM",
+        "title": "35134486",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FMR9BALH",
+        "title": "25301237",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "QGLYHMXG",
+        "title": "S0278691514004189?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "75SP85HP",
+        "title": "29420501",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "LQIE6QTT",
+        "title": "P29770001098",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YPJFZ553",
+        "title": "25240931",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7M3S3VJB",
+        "title": "s00216-014-8109-9",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6UVLLRKZ",
+        "title": "21255636",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3WKKCGH5",
+        "title": "22671516",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "TQVFGNNR",
+        "title": "27475769",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "QDRRLM2T",
+        "title": "26615766",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "XTNKZ436",
+        "title": "37660956",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "669WDUCJ",
+        "title": "S0378874123009819?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "L2543THH",
+        "title": "s12152-016-9293-4",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "AM4ZZN54",
+        "title": "29758341",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "MJZSP9D8",
+        "title": "12152_2016_Article_9293",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "IEK5UQ4Y",
+        "title": "S0378874118310067?via%3Dihub",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "I9TMTIAJ",
+        "title": "33066617",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NNUP3KTV",
+        "title": "4623121",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "F6QLE2KP",
+        "title": "096734007X228309",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "FCCJYDEG",
+        "title": "32740286",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "7U6VN8VW",
+        "title": "15019272",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "PDRS2JG7",
+        "title": "s-0031-1280367",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "4IBXVS4F",
+        "title": "21798331",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "A6B82PSG",
+        "title": "20816940",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "H723RZF8",
+        "title": "23441963",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "WZ46IJVQ",
+        "title": "acm.2012.0185?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "VE8W5DM8",
+        "title": "33588735",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "JWGKLIS9",
+        "title": "qdad062",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "BUI8YJCD",
+        "title": "qdad062.002",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "U3552KZN",
+        "title": "27939420",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3F57INTH",
+        "title": "33924742",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "NLNSVF2N",
+        "title": "S1055790316304262",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "UJDZDZFH",
+        "title": "36006974",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "PLQTQXX9",
+        "title": "23903032",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "283L8BJ8",
+        "title": "18775771",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "2673SLSV",
+        "title": "29253615",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "LUYDLH42",
+        "title": "18703129",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "N967MAJG",
+        "title": "26608706",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "UKKB8DEA",
+        "title": "18577439",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "3NJQ979F",
+        "title": "fpsyt-10-00573",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "YTLL5QBD",
+        "title": "33712901",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "6GLSHCDN",
+        "title": "NCT05471804",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      },
+      {
+        "key": "RHNH7AAE",
+        "title": "s-0036-1596865",
+        "issues": [
+          "attachment:not_linked_file"
+        ]
+      }
+    ]
+  },
+  "biblio": [
+    {
+      "key": "S6Q2BCRU",
+      "itemType": "journalArticle",
+      "title": "Skeletons in the closet? – Using a bibliometric lens to visualise phytochemical and pharmacological activities linked to Sceletium, a mood enhancer",
+      "year": "2024",
+      "DOI": "10.3389/fpls.2024.1268101",
+      "url": "https://doi.org/10.3389/fpls.2024.1268101",
+      "missing": [
+        "issue",
+        "pages",
+        "tag:year"
+      ]
+    },
+    {
+      "key": "625T5JLH",
+      "itemType": "journalArticle",
+      "title": "SAMANTHA REINDERS FOR NATURE",
+      "year": "2022",
+      "DOI": "10.2307/j.ctv2z860xh.38",
+      "url": "https://doi.org/10.2307/j.ctv2z860xh.38",
+      "missing": [
+        "volume",
+        "issue",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote",
+        "tag:year"
+      ]
+    },
+    {
+      "key": "TGG23F7P",
+      "itemType": "journalArticle",
+      "title": "Khoisan Wind: Hunting and Healing",
+      "year": "2007",
+      "DOI": "10.1111/j.1467-9655.2007.00402.x",
+      "url": "https://doi.org/10.1111/j.1467-9655.2007.00402.x",
+      "missing": []
+    },
+    {
+      "key": "8FZ8Z2UF",
+      "itemType": "journalArticle",
+      "title": "CHAPTER 19",
+      "year": "2025",
+      "DOI": "10.2307/jj.26803039.23",
+      "url": "https://doi.org/10.2307/jj.26803039.23",
+      "missing": [
+        "volume",
+        "issue",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "38R8JUP9",
+      "itemType": "journalArticle",
+      "title": "Skeletons in the closet?   Using a bibliometric lens to visualise phytochemical and pharmacological activities linked to Sceletium, a mood enhancer",
+      "year": "2023",
+      "DOI": "10.2307/jj.5973121.5",
+      "url": "https://doi.org/10.2307/jj.5973121.5",
+      "missing": [
+        "volume",
+        "issue",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "FIHZFXII",
+      "itemType": "journalArticle",
+      "title": "Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders: A Meta-review of Meta-analyses of Randomized Controlled Trials",
+      "year": "2021",
+      "DOI": "10.1177/0706743720979917",
+      "url": "https://doi.org/10.1177/0706743720979917",
+      "missing": []
+    },
+    {
+      "key": "KN2RTNP9",
+      "itemType": "journalArticle",
+      "title": "Review Pharmacology of Herbal Sexual Enhancers: A Review of Psychiatric and Neurological Adverse Effects",
+      "year": "2020",
+      "DOI": "10.3390/ph13100309",
+      "url": "https://doi.org/10.3390/ph13100309",
+      "missing": []
+    },
+    {
+      "key": "APEV8ZHP",
+      "itemType": "journalArticle",
+      "title": "Article Effects of Zembrin® (Sceletium tortuosum) Supplementation on Mood, Soreness, and Performance Following Unaccustomed Resistance Exercise: A Pilot Study",
+      "year": "2021",
+      "DOI": "10.3390/nutraceuticals1010002",
+      "url": "https://doi.org/10.3390/nutraceuticals1010002",
+      "missing": []
+    },
+    {
+      "key": "98UBGTPD",
+      "itemType": "journalArticle",
+      "title": "Review Ethnopharmacology, Therapeutic Properties and Nutritional Potentials of Carpobrotus edulis: A Comprehensive Review",
+      "year": "2020",
+      "DOI": "10.3390/scipharm88030039",
+      "url": "https://doi.org/10.3390/scipharm88030039",
+      "missing": []
+    },
+    {
+      "key": "P8H3QP7P",
+      "itemType": "journalArticle",
+      "title": "Non-destructive quality assessment of herbal tea blends using hyperspectral imaging",
+      "year": "2018",
+      "DOI": "10.1016/j.phytol.2018.01.016",
+      "url": "https://doi.org/10.1016/j.phytol.2018.01.016",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "8TA7IK3B",
+      "itemType": "journalArticle",
+      "title": "Chapter 4 The PDE4 cAMP-Specific Phosphodiesterases: Targets for Drugs with Antidepressant and Memory-Enhancing Action",
+      "year": "2017",
+      "DOI": "10.1007/978-3-319-58811-7_4",
+      "url": "https://doi.org/10.1007/978-3-319-58811-7_4",
+      "missing": [
+        "volume",
+        "issue",
+        "journalAbbreviation",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "D5ZJC7SD",
+      "itemType": "journalArticle",
+      "title": "Chapter 4 The PDE4 cAMP-Specific Phosphodiesterases: Targets for Drugs with Antidepressant and Memory-Enhancing Action",
+      "year": "2017",
+      "DOI": "10.1007/978-3-319-58811-7_4",
+      "url": "https://doi.org/10.1007/978-3-319-58811-7_4",
+      "missing": [
+        "volume",
+        "issue",
+        "journalAbbreviation",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "KNWCD2MF",
+      "itemType": "journalArticle",
+      "title": "Chapter 4 The PDE4 cAMP-Specific Phosphodiesterases: Targets for Drugs with Antidepressant and Memory-Enhancing Action",
+      "year": "2017",
+      "DOI": "10.1007/978-3-319-58811-7_4",
+      "url": "https://doi.org/10.1007/978-3-319-58811-7_4",
+      "missing": [
+        "volume",
+        "issue",
+        "journalAbbreviation",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "646NIH8Q",
+      "itemType": "journalArticle",
+      "title": "A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin®) in rats",
+      "year": "2014",
+      "DOI": "10.1016/j.fct.2014.09.017",
+      "url": "https://doi.org/10.1016/j.fct.2014.09.017",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "RWTP28QA",
+      "itemType": "journalArticle",
+      "title": "Royal pharmaceuticals:",
+      "year": "2016",
+      "DOI": "10.1111/amet.12344",
+      "url": "https://doi.org/10.1111/amet.12344",
+      "missing": []
+    },
+    {
+      "key": "5ZFQUW4D",
+      "itemType": "journalArticle",
+      "title": "Review",
+      "year": "2011",
+      "DOI": "10.1111/j.2042-3292.2011.00324.x",
+      "url": "https://doi.org/10.1111/j.2042-3292.2011.00324.x",
+      "missing": []
+    },
+    {
+      "key": "EB8A33T3",
+      "itemType": "journalArticle",
+      "title": "Correlates of hyperdiversity in southern African ice plants (Aizoaceae)",
+      "year": "2013",
+      "DOI": "10.1111/boj.12117",
+      "url": "https://doi.org/10.1111/boj.12117",
+      "missing": [
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "SZI2J2ND",
+      "itemType": "journalArticle",
+      "title": "Review",
+      "year": "2011",
+      "DOI": "10.1111/j.2042-3292.2011.00324.x",
+      "url": "https://doi.org/10.1111/j.2042-3292.2011.00324.x",
+      "missing": []
+    },
+    {
+      "key": "TFN8CD8J",
+      "itemType": "journalArticle",
+      "title": "A broad review of commercially important southern African medicinal plants B.-E. van Wyk∗",
+      "year": "2008",
+      "DOI": "10.1016/j.jep.2008.05.029",
+      "url": "https://doi.org/10.1016/j.jep.2008.05.029",
+      "missing": []
+    },
+    {
+      "key": "HJJ9WRG8",
+      "itemType": "journalArticle",
+      "title": "101 Aizoaceae",
+      "year": "2009",
+      "DOI": "10.1093/oseo/instance.00171424",
+      "url": "https://doi.org/10.1093/oseo/instance.00171424",
+      "missing": [
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "JDUW88GU",
+      "itemType": "journalArticle",
+      "title": "CHAPTER 19",
+      "year": "2008",
+      "DOI": "10.31826/9781463212209-019",
+      "url": "https://doi.org/10.31826/9781463212209-019",
+      "missing": [
+        "volume",
+        "issue",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "F8XAX2GM",
+      "itemType": "journalArticle",
+      "title": "Untitled",
+      "year": "2025",
+      "DOI": "10.1353/col.2025.a964173",
+      "url": "https://doi.org/10.1353/col.2025.a964173",
+      "missing": [
+        "tag:year"
+      ]
+    },
+    {
+      "key": "77SHJFVE",
+      "itemType": "journalArticle",
+      "title": "Review",
+      "year": "2016",
+      "DOI": "10.5194/os-2016-28-rc1",
+      "url": "https://doi.org/10.5194/os-2016-28-rc1",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "Y4RH2DP5",
+      "itemType": "book",
+      "title": "The South African Herbal Pharmacopoeia. Monographs of Medicinal and Aromatic Plants (2023, Elsevier_ Academic Press)",
+      "year": "2023",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "GXDUDJV4",
+      "itemType": "book",
+      "title": "THE-LOST-HISTORY-OF-KHOI-SAN",
+      "year": "",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "year",
+        "identifier",
+        "abstractNote",
+        "tag:year"
+      ]
+    },
+    {
+      "key": "5YU9IGV8",
+      "itemType": "journalArticle",
+      "title": "Wind, Life, Health Anthropological and Historical",
+      "year": "",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "year",
+        "identifier",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote",
+        "tag:year"
+      ]
+    },
+    {
+      "key": "S5XMFVSI",
+      "itemType": "bill",
+      "title": "Psychological Effects of 8 Weeks Supplementation With Sceletium Tortuosum Extract (Zembrin™): a Randomised, Double Blind, Placebo-controlled, Parallel-groups Trial",
+      "year": "2022",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier"
+      ]
+    },
+    {
+      "key": "BGAJ8JE6",
+      "itemType": "bookSection",
+      "title": "Kabbo’s !Kwaiń: The Past, Present and Possible Future of Kanna",
+      "year": "2018",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier"
+      ]
+    },
+    {
+      "key": "EU54NNWH",
+      "itemType": "journalArticle",
+      "title": "In Silico Docking Analysis of Few Antidepressant Phytoconstituents of South African Endemic Plant Sceletium tortuosum",
+      "year": "",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "year",
+        "identifier",
+        "publicationTitle",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "tag:year"
+      ]
+    },
+    {
+      "key": "ZUVZV32V",
+      "itemType": "journalArticle",
+      "title": "Strengthening indigenous governance, benefit sharing and capacity building for traditional phytomedicines",
+      "year": "2018",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "LJ94ZYIU",
+      "itemType": "journalArticle",
+      "title": "Plasticity in the Hippocampus, Neurogenesis and Drugs of Abuse",
+      "year": "2021",
+      "DOI": "10.3390/brainsci11030404",
+      "url": "https://www.mdpi.com/2076-3425/11/3/404",
+      "missing": []
+    },
+    {
+      "key": "HR2R98Z7",
+      "itemType": "journalArticle",
+      "title": "Neuroimmune Mechanisms as Novel Treatment Targets for Substance Use Disorders and Associated Comorbidities",
+      "year": "2021",
+      "DOI": "10.3389/fnins.2021.650785",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnins.2021.650785/full",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "MBETC5VT",
+      "itemType": "journalArticle",
+      "title": "Sceletium tortuosum: A review on its phytochemistry, pharmacokinetics, biological, pre-clinical and clinical activities",
+      "year": "2022",
+      "DOI": "10.1016/j.jep.2021.114711",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378874121009405",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "TYM26YQD",
+      "itemType": "journalArticle",
+      "title": "Phosphodiesterase 4 inhibitors and drugs of abuse: current knowledge and therapeutic opportunities",
+      "year": "2016",
+      "DOI": "10.1007/s11515-016-1424-0",
+      "url": "http://link.springer.com/10.1007/s11515-016-1424-0",
+      "missing": []
+    },
+    {
+      "key": "KFEU5I77",
+      "itemType": "journalArticle",
+      "title": "Corrigendum to “Sceletium tortuosum: A review on its phytochemistry, pharmacokinetics, biological and clinical activities” [J. Ethnopharmacol. 280 (2021) 114476]",
+      "year": "2022",
+      "DOI": "10.1016/j.jep.2021.114712",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378874121009417",
+      "missing": [
+        "issue",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "QZYK5RNR",
+      "itemType": "journalArticle",
+      "title": "Alternative Models of Addiction",
+      "year": "2015",
+      "DOI": "10.3389/fpsyt.2015.00020",
+      "url": "http://journal.frontiersin.org/Article/10.3389/fpsyt.2015.00020/abstract",
+      "missing": [
+        "issue",
+        "pages",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "3359873V",
+      "itemType": "bookSection",
+      "title": "Medicinal Plants for Treatment of Prevalent Diseases",
+      "year": "2019",
+      "DOI": "",
+      "url": "https://www.intechopen.com/books/pharmacognosy-medicinal-plants/medicinal-plants-for-treatment-of-prevalent-diseases",
+      "missing": []
+    },
+    {
+      "key": "7Q7S3XZF",
+      "itemType": "bookSection",
+      "title": "Dopamine/serotonin releasers as medications for stimulant addictions",
+      "year": "2008",
+      "DOI": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079612308009199",
+      "missing": []
+    },
+    {
+      "key": "E69NHV2H",
+      "itemType": "journalArticle",
+      "title": "Novel psychoactive substances of interest for psychiatry",
+      "year": "2015",
+      "DOI": "10.1002/wps.20174",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/wps.20174",
+      "missing": []
+    },
+    {
+      "key": "ITI88UKS",
+      "itemType": "journalArticle",
+      "title": "PDE4 inhibitors: current status",
+      "year": "2008",
+      "DOI": "10.1038/bjp.2008.307",
+      "url": "https://bpspubs.onlinelibrary.wiley.com/doi/10.1038/bjp.2008.307",
+      "missing": []
+    },
+    {
+      "key": "TCGEDL9U",
+      "itemType": "journalArticle",
+      "title": "Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders: A Meta-review of Meta-analyses of Randomized Controlled Trials: Les médicaments à base de plantes (phytoceutiques) dans le traitement des troubles psychiatriques: une méta-revue des méta-analyses d’essais randomisés contrôlés",
+      "year": "2021",
+      "DOI": "10.1177/0706743720979917",
+      "url": "http://journals.sagepub.com/doi/10.1177/0706743720979917",
+      "missing": []
+    },
+    {
+      "key": "USM5YGFA",
+      "itemType": "journalArticle",
+      "title": "Learning to forget: manipulating extinction and reconsolidation processes to treat addiction",
+      "year": "2013",
+      "DOI": "10.1007/s00213-012-2750-9",
+      "url": "http://link.springer.com/10.1007/s00213-012-2750-9",
+      "missing": []
+    },
+    {
+      "key": "QBPR7RV4",
+      "itemType": "journalArticle",
+      "title": "In vitro and ex vivo vegetative propagation and cytokinin profiles of Sceletium tortuosum (L.) N. E. Br.: a South African medicinal plant",
+      "year": "2021",
+      "DOI": "10.1007/s11240-020-02001-2",
+      "url": "http://link.springer.com/10.1007/s11240-020-02001-2",
+      "missing": []
+    },
+    {
+      "key": "TQVMSAYQ",
+      "itemType": "book",
+      "title": "Determinants of addiction: neurobiological, behavioral, cognitive, and sociocultural factors",
+      "year": "2023",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier"
+      ]
+    },
+    {
+      "key": "S23LV6EQ",
+      "itemType": "journalArticle",
+      "title": "Quantification of mesembrine and mesembrenone in mouse plasma using UHPLC‐QToF‐MS: Application to a pharmacokinetic study",
+      "year": "2017",
+      "DOI": "10.1002/bmc.3815",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bmc.3815",
+      "missing": []
+    },
+    {
+      "key": "74TS7XR3",
+      "itemType": "journalArticle",
+      "title": "Antibacterial activity of endophytic fungi isolated from Sceletium tortuosum L. (Kougoed)",
+      "year": "2019",
+      "DOI": "10.1007/s13213-019-1444-5",
+      "url": "https://annalsmicrobiology.biomedcentral.com/articles/10.1007/s13213-019-1444-5",
+      "missing": []
+    },
+    {
+      "key": "N37GPC3H",
+      "itemType": "journalArticle",
+      "title": "Sceletium tortuosum demonstrates in vitro anti-HIV and free radical scavenging activity",
+      "year": "2016",
+      "DOI": "10.1016/j.sajb.2016.06.009",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0254629916303659",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "57X5IRZY",
+      "itemType": "journalArticle",
+      "title": "HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditional Medicine",
+      "year": "2010",
+      "DOI": "10.18433/J3DK5F",
+      "url": "https://journals.library.ualberta.ca/jpps/index.php/JPPS/article/view/9395",
+      "missing": []
+    },
+    {
+      "key": "2Q66MQEG",
+      "itemType": "journalArticle",
+      "title": "Chemotaxonomic studies of mesembrine-type alkaloids in Sceletium plant species",
+      "year": "2013",
+      "DOI": "10.1590/sajs.2013/882",
+      "url": "https://sajs.co.za/article/view/3858",
+      "missing": []
+    },
+    {
+      "key": "5HQV3D3B",
+      "itemType": "bookSection",
+      "title": "Sceletium Plant Species: Alkaloidal Components, Chemistry and Ethnopharmacology",
+      "year": "2017",
+      "DOI": "",
+      "url": "http://www.intechopen.com/books/alkaloids-alternatives-in-synthesis-modification-and-application/sceletium-plant-species-alkaloidal-components-chemistry-and-ethnopharmacology",
+      "missing": []
+    },
+    {
+      "key": "HZT39TZG",
+      "itemType": "journalArticle",
+      "title": "<i>Sceletium tortuosum</i> (Zembrin <sup>®</sup> ) ameliorates experimentally induced anxiety in healthy volunteers",
+      "year": "2020",
+      "DOI": "10.1002/hup.2753",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/hup.2753",
+      "missing": []
+    },
+    {
+      "key": "ZL4L8DKJ",
+      "itemType": "journalArticle",
+      "title": "PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity",
+      "year": "2021",
+      "DOI": "10.7150/thno.50701",
+      "url": "https://www.thno.org/v11p2080.htm",
+      "missing": []
+    },
+    {
+      "key": "N49TWQ46",
+      "itemType": "journalArticle",
+      "title": "The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations",
+      "year": "2012",
+      "DOI": "10.1016/j.bse.2012.06.025",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0305197812001378",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "CZHV88WA",
+      "itemType": "journalArticle",
+      "title": "Traditional perinatal plant knowledge in Sub-Saharan Africa: Comprehensive compilation and secondary analysis",
+      "year": "2023",
+      "DOI": "10.1016/j.sajb.2023.01.007",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0254629923000091",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "CUQIUTS5",
+      "itemType": "journalArticle",
+      "title": "The potential of South African plants in the development of new medicinal products",
+      "year": "2011",
+      "DOI": "10.1016/j.sajb.2011.08.011",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0254629911001190",
+      "missing": []
+    },
+    {
+      "key": "4MQTZPKJ",
+      "itemType": "journalArticle",
+      "title": "Ethnobotanical research in sub-Saharan Africa – documenting and analysing indigenous knowledge about medicinal, edible and other useful plants",
+      "year": "2019",
+      "DOI": "10.1016/j.sajb.2019.04.020",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0254629919307549",
+      "missing": [
+        "issue",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "SYVLMJ8B",
+      "itemType": "bookSection",
+      "title": "The PDE4 cAMP-Specific Phosphodiesterases: Targets for Drugs with Antidepressant and Memory-Enhancing Action",
+      "year": "2017",
+      "DOI": "",
+      "url": "http://link.springer.com/10.1007/978-3-319-58811-7_4",
+      "missing": []
+    },
+    {
+      "key": "LC9GUMVE",
+      "itemType": "journalArticle",
+      "title": "Antidepressant Effects of South African Plants: An Appraisal of Ethnobotanical Surveys, Ethnopharmacological and Phytochemical Studies",
+      "year": "2022",
+      "DOI": "10.3389/fphar.2022.895286",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphar.2022.895286/full",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "ZTYVW9FR",
+      "itemType": "journalArticle",
+      "title": "Role of Traditional and Alternative Medicine in Treatment of Ulcerative Colitis",
+      "year": "2013",
+      "DOI": "10.13140/2.1.1130.3360",
+      "url": "http://rgdoi.net/10.13140/2.1.1130.3360",
+      "missing": [
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "96NRP2GU",
+      "itemType": "journalArticle",
+      "title": "The Botanical and Chemical Distribution of Hallucinogens",
+      "year": "1970",
+      "DOI": "10.1146/annurev.pp.21.060170.003035",
+      "url": "https://www.annualreviews.org/doi/10.1146/annurev.pp.21.060170.003035",
+      "missing": [
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "VG24EXIM",
+      "itemType": "journalArticle",
+      "title": "Screening selected medicinal plants for potential anxiolytic activity using an in vivo zebrafish model",
+      "year": "2020",
+      "DOI": "10.1007/s00213-020-05642-5",
+      "url": "https://link.springer.com/10.1007/s00213-020-05642-5",
+      "missing": []
+    },
+    {
+      "key": "SMDMDN6W",
+      "itemType": "journalArticle",
+      "title": "Psychoactive Plants: A Neglected Area of Ethnobotanical Research in Southern Africa (Review)",
+      "year": "2014",
+      "DOI": "10.1080/09735070.2014.11917631",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/09735070.2014.11917631",
+      "missing": []
+    },
+    {
+      "key": "AM3LZVRF",
+      "itemType": "journalArticle",
+      "title": "Neuroimmune mechanisms of psychostimulant and opioid use disorders",
+      "year": "2019",
+      "DOI": "10.1111/ejn.14143",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/ejn.14143",
+      "missing": []
+    },
+    {
+      "key": "NDHZGVAI",
+      "itemType": "journalArticle",
+      "title": "Sceletium—A review update",
+      "year": "2008",
+      "DOI": "10.1016/j.jep.2008.07.043",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378874108004042",
+      "missing": []
+    },
+    {
+      "key": "D7SKP2QK",
+      "itemType": "journalArticle",
+      "title": "Psychophysiological Effects of Zembrin&lt;sup&gt;&#174;&lt;/Sup&gt;using Quantitative Eeg Source Density in Combination with Eye-Tracking in 60 Healthy Subjects. a Double-Blind, Randomized, Placebo-Controlled, 3-Armed Study with Parallel Design",
+      "year": "2016",
+      "DOI": "10.4236/nm.2016.73013",
+      "url": "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/nm.2016.73013",
+      "missing": [
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "6APCI66Z",
+      "itemType": "journalArticle",
+      "title": "Proof-of-Concept Randomized Controlled Study of Cognition Effects of the Proprietary Extract <i>Sceletium tortuosum</i> (Zembrin) Targeting Phosphodiesterase-4 in Cognitively Healthy Subjects: Implications for Alzheimer’s Dementia",
+      "year": "2014",
+      "DOI": "10.1155/2014/682014",
+      "url": "http://www.hindawi.com/journals/ecam/2014/682014/",
+      "missing": []
+    },
+    {
+      "key": "5RR7H3S9",
+      "itemType": "journalArticle",
+      "title": "Biopiracy: Crying wolf or a lever for equity and conservation?",
+      "year": "2023",
+      "DOI": "10.1016/j.respol.2022.104674",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0048733322001950",
+      "missing": []
+    },
+    {
+      "key": "L7RH6HBG",
+      "itemType": "journalArticle",
+      "title": "Treatment of anxiety and depression: medicinal plants in retrospect",
+      "year": "2016",
+      "DOI": "10.1111/fcp.12186",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/fcp.12186",
+      "missing": []
+    },
+    {
+      "key": "P87BUEC3",
+      "itemType": "journalArticle",
+      "title": "Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different soilless growing media and fertigation regimes in hydroponics",
+      "year": "2020",
+      "DOI": "10.1016/j.heliyon.2020.e05479",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2405844020323227",
+      "missing": []
+    },
+    {
+      "key": "ATLUADAT",
+      "itemType": "journalArticle",
+      "title": "PDE4-inhibitors: A novel, targeted therapy for obstructive airways disease",
+      "year": "2011",
+      "DOI": "10.1016/j.pupt.2010.12.011",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S109455391100006X",
+      "missing": [
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "GYSGH68W",
+      "itemType": "journalArticle",
+      "title": "To ferment or not to ferment Sceletium tortuosum – Do our ancestors hold the answer?",
+      "year": "2019",
+      "DOI": "10.1016/j.sajb.2018.10.011",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0254629918310743",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "ZPFFF84C",
+      "itemType": "journalArticle",
+      "title": "Some ethnopharmacological notes on African hallucinogens",
+      "year": "1996",
+      "DOI": "10.1016/0378-8741(95)01337-7",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/0378874195013377",
+      "missing": []
+    },
+    {
+      "key": "NRNRYM48",
+      "itemType": "bookSection",
+      "title": "The Importance of <i>Sceletium tortuosum</i> (L.) N.E. Brown and Its Viability as a Traditional African Medicinal Plant",
+      "year": "2022",
+      "DOI": "",
+      "url": "https://www.intechopen.com/chapters/75402",
+      "missing": []
+    },
+    {
+      "key": "2UCEFY44",
+      "itemType": "journalArticle",
+      "title": "Royal pharmaceuticals: Bioprospecting, rights, and traditional authority in South Africa",
+      "year": "2016",
+      "DOI": "10.1111/amet.12344",
+      "url": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12344",
+      "missing": []
+    },
+    {
+      "key": "9SQES6RU",
+      "itemType": "journalArticle",
+      "title": "Phosphodiesterase-4 enzyme as a therapeutic target in neurological disorders",
+      "year": "2020",
+      "DOI": "10.1016/j.phrs.2020.105078",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1043661820313864",
+      "missing": [
+        "issue",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "TMZGBY56",
+      "itemType": "journalArticle",
+      "title": "Sceletium Tortuosum: Effects on Central Nervous System and Related Disease",
+      "year": "2020",
+      "DOI": "10.5281/ZENODO.4015978",
+      "url": "https://zenodo.org/record/4015978",
+      "missing": [
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "VUG479CW",
+      "itemType": "journalArticle",
+      "title": "Self-Medication and the Trade in Medicine within a Multi-Ethnic Context: A Case Study of South Africa from the Mid-Nineteenth to Mid-Twentieth Centuries",
+      "year": "2005",
+      "DOI": "10.1093/shm/hki045",
+      "url": "http://academic.oup.com/shm/article/18/3/439/1691499/SelfMedication-and-the-Trade-in-Medicine-within-a",
+      "missing": [
+        "journalAbbreviation"
+      ]
+    },
+    {
+      "key": "VQ98FK7W",
+      "itemType": "journalArticle",
+      "title": "Effect of Zembrin((R)) and four of its alkaloid constituents on electric excitability of the rat hippocampus",
+      "year": "2018",
+      "DOI": "10.1016/j.jep.2018.05.010",
+      "url": "https://doi.org/10.1016/j.jep.2018.05.010",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "34KZ7KEU",
+      "itemType": "journalArticle",
+      "title": "Sceletium tortuosum may delay chronic disease progression via alkaloid-dependent antioxidant or anti-inflammatory action",
+      "year": "2018",
+      "DOI": "10.1007/s13105-018-0620-6",
+      "url": "https://doi.org/10.1007/s13105-018-0620-6",
+      "missing": []
+    },
+    {
+      "key": "TU9LFIKC",
+      "itemType": "journalArticle",
+      "title": "A toxicological safety assessment of a standardized extract of Sceletium tortuosum (Zembrin(R)) in rats",
+      "year": "2014",
+      "DOI": "10.1016/j.fct.2014.09.017",
+      "url": "https://doi.org/10.1016/j.fct.2014.09.017",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "LEKF9AFQ",
+      "itemType": "journalArticle",
+      "title": "Ergogenic Effects of 8 Days of Sceletium Tortuosum Supplementation on Mood, Visual Tracking, and Reaction in Recreationally Trained Men and Women",
+      "year": "2020",
+      "DOI": "10.1519/JSC.0000000000003693",
+      "url": "https://doi.org/10.1519/JSC.0000000000003693",
+      "missing": [
+        "journalAbbreviation"
+      ]
+    },
+    {
+      "key": "LG7HAEHM",
+      "itemType": "journalArticle",
+      "title": "Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum and its principal alkaloids",
+      "year": "2011",
+      "DOI": "10.1016/j.jep.2011.07.035",
+      "url": "https://doi.org/10.1016/j.jep.2011.07.035",
+      "missing": []
+    },
+    {
+      "key": "UAVQBZQN",
+      "itemType": "journalArticle",
+      "title": "Sceletium tortuosum-derived mesembrine significantly contributes to the anxiolytic effect of Zembrin(R), but its anti-depressant effect may require synergy of multiple plant constituents",
+      "year": "2024",
+      "DOI": "10.1016/j.jep.2023.117113",
+      "url": "https://doi.org/10.1016/j.jep.2023.117113",
+      "missing": []
+    },
+    {
+      "key": "E7ZS8S9H",
+      "itemType": "journalArticle",
+      "title": "An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin®) versus escitalopram in the Flinders Sensitive Line rat",
+      "year": "2021",
+      "DOI": "10.1016/j.jep.2021.114550",
+      "url": "https://doi.org/10.1016/j.jep.2021.114550",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "FH4ETKZG",
+      "itemType": "journalArticle",
+      "title": "Exploring Zembrin Extract Derived from South African Plant, Sceletium tortuosum in Targeting cAMP-driven Phosphodiesterase (PDE) Signaling in Alzheimerâs Disease: Synthesis of Evidence",
+      "year": "2015",
+      "DOI": "10.4172/2471-4372.1000104",
+      "url": "https://doi.org/10.4172/2471-4372.1000104",
+      "missing": [
+        "pages"
+      ]
+    },
+    {
+      "key": "37CUBW29",
+      "itemType": "journalArticle",
+      "title": "High-mesembrine Sceletium extract (Trimesemine) is a monoamine releasing agent, rather than only a selective serotonin reuptake inhibitor",
+      "year": "2016",
+      "DOI": "10.1016/j.jep.2015.11.034",
+      "url": "https://doi.org/10.1016/j.jep.2015.11.034",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "7ABDPJLE",
+      "itemType": "journalArticle",
+      "title": "Pharmacology of Herbal Sexual Enhancers: A Review of Psychiatric and Neurological Adverse Effects",
+      "year": "2020",
+      "DOI": "10.3390/ph13100309",
+      "url": "https://doi.org/10.3390/ph13100309",
+      "missing": []
+    },
+    {
+      "key": "ZHEB4IJQ",
+      "itemType": "journalArticle",
+      "title": "Emerging Roles of Complement in Psychiatric Disorders",
+      "year": "2019",
+      "DOI": "10.3389/fpsyt.2019.00573",
+      "url": "https://doi.org/10.3389/fpsyt.2019.00573",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "8MSAHTQ9",
+      "itemType": "journalArticle",
+      "title": "Electropharmacogram of Sceletium tortuosum extract based on spectral local field power in conscious freely moving rats",
+      "year": "2016",
+      "DOI": "10.1016/j.jep.2015.11.036",
+      "url": "https://doi.org/10.1016/j.jep.2015.11.036",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "PL9SED9W",
+      "itemType": "journalArticle",
+      "title": "Immunomodulatory effects of Sceletium tortuosum (Trimesemine) elucidated in vitro: Implications for chronic disease",
+      "year": "2018",
+      "DOI": "10.1016/j.jep.2017.12.020",
+      "url": "https://doi.org/10.1016/j.jep.2017.12.020",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "A9TWH9PJ",
+      "itemType": "journalArticle",
+      "title": "The phosphodiesterase-4 (PDE4) inhibitor rolipram decreases ethanol seeking and consumption in alcohol-preferring Fawn-Hooded rats",
+      "year": "2012",
+      "DOI": "10.1111/j.1530-0277.2012.01845.x",
+      "url": "https://doi.org/10.1111/j.1530-0277.2012.01845.x",
+      "missing": []
+    },
+    {
+      "key": "WL758W7P",
+      "itemType": "journalArticle",
+      "title": "Sceletium for Managing Anxiety, Depression and Cognitive Impairment: A Traditional Herbal Medicine in Modern-Day Regulatory Systems",
+      "year": "2021",
+      "DOI": "10.2174/1570159X19666210215124737",
+      "url": "https://doi.org/10.2174/1570159X19666210215124737",
+      "missing": []
+    },
+    {
+      "key": "2PG887HB",
+      "itemType": "journalArticle",
+      "title": "Correlates of hyperdiversity in southern African ice plants (Aizoaceae)",
+      "year": "2014",
+      "DOI": "10.1111/boj.12117",
+      "url": "https://doi.org/10.1111/boj.12117",
+      "missing": []
+    },
+    {
+      "key": "VCLBTQ7B",
+      "itemType": "journalArticle",
+      "title": "The effects of Sceletium tortuosum in an in vivo model of psychological stress",
+      "year": "2011",
+      "DOI": "10.1016/j.jep.2010.08.058",
+      "url": "https://doi.org/10.1016/j.jep.2010.08.058",
+      "missing": []
+    },
+    {
+      "key": "BNN6AYPA",
+      "itemType": "journalArticle",
+      "title": "Review on plants with CNS-effects used in traditional South African medicine against mental diseases",
+      "year": "2008",
+      "DOI": "10.1016/j.jep.2008.08.010",
+      "url": "https://doi.org/10.1016/j.jep.2008.08.010",
+      "missing": []
+    },
+    {
+      "key": "CEIMDVWN",
+      "itemType": "journalArticle",
+      "title": "In Vitro Permeation of Mesembrine Alkaloids from Sceletium tortuosum across Porcine Buccal, Sublingual, and Intestinal Mucosa",
+      "year": "2011",
+      "DOI": "10.1055/s-0031-1280367",
+      "url": "https://doi.org/10.1055/s-0031-1280367",
+      "missing": []
+    },
+    {
+      "key": "HBBIKLZA",
+      "itemType": "journalArticle",
+      "title": "Ethnopharmacology and biological activities of the Aizoaceae",
+      "year": "2023",
+      "DOI": "10.1016/j.jep.2022.115988",
+      "url": "https://doi.org/10.1016/j.jep.2022.115988",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "VRJKNGQD",
+      "itemType": "journalArticle",
+      "title": "A network pharmacology-based approach to explore the therapeutic potential of Sceletium tortuosum in the treatment of neurodegenerative disorders",
+      "year": "2022",
+      "DOI": "10.1371/journal.pone.0273583",
+      "url": "https://doi.org/10.1371/journal.pone.0273583",
+      "missing": []
+    },
+    {
+      "key": "VZK2HCYA",
+      "itemType": "journalArticle",
+      "title": "Addiction and the Brain: Development, Not Disease",
+      "year": "2017",
+      "DOI": "10.1007/s12152-016-9293-4",
+      "url": "https://doi.org/10.1007/s12152-016-9293-4",
+      "missing": []
+    },
+    {
+      "key": "DMPRZF77",
+      "itemType": "journalArticle",
+      "title": "Mesembrine alkaloids: Review of their occurrence, chemistry, and pharmacology",
+      "year": "2017",
+      "DOI": "10.1016/j.jep.2016.12.004",
+      "url": "https://doi.org/10.1016/j.jep.2016.12.004",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "UAKMPE3E",
+      "itemType": "journalArticle",
+      "title": "Out of southern Africa: Origin, biogeography and age of the Aizooideae (Aizoaceae)",
+      "year": "2017",
+      "DOI": "https://doi.org/10.1016/j.ympev.2016.12.016",
+      "url": "https://doi.org/https://doi.org/10.1016/j.ympev.2016.12.016",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "WRFE8XR6",
+      "itemType": "journalArticle",
+      "title": "Different Histories of Buchu: Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Plants",
+      "year": "2007",
+      "DOI": "10.3197/096734007x228309",
+      "url": "https://doi.org/10.3197/096734007x228309",
+      "missing": []
+    },
+    {
+      "key": "U7TL97SQ",
+      "itemType": "journalArticle",
+      "title": "The future is written: impact of scripts on the cognition, selection, knowledge and transmission of medicinal plant use and its implications for ethnobotany and ethnopharmacology",
+      "year": "2011",
+      "DOI": "10.1016/j.jep.2011.01.017",
+      "url": "https://doi.org/10.1016/j.jep.2011.01.017",
+      "missing": []
+    },
+    {
+      "key": "CLMS4FPW",
+      "itemType": "journalArticle",
+      "title": "Neurobiology of addiction: a neurocircuitry analysis",
+      "year": "2016",
+      "DOI": "10.1016/S2215-0366(16)00104-8",
+      "url": "https://doi.org/10.1016/S2215-0366(16)00104-8",
+      "missing": []
+    },
+    {
+      "key": "T4SLZZGI",
+      "itemType": "journalArticle",
+      "title": "Mesembryanthemum tortuosum L. alkaloids modify anxiety-like behaviour in a zebrafish model",
+      "year": "2022",
+      "DOI": "10.1016/j.jep.2022.115068",
+      "url": "https://doi.org/10.1016/j.jep.2022.115068",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "3HM6H2KZ",
+      "itemType": "journalArticle",
+      "title": "Mesembrine: The archetypal psycho-active Sceletium alkaloid",
+      "year": "2019",
+      "DOI": "10.1016/j.phytochem.2019.112061",
+      "url": "https://doi.org/10.1016/j.phytochem.2019.112061",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "FZJVY4ER",
+      "itemType": "journalArticle",
+      "title": "GC-MS, LC-MS(n), LC-high resolution-MS(n), and NMR studies on the metabolism and toxicological detection of mesembrine and mesembrenone, the main alkaloids of the legal high \"Kanna\" isolated from Sceletium tortuosum",
+      "year": "2015",
+      "DOI": "10.1007/s00216-014-8109-9",
+      "url": "https://doi.org/10.1007/s00216-014-8109-9",
+      "missing": []
+    },
+    {
+      "key": "KSWA22Y3",
+      "itemType": "journalArticle",
+      "title": "A review of Khoi-San and Cape Dutch medical ethnobotany",
+      "year": "2008",
+      "DOI": "10.1016/j.jep.2008.07.021",
+      "url": "https://doi.org/10.1016/j.jep.2008.07.021",
+      "missing": []
+    },
+    {
+      "key": "JZQJB99V",
+      "itemType": "journalArticle",
+      "title": "A broad review of commercially important southern African medicinal plants",
+      "year": "2008",
+      "DOI": "10.1016/j.jep.2008.05.029",
+      "url": "https://doi.org/10.1016/j.jep.2008.05.029",
+      "missing": []
+    },
+    {
+      "key": "56LBZIK2",
+      "itemType": "journalArticle",
+      "title": "Acute effects of Sceletium tortuosum (Zembrin), a dual 5-HT reuptake and PDE4 inhibitor, in the human amygdala and its connection to the hypothalamus",
+      "year": "2013",
+      "DOI": "10.1038/npp.2013.183",
+      "url": "https://doi.org/10.1038/npp.2013.183",
+      "missing": []
+    },
+    {
+      "key": "6YRN4AN7",
+      "itemType": "journalArticle",
+      "title": "Antidepressant effects of inhibitors of cAMP phosphodiesterase (PDE4)",
+      "year": "2004",
+      "DOI": "10.1016/j.tips.2004.01.003",
+      "url": "https://doi.org/10.1016/j.tips.2004.01.003",
+      "missing": []
+    },
+    {
+      "key": "QV32KKDH",
+      "itemType": "journalArticle",
+      "title": "A randomized, double-blind, parallel-group, placebo-controlled trial of Extract Sceletium tortuosum (Zembrin) in healthy adults",
+      "year": "2013",
+      "DOI": "10.1089/acm.2012.0185",
+      "url": "https://doi.org/10.1089/acm.2012.0185",
+      "missing": []
+    },
+    {
+      "key": "MJLQ35DQ",
+      "itemType": "journalArticle",
+      "title": "A Chewable Cure \"Kanna\": Biological and Pharmaceutical Properties of Sceletium tortuosum",
+      "year": "2021",
+      "DOI": "10.3390/molecules26092557",
+      "url": "https://doi.org/10.3390/molecules26092557",
+      "missing": []
+    },
+    {
+      "key": "TNGJH4EP",
+      "itemType": "journalArticle",
+      "title": "Formulation of Medicated Chewing Gum Containing Sceletium tortuosum and Process Optimization Utilizing the SeDeM Diagram Expert System",
+      "year": "2021",
+      "DOI": "10.1208/s12249-021-01961-8",
+      "url": "https://doi.org/10.1208/s12249-021-01961-8",
+      "missing": []
+    },
+    {
+      "key": "G5WR33VF",
+      "itemType": "journalArticle",
+      "title": "Modulation of glucocorticoid, mineralocorticoid and androgen production in H295 cells by Trimesemine, a mesembrine-rich Sceletium extract",
+      "year": "2016",
+      "DOI": "10.1016/j.jep.2015.11.033",
+      "url": "https://doi.org/10.1016/j.jep.2015.11.033",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "L7KU5JBI",
+      "itemType": "journalArticle",
+      "title": "(52) Kh-001 but Not Other Tested Alkaloids Derived from Sceletium Tortuosum Delays Ejaculation in the Rat Para-Chloroamphetamine (Pca) Model",
+      "year": "2023",
+      "DOI": "10.1093/jsxmed/qdad062.002",
+      "url": "https://doi.org/10.1093/jsxmed/qdad062.002",
+      "missing": [
+        "pages",
+        "journalAbbreviation"
+      ]
+    },
+    {
+      "key": "7AZ89ALV",
+      "itemType": "journalArticle",
+      "title": "How decolonization could reshape South African science",
+      "year": "2018",
+      "DOI": "10.1038/d41586-018-01696-w",
+      "url": "https://doi.org/10.1038/d41586-018-01696-w",
+      "missing": [
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "JX4VSN9W",
+      "itemType": "journalArticle",
+      "title": "Sceletium alkaloids. Part 7. Structure and absolute stereochemistry of (–)-mesembrane and 3′-methoxy-4′-O-methyljoubertiamine, two minor bases from S. namaquense L. Bolus: X-ray analysis of (–)mesembrane hydrochloride monohydrate",
+      "year": "1977",
+      "DOI": "10.1039/P29770001098",
+      "url": "https://doi.org/10.1039/P29770001098",
+      "missing": [
+        "volume"
+      ]
+    },
+    {
+      "key": "54Z9JPAK",
+      "itemType": "journalArticle",
+      "title": "Sceletium tortuosum and depression: mechanisms elucidated",
+      "year": "2016",
+      "DOI": "10.1055/s-0036-1596865",
+      "url": "https://doi.org/10.1055/s-0036-1596865",
+      "missing": []
+    },
+    {
+      "key": "HMWF8EQP",
+      "itemType": "journalArticle",
+      "title": "GC-MS, LC-MSn , LC-high resolution-MSn , and NMR studies on the metabolism and toxicological detection of mesembrine and mesembrenone, the main alkaloids of the legal high “Kanna” isolated from Sceletium tortuosum",
+      "year": "2014",
+      "DOI": "10.1002/dta.1621",
+      "url": "https://doi.org/10.1002/dta.1621",
+      "missing": []
+    },
+    {
+      "key": "P3KWDR62",
+      "itemType": "journalArticle",
+      "title": "Effect of Zembrin® and four of its alkaloid constituents on electric excitability of the rat hippocampus",
+      "year": "2018",
+      "DOI": "10.1186/1471-2210-11-2",
+      "url": "https://doi.org/10.1186/1471-2210-11-2",
+      "missing": [
+        "pages",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "F5E36E83",
+      "itemType": "journalArticle",
+      "title": "HHS Public Access",
+      "year": "2018",
+      "DOI": "10.1016/j.biopsych.2015.10.024",
+      "url": "https://doi.org/10.1016/j.biopsych.2015.10.024",
+      "missing": []
+    },
+    {
+      "key": "NKB2QZHU",
+      "itemType": "journalArticle",
+      "title": "NMR structural elucidation of channaine, an unusual alkaloid from Sceletium tortuosum",
+      "year": "2018",
+      "DOI": "10.1016/j.phytol.2017.11.018",
+      "url": "https://doi.org/10.1016/j.phytol.2017.11.018",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "Q7A8MI2Z",
+      "itemType": "journalArticle",
+      "title": "Phylogenetic analysis and diversity of novel endophytic fungi isolated from medicinal plant Sceletium tortuosum",
+      "year": "2018",
+      "DOI": "10.1016/j.phytol.2018.06.004",
+      "url": "https://doi.org/10.1016/j.phytol.2018.06.004",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "SNGSI8BD",
+      "itemType": "journalArticle",
+      "title": "Journal of Advanced Pharmacy Research",
+      "year": "2019",
+      "DOI": "10.21608/APRH.2019.12303.1083",
+      "url": "https://doi.org/10.21608/APRH.2019.12303.1083",
+      "missing": []
+    },
+    {
+      "key": "4P9WQ5ZT",
+      "itemType": "journalArticle",
+      "title": "Sceletorines A and B, two minor novel dimeric alkaloids of Mesembryanthemum tortuosum (synonym Sceletium tortuosum)",
+      "year": "2019",
+      "DOI": "10.1016/j.phytol.2019.03.013",
+      "url": "https://doi.org/10.1016/j.phytol.2019.03.013",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "N3RNZPN2",
+      "itemType": "journalArticle",
+      "title": "Sceletium tortuosum (Zembrin@) ameliorates experimentally induced anxiety in healthy volunteers",
+      "year": "2020",
+      "DOI": "10.1111/j.2044-8341.1974.tb02285.x",
+      "url": "https://doi.org/10.1111/j.2044-8341.1974.tb02285.x",
+      "missing": []
+    },
+    {
+      "key": "X7JNBBNV",
+      "itemType": "journalArticle",
+      "title": "In vitro and ex vivo vegetative propagation and cytokinin profles of Sceletium tortuosum (L.) N. E. Br.: a South African medicinal plant",
+      "year": "2021",
+      "DOI": "10.1155/2014/275028",
+      "url": "https://doi.org/10.1155/2014/275028",
+      "missing": [
+        "issue"
+      ]
+    },
+    {
+      "key": "4DU2H5RZ",
+      "itemType": "journalArticle",
+      "title": "Chapter",
+      "year": "2023",
+      "DOI": "10.5772/intechopen.96473",
+      "url": "https://doi.org/10.5772/intechopen.96473",
+      "missing": [
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "XRQJB4CU",
+      "itemType": "journalArticle",
+      "title": "Chapter",
+      "year": "2023",
+      "DOI": "10.5772/intechopen.96473",
+      "url": "https://doi.org/10.5772/intechopen.96473",
+      "missing": [
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "9IUDZUXZ",
+      "itemType": "journalArticle",
+      "title": "Chapter",
+      "year": "2023",
+      "DOI": "10.5772/intechopen.82049",
+      "url": "https://doi.org/10.5772/intechopen.82049",
+      "missing": [
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "M3UD3NZ8",
+      "itemType": "journalArticle",
+      "title": "A conceptual framework for psychosocial health management grounded in the therapeutic merits of indigenous KhoiSan health dialogues",
+      "year": "2021",
+      "DOI": "10.1016/j.ijintrel.2017.04.009",
+      "url": "https://doi.org/10.1016/j.ijintrel.2017.04.009",
+      "missing": [
+        "issue",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "DMQ37DEW",
+      "itemType": "journalArticle",
+      "title": "Sceletium tortuosum: A review on its phytochemistry, pharmacokinetics, biological and clinical activities",
+      "year": "2021",
+      "DOI": "10.1517/17425247.2012.636801",
+      "url": "https://doi.org/10.1517/17425247.2012.636801",
+      "missing": []
+    },
+    {
+      "key": "TPC4WTAM",
+      "itemType": "journalArticle",
+      "title": "Chapter",
+      "year": "2023",
+      "DOI": "10.5772/intechopen.82049",
+      "url": "https://doi.org/10.5772/intechopen.82049",
+      "missing": [
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "TNAQGDVX",
+      "itemType": "journalArticle",
+      "title": "Sceletium Plant Species: Alkaloidal Components, Chemistry and Ethnopharmacology",
+      "year": "2023",
+      "DOI": "10.5772/66482",
+      "url": "https://doi.org/10.5772/66482",
+      "missing": [
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "DSKD6U7Z",
+      "itemType": "journalArticle",
+      "title": "The genetic prehistory of southern Africa",
+      "year": "2024",
+      "DOI": "10.1534/genetics.112.145037",
+      "url": "https://doi.org/10.1534/genetics.112.145037",
+      "missing": [
+        "journalAbbreviation"
+      ]
+    },
+    {
+      "key": "RMJ8ICM8",
+      "itemType": "journalArticle",
+      "title": "Chapter",
+      "year": "2023",
+      "DOI": "10.5772/intechopen.96473",
+      "url": "https://doi.org/10.5772/intechopen.96473",
+      "missing": [
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "7BPXGRNI",
+      "itemType": "journalArticle",
+      "title": "Effect of Zembrin® and four of its alkaloid constituents on electric excitability of the rat hippocampus",
+      "year": "2025",
+      "DOI": "10.1186/1471-2210-11-2",
+      "url": "https://doi.org/10.1186/1471-2210-11-2",
+      "missing": [
+        "pages",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "U6ZWG268",
+      "itemType": "journalArticle",
+      "title": "Immunomodulatory effects of Sceletium tortuosum (Trimesemine™) elucidated in vitro: Implications for chronic disease",
+      "year": "2025",
+      "DOI": "10.1007/s11920-014-0541-1",
+      "url": "https://doi.org/10.1007/s11920-014-0541-1",
+      "missing": [
+        "pages"
+      ]
+    },
+    {
+      "key": "BDBHAC4G",
+      "itemType": "journalArticle",
+      "title": "Variabilities in alkaloid concentration of Sceletium tortuosum (L.) N.E. Br in response to different soilless growing media and fertigation regimes in hydroponics",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "TAVIEHZF",
+      "itemType": "journalArticle",
+      "title": "The chemotypic variation of Sceletium tortuosum alkaloids and commercial product formulations",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "XIPFIQND",
+      "itemType": "journalArticle",
+      "title": "Review Pharmacology of Herbal Sexual Enhancers: A Review of Psychiatric and Neurological Adverse Effects",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "24KV43NN",
+      "itemType": "journalArticle",
+      "title": "HPLC Analysis of Mesembrine-Type Alkaloids in Sceletium Plant Material Used as An African Traditional Medicine",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "3JZ68NUH",
+      "itemType": "journalArticle",
+      "title": "Review on plants with CNS-effects used in traditional South African medicine against mental diseases",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "ND3Z59M8",
+      "itemType": "journalArticle",
+      "title": "Correlates of hyperdiversity in southern African ice plants (Aizoaceae)",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "7F633RFJ",
+      "itemType": "journalArticle",
+      "title": "Biopiracy: Crying wolf or a lever for equity and conservation?",
+      "year": "2025",
+      "DOI": "10.1016/S0921-8009(01",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "4GEB5GG7",
+      "itemType": "journalArticle",
+      "title": "An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin $\\textsuperscript { \\textregistered }$ ) versus escitalopram in the Flinders Sensitive Line rat.",
+      "year": "2025",
+      "DOI": "10.1016/S0278-",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "KJ5ZPCPQ",
+      "itemType": "journalArticle",
+      "title": "A Chewable Cure “Kanna”: Biological and Pharmaceutical Properties of Sceletium tortuosum",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "XQI4NID2",
+      "itemType": "journalArticle",
+      "title": "PDE4-inhibitors: A novel, targeted therapy for obstructive airways disease",
+      "year": "2025",
+      "DOI": "10.1016/j.pupt.2010.12.011฀",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "DQCW643Z",
+      "itemType": "journalArticle",
+      "title": "Out of southern Africa: Origin, biogeography and age of the Aizooideae (Aizoaceae)",
+      "year": "2025",
+      "DOI": "10.1016/j.ympev.2016.12",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "GP7SM3U4",
+      "itemType": "journalArticle",
+      "title": "Novel psychoactive substances of interest for psychiatry",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "WW7W7BFF",
+      "itemType": "journalArticle",
+      "title": "Review",
+      "year": "2025",
+      "DOI": "10.1016/S0040-4039(01",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "UGJRG5GB",
+      "itemType": "journalArticle",
+      "title": "Sceletium—A review update",
+      "year": "2025",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "QTXAHI4X",
+      "itemType": "journalArticle",
+      "title": "Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Human Amygdala and its Connection to the Hypothalamus",
+      "year": "2025",
+      "DOI": "10.1038/npp.2013.183;",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "NKE8PWRK",
+      "itemType": "journalArticle",
+      "title": "An acute dose-ranging evaluation of the antidepressant properties of Sceletium tortuosum (Zembrin $\\textsuperscript { \\textregistered }$ ） versus escitalopram in the Flinders Sensitive Line rat.",
+      "year": "2021",
+      "DOI": "10.1016/S0278-",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "JTKB7HXZ",
+      "itemType": "journalArticle",
+      "title": "Taxonomic significance of leaves in family Aizoaceae",
+      "year": "2020",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "4EV2SS5X",
+      "itemType": "journalArticle",
+      "title": "PDE inhibition in distinct cell types to reclaim the balance of synaptic plasticity",
+      "year": "2020",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "K8SEQ3A3",
+      "itemType": "journalArticle",
+      "title": "Ethnopharmacology and biological activities of the Aizoaceae",
+      "year": "2022",
+      "DOI": "10.4103/pr",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "DMTCI27I",
+      "itemType": "journalArticle",
+      "title": "In Silico Docking Analysis of Few Antidepressant Phytoconstituents of South African Endemic Plant Sceletium tortuosum",
+      "year": "2021",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "TSSUAZ2B",
+      "itemType": "journalArticle",
+      "title": "Neurocircuitry of Addiction",
+      "year": "2019",
+      "DOI": "10.1038/npp.2009.110;",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "UJSIGJMU",
+      "itemType": "journalArticle",
+      "title": "Review",
+      "year": "2019",
+      "DOI": "10.1016/S0040-4039(01",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "93WGBRHI",
+      "itemType": "journalArticle",
+      "title": "Acute Effects of Sceletium tortuosum (Zembrin), a Dual 5-HT Reuptake and PDE4 Inhibitor, in the Human Amygdala and its Connection to the Hypothalamus",
+      "year": "2019",
+      "DOI": "10.1038/npp.2013.183;",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "MKI7EXTD",
+      "itemType": "journalArticle",
+      "title": "HHS Public Access",
+      "year": "2017",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "D3XS6NS8",
+      "itemType": "journalArticle",
+      "title": "Khoisan wind: hunting and healing",
+      "year": "2016",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "BIEXTRV2",
+      "itemType": "journalArticle",
+      "title": "The Phosphodiesterase-4 (PDE4) Inhibitor Rolipram Decreases Ethanol Seeking and Consumption in Alcohol-preferring FawnHooded Rats",
+      "year": "2015",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "8MMVQ4P6",
+      "itemType": "journalArticle",
+      "title": "Proof-of-Concept Randomized Controlled Study of Cognition Effects of the Proprietary Extract Sceletium tortuosum (Zembrin) Targeting Phosphodiesterase-4 in Cognitively Healthy Subjects: Implications for Alzheimer's Dementia",
+      "year": "2015",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "BIPIQPCW",
+      "itemType": "journalArticle",
+      "title": "S-EM-8-2-165-14-272-Sobiecki-J-F-Tx[7].pmd",
+      "year": "2014",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "V5VU2DAA",
+      "itemType": "journalArticle",
+      "title": "Different Histories of Buchu: Euro-American Appropriation of San and Khoekhoe Knowledge of Buchu Plants",
+      "year": "2012",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "TIJX9R6S",
+      "itemType": "journalArticle",
+      "title": "The effects of Sceletium tortuosum in an in vivo model of psychological stress",
+      "year": "2010",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "SSDXIPJ5",
+      "itemType": "journalArticle",
+      "title": "The Botanical and Chemical Distribution of Hallucinogens\\*",
+      "year": "2010",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "ST2VH9V7",
+      "itemType": "journalArticle",
+      "title": "The Botanical and Chemical Distribution of Hallucinogens\\*",
+      "year": "2010",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "65EEA4JV",
+      "itemType": "journalArticle",
+      "title": "Phosphodiesterase-4D Knock-Out and RNA Interference-Mediated Knock-Down Enhance Memory and Increase Hippocampal Neurogenesis via Increased cAMP Signaling",
+      "year": "2010",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "Z8BHHRG2",
+      "itemType": "journalArticle",
+      "title": "The narrow-leaf syndrome: a functional and evolutionary approach to the form of fog-harvesting rosette plants",
+      "year": "2007",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "SQSSQBER",
+      "itemType": "journalArticle",
+      "title": "Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Mesembrane and $\\pmb { 3 ^ { \\prime } }$ -Methoxy- $\\pmb { 4 } ^ { \\prime } \\pmb { - 0 }$ -methyljoubertiamine, Two Minor Bases from S. Namaquense L. Bolus: $\\pmb { \\chi }$ Ray Analysis of (一)- Mesembrane Hydrochloride Monohydrate",
+      "year": "2003",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "RXUDSBJW",
+      "itemType": "journalArticle",
+      "title": "The Botanical and Chemical Distribution of Hallucinogens\\*",
+      "year": "2010",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "CC9Z4VRW",
+      "itemType": "journalArticle",
+      "title": "REVIEW",
+      "year": "2008",
+      "DOI": "10.1038/bjp.2008.307;",
+      "url": "",
+      "missing": [
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "GT3EU8D2",
+      "itemType": "journalArticle",
+      "title": "Some ethnopharmacological notes on African hallucinogens",
+      "year": "2003",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN"
+      ]
+    },
+    {
+      "key": "QP38TVZ8",
+      "itemType": "journalArticle",
+      "title": "Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Mesembrane and $\\pmb { 3 ^ { \\prime } }$ -Methoxy- $\\pmb { 4 } ^ { \\prime } \\pmb { - 0 }$ -methyljoubertiamine, Two Minor Bases from S. Namaquense L. Bolus: $\\pmb { \\chi }$ Ray Analysis of (一)- Mesembrane Hydrochloride Monohydrate",
+      "year": "2003",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    },
+    {
+      "key": "BZK5AHID",
+      "itemType": "journalArticle",
+      "title": "Sceletium Alkaloids. Part 7.1 Structure and Absolute Stereochemistry of (-)-Mesembrane and $\\pmb { 3 ^ { \\prime } }$ -Methoxy- $\\pmb { 4 } ^ { \\prime } \\pmb { - 0 }$ -methyljoubertiamine, Two Minor Bases from S. Namaquense L. Bolus: $\\pmb { \\chi }$ Ray Analysis of (一)- Mesembrane Hydrochloride Monohydrate",
+      "year": "2003",
+      "DOI": "",
+      "url": "",
+      "missing": [
+        "identifier",
+        "publicationTitle",
+        "volume",
+        "issue",
+        "pages",
+        "journalAbbreviation",
+        "ISSN",
+        "abstractNote"
+      ]
+    }
+  ]
+}

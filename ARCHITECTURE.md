@@ -56,7 +56,7 @@ Decolonial Theory ──┘    Data sovereignty
 | **R Environment** | ✅ Complete | 98/100 | sf + brms + tidyverse + metafor |
 | **Python Environment** | ✅ Complete | 95/100 | RDKit + scikit-learn + 150+ packages |
 | **Backup System** | ✅ Automated | 100/100 | 3-2-1 rule, daily cron |
-| **Literature Pipeline** | 🔄 In Progress | 85/100 | 142 PDFs extracted, Zotero pending |
+| **Literature Pipeline** | ✅ Complete | 92/100 | MinerU extractions + Zotero import & enrichment + CI audit/maintenance |
 | **Analysis Scripts** | 📋 Planned | 70/100 | Templates ready, awaiting data |
 | **Overall Health** | **Production-Ready** | **98/100** | Ready for research work |
 

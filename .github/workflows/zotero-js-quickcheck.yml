@@ -1,0 +1,28 @@
+name: Zotero JS Quickcheck
+
+on:
+  workflow_dispatch:
+
+jobs:
+  quickcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run quickcheck
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ZOTERO_LIBRARY_ID: ${{ vars.ZOTERO_LIBRARY_ID }}
+          ZOTERO_LIBRARY_TYPE: ${{ vars.ZOTERO_LIBRARY_TYPE }}
+        run: |
+          node tools/zotero-js/quickcheck.js | tee quickcheck.log
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: zotero-js-quickcheck
+          path: quickcheck.log
+

@@ -112,6 +112,12 @@ KANNA/
 - [ACADEMIC-PLUGINS-SETUP.md](./ACADEMIC-PLUGINS-SETUP.md) - VoltAgent marketplace plugins
 - [INSTALLATION-SUMMARY-2025-10-18.md](./INSTALLATION-SUMMARY-2025-10-18.md) - Recent installation report
 
+**Zotero & Obsidian**:
+- [zotero-tools.md](./zotero-tools.md) - Zotero import, enrichment (Habanero), tag alignment, saved searches, audit
+- [zotfile-zutilo-migration.md](./zotfile-zutilo-migration.md) - Legacy attachment migration (ZotFile + Zutilo)
+- [obsidian-integration.md](./obsidian-integration.md) - Citation plugin, Zotero Integration, templates, dashboard
+- [github-tools.md](./github-tools.md) - Catalog of GitHub/Plugin tools and fit
+
 **Plugin Integration**:
 - [PLUGIN-INTEGRATION-PLAN.md](./PLUGIN-INTEGRATION-PLAN.md) - 63-page comprehensive plan
 - [PLUGIN-INTEGRATION-SUMMARY.md](./PLUGIN-INTEGRATION-SUMMARY.md) - Executive summary

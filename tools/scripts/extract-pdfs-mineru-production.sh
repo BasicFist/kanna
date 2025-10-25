@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # MinerU Production Extraction Script for KANNA Thesis
 # Created: October 6, 2025
+# Refactored: October 21, 2025 (MP-1 Phase 2)
 # Status: PRODUCTION-READY (DocLayout_YOLO + Kilo API)
 #
 # WORKING CONFIGURATION:
@@ -9,19 +10,29 @@
 # - Tables: RapidTable (working)
 # - LLM: Kilo API ready (not needed for text-only extraction)
 #
+# CONFIGURATION:
+# - Config: ~/LAB/academic/KANNA/tools/config/mineru/production.json
+# - Symlinked: ~/.config/mineru/mineru.json -> production.json
+# - Legacy: ~/magic-pdf.json -> ~/.config/mineru/mineru.json
+# - See: tools/config/mineru/CONFIG-FIELDS.md for field documentation
+#
 # Usage:
 #   ./extract-pdfs-mineru-production.sh [input_dir] [output_dir]
 #
 # Example:
 #   ./extract-pdfs-mineru-production.sh \
-#     ~/LAB/projects/KANNA/literature/pdfs/BIBLIOGRAPHIE \
-#     ~/LAB/projects/KANNA/literature/pdfs/extractions
+#     ~/LAB/academic/KANNA/literature/pdfs/BIBLIOGRAPHIE \
+#     ~/LAB/academic/KANNA/literature/pdfs/extractions
 
 set -Eeuo pipefail
 
+# Load shared library
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/pdf-common.sh"
+
 # Configuration
 LAB_HOME="${LAB_HOME:-$HOME/LAB}"
-PROJECT_ROOT="$LAB_HOME/projects/KANNA"
+PROJECT_ROOT="$LAB_HOME/academic/KANNA"
 LOG_DIR="$LAB_HOME/logs"
 CONDA_ENV="mineru"  # Dedicated environment for GPU-accelerated PDF extraction
 
@@ -29,13 +40,13 @@ CONDA_ENV="mineru"  # Dedicated environment for GPU-accelerated PDF extraction
 INPUT_DIR="${1:-$PROJECT_ROOT/literature/pdfs/BIBLIOGRAPHIE}"
 OUTPUT_DIR="${2:-$PROJECT_ROOT/literature/pdfs/extractions}"
 
-# Create directories
-mkdir -p "$OUTPUT_DIR"
-mkdir -p "$LOG_DIR"
+# Create directories using shared library
+create_output_dir "$OUTPUT_DIR" || exit 1
+create_output_dir "$LOG_DIR" || exit 1
 
-# Log file
+# Log file (set for library to use)
 TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-LOG_FILE="$LOG_DIR/mineru-extraction-$TIMESTAMP.log"
+export LOG_FILE="$LOG_DIR/mineru-extraction-$TIMESTAMP.log"
 
 # Verify MinerU config exists (support both legacy and new locations)
 CONFIG_CANDIDATES=(
@@ -53,17 +64,15 @@ for cfg in "${CONFIG_CANDIDATES[@]}"; do
 done
 
 if [ -z "$CONFIG_IN_USE" ]; then
-    cat <<'EOF' >&2
-ERROR: MinerU config not found.
-Expected at least one of:
-  - ~/magic-pdf.json
-  - ~/.config/mineru/magic-pdf.json
-  - ~/.config/mineru/mineru.json
-
-Create one using the configure scripts, for example:
-  mkdir -p ~/.config/mineru
-  cp ~/LAB/projects/KANNA/tools/templates/mineru.json ~/.config/mineru/mineru.json
-EOF
+    log "MinerU config not found" "ERROR"
+    log "Expected at least one of:" "ERROR"
+    log "  - ~/magic-pdf.json" "ERROR"
+    log "  - ~/.config/mineru/magic-pdf.json" "ERROR"
+    log "  - ~/.config/mineru/mineru.json" "ERROR"
+    log "" "ERROR"
+    log "Create one using:" "ERROR"
+    log "  mkdir -p ~/.config/mineru" "ERROR"
+    log "  ln -s ~/LAB/academic/KANNA/tools/config/mineru/production.json ~/.config/mineru/mineru.json" "ERROR"
     exit 1
 fi
 
@@ -78,8 +87,8 @@ if command -v mineru >/dev/null 2>&1; then
 elif command -v magic-pdf >/dev/null 2>&1; then
     MINERU_BIN="magic-pdf"
 else
-    echo "ERROR: Neither 'magic-pdf' nor 'mineru' command found in PATH." >&2
-    echo "Install MinerU with: pip install uv && uv pip install -U 'mineru[core]'" >&2
+    log "Neither 'magic-pdf' nor 'mineru' command found in PATH" "ERROR"
+    log "Install MinerU with: pip install uv && uv pip install -U 'mineru[core]'" "ERROR"
     exit 1
 fi
 
@@ -88,7 +97,7 @@ extract_pdf() {
     local pdf_file="$1"
     local pdf_name=$(basename "$pdf_file" .pdf)
 
-    echo "[$(date +%H:%M:%S)] Extracting: $pdf_name" | tee -a "$LOG_FILE"
+    log "Extracting: $pdf_name" "INFO"
 
     # Run MinerU with pipeline backend (GPU-accelerated YOLO+Unimernet+RapidTable)
     conda run -n "$CONDA_ENV" "$MINERU_BIN" \
@@ -100,28 +109,31 @@ extract_pdf() {
     local exit_code=$?
 
     if [ $exit_code -eq 0 ]; then
-        echo "  ✅ SUCCESS: $pdf_name" | tee -a "$LOG_FILE"
+        log "  ✅ SUCCESS: $pdf_name" "INFO"
         return 0
     else
-        echo "  ❌ FAILED: $pdf_name (exit code: $exit_code)" | tee -a "$LOG_FILE"
+        log "  ❌ FAILED: $pdf_name (exit code: $exit_code)" "ERROR"
         return 1
     fi
 }
 
 # Main extraction loop
-echo "=====================================" | tee "$LOG_FILE"
-echo "MinerU Production Extraction" | tee -a "$LOG_FILE"
-echo "=====================================" | tee -a "$LOG_FILE"
-echo "Input:  $INPUT_DIR" | tee -a "$LOG_FILE"
-echo "Output: $OUTPUT_DIR" | tee -a "$LOG_FILE"
-echo "Log:    $LOG_FILE" | tee -a "$LOG_FILE"
-echo "=====================================" | tee -a "$LOG_FILE"
-echo "" | tee -a "$LOG_FILE"
+START_TIME=$(date +%s)
 
-# Count PDFs
-TOTAL_PDFS=$(find "$INPUT_DIR" -maxdepth 1 -type f -name "*.pdf" | wc -l)
-echo "Found $TOTAL_PDFS PDFs to extract" | tee -a "$LOG_FILE"
-echo "" | tee -a "$LOG_FILE"
+log "=====================================" "INFO"
+log "MinerU Production Extraction" "INFO"
+log "=====================================" "INFO"
+log "Input:  $INPUT_DIR" "INFO"
+log "Output: $OUTPUT_DIR" "INFO"
+log "Config: $CONFIG_IN_USE" "INFO"
+log "Binary: $MINERU_BIN" "INFO"
+log "Log:    $LOG_FILE" "INFO"
+log "=====================================" "INFO"
+
+# Count PDFs using shared library
+TOTAL_PDFS=$(count_pdfs "$INPUT_DIR" "flat")
+log "Found $TOTAL_PDFS PDFs to extract" "INFO"
+log "" "INFO"
 
 # Extract all PDFs
 SUCCESSFUL=0
@@ -130,7 +142,7 @@ CURRENT=0
 
 while IFS= read -r pdf_file; do
     CURRENT=$((CURRENT + 1))
-    echo "[$CURRENT/$TOTAL_PDFS]" | tee -a "$LOG_FILE"
+    log "[$CURRENT/$TOTAL_PDFS]" "INFO"
 
     if extract_pdf "$pdf_file"; then
         SUCCESSFUL=$((SUCCESSFUL + 1))
@@ -138,23 +150,30 @@ while IFS= read -r pdf_file; do
         FAILED=$((FAILED + 1))
     fi
 
-    echo "" | tee -a "$LOG_FILE"
+    log "" "INFO"
 done < <(find "$INPUT_DIR" -maxdepth 1 -type f -name "*.pdf" | sort)
 
 # Summary
-echo "=====================================" | tee -a "$LOG_FILE"
-echo "Extraction Complete" | tee -a "$LOG_FILE"
-echo "=====================================" | tee -a "$LOG_FILE"
-echo "Total:      $TOTAL_PDFS" | tee -a "$LOG_FILE"
-echo "Successful: $SUCCESSFUL" | tee -a "$LOG_FILE"
-echo "Failed:     $FAILED" | tee -a "$LOG_FILE"
-echo "Success rate: $(( SUCCESSFUL * 100 / TOTAL_PDFS ))%" | tee -a "$LOG_FILE"
-echo "=====================================" | tee -a "$LOG_FILE"
-echo "Log file: $LOG_FILE" | tee -a "$LOG_FILE"
+END_TIME=$(date +%s)
+DURATION=$(format_duration $((END_TIME - START_TIME)))
+SUCCESS_RATE=$(calculate_success_rate "$SUCCESSFUL" "$TOTAL_PDFS")
+
+log "=====================================" "INFO"
+log "Extraction Complete" "INFO"
+log "=====================================" "INFO"
+log "Total:        $TOTAL_PDFS" "INFO"
+log "Successful:   $SUCCESSFUL" "INFO"
+log "Failed:       $FAILED" "INFO"
+log "Success rate: ${SUCCESS_RATE}%" "INFO"
+log "Duration:     $DURATION" "INFO"
+log "=====================================" "INFO"
+log "Log file: $LOG_FILE" "INFO"
 
 # Exit code
 if [ $FAILED -eq 0 ]; then
+    log "✅ All extractions successful" "INFO"
     exit 0
 else
+    log "⚠️  Some extractions failed ($FAILED/$TOTAL_PDFS)" "WARN"
     exit 1
 fi

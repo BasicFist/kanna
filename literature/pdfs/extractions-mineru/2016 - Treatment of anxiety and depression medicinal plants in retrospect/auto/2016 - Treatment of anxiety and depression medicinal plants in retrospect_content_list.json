@@ -1,0 +1,1460 @@
+[
+    {
+        "type": "text",
+        "text": "Treatment of anxiety and depression: medicinal plants in retrospect ",
+        "text_level": 1,
+        "bbox": [
+            295,
+            78,
+            806,
+            134
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "James O. Fajemiroye,Dayane M. da Silva\\*,Danillo R. de Oliveira, Elson A. Costa ",
+        "bbox": [
+            294,
+            147,
+            843,
+            180
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DepartmentofPharmacology,InstituteofBiological Sciences,Federal UniversityofGoias,74OOl-97o,Goiania,G Brazil ",
+        "bbox": [
+            292,
+            185,
+            889,
+            208
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            264,
+            173,
+            276
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "anxiety   \ndepression   \nmedicinal plants   \nPimenta pseudocaryophyllus   \npreclinical models ",
+        "bbox": [
+            105,
+            280,
+            257,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 22 September 2015; revised 8 January 2016; accepted 2 February 2016 ",
+        "bbox": [
+            104,
+            375,
+            258,
+            414
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            297,
+            263,
+            398,
+            277
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anxiety and depression are complex heterogeneous psychiatric disorders and leading causes of disability worldwide. This review summarizes reports on the fundamentals，prevalence，diagnosis,neurobiology，advancement in treatment of these diseases and preclinical assessment of botanicals. This review was conducted through bibliographic investigation of scientific journals, books,electronic sources, unpublished theses and electronic medium such as ScienceDirect and PubMed.A number of the first-line drugs (benzodiazepine,azapirone,antidepressant tricyclics, monoamine oxidase inhibitors， serotonin selective reuptake inhibitors，noradrenaline reuptake inhibitors，serotonin and noradrenaline reuptake inhibitors, etc.）for the treatment of these psychiatric disorders are products of serendipitous discoveries. Inspite of the numerous classes of drugs that are available for the treatment of anxiety and depression，full remission has remained elusive. The emerging clinical cases have shown increasing interests among health practitioners and patients in phytomedicine.The development of anxiolytic and antidepressant drugs of plant origin takes advantage of multidisciplinary approach including but not limited to ethnopharmacological survey (careful investigation of folkloric application of medicinal plant)，phytochemical and pharmacological studies.The selection of a suitable plant for a pharmacological study is a basic and very important step.Relevant clues to achieving this step include traditional use,chemical composition,toxicity,randomized selection or a combination of several criteria.Medicinal plants have been and continue to be a rich source of biomolecule with therapeutic values for the treatment of anxiety and depression. ",
+        "bbox": [
+            295,
+            289,
+            900,
+            635
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            707,
+            257,
+            721
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The development of anxiolytic and antidepressant drugs of plant origin involves ethnopharmacological survey (careful investigation of folkloric application of medicinal),phytochemical and pharmacological studies (Figure 1).The selection of a suitable plant for a pharmacological study is a very important step.Relevant clues to achieving this step include traditional use, chemical composition,toxicity,randomized selection or a combination of several criteria [l-3].Selection of medicinal plants with a view to discovering new pharmaceutical agents based on its popular use is by far the most effective strategy [4]. The plants that have been used popularly for years constitute the most obvious source of botanical material for the investigation of therapeutically effective drugs.The collection of plant material,identification and deposition of specimen in the herbarium are generally followed by quantitative and qualitative analyseswith different techniques including thin-layer chromatography，column chromatography,high-performance liquid chromatography, nuclear magnetic resonance,among other phytochemical techniques. ",
+        "bbox": [
+            105,
+            731,
+            487,
+            887
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            699,
+            899,
+            887
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/43ee811b6ae9db5b1ada39cc687f225a8942a79d72f220eb865da1afb4a5a92f.jpg",
+        "image_caption": [
+            "Ex vivo,invitroinivoassys (preliminaryparmacologicalsreeng,classicalaimalmodelsofnxiety:lightdarkboxtest, elevated plus-maze,open field,etc.Claicalanmal modelsofdepresson:forcedswimming test,tailsuspensiontest,etc). ",
+            "FigureHypotheticalmodelforthdiscoveryofmedicinalplantextractsandpytoconstituentswithanxiolyticand/orantidepsant property(ies).(iSelectofmedicinalplntwithanxilyticad/orantidepressantpotentialasedonlocalreprts;(ii)Preparatiof standardcrude extracts;(i)Phytochemical studies (sequential partitioningofcrudeextracts,purifcationand isolationof phytocostituents,chemicalelucidationorcharacterizationoftheisolates,structuralmodifcationsorsynthesisofanewcompound basedonthecemicalstructureof solates;(iv)Parmacologicalstudyofanti-anxietyandantidepresantpropertisofstandardrude extracts,fractiosoatdposriaisExoiroinsa(laryacolicalregsial animalmodelsofxiety:lghtdarkboxtest,levatedplusmazeonfeldetc.Classcalaialmoelsofepresioforcedsing test,tail suspension test,etc.). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            137,
+            97,
+            887,
+            324
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Following the ethnopharmacological surveyand phytochemical studies，biological investigationsof botanicals are inevitable.Animal models of anxiety and depression have played relevant roles in the development of new drugs [5,6].A well-validated test could lead to consistent preclinical and clinical findings of novel anxiolytic and antidepressant drugs.In recent times，some of the traditional preclinical approaches have witnessed modifications and innovations.This review sought to summarize background of anxiety and depression,pharmacological treatments,medicinal plants with anti-anxiety and antidepressant properties as well as preclinical strategies for the investigation of extract or phytoconstituents with potential anxiolytic and/or antidepressant activity (ies). ",
+        "bbox": [
+            99,
+            526,
+            482,
+            762
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Prevalence and diagnosis of anxiety and depression ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            780,
+            405,
+            809
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Anxiety and depression are widely acclaimed as psychiatric disorders of global concern that are capable of compromising human welfare [7].Anxiety disorder is characterized by cognitive,somatic,emotional and behavioural alterations [8]. About $4 { - } 6 \\%$ of the global population suffer from various forms of anxiety disorders with such symptoms as high blood pressure,elevated heart rate,sweating,fatigue,unpleasant feeling, tension,irritability and restlessness [9,1O]. These symptoms constitute negative impact to the patient,families and society.In the absence of treatment，patients would progress to depression and sometimes contemplate suicide [ll]. Depression that was the fourth largest cause of disease's burden worldwide in l990 is expected to be the second largest by 202O [l2]. The prevalence of major depressive disorder in community samples ranges from 5 to $9 \\%$ for women and 2 to $3 \\%$ for men [13]. Symptoms of depression include low,sad or depressed mood and/or loss of interests or pleasure in previously enjoyable activities [14]. ",
+        "bbox": [
+            99,
+            812,
+            482,
+            890
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            525,
+            894,
+            763
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Neurobiology of anxiety and depression ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            780,
+            816,
+            795
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An increase in the prevalence of these mental illnesses with mind-boggling questions in respect of its pathogenesis [l5] has kept researchers groping in the dark for years.The comprehension of neurobiology of these diseases is important to effective treatment. The understanding of neural mechanism of drugs as well as the prediction of possible response of patients to anxiolytic and antidepressant drugs could be greatly enhanced through the knowledge of the neurobiology [16]. ",
+        "bbox": [
+            510,
+            796,
+            894,
+            890
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            105,
+            95,
+            487,
+            141
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The role of the limbic system in emotion was identified by James Papez in early l93O.He described the ‘system of emotion’as one of the major pathways of the limbic systems that connect groups of brain structures(cingulate gyrus，hippocampus，hypothalamus and nuclei thalamus) around the brainstem [17].Drevets [l8] hypothesized anatomical circuits involving medial prefrontal cortex (MPC) and amygdala within the context of a model in which the dysfunction of MPC results in the disinhibition of limbic transmission over the amygdala.The dysregulation of neurochemical function,cognitive,endocrine,immune and autonomic systems [19] are critical alterations in the homoeostatic processes capable of causing anxiety and depression.The changes in neuronal processes could result in structural changes,disruption of neural networks and plasticity [2O],impairment of neural function and chemical imbalance in the brain. ",
+        "bbox": [
+            105,
+            143,
+            487,
+            428
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pharmacological treatment of anxiety and depression ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            445,
+            423,
+            474
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Despite the availability of numerous classes of drugs for the treatment of anxiety and depression,full remission of disease symptom has remained elusive.Clinical use of these drugs (Table I) is limited by their characteristic side effects and poor tolerability profile.Some of the first-line anxiolytic and antidepressant drugs enhance monoaminergic function by inhibiting the enzyme responsible for the breakdown of monoamines (norepinephrine,serotonin and dopamine） and block reuptake of monoamines to increase their concentration at the synaptic cleft.Table I displays several other mechanisms of anti-anxiety and antidepressant properties of drugs. ",
+        "bbox": [
+            105,
+            476,
+            487,
+            681
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "First-line anxiolytic and/or antidepressant drugs are widely sought after by patients with or without prescription.Benzodiazepines that are the most commonly usedanxiolyticdrugspotentiatetheinhibitory GABAergic transmission [21]. Interestingly, the actions of some anxiolytic drugs with antidepressant activity are an indication that these psychiatric diseases could haveoverlappingpathophysiology.The actionof serotonin agonists such as buspirone and gepirone on presynaptic and postsynaptic 5-hydroxytryptamine-1A $\\left( 5 \\mathrm { - } \\mathrm { H T } _ { \\mathrm { 1 A } } \\right)$ receptorspredictsboth anxiolyticand antidepressant activities [22].Meanwhile,some of the drugs that are currently on the counter seem to be characterized with cases of side effects,for example benzodiazepines which induce sedation,ataxia,and amnesia among others (Table I).Despite the advances in the treatment of depression and anxiety，clinical needsof substantial number of patients are yet to be met.The efficacy,duration of effectsand side effects of available drugs have constituted serious concern and the need for newer drugs.The diversity in neural targets makes phytomedicine a promising candidate for the treatment of these diseases. ",
+        "bbox": [
+            105,
+            685,
+            487,
+            888
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            95,
+            900,
+            251
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MEDICINALPLANTS ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            277,
+            712,
+            291
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Popular application and therapeutic value of medicinal plants ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            301,
+            857,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The use of medicinal plants in the prevention and treatment of diseases has been reported time immemorial [34,35]. The impact generated by the discovery of naturally occurring compounds, such as antibiotics (e.g.penicillin,tetracycline,erythromycin)，anticancer drugs (e.g.vinblastine,vincristine,paclitaxel)，cardiac glycosides (digoxin),among others,has attracted a lot of interests [36].Currently,the therapeutic value of medicinal plants is reflected in the percentage of medical prescriptions of which $2 5 \\%$ are derived from vegetal species [37].Across the world，traditional medicine (TM) serves either as the mainstay of healthcare delivery or complement to it [38].In some countries,TM or nonconventional medicine may be termed complementary and alternative medicine (CAM) which is an important and often underestimated part of health services [39]. TM has a long history of use in health maintenance,disease prevention and treatment.TM is the total sum of knowledge,skill,and cultural practices based on the theories,beliefs and indigenous experiences whether explicable or not towards diagnosis and treatment of physical and mental illness [4O]. ",
+        "bbox": [
+            517,
+            333,
+            900,
+            681
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the World Health Organization (WHO) in the guidelines on the conservation of medicinal plants，about three-quarters of the world population depend on TMs for their primary healthcare needs [38]. The integration of CAM and conventional medicine indicates inherent value of CAM in primary healthcare needs [41,42]. In 2008,approximately $3 8 \\%$ of American adults (about $4 \\ \\mathrm { i n \\ 1 0 }$ ）and approximately $1 2 \\%$ of American children (about 1 in 9) are using some form of CAM. The following year,sales of herbal supplements in the mass market retail channel grew $1 5 \\%$ to nearly $\\$ 900$ million representing over $1 7 \\%$ of the total $\\$ 5$ billion consumer sales [43].In 2Ol2，sales of herbal dietary supplements in the USA increased by $5 . 5 \\%$ [43]. Despite the great potential of medicinal plants as a source of new molecules,there is still a dearth of comprehensive studies.The few studies on these medicinal plants are largely at preliminary stage [44,45]. ",
+        "bbox": [
+            517,
+            685,
+            899,
+            888
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4581d9d4896e2721c1235d3dfa99ff89a2d546cd825d568f4d5c0b7070cfe293.jpg",
+        "table_caption": [
+            "Table I Some drugs with anxiolytic and antidepressant properties [23-33]. "
+        ],
+        "table_footnote": [
+            "5ome of the drugs on this table elicit multiple effects with plural mechanism of action. "
+        ],
+        "table_body": "<table><tr><td>Classes</td><td>Drugs</td><td>Side effects</td><td>Mechanism</td></tr><tr><td colspan=\"4\">Anxiolytic drugs</td></tr><tr><td>Barbiturate</td><td>Amytal</td><td>Somnolence, headache,confusion,hyperkinesias,ataxia,etc.</td><td>The interaction of barbiturates</td></tr><tr><td></td><td>Seconal</td><td>Dizziness, headache,confusion,bradycardia,ataxia,etc.</td><td>with GABAA receptors</td></tr><tr><td></td><td>Tuinal</td><td>Drowsiness and dizziness,stomach upset, headache,weakness,etc.</td><td>decreases the rate of</td></tr><tr><td></td><td>Phenobarbital</td><td>Clumsiness,dizziness,excessive daytime drowsiness,etc.</td><td>dissociation of GABA from</td></tr><tr><td></td><td>Nembutal</td><td>Confusion, hallucinations,shallow breathing,weak pulse,etc.</td><td>these receptors,thereby increasing the duration of</td></tr><tr><td></td><td></td><td></td><td>the GABAA-activated opening of chloride channels.</td></tr><tr><td>BZD</td><td>Alprazolam</td><td>Confusion,hyperactivity,agitation,hostility,chest pain,etc.</td><td>These agents bind to BZD site</td></tr><tr><td></td><td>Clonazepam</td><td>Confusion,hallucinations,painful or difficult urination,etc.</td><td>of GABA increasing the</td></tr><tr><td></td><td>Diazepam</td><td>Sedation,dependence,ataxia,amnesia,slurred speech,etc.</td><td>frequency of chloride</td></tr><tr><td></td><td>Lorazepam</td><td>Drowsiness,sleepiness, fatigue,confusion,amnesia,etc.</td><td>channel opening, thereby</td></tr><tr><td></td><td></td><td></td><td>potentiating inhibitory effect of GABA.</td></tr><tr><td>Antihistamines</td><td>Hydroxyzine</td><td>Dizziness,hypotension,constipation,dry mouth,confusion,etc.</td><td>Histamine H, receptor</td></tr><tr><td>Azapirone</td><td>Chlorpheniramine</td><td>Constipation,diarrhoea,dizziness,drowsiness,dry mouth,etc. Dizziness,nausea,insomnia,nervousness,chest pain,etc.</td><td>antagonists. Partial agonist of 5-HT1A</td></tr><tr><td></td><td>Buspirone</td><td></td><td>receptor.</td></tr><tr><td colspan=\"4\">Anxiolytic and antidepressant drugs</td></tr><tr><td>MAOI</td><td>Iproniazid</td><td>Sexual dysfunction,drowsiness,dry mouth,itching,hepatitis,etc.</td><td>MAO-A and MAO-B inhibition</td></tr><tr><td></td><td>Isocarboxazid</td><td>Faintness,numbness,orthostatic hypotension,photophobia,etc.</td><td>MAO-A and MAO-B inhibition</td></tr><tr><td></td><td>Tranylcypromine</td><td>Allergic reaction,tremor,blurred vision, nausea,vomiting,etc.</td><td>MAO-A and MAO-B inhibition</td></tr><tr><td></td><td>Phenelzine</td><td>Dizziness, headache,constipation,dry mouth, hyperactive,etc.</td><td>MAO-A and MAO-B inhibition</td></tr><tr><td></td><td>Moclobemide</td><td>Irregular heartbeats,blurred vision,high blood pressure,etc.</td><td>MAO-A inhibition</td></tr><tr><td>TCAs</td><td>Imipramine</td><td>Dizziness,impotence,dry mouth,nightmares,pupil dilation,etc.</td><td>Inhibition of 5-HT and NE</td></tr><tr><td></td><td>Desipramine</td><td>Constipation,diarrhoea, dizziness,dry mouth,weight changes,etc.</td><td>reuptake by blocking the</td></tr><tr><td></td><td>Clomipramine</td><td>Drowsiness,dry mouth,headache,irritability, tiredness,etc.</td><td>SERT and NET.</td></tr><tr><td></td><td>Amitriptyline</td><td>Chest pain,sweating, general ill feeling, numbness, etc.</td><td></td></tr><tr><td></td><td>Nortriptyline</td><td>Agitation, hallucinations,overactive reflexes, confusion,etc.</td><td></td></tr><tr><td>SSRIs</td><td>Fluoxetine</td><td>Nausea,vomiting,diarrhoea,sweating,confusion,agitation,etc.</td><td>Selective inhibition of 5-HT</td></tr><tr><td></td><td>Paroxetine</td><td>Sexual dysfunction,heartburn,runny or stuffy nose,etc.</td><td>reuptake</td></tr><tr><td></td><td>Sertraline</td><td>Decreased appetite or weight loss,diarrhoea or loose stools, etc.</td><td></td></tr><tr><td></td><td>Citalopram</td><td>Sexual dysfunction,sleepiness or unusual drowsiness,etc.</td><td></td></tr><tr><td></td><td>Fluvoxamine</td><td>Constipation,headache, tiredness, sexual dysfunction,etc.</td><td>Blocks 5-HTz receptors and</td></tr><tr><td>Antagonist/reuptake inhibitor</td><td>Nefazodone</td><td>Hepatic failure,nausea,blurred vision,postural hypotension,etc.</td><td>inhibits neuronal reuptake of 5-HT and NE to prolong</td></tr><tr><td></td><td></td><td></td><td>their concentration in the synaptic cleft Enhances monoaminergic</td></tr><tr><td></td><td>Mirtazapine</td><td>Agitation,hallucinations,fever,headache,loss of coordination,etc.</td><td>function by presynaptic αz-receptor blockade to</td></tr><tr><td>SNRI</td><td>Venlafaxine</td><td>Nausea,dry mouth,dizziness,decreased libido,delirium,etc.</td><td>disinhibit 5-HT and NE release Enhances monoaminergic</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>neuronal reuptake of 5-HT</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Tremors,convulsions,reduced activity, slow pupillary response,etc.</td><td></td></tr><tr><td></td><td>Duloxetine</td><td></td><td>function by inhibiting</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>and NE</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>NDRI/ATCA</td><td></td><td></td><td></td></tr><tr><td></td><td>Amineptine</td><td></td><td>Enhances monoaminergic</td></tr><tr><td></td><td></td><td>Acne,nervousness,insomnia,suicidal tendency,etc.</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>function by inhibiting</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Bupropion</td><td></td><td></td></tr><tr><td></td><td></td><td>Headache,insomnia,dysphoria,seizure,dry mouth,etc.</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            94,
+            107,
+            900,
+            867
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            105,
+            95,
+            487,
+            173
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Relevance of medicinal plants to the development of psychoactive drugs ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            190,
+            487,
+            219
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nowadays,there seems to be overdependence on synthetic drugs for curing or alleviating certain emotional disorders.Meanwhile，researches have shown that many people look for herbal products for the treatment of different kinds of psychiatric disorders.In recent times,scientific studies are being focused on the validation of popularly acclaimed medicinal plants with psychoactive properties.Important compounds acting on the central nervous system have been isolated from plant species,and some of them are now being used clinically (in their natural or modified form) for various CNS disorders as shown in Figure 2 and Table II. ",
+        "bbox": [
+            105,
+            222,
+            487,
+            410
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the United States,Cragg and associates conducted an analysis of drugs approved by the Food and Drug ",
+        "bbox": [
+            104,
+            413,
+            489,
+            443
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Administration (FDA） in the United States during 12-year period (1983-1994) and found that 157 of 520 drugs $( 3 0 \\% )$ approved were natural products or their derivatives [46]. In the expanded version of this study by Newman and colleagues [47] during a 22- year period (l98l-2OO2)，it was particularly evident that over 6O and $7 5 \\%$ of these drugs in the areas of cancer and infectious diseases，respectively，were of natural origin. ",
+        "bbox": [
+            517,
+            95,
+            900,
+            236
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Studies have demonstrated that many phytochemicals such as saponins [48],alkaloids [49,5O],polyphenols [51],triterpenoid [52],essential oil [53,54],fatty acid[55]，flavonoids[56] possess anxiolytic-and antidepressant-like efects.In this context,it is worth mentioning the discovery of new drugs with anxiolytic and antidepressant activities.During 1981-2OO2，10 new chemicals entities with anxiolytic activity and 21 with antidepressantactivitywere developed from natural or synthetized origin [47]. ",
+        "bbox": [
+            517,
+            239,
+            900,
+            396
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5024734c140c95ea1fc793e86ffea4dc293fcf6039a8680506133f8957b8ae22.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            474,
+            247,
+            551
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5041f11712242adb5f4ca87105006d0a9442148db310212e443417dd17b32f52.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            278,
+            459,
+            435,
+            556
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/74d282f9860f5c389163a3098fe859e1cff15f7d6d26ebb47adf5c0164360a2a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            457,
+            505,
+            618,
+            554
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) D-(-)-Morphine Molecular Formula: $\\mathrm { C _ { 1 7 } H _ { 1 9 } N O _ { 3 } }$ Average mass: 285.338 Da ",
+        "bbox": [
+            105,
+            554,
+            268,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) Cocaine Molecular Formula: $\\mathrm { C _ { 1 7 } H _ { 2 1 } N O _ { 4 } }$ Average mass: 303.353 Da ",
+        "bbox": [
+            277,
+            557,
+            438,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(c) Scopolamine Molecular Formula: $\\mathrm { C _ { 1 7 } H _ { 2 1 } N O _ { 4 } }$ Average mass: 303.353 Da ",
+        "bbox": [
+            463,
+            556,
+            628,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NH·CH3 HO CH (d) Ephedrine Molecular Formula: $\\mathrm { C _ { 1 0 } H _ { 1 5 } N O }$ Average mass:165.232 Da ",
+        "bbox": [
+            136,
+            622,
+            221,
+            687
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c58a095383468640faaa3218c52f5d8b998ac5ac88896fe000f2baec6a0df7b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            278,
+            617,
+            401,
+            690
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2419256f5a8a594ab39e353faed9deb2ccf07d4e5c63269ea5fae41511661d8a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            487,
+            626,
+            615,
+            693
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            107,
+            693,
+            260,
+            726
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(e) (-)-Strychnine Molecular Formula: $\\mathrm { C } _ { 2 1 } \\mathrm { H } _ { 2 2 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 2 }$ Average mass: 334.412 Da ",
+        "bbox": [
+            268,
+            694,
+            430,
+            726
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(f) Psilocybin Molecular Formula: $\\mathrm { C } _ { 1 2 } \\mathrm { H } _ { 1 7 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 4 } \\mathrm { P }$ Average mass: 284.248 Da ",
+        "bbox": [
+            480,
+            696,
+            628,
+            726
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d413da9cf02925b419ea309b84cd43ea6bb48d6e16f719a54d9cc2c9deb73079.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            112,
+            750,
+            258,
+            842
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc5971c0252cd2af20fa5d009225520d9d832f85744670710a894e52471cc401.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            280,
+            751,
+            431,
+            852
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(g) (-)-Galanthamine Molecular Formula: $\\mathrm { C _ { 1 7 } H _ { 2 1 } N O _ { 3 } }$ Average mass: 287.353 Da ",
+        "bbox": [
+            105,
+            852,
+            268,
+            886
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/baba09d9674ded4ce4a6ed2ad5e254dba17a8cd0547024746de9e6f689b3d193.jpg",
+        "image_caption": [
+            "Figure 2 Some common psychoactive secondary metabolites isolated from medicinal plants. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            442,
+            750,
+            628,
+            849
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(h) Hypericin Molecular Formula: $\\mathrm { C } _ { 3 0 } \\mathrm { H } _ { 1 6 } \\mathrm { O } _ { 8 }$ Average mass: 504.443 Da (i)Hyperforin Molecular Formula: $\\mathrm { C } _ { 3 5 } \\mathrm { H } _ { 5 2 } \\mathrm { O } _ { 4 }$ Average mass: 536.785 Da ",
+        "bbox": [
+            277,
+            854,
+            430,
+            887
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            448,
+            855,
+            591,
+            887
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e073005b2056fe0e38860b000e1c14a454fa8abe8e52bcc7f425cba1adf77c3d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            383,
+            95,
+            500,
+            236
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CH oy 0= ",
+        "bbox": [
+            576,
+            116,
+            678,
+            231
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/71c31ebc8f2245dcd9c783edc08afc3c043a179d90a7d0bacc148c329c516abe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            754,
+            135,
+            862,
+            227
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) Cannabidiol ",
+        "text_level": 1,
+        "bbox": [
+            379,
+            232,
+            458,
+            244
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Molecular Formula: ${ \\mathrm { C } } _ { 2 1 } { \\mathrm { H } } _ { 3 0 } { \\mathrm { O } } _ { 2 }$ Average mass: 314.462 Da (k) Pipermethystine Molecular Formula: $\\mathrm { C _ { 1 6 } H _ { 1 7 } N O _ { 4 } }$ Average mass: 287.310 Da ",
+        "bbox": [
+            379,
+            245,
+            529,
+            268
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            549,
+            234,
+            714,
+            268
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(l) Valerenic acid Molecular Formula: $\\mathrm { C } _ { 1 5 } \\mathrm { H } _ { 2 2 } \\mathrm { O } _ { 2 }$ Average mass: 234.334 Da (m) Chrysin Molecular Formula: $\\mathrm { C _ { 1 5 } H _ { 1 0 } O _ { 4 } }$ Average mass: 254.238 Da ",
+        "bbox": [
+            741,
+            232,
+            895,
+            268
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d7f40a32bc733e6146ef4026a1393463c20f6abda661912978e5f3e2325708e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            378,
+            285,
+            522,
+            351
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            379,
+            354,
+            537,
+            387
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CH 0 N N HC-N N 0 CH (n) Caffeine Molecular Formula: $\\mathrm { C _ { 8 } H _ { 1 0 } N _ { 4 } O _ { 2 } }$ Average mass: 194.191 Da ",
+        "bbox": [
+            605,
+            287,
+            712,
+            351
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            584,
+            352,
+            746,
+            387
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HC H   \nHC 1 -CH3 HC ",
+        "bbox": [
+            756,
+            294,
+            894,
+            352
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(0) (-)-B-caryophyllene Molecular Formula: $\\mathrm { C _ { 1 5 } H _ { 2 4 } }$ Average mass: 204.351 Da ",
+        "bbox": [
+            749,
+            354,
+            894,
+            387
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HC CH【 OH HH OH HCH HH 00OH CH30、 CH 0 HC H 0",
+        "bbox": [
+            378,
+            404,
+            653,
+            503
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/623247d5ca2937fc105eb53a7c655b3cf007771d2923d3ddf35d528f7aeafeae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            692,
+            410,
+            816,
+            502
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(p) 26-deoxyactein Molecular Formula: $\\mathrm { C } _ { 3 7 } \\mathrm { H } _ { 5 6 } \\mathrm { O } _ { 1 0 }$ Average mass: 660.834 Da ",
+        "bbox": [
+            418,
+            505,
+            581,
+            539
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(q) $^ { ( + ) }$ -Bicuculline Molecular Formula: ${ \\mathrm { C } } _ { 2 0 } { \\mathrm { H } } _ { 1 7 } { \\mathrm { N O } } _ { 6 }$ Average mass: 367.352 Da ",
+        "bbox": [
+            675,
+            505,
+            840,
+            538
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f58231fd47e96d2c179ab291a5e327e9df7d3bc3ff7f7b8d39adcfba04ba6c0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            381,
+            556,
+            527,
+            663
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(r) Yagonine Molecular Formula: $\\mathrm { C _ { 2 0 } H _ { 1 7 } N O _ { 6 } }$ Average mass: 367.352 Da ",
+        "bbox": [
+            371,
+            664,
+            532,
+            698
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ebe4387c8f2ccc705459f774a01eea306c482ff8fdeadf79fed4d870fd5961b.jpg",
+        "image_caption": [
+            "Figure 2 (Continued) ",
+            "(s) (-)-Physostigmine Molecular Formula: $\\mathrm { C } _ { 1 5 } \\mathrm { H } _ { 2 1 } \\mathrm { N } _ { 3 } \\mathrm { O } _ { 2 }$ Average mass: 275.346 Da "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            539,
+            580,
+            726,
+            663
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/970b5ab093bf764a58593f6bd225363656258b0f85d641ff4b70ab85b83da82b.jpg",
+        "image_caption": [
+            "(t) Dihydromethysticin Molecular Formula: $\\mathrm { C _ { 1 5 } H _ { 1 6 } O _ { 5 } }$ Average mass: 276.284 Da "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            734,
+            589,
+            892,
+            663
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Plant species with anti-anxiety and/or antidepressant properties ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            732,
+            386,
+            762
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regulatory bodies provide definitions for herbal medicinal products.They are those obtained with exclusive use of botanicals with recognized efficacy，acceptable level of safety，scientific data，preclinical (pharmacological and toxicological studies） and clinical publications[57,58]. Some herbal medicineshave been approved by regulatory bodies for treating mental disorders.In Brazil，the National Agency of Sanitary ",
+        "bbox": [
+            99,
+            764,
+            480,
+            888
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Surveillance (ANVISA） included products that are derived from Passiflora incarnata,Piper methysticum, Valeriana offcinalis,Cimicifuga racemosa for the treatment of anxiety disordersand/or depression.Like ANVISA,European Medicines Agency (EMA） included Hypericum perforatum L. (St. John's Wort，SJW), Melissa officinalis L.(Melissa leaf)，V.officinalisL. (Valerian Root） among others in the list of Herbal medicines for the treatment of mental stress and mood disorders [59]. ",
+        "bbox": [
+            510,
+            732,
+            894,
+            890
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d83df0fe9b0c033ad556cd8c00618424b845705804f25e71f28bdd95e8666091.jpg",
+        "table_caption": [
+            "Table II Drugs that are isolated from plants with biological activities on the CNS. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Metabolites</td><td>Isolated by</td><td>Year</td></tr><tr><td>Morphine</td><td>Serturner</td><td>1805</td></tr><tr><td>Strychnine</td><td>Pelletier and Caventou</td><td>1818</td></tr><tr><td>Caffeine</td><td>Friedlieb and Ferdinand Runge</td><td>1819</td></tr><tr><td>Cocaine</td><td>Albert Niemann</td><td>1859</td></tr><tr><td>Physostigmine</td><td>Jobst and Hesse</td><td>1864</td></tr><tr><td>Scopolamine</td><td>Albert Ladenburg</td><td>1881</td></tr><tr><td>Ephedrine</td><td>Nagai</td><td>1885</td></tr><tr><td>Methystine</td><td>Pomeranz</td><td>1889</td></tr><tr><td>Chrysin</td><td>Semrau</td><td>1889</td></tr><tr><td>Caryophyllene</td><td>Liebig&#x27;s Annalen</td><td>1892</td></tr><tr><td>Yagonine</td><td>Reidel</td><td>1904</td></tr><tr><td>Dihydromethysticin</td><td>Winzheimer</td><td>1908</td></tr><tr><td>Bicuculline</td><td>Mansk</td><td>1932</td></tr><tr><td>Hypericin</td><td>Brockmann,Haschad,Maier and Pohl</td><td>1939</td></tr><tr><td>Cannabidiol</td><td>Adams,Pease and Clark</td><td>1940</td></tr><tr><td>Psilocybin</td><td>Albert Hoffman</td><td>1943</td></tr><tr><td>Galantamine</td><td>Mashkovsky</td><td>1951</td></tr><tr><td>Valerenic acid</td><td>Stoll and Seebeck</td><td>1957</td></tr><tr><td>Hyperforin</td><td>Gurevich and colleagues</td><td>1971</td></tr><tr><td>27-Deoxyactein</td><td>Berger,Junior and Kopanski</td><td>1988</td></tr></table>",
+        "bbox": [
+            102,
+            129,
+            489,
+            442
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hypericum perforatum L. (SJW) ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            461,
+            342,
+            475
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hypericum perforatum popularly known as SJW is a perennial herb native to Europe [6O]. This species has been studied extensively and described in‘American Herbal Pharmacopoeia TM,Therapeutic CompendiumTM and in American Botanical Council'.The herbal medicines derived from H.perforatum are prescribed around the world for moderate depressive states,anxiety and other disorders of CNS [61].Hypericin and hyperforin have been associated with the effect of $H .$ perforatum. Many researchers suggested that hypericin which inhibits MAO-A and MAO-B enzymes with strong affinity for sigma receptors to regulate dopamine levels is the constituent of SJW that is responsible for antidepressant activity of this species 61]. In addition,hyperforin isolated from SJW contributes to the extract's efects on afferent excitability and neurotransmission.This compound enhances the extracellular levels of serotonin, dopamine， noradrenaline， GABA and L-glutamate [62,63]. It is thought that hyperforin activates nonselective cation transient receptor potential (TRP） channel TRPC6 to increase intracellular sodium and calcium content，thereby reducing neurotransmitter reuptake [64,65]. Many clinical studies have shown antidepressant activity of $H .$ perforatum [66-69].However,there are great controversies between the results presented. This may be due to different inclusion criteria,sample size and doses of standardized extract.All these variables jointly contribute to the lack of consensus among researchers regarding the use of herbal derivatives from H. perforatum. ",
+        "bbox": [
+            105,
+            476,
+            487,
+            888
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            95,
+            900,
+            157
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Passiflora incarnata L. (Passion flower) ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            173,
+            810,
+            189
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The herbal medicines derived from $P$ .incarnata are prescribed in many parts of the world to treat some CNS disorders.This plant is used for the treatment of insomnia and anxiety disorders in Brazil,Europe and USA [57,70]. Clinical applications of this species worldwide haveledtoitsinclusioninBritishHerbal Pharmacopoeia (l983)，Homoeopathic Pharmacopoeia of India (1974),United States Homoeopathic Pharmacopoeia (l98l),Pharmacopoeia Helvetica (1987),and in the pharmacopoeia of Egypt,France,Germany and Switzerland [71].Phytochemical studies of $P$ ，incarnata showed the presence of flavonoids (orientin,isoorientin, vitexin,isovitexin and chrysin),cyanogenic glycosides and indole alkaloids [72,73]. Zanoli et al.[74] and Brown et al.[75] reported the anxiolytic-like effect of chrysin in rats,which might be due a benzodiazepine receptors ligand [76].However,the anxiolytic efects of P.incarnata do not seem to be associated solely chrysin oranother compound,but it seems associated with phytocomplex (different phytoconstituents） acting in a synergistic manner [70]. ",
+        "bbox": [
+            515,
+            190,
+            900,
+            524
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Piper methysticum G.Foster (Kava) ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            540,
+            783,
+            554
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regulatory bodies of herbal medicines have included P.methysticum G.Foster (kava） for the symptomatic treatment of mild-to-moderate stages of anxiety [77]. This species has also been indicated for depression,anxiety,insomnia and attention deficit/hyperactivity disorder comorbid[78].Kava is a South Pacific plant with traditional application as an anxiolytic.Kavalactones (orkavapyrones） such askawain， dihydrokavain, methysticin， dihydromethysticin and yangoninare among bioactive compounds found in Kava [79]. Recent studies on the mechanisms of action for isolated kavalactones have revealed activities on 38/nuclear factor-kappaB/cyclo-oxygenase 2 signalling pathway [80]. Kava produces blockade of voltage-gated ion channels, wherein methysticin and kavain bind to sodium channel in its inactivated state and prolong its inactivation [81].Kavalactones also inhibit MAO-B [82] and blocked the in vitro uptake of noradrenaline into synaptosomes prepared from the cerebral cortex and the hippocampus of the rat [83]. In addition，Wu et al.[84] showed inhibitory activities of COX-1 and COX-2 from the dihydrokavain and yangonin.A clinical study carried out in 1996 by Lehmann and collaborators [85] had demonstrated the efficacy of Kava extract vs.placeboin patients with states of anxiety.In 2Ol3,Sarris et al. [86] also showed a significant reduction in anxiety for the kava group compared with the placebo group.However,in recent years several reports indicate possible hepatotoxicity associated with kava [87]. ",
+        "bbox": [
+            517,
+            557,
+            900,
+            888
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            99,
+            95,
+            480,
+            221
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Valeriana officinalis L. (Valerian) ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            237,
+            344,
+            253
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Valeriana officinalis possesses moderate sedativeand sleep-promoting effect. It is being used in the treatment of sleep and anxiety disorders [88-9O]. The use of Radix Valerianae is described in the World Health Organization Monographs on Selected Medicinal Plants (1999)，European Pharmacopoeia (l998)，American Herbal Pharmacopoeia (l999）and European Medicines Agency (2oo6）as a mild sedative and sleep-promoting agent in addition to the treatment of nervous excitation and anxiety-induced sleep disturbances [91- 94].In UK,at least 25 products contain valerian and over 4OO products in Germany contain this compound [95].The anxiolytic activity of valerian has been associated with the presence of some monoterpenes and sesquiterpenes[96].Valerenicacid and valerenol enhance the response to multiple types of recombinant $\\mathrm { G A B A _ { A } }$ receptors [97,98]. Many clinical trials on the efficacy of valerian extract have shown its potential for the treatment of sleep and anxiety disorders [90,99,100]. ",
+        "bbox": [
+            99,
+            254,
+            482,
+            570
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cimicifuga racemosa L. (Nutt.) Black cohosh ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            588,
+            430,
+            602
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Regulatory bodies have included the use of C.racemosa L.(Nutt.） for depressive mood swings among other indications [57,1Ol-1O3]. Several studies on C.racemosa (black cohosh） have reported its application for menopause-related anxiety disorder[1O4,lO5]. The standard extract of C. racemosa contains triterpene glycosides(cimicifugoside， 23-epi-26-deoxyacteinand actein),aromatic acids (salicylic acid and ferulic acid), tannins,resins,phytosterols and fatty acids.Recently, $N _ { \\mathrm { { e } } }$ -methylserotonin wasidentified in the roots/rhizomes of C.racemosa as a potent agonist of serotonin $5 { \\mathrm { - H T } } _ { \\mathrm { 1 A } }$ and $5 { \\mathrm { - H T } } _ { 7 }$ receptors [1O6].Despite the extensive use of C.racemosa especially during menopause, clinical studies did not show significant anxiolytic effect of black cohosh as compared to placebo.The small sample size,choice of black cohosh preparation and dose used may have been the limiting factors in these studies [107]. ",
+        "bbox": [
+            99,
+            604,
+            482,
+            888
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pimenta pseudocaryophyllus (Gomes) I.R. Landrum: from popular reports to the bench ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            94,
+            890,
+            124
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pimenta pseudocaryophyllus popularly known as paucravo，louro-cravo，louro，craveiroamongothers [108,lo9] remains one of the classical examples of plant species in recent time that was carefully selected on the basis of its folkloric application as a calming agent and nerve tonic [1lO-ll4]. Collection,identification and preparation of organic leaf extract of this species were followed by isolation of secondary metabolites [108] prior to chemical modifications [1l5].General pharmacological test was conducted to verify behavioural alterations,determine appropriate routeof administration,estimate dose and potential toxic effects of the ethanolic leaf extract on the animals [1l6]. The crude extract shows CNS activity [1l6]. The crude extract was partitioned with increasing polarity of solvent to obtain Hexane,dichloromethane (DF)，ethyl acetate and aqueous fractions [1l7]. The fractions were subjected to pharmacological screening [open field,light-dark box (LDB),elevated plus maze (EPM), tail suspension and forced swimming test (FST)] as described above.The DF which showed the most promising anxiolytic- and/or antidepressant-like activities was further investigated for possble mechanisms of actions that are involved. ",
+        "bbox": [
+            510,
+            127,
+            894,
+            506
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Considering the anti-anxiety and antidepressantlike activities of DF,the fraction was subjected to furtherphytochemical analysis.Oleanolic acidand methyl isoeugenol among others were isolated [116]. These isolates demonstrated antidepressant-like activities in male Swiss albino mice [7]. The plurality of biological activities and mechanism of oleanolic acids are considered to be limiting factors to its therapeutic application [7,1l8,1l9].Meanwhile,susceptibility of this triterpene to chemical modification makes it an important substrate for the development of new drug withpotentialanti-anxietyandantidepressant. Oleanolic acid acrylate,methacrylate,methyl fumarate and ethyl fumarate were synthesized through a single-step esterification of oleanolic acid with appropriate acyl chloride [1l5]. These oleanolicacid derivatives were subjected to open field and FSTs. Oleanolic acid acrylate elicits antidepressant-like effect [115]. Together， the ethnopharmacological survey and preclinical data on the crude extract,fractions andisolatesofP.pseudocaryophyllusdemonstrate strategic planning towards the development of phytomedicinewithanxiolyticand/oranti-anxiety property (ies). ",
+        "bbox": [
+            510,
+            511,
+            894,
+            888
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1949530b4f44df6ad47fda539b6078194ed807a0e0182247cbbbbb2a1a9c79a7.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=7 colspan=10>Popularly acclaimed       Medical              Mechanism ofMedicinal plants      Occurrence               effect and preparation    prescription          action                    Active principles               Limitations/side effectsMelissa officinalis      Mediterranean region      Memory-enhancing       Treatment for        Inhibitor of rat             Rosmarinic acid               Without side effects orL. (Lamiaceae)        [120],Western Asia       properties,mild         benign              brain GABA                and the triterpenoids,           symptoms of toxicity[121], south-western       sedative and sleep aid    palpitations,          transaminase               ursolic acid and               [129]Siberia and Northern       [124,125]. Treatment    and as a             [123,124,128]              oleanolic acid [128]Africa [122].It is also       of depression and       promisingcultivated worldwide       nervous tension [126]    anxiolytic[122,123]                                        drug[127]Cimicifuga racemosa   North America; Georgia,    Treatment of general     Treatment of         Act in the                  Triterpenes and                Concomitant</td></tr><tr><td rowspan=1 colspan=9>Melissa officinalis      Mediterranean region      Memory-enhancing       Treatment for        Inhibitor of rat             Rosmarinic acid               Without side effects or</td></tr><tr><td rowspan=1 colspan=5>L. (Lamiaceae)        [120],Western Asia       properties,mild         benign</td><td rowspan=1 colspan=4>brain GABA                and the triterpenoids,           symptoms of toxicity</td></tr><tr><td rowspan=1 colspan=5>[121], south-western       sedative and sleep aid    palpitations,</td><td rowspan=1 colspan=4>transaminase               ursolic acid and               [129]</td></tr><tr><td rowspan=2 colspan=9>Siberia and Northern       [124,125]. Treatment    and as a             [123,124,128]              oleanolic acid [128]Africa [122].It is also       of depression and       promisingcultivated worldwide       nervous tension [126]    anxiolytic[122,123]                                        drug[127]</td></tr><tr><td rowspan=1 colspan=8>Africa [122].It is also       of depression and       promisingcultivated worldwide       nervous tension [126]    anxiolytic</td></tr><tr><td rowspan=1 colspan=2>Cimicifuga racemosa   North America; Georgia,</td><td rowspan=1 colspan=3>Treatment of general     Treatment of</td><td rowspan=1 colspan=1>Act in the</td><td rowspan=1 colspan=3>Triterpenes and                Concomitant</td></tr><tr><td rowspan=1 colspan=2>L. Nutt              North to Ontario and</td><td rowspan=1 colspan=2>malais,nervous</td><td rowspan=1 colspan=1>symptoms of</td><td rowspan=1 colspan=1>hypothalamus</td><td rowspan=1 colspan=1>derivatives of</td><td rowspan=1 colspan=2>administration with any</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>(Ranunculaceae)       West to Arkansas and</td><td rowspan=1 colspan=2>disorders, uterine</td><td rowspan=1 colspan=1>menopause,</td><td rowspan=1 colspan=1>vasomotor centre.</td><td rowspan=1 colspan=3>flavones [132]                 type of medication</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=9 colspan=5>Wisconsin [130]           disorders,as well as      anxiety andto facilitate intermitent   depressionuterine contractions      [130,131]during labour [130]</td><td rowspan=1 colspan=1>disorders,as well as</td><td rowspan=1 colspan=1>anxiety and</td><td rowspan=1 colspan=3>Other in vivo and</td></tr><tr><td rowspan=1 colspan=2>to facilitate intermitent</td><td rowspan=1 colspan=1>depression</td><td rowspan=1 colspan=4>in vitro studies                                            because of the</td><td></td></tr><tr><td rowspan=1 colspan=3>uterine contractions      [130,131]</td><td rowspan=1 colspan=2>indicate a</td><td rowspan=1 colspan=2>possibility of increasing</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=3>during labour [130]</td><td rowspan=1 colspan=2>dopaminergic</td><td rowspan=1 colspan=2>the bioavailable</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>effect [132]</td><td rowspan=1 colspan=2>concentration of drugs</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=3 colspan=2></td><td rowspan=1 colspan=2>in the blood.This is due</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>the suppression of</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>CYP3A4by Cimicifuga</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=4>racemosa [133]</td><td rowspan=5 colspan=1></td></tr><tr><td rowspan=1 colspan=4>Litsea glaucescens     Mexico and Central        Treatment of illnesses</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Interaction with             Linalool and</td></tr><tr><td rowspan=3 colspan=9>(Lauraceae)           America [134]             related to the central                          the serotonergic            β-pinene [134]nervous system [135]                           5-HT1A receptors,αz-andβ-adrenoceptorsand dopaminergicreceptors D, [134]Hypericum perforatum Europe,but occurs in Asia,  Treatment of neuralgia,   Treatment of          Selective inhibitor           Hypericin and                 Induction of the</td><td rowspan=1 colspan=1>related to the central</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Treatment of neuralgia,</td><td rowspan=1 colspan=1>Treatment of</td><td rowspan=1 colspan=1>Selective inhibitor</td><td rowspan=1 colspan=1>Hypericin and</td></tr><tr><td rowspan=1 colspan=2>L (Hypericaceae)       Northern Africa and North</td><td rowspan=1 colspan=1>mood disorders as</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>anxiety,</td><td rowspan=1 colspan=1>of MAO-A and</td><td rowspan=1 colspan=1>hyperforin [61,137]</td><td rowspan=1 colspan=2>metabolism of</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=7 colspan=10>America [61,136]          anxiety, neurosis and     depression and        MAO-B; Inhibition                                         coadministeredmild-to-moderate        insomnia [137]        of 5-HT,NE and DA                                       medications because itdepression [136]                              uptake; antagonist of                                      may potentiate certainNMDA receptors;                                         enzymes of themoderate interactions                                     cytochrome P450 [136]with the GABAAreceptor [136].Suppression of therelease of interleukin6[137]</td></tr><tr><td rowspan=1 colspan=2>mild-to-moderate</td><td rowspan=1 colspan=1>insomnia [137]</td><td rowspan=1 colspan=2>of 5-HT,NE and DA</td><td rowspan=1 colspan=2>medications because it</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>depression [136]                              uptake; antagonist of</td><td rowspan=3 colspan=3>may potentiate certainenzymes of thecytochrome P450 [136]</td></tr><tr><td rowspan=1 colspan=5>NMDA receptors;</td></tr><tr><td rowspan=1 colspan=5>moderate interactions</td></tr><tr><td rowspan=1 colspan=5>with the GABAAreceptor [136].Suppression of the</td></tr><tr><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            131,
+            58,
+            890,
+            890
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/bdc66168f2977b52089c9474dc381a5efaa64f22e499ac5de2f0f9b4ed90e8a8.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=7>Popularly acclaimed      Medical              Mechanism ofMedicinal plants       Occurrence               effect and preparation   prescription          action                     Active principles               Limitations/side effects</td></tr><tr><td rowspan=1 colspan=7>Lavandula angustifolia Mediterranean regions,the  Treatment of tension,     Treatment of          Anxiolytic-like effect         Linalool and linalyl              Allergic reactions.</td></tr><tr><td rowspan=1 colspan=2>Mill. (Lamiacae)       islands of the Atlantic,</td><td rowspan=1 colspan=2>nervous disorders,        depression</td><td rowspan=1 colspan=3>likely through 5-HT1A        acetate [172,173]              Limitations during oth</td></tr><tr><td rowspan=7 colspan=4>Turkey,Pakistan,India,     anxiety and             [138,139]Northern and Southern     depression [138,139]Africa,Micronesia,theArabian Peninsula, Bulgariaand Russia [138]Pimenta             Brazil [116]               Soothing effect,a diuretic</td><td rowspan=1 colspan=2>anxiety and             [138,139]</td><td rowspan=1 colspan=1>receptors [140]</td></tr><tr><td rowspan=1 colspan=3>with specific organ</td></tr><tr><td rowspan=1 colspan=3>dysfunction.</td></tr><tr><td rowspan=1 colspan=3>Interactions with othe</td></tr><tr><td rowspan=2 colspan=2></td><td rowspan=1 colspan=3>herbs or</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>pharmaceuticals [138</td></tr><tr><td rowspan=1 colspan=2>Soothing effect,a diuretic</td><td rowspan=1 colspan=1>Anxiolytic-like activity</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(E)-methyl isoeugenol           The plurality of biologic</td></tr><tr><td rowspan=1 colspan=2>pseudocaryophyllus</td><td rowspan=1 colspan=2>and aphrodisiac agent</td><td rowspan=1 colspan=2>that involves 5-HT1A</td><td rowspan=1 colspan=1>and oleanolic acid [116]         activities and mechani</td></tr><tr><td rowspan=1 colspan=2>(Gomes) L.R. Landrum</td><td rowspan=1 colspan=2>[116]. Calming agent</td><td rowspan=1 colspan=2>receptor [116]</td><td rowspan=1 colspan=1>of oleanolic acids are</td></tr><tr><td rowspan=1 colspan=4>(Myrtaceae)                                    and nerve tonic [110]</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>considered to be</td></tr><tr><td rowspan=4 colspan=4>Mimosa pudica       Brazil [143]               Treatment of depression</td><td rowspan=3 colspan=2></td><td rowspan=1 colspan=1>limiting factors to its</td></tr><tr><td rowspan=1 colspan=1>therapeutic applicatiol</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>[7,118,119,141,142]</td></tr><tr><td rowspan=1 colspan=1>Brazil [143]</td><td rowspan=1 colspan=2>Treatment of depression</td><td rowspan=1 colspan=1>The antidepressant-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Norepinephrine,d-pinitol,</td></tr><tr><td rowspan=4 colspan=4>(Fabaceae)                                     and insomnia (theinfusion of driedleaves)[144]Annona cherimola     Ecuador,Peru,Northern    Anti-anxiety,</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>and insomnia (the</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>infusion of dried</td><td rowspan=1 colspan=2>by the serotonergic</td><td rowspan=1 colspan=1>mimosine [145]</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>leaves)[144]</td><td rowspan=1 colspan=2>system [144]</td><td rowspan=2 colspan=1>Liriodenine,anonaine</td></tr><tr><td rowspan=1 colspan=2>Antidepressant-like effect</td></tr><tr><td rowspan=1 colspan=4>Mill.(Annonaceae)     South America and        anticonvulsant and</td><td rowspan=1 colspan=2>through increase in</td><td rowspan=3 colspan=1>and nornuciferine [147]</td></tr><tr><td rowspan=3 colspan=4>Central America [146]      tranquilizingproperties [147]Tagetes lucida Cav.    México and Central        Stimulant of the</td><td rowspan=1 colspan=2>monoaminergic</td></tr><tr><td rowspan=1 colspan=2>properties [147]</td><td rowspan=1 colspan=1>neurotransmission [147]</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Stimulant of the</td><td rowspan=1 colspan=1>The antidepressant-like</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Quercetin [148],gallic          Diarrhoea,pain,palpeb</td></tr><tr><td rowspan=1 colspan=2>(Asteraceae)          America [148]</td><td rowspan=1 colspan=2> immune system,</td><td rowspan=1 colspan=3>effect is mediated by        acid,caffeic acid [149]          ptosis,piloerection an</td></tr><tr><td rowspan=3 colspan=2></td><td rowspan=1 colspan=2>anti-anxiety,</td><td rowspan=1 colspan=2>5-HT1A and 5-HT2A</td><td rowspan=4 colspan=1>tearing)[149]Acacetin-7-O-glucoside</td></tr><tr><td rowspan=1 colspan=2>antidepression</td><td rowspan=1 colspan=2>receptors [148]</td></tr><tr><td rowspan=1 colspan=2>[148,149]</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>Agastache mexicana   Asia and North</td><td rowspan=1 colspan=2>To relief nervous</td><td rowspan=1 colspan=2>The anxiolytic-like effect</td></tr><tr><td rowspan=1 colspan=2>subsp.Mexicana      America [150]</td><td rowspan=1 colspan=2>condition and as</td><td rowspan=1 colspan=2>of the tilianin,as one</td><td rowspan=1 colspan=1>(tilianin),acacetin-7-O-β-</td></tr><tr><td rowspan=1 colspan=2>(Lamiaceae)</td><td rowspan=1 colspan=2>tranquilizer [150]</td><td rowspan=1 colspan=3>of the major constituents    d-(6&quot;-O-malonyl)-glucoside;</td></tr><tr><td rowspan=4 colspan=4>Agastache mexicana   Asia and North            To relief nervous</td><td rowspan=1 colspan=3>in A. mexicana is mediated   luteolin-7-O-β-d-(6&quot;-O-</td></tr><tr><td rowspan=1 colspan=2>by the GABAA/BZDs,</td><td rowspan=3 colspan=1>malonyl)-glucoside [150]Acacetin-7-O-glucoside</td></tr><tr><td rowspan=1 colspan=2>receptor [151]</td></tr><tr><td rowspan=1 colspan=2>GABAergic activity is involved</td></tr><tr><td rowspan=1 colspan=4>subsp.Xolocotziana    America [150]             condition and as</td><td rowspan=1 colspan=3>in the anxiolytic-like effect   (tilianin),diosmetin-7-O-</td></tr><tr><td rowspan=2 colspan=4>(Lamiaceae)                                    tranquilizer [150]</td><td rowspan=1 colspan=3>of tilianin,one constituent    β-d-(6&quot;-O-malonyl)-</td></tr><tr><td rowspan=1 colspan=3>of the A.mexicana [152]     glucoside; [150]</td></tr></table>",
+        "bbox": [
+            117,
+            95,
+            875,
+            893
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/daaf928bdfa5bd4db1bbe6ff47309f9dbd8241c40d58cdb8fc75252b254a3536.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Medicinal plants</td><td>Occurrence</td><td>Popularly acclaimed effect and preparation</td><td>Medical prescription</td><td>Mechanism of action</td><td>Active principles</td><td>Limitations/side effects</td></tr><tr><td rowspan=\"4\">Passifloraincarnata</td><td rowspan=\"4\">North America [70]</td><td rowspan=\"4\">Treatment of anxiety disorder,insomnia [57]</td><td rowspan=\"4\">Treatment of generalized anxiety disorder (GAD)[70], precocious</td><td rowspan=\"4\">Agonist of the GABAA and GABAb receptors [70]</td><td rowspan=\"4\">Orientin,isoorientin,vitexin, isovitexin and chrysin [72,70,73]</td><td rowspan=\"4\">Severe nausea,vomiting drowsiness,prolonged QT and episodes of nonsustained ventricula tachycardia [70]</td></tr><tr><td rowspan=\"3\"></td></tr><tr><td></td></tr><tr><td>menopause symptoms, insomnia,</td></tr><tr><td rowspan=\"4\">Pipermethysticum</td><td rowspan=\"4\"></td><td rowspan=\"4\">Treatment of depression, Treatment of anxiety</td><td rowspan=\"4\">depression,anger and headaches [153]</td><td rowspan=\"4\"></td><td rowspan=\"4\">Kawain,dihydrokavain,</td><td rowspan=\"4\">Possible hepatotoxicity</td></tr><tr><td rowspan=\"3\"></td></tr><tr><td></td></tr><tr><td>Kavalactones inhibit MAO-B [82] and blocked the in vitro</td><td>methysticin,</td></tr><tr><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\">anxiety,insomnia and attention deficit/hyperactivity disorder comorbid [78]</td><td rowspan=\"4\">[85,86]</td><td rowspan=\"4\">uptake of noradrenaline [83]</td><td rowspan=\"4\">dihydromethysticin and yangonine [79]</td><td rowspan=\"4\">[87]</td></tr><tr><td rowspan=\"3\"></td></tr><tr><td></td></tr><tr><td>Valerenic acid and valerenol [97,98]</td></tr></table>",
+        "bbox": [
+            302,
+            95,
+            726,
+            884
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table III presents information about some species of medicinal plants used for treatment of anxiety and/or depression，highlighting aspectsof the occurrence, ethnopharmacology，mechanismsof action ofthe extract or phytochemicals and medical prescriptions, when applicable. ",
+        "bbox": [
+            99,
+            95,
+            482,
+            189
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of putative anxiolytic effects of medicinal plants ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            205,
+            423,
+            235
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Animal models play a central role in all areas of biomedical research.To investigate anxiolytic effect of crude extract or active principles from medicinal plants, a wide range of behavioural testing has been developed [155-157]. Some well-established testsof anxiety include open field test.This test was originally introduced as a measure of emotional behaviour in rats and later adapted to mice [158-l6O].Parameters such as ambulation，time and crossing at the centre of the open field，grooming，freezing and rearing are often measured. Light-dark box (LDB) has also been used to investigate anxiolytic properties.The underlining principle of LDB model is based on the aversion of rodents to brightly illuminated areas,novel environment and light-induced mild stress [16l,l62]. The number of transitions between the two compartments and the time spent in the light area are recorded over a specified period [156]. Elevated plus maze is another widely used behavioural model with a strong predictive validity to measure the anxiolytic-like efect of a novel compound [l63-l66]. The time spent and the number of entries with all four paws inside the open arms are well-established parameters for assessing anxiolytic or anxiogenic property of new drugs.The open and closed armsare considered to evoke the same exploratory drive;therefore,avoidance of the open arms is considered to be a result of the induction of higher levels of fear[164]. Other models such as marble-burying [167] and hole board tests with repetitive tendency have been used to evaluate anxiolytic- or anxiogenic-like effects. ",
+        "bbox": [
+            99,
+            236,
+            480,
+            730
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of putative antidepressant effects of medicinal plants ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            748,
+            463,
+            776
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Forced swimming test is the most widely used pharmacological test forassessingantidepressant activity [168]. The FST involves the scoring of active (swimming and climbing)or passive (immobility）behaviour. Reduction in immobility is interpreted as an antidepressant-like effect [l69] of the extracts/compounds being tested provided it does not increase general locomotor activity，which could provide a false-positive result (as in the case of stimulant） in the FST.Tail suspension test (TST) is another highly validated test for the investigation of antidepressant-like property of drugs [170]. Likeantidepressantdrugs，psychostimulantsalso reduce immobility in this model. The TST shares a similar basic principle with FST in that animals develop an immobile posture when placed in an inescapable stressful situation after initial escape-oriented movements. Acute administration of an antidepressant drug prior to the exposure of the experimental subject to the TST prolonged active escape-directed behaviours [171]. ",
+        "bbox": [
+            99,
+            778,
+            480,
+            887
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            95,
+            894,
+            283
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            309,
+            653,
+            323
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Current pharmacological approaches to the management of anxiety and depression are yet to engender desirable results in clinical practice. Some of the frstline and new medications that apparently fall into the existing classes of drugs are still associated with side effects.Medicinal plants provided ample opportunities for the development of anti-anxiety and antidepressant drugs.The acceptance of herbal medicines for the treatment of these mental disorders has grown asa result of the improvements in their quality.Standardization of extracts and plant isolate,adequate scientific data on safety and efficacy，preservation of medicinal plant's diversity,appropriate legislation and regulatory agencies are still critical steps to the development of anti-anxiety and antidepressant phytomedicine. ",
+        "bbox": [
+            510,
+            335,
+            894,
+            571
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            595,
+            734,
+            611
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors thank FAPEG,CAPES and CNPq for the study fellowship. ",
+        "bbox": [
+            510,
+            621,
+            894,
+            650
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CONFLICTS OFINTEREST ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            676,
+            749,
+            690
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors have no conflict of interests to declare. ",
+        "bbox": [
+            512,
+            700,
+            865,
+            714
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ABBREVIATIONS ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            740,
+            673,
+            754
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5-HT- 5-hydroxytryptamine   \nANVISA- Agency of Sanitary Surveillance   \nATCA-atypical tricyclic antidepressants   \nBZD - benzodiazepine   \nCNS- central nervous system   \nCAM- complementary and alternative medicine   \nDA - dopamine   \nDF - dichloromethane fraction   \nEMA- European Medicines Agency   \nFDA-Food and Drug Administration   \nFST- forced swimming test   \nGABA- $\\gamma$ -aminobutyricacid   \nMAOI-Monoamine oxidase inhibitor   \nMPC - medial prefrontal cortex   \nNDRI- norepinephrine-dopamine reuptake inhibitor   \nNE-norepinephrine   \nNET- norepinephrine transporter   \nSERT- serotonin transporter   \nSNRI- serotonin-norepinephrine reuptake inhibitor   \nSSRI- selective serotonin reuptake inhibitor   \nSJW- St. John's Wort   \nTST - tail suspension test   \nTCA- tricyclic antidepressants   \nTM- traditional medicine   \nTRP- transient receptor potential   \nWHO-World Health Organization ",
+        "bbox": [
+            510,
+            764,
+            845,
+            890
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            104,
+            94,
+            468,
+            381
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            405,
+            230,
+            420
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1 Ferry S.,Baltassat-Millet F.La prospection des plantes medicinales.Lyon Pharmaceutique.(1997) 28 257-260.   \n2 Soejarto D.D.Biodiversity prospecting and benefit-sharing: perspectives from the field.J.Ethnopharmacol.(l996) 511-16.   \n3 Williamson E.M.,Okpako D.T.,Evans F.J. Selection, preparation and pharmacological evaluation of plant material.J. Med.Chem.(1996) 40 1559-1559.   \n4 Albuquerque U.P.,Hanazaki N.As pesquisas etnodirigidas na descoberta de novos farmacos de interesse médico e farmaceutico: fragilidades e perspectivas.Rev. Bras. Farmac0gn.(2006) 16 678-689.   \n5Cryan J.F.,Sweeney F.F.The age of anxiety:role of animal models of anxiolytic action in drug discovery. Br.J. Pharmacol.(2011) 164 1129-1261.   \n6Overstreet D.H.Modeling depression in animal models. MethodsMol. Biol. (2012) 829125-144.   \n7 Fajemiroye J.O.,Galdino P.M.,Florentino I.F.et al.Plurality of anxiety and depression alteration mechanism by oleanolic acid.J. Psychopharmacol.(2014) 28 923-934.   \n8Seligman M.E.P.,Walker E.F.,Rosenhan D.L.Abnormal psychology.W.W.Norton & Company,New York,2001.   \n9Smith M.Anxiety Attacks and Disorders:Guide to the Signs, Symptoms,and Treatment Options.In: Help Guide website.2008. [Online] 20o9.www.helpguide.org/mental/anxiety_types_ symptoms_treatment.htm (accessed 3 March 2009).   \nlO Mauro V.M.,Murray B.S. Quality of life in individuals with anxiety disorders.Am.J.Psychiatry (200O) 157 669-682.   \nl1 CMU Institute.Treating depression and anxiety in primary care.Prim Care Companion J.Clin.Psychiatry.(2O08)10 145-152.   \nl2Lopez A.D.,Murray C.J. The global burden of disease: a comprehensive assessment of mortality and disability from diseases,injuries and risk factors in 199O-2O2O and projected to 2O2O.Harvard University Press, Boston, MA, 1996.   \n13 Diagnostic and statistical manual of mental disorders,4th edn,Text Revision DSM-IV-TR,American Psychiatric Association,USA,2000.   \n14 Nestler E.J., Barrot M., DiLeone R.J., Eisch A.J., Gold S.J., Monteggia L.M.Neurobiology of depression. Neuron (2002) 34 13-25.   \n15Wayne C.D., Joseph L.P., Maura L.F. Brain structural and functional abnormalities in mood disorders: implications for neurocircuitry models of depression.Brain Struct. Funct. (2008) 213 93-118.   \n16 Duman R.S.,Monteggia L.M.A neurotrophic model for stress-related mood disorders.Biol.Psychiatr.(2006) 59 1116-1127.   \n17Palazidou E. The neurobiology of depression.Br.Med.Bull. (2012) 101 127-145.   \n18 Drevets W.C. Orbitofrontal cortex function and structure in depression.Ann.N.Y.Acad. Sci. (2007) 1121 499-527.   \n19McEwen B.S.,Gianaros P.J.Central role of the brain in stress and adaptation: links to socioeconomic status,health,and disease.Ann.N. Y.Acad. Sci. (2010)1186 190-222.   \n20 Castrén E. Is mood chemistry? Nat.Rev.Neurosci.(2005) 6 241-246.   \n21 Tatarczynaska E., Koodzinaska A., Chojnacka-Woajcik E. et al.Potential anxiolytic- and antidepressant-like effects of MPEP,a potent,selective and systemically active mGlu5 receptor antagonist. Br.J. Pharmacol. (20ol) 132 1423- 1430.   \n22 Schechter L.E.,Ring R.H.,Beyer C.E.et al. Innovative approaches for the development of antidepressant drugs: current and future strategies.NeuroRx (2O05)2 59O-611.   \n23Moreno R.A.,Moreno D.H., Soares M.B.M.Psicofarmacologia de antidepressivos.Rev. Bras.Psiquiatr.(1999) 21 24-40.   \n24 Bezchlibnyk-Butler K.Z., Jeffries J.J. Clinical handbook of psychotropic drugs,9th edn.Hogrefe & Huber Publishers, Toronto,Canada,1999.   \n25 Kennedy S.H., Lam R.W., Cohen N.L., Ravindran A.V., CANMAT Depression Work Group.Clinical guidelines for the treatment of depressive disorders.Medication and other biological treatments. Can.J.Psychiatry (2OOl) 46 38-58.   \n26 Ravindran L.N., Stein M.B. The pharmacologic treatment of anxiety disorders: a review of progress J. Clin. Psychiatry (2010) 71 839-854.   \n27 Maxwell R.A., Eckhardt S.B. Iproniazid. Drug Discovery. (1990) 615 143-154.   \n28 Turcotte J.E., Debonnel G., Montigny C., Hebert C.,Blier P. Assessment of the serotonin and norepinephrine reuptake blocking properties of duloxetine in healthy subjects. Neuropsychopharmacology (200l) 24 511-521.   \n29 Stahl S.M. Basic psychopharmacology of antidepressants,pt 1:antidepressants have seven distinct mechanisms of action. J. Clin.Psychiatry (1998) 59 5-14.   \n30 Baldessarini R.J. Drugs and the treatment of psychiatric disorders: depression and anxiety disorders,in: Hardman J.G.,Limbird L.E.(Eds),Goodman & Gilman's the pharmacological basis of therapeutics,McGraw-Hill,New York,NY,2001, pp.447-483.   \n31 Stahl S.M. Essential psychopharmacology,2nd edn. Cambridge University Press,New York,NY,2000.   \n32 Stahl S.M.,Pradko J.F., Haight B.R.,ModellJ.G., Rockett C.B.,Coughlin S.L.A. Review of the neuropharmacology of bupropion,a dual norepinephrine and dopamine reuptake inhibitor.Prim. Care CompanionJ.Clin.Psychiatry.(2004) 6 159-166.   \n33 Serzone [package insert]. Bristol-Myers Squibb Company, Princeton,NJ,2002.   \n34Fakim G.A.Medicinal plants: traditions of yesterday and drugs of tomorrow.Mol. Aspects Med.(2006) 27 1-93.   \n35 Jaric S.,Mitrovic M.,Djurdjevic L. et al. Phytotherapy in medieval Serbian medicine according to the pharmacological manuscripts of the Chilandar Medical Codex (l5-16th) centuries.J. Ethnopharmacol.(2011) 137 601-619.   \n36Katiyar C., Gupta A., Kanjilal S., Katiyar S.Drug discovery from plant sources: an integrated approach. Ayu (2Ol2) 33 10-19.   \n37 Duke J.A. Medicinal plants and the pharmaceutical industry, in: Janick J., Simon J.E. (Eds),New crops. New York, Wiley, 1993, pp. 664-669.   \n38World Health Organization (WHO).WHO Traditional Medicine Strategy (2013) 54 2014-2023.   \n39Hornik-Lurie T., Cwikel J., Feinson M.C.,Lerner Y., Zilber N. Use of unconventional therapies by primary care patients - religious resources vs.complementary or alternative medicine services.Complement.Ther.Med.(2013)1517-524.   \n40 Dias A.D., Urban S.,Roessner U.A historical overview of natural products in drug discovery.Metabolites (2012) 2 303-336.   \n41 Gilani A.H., Rahman A.U. Trends in ethnopharmacology. J. Ethnopharmacol.(2005) 100 43-49.   \n42 Templeman K., Robinson A. Integrative medicine models in contemporary primary health care.Complement.Ther.Med. (2011) 19 84-92.   \n43 Lindstrom A., Ooyen C.,Lynch M.E., Blumenthal C.Herb supplement sales increase $5 . 5 \\%$ in 2012: herbal supplement sales rise for 9th consecutive year; turmeric sales jump $4 0 \\%$ in natural channel.Herbal Gram.(2Ol3) 99 60-65.   \n44 Rates S.M.K.Plants as a source of drugs.Toxicon (2001)39 603-613.   \n45 Cragg G.M.,Newman D.J. Medicinals for the millenia the historical record.Ann.N.Y.Acad. Sci. (20O1) 9531-25.   \n46 Cragg G.M.,Newman D.J., Snader K.M.Natural products in drug discovery and development. J. Nat.Prod.(1997) 60 52-60.   \n47 Newman D.J.,Cragg G.M., Snader K.M. Natural products as sources of new drugs over the period 1981-20O2.J. Nat. Prod. (2003)66 1022-1037.   \n48 Dang H., Chen Y., Liu X., Wang L., Jia W., Wang Y. Antidepressant effects of ginseng total saponins in the forced swimming test and chronic mild stress models of depression. Prog.Neuropsychopharmacol. Biol.Psychiatry(2009）33 1417-1424.   \n49 Li H.T.,Wu H.M., Chen H.L., Liu C.M., Chen C.Y. The pharmacological activities of (-)-Anonaine.Molecules (2013) 18 8257-8263.   \n50 Liu M.,Huang H.H., Yang J. et al. The active alkaloids of Gelsemium elegans Benth.are potent anxiolytics. Psychopharmacology (2013) 225 839-851.   \n51Sasaki K.,El Omri A.,Kondo S.Rosmarinusofficinalis polyphenols produce anti-depressant like effect through monoaminergic and cholinergic functions modulation. Behav. Brain Res.(2013) 238 86-94.   \n52Machado D.G., Neis V.B., Balen G.O.Antidepressant-like effect of ursolic acid isolated from Rosmarinus offcinalis L.in mice:evidence for the involvement of the dopaminergic system.Pharmacol. Biochem.Behav.(20l2) 103 204-211.   \n53 Galdino P.M.,Nascimento M.V.M.,Florentino I.F.et al. The anxiolytic-like effect of an essential oil derived from Spiranthera odoratissima A.St.Hil.leaves and its major component,B-caryophyllene,in male mice.Prog. Neuropsychopharmacol. Biol. Psychiatry (2Ol2) 38 276- 284.   \n54 Oyemitan I.A., Elusiyan C.A.,Akanmu M.A., Olugbade T.A. Hypnotic,anticonvulsant and anxiolytic effects of l-nitro-2- phenylethane isolated from the essential oil of Dennettia tripetala in mice.Phytomedicine (2013)20 1315-1322.   \n55Shri R., Bhutani K.K., Sharma A.A new anxiolytic fatty acid from Aethusa cynapium.Fitoterapia (20l0) 81 1053-1057.   \n56 Kumar D., Bhat Z.A. Apigenin 7-glucoside from Stachys tibetica Vatke and its anxiolytic effect in rats.Phytomedicine (2014) 21 1010-1014.   \n57ANVISA-Agencia Nacional de Vigilancia Sanitaria. [Online] 2ol4.http://portal.anvisa.gov.br/wps/content/ Anvisa $^ +$ Portal/Anvisa/Inicio/Medicamentos/ Assunto+de+Interesse/Medicamentos+fitoterapicos (accessed 20 August 2014).   \n58 EMA- European Medicines Agency.Herbal medicines for human use.[On line] 2Ol5.Available at: http://www.ema. europa.eu/ema/index.jsp?curl=pages/regulation/general/ general_content_000208.jsp&mid $\\underline { { \\underline { { \\mathbf { \\Pi } } } } }$ WCOb0lac05800240cf (accessed O2 February 2015).   \n59 EMA - European Medicines Agency.Herbal medicines for human use.[On line] 2Ol5.Available at: http://www.ema. europa.eu/ema/index.jsp?curl=pages%2Fmedicines% 2Flanding%2Fherbal_search.jsp&mid=WCObOlacO58001 fald&searchkwByEnter $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } -$ false&alreadyLoaded=true&isNew Query $=$ true&keyword=Enter+keywords&searchType=Latin $^ +$ name+of+the+genus&taxonomyPath $_ { 1 } =$ &treeNumber (accessed O2February 2015).   \n60 Ehrenshaft M.,Roberts J.E.,Mason R.P.Hypericinmediated photooxidative damage of $\\propto$ -crystallin in human lens epithelial cells.Free Radic.Biol.Med.(2O13）60 347-354.   \n61 Klemow K.M., Bartlow A., Crawford J.,Kocher N., Shah J., Ritsick M.Medical attributes of St. John's Wort (Hypericum perforatum),in: Benzie I.F.F., Sissi W.G.(Eds),Herbal medicine: biomolecular and clinical aspects,2nd edn，CRC Press/Taylor & Francis,Boca Raton (FL),pp.1-27.   \n62 Kaehler S.T., Sinner C., Chatterjee S.S.,Philippu A. Hyperforin enhances the extracellular concentrations of catecholamines,serotonin and glutamate in the rat locus coeruleus.Neurosci. Let. (1999) 262 199-202.   \n63 Vance K.M., Ribnicky D.M., Hermann G.E., Rogers R.C. St. John's Wort enhances the synaptic activity of the nucleus of the solitary tract. Nutrition (2O14) 30 37-42.   \n64 Leuner K., Kazanski V., Müeller M. et al. Hyperforin - a key constituent of St. John's wort specifically activates TRPC6 channels. FASEB J. (2007) 21 4101-4111.   \n65 Singer A.,Wonnemann M.,Müller W.E.Hyperforin,a major antidepressant constituent of st. John's wort,inhibits serotonin uptake by elevating free intracellular $\\mathrm { N a } ^ { + }$ J Pharmacol. Exp.Ther.(1999) 290 1363-1368.   \n66 Grobler A.C.,Matthews G.,Molenberghs G. The impact of missing data on clinical trials: a re-analysis of a placebo controlled trial of Hypericum perforatum (St Johns wort) and sertraline in major depressive disorder. Psychopharmacology (2014) 231 1987-1999.   \n67 Sarris J.,Fava M.,Schweitzer I.,Mischoulon D.St John's Wort (Hypericum perforatum) versus sertraline and placebo in major depressive disorder: continuation data from a 26-week RCT.Pharmacopsychiatry (2012) 45 275-278.   \n68 Linde K., Ramirez G.,Mulrow C.D.,Pauls A., Weidenhammer W.,MelchartD.St John's wort for depression an overview and meta-analysis of randomised clinical trials.BMJ(1996) 313 253-258.   \n69 Linde K.,Kniuppel L.Large-scale observational studies of hypericum extracts in patients with depressive disorders -a systematic review.Phytomedicine (2005)12148-157.   \n70 Miroddi M., Calapai G.,Navarra M.,Minciullo P.L., Gangemi S.Passiflora incarnata L.: ethnopharmacology,clinical application,safety and evaluation of clinical trials.J. Ethnopharmacol. (2013) 150 791-804.   \n71Nascimento D.F.,Santana A.P.M.,Leite I.O.et al. Clinical toxicology study of an herbal medicine with Passiflora incarnata L.,Crataegus oxyacantha L., Salix alba L.in healthy volunteers.Rev.Bras.Farmacogn.(2O09） 19 261-268.   \n72 Marchart E.,Krenn L.,Kopp B. Quantification of the flavonoid glycosides in Passiflora incarnata by capillary electrophoresis.Planta Med.(2003) 69 452-466.   \n73 Sundaraganesan N.,Mariappan G.,Manoharan S.Molecular structure and vibrational spectroscopic studies of Chrysin using HF and Density Functional Theory. Spectrochim.Acta Part A Mol. Biomol. Spectrosc.(2012) 87 67-76.   \n74 Zanoli P.,Avallone R., Baraldi M. Behavioral characterization of the flavonoids apigenin and Chrysin. Fitoterapia (2000) 71 117-123.   \n75 Brown E.,Hurd N.S.,McCall S., Ceremuga T.E. Evaluation of the anxiolytic effects of chrysin,a Passiflora incarnata extract,in the laboratory rat.AANAJ.(2007) 75 333-337.   \n76 Wolfman C., Viola H., Paladini A., Dajas F., Medina J.H. Possible anxiolytic effects of chrysin,a central benzodiazepine receptor ligand isolated from Passiflora coerulea.Pharmacol.Biochem.Behav.(1994) 471-4. treatment of anxiety disorders.CNS Drugs (2O02) 16 731-743.   \n78 Sarris J.,Kean J.,Schweitzer J.,Lake J.H. Complementary medicines (herbal and nutritional products) in the treatment of Attention Deficit Hyperactivity Disorder (ADHD): a systematic review of the evidence.Complement.Ther.Med. (2011) 19 216-227.   \n79 Teschke R.,Lebot V.Proposal for a kava quality standardization code.Food Chem.Toxicol.(2O11） 49 2503-2516.   \n80 Tzeng Y.M.,Lee M.J. Neuroprotective properties of kavalactones.Neural Regen.Res.(20l5) 10 875-877.   \n81 Schirrmacher K., Busselberg D., Langosch J.M.,Walden J., Winter U., Bingmann D. Effects of $( \\pm )$ -kavain on voltageactivated inward currents of dorsal rhizome ganglion cells from neonatal rats.Eur. Neuropsychopharmacol.(l999) 9 171-176.   \n82Uebelhack R.,Franke L.,Schewe H.J. Inhibition of platelet MAO-B by kava pyrone-enriched extract from Piper methysticum Foster (kava-kava). Pharmacopsychiatry (1998) 31 187-192.   \n83 Seitz U., Schulle A.,Gleitz J.[3H]-monoamine uptake inhibition properties of kava pyrones.Planta Med.(1997) 63 548-549.   \n84Wu D.,Yu L.,Nair M.G.,DeWitt D.L.,Ramsewak R.S. Cyclooxygenase enzyme inhibitory compounds with antioxidant activities from Piper methysticum (kava-kava) roots.Phytomedicine (2002) 9 41-47.   \n85 Lehmann E.,Kinzler E.,Friedemann J. Efficacy of a special Kava extract (Piper methysticum) in patients with states of anxiety,tension and excitedness of non-mental origin - a double-blind placebo-controlled study of four weeks treatment.Phytomedicine (1996) 3113-119.   \n86 Sarris J. Stough C., Bousman C.A. et al. Kava in the treatment of generalized anxiety disorder:a double-blind, randomized, placebo-controlled study.J. Clin. Psychopharmacol.(2013) 33 643-648.   \n87Ketola R.A.,Viinamaki J.,Rasanem I.,Pelander A., Goebeler S.Fatal kavalactones intoxication by suicidal intravenous injection. Forensic Sci.Int.(2015) 249 7-11.   \n88Pinheiro M.L.P.,Alcantara C.E.P.,Moraes M.,Andrade E.D. Valeriana offcinalisL.for conscious sedation of patients submited to impacted lower third molar surgery: a randomized,double-blind,placebo-controlled split-mouth study.J.Pharm.Bioallied.(2014) 6 109-114.   \n89Kennedy D.O., Litte W., Haskell C.F., Scholey A.B. Anxiolytic effects of a combination of Melissa offcinalis and Valeriana officinalis during laboratory induced stress. Phytother.Res.(2006) 20 96-102.   \n90 Schmitz M., Jäckel M. Comparative study for assessing quality of life of patients with exogenous sleep disorders (temporary sleep onset and sleep interruption disorders) treated with a hops-valarian preparation and a benzodiazepine drug.Wien.Med.Wochenschr.(l998) 148 291-298.   \n91 WHO -World Health Organization.Monographs on selected medicinal plants (1999) 1 267-276.   \n92 European Pharmacopoeia.Valerian root,3rd edn. Council of Europe Dep for the Quality of Medicines,Strasbourg,1998.   \n93American Herbal Pharmacopoeia.Valerian root.Valeriand officinalis.Analytical,quality control and therapeutic monograph,in: Roy Upton. (Ed.),American herbal pharmacopoeia and therapeutic compendium, Css Associates,USA,1999,pp.13-18.   \n94 EMA - European Medicines Agency.Herbal medicines for human use.Community Herbal Monograph on Valeriana officinalis L., Radix,2006.   \n95 Houghton P.J. The scientific basis for the reputed activity of valerian.J.Pharm.Pharmacol.(1999) 51 505-512.   \n96 Kennedy D.O.,Wightman E.L. Herbal extracts and phytochemicals: plant secondary metabolites and the enhancement of human brain function.Adv.Nutr.(2011) 2 32-50.   \n97 Benke D., Barberies A., Kopp S. et al. $\\mathrm { G A B A _ { A } }$ receptors as in vivo substrate for the anxiolytic action of valerenic acid,a major constituent of valerian root extracts. Neuropharmacology (2009) 56 174-181.   \n98BeckerA.,FelgentreffF., SchroderH.,Meier B., Brattstrom A. The anxiolytic effects of a Valerian extract is based on Valerenic acid.BMC Complement. Altern. Med. (2014) 14 1-5.   \n99Gharib M., Samani L.N.,Panah Z.E.,Naseri M.,Bahrani N., Kiani K.The effect of valeric on anxiety severity in women undergoing hyterosalpingography. Glob.J. Health. Sci. (2015)7 358-363.   \n100 Andreatini R., Sartori V.A., Seabra M.L.,Leite J.R.Effect of valepotriates (valerian extract) in generalized anxiety disorder: a randomized placebo-controlled pilot study. Phytother. Res. (2002) 16 650-654.   \n101 American Herbal Pharmacopoeia Botanical Pharmacognosy.Actea racemosa L. syn. Cimicifuga racemosa (L.）Nutt,in:Roy Upton.(Ed.）American herbal pharmacopoeia botanical pharmacognosy，CRC Press,USA, 2011,pp.217-222.   \n102 Pengelly A., Bennet K.Appalachian plant monographs. Black cohosh Actea racemosa L.,20l2. http:// www.frostburg.edu/aces/appalachian-plants/.   \n103 European Medicines Agency (EMA).Assessment report on Cimicifuga racemosa (L.) Nut,rhizome,EMA, United Kingdom,2008.   \n104 Bolle P., Mastrangelo S., Perrone F., Evandri M.G. Estrogenlike effect of a Cimicifuga racemosa extract sub-fraction as assessed by in vivo,ex vivo and in vitro assays.J.Steroid Biochem.Mol. Biol. (2007) 107 262-269.   \n105Mohammad-Alizadeh-Charandabi S.,Shahnazi M.,Nahaee J., Bayatipayan S.Efficacy of black cohosh (Cimicifuga racemosa L.) in treating early symptoms of menopause: a randomized clinical trial.Chin.Med.(2Ol3)81-7.   \n106 Nikolic D.,Li J.,Van Breemen R.B. Metabolism of Nmethylserotonin,a serotonergic constituent of black cohosh (Cimicifuga racemosa, L.(Nutt.)), by human liver microsomes. Biomed. Chromatogr.(2014) 28 1647-1651.   \n107 Amsterdam J.D., Yao Y.,Mao J.J. Randomized,double-blind, placebo-controlled trial of Cimicifuga racemosa (black cohosh) in women with anxiety disorder due to menopause.J. Clin. Psychopharmacol.(2009)29 478-483.   \n108 Paula J.A.M.,Paula J.R., Bara M.T.F., Rezende M.H., Ferreira H.D.Estudo farmacognóstico das folhas de Pimenta pseudocaryophyllus (Gomes) L.R. Landrum- Myrtaceae. Rev. Bras.Farmacogn.(2008) 18 265-278.   \n109 Paula J.A.M.,Ferri P.H., Bara M.T.F., Tresvenzol L.M.F., Sa F.A.S.,PaulaJ.R.Infraspecific chemical variability in the essential oils of Pimenta pseudocaryophyllus (Gomes) L.R. Landrum (Myrtaceae).Biochem. System.Ecol.(2O11) 39 643-650.   \n110 Landrum L.R.Flora neotropica: monograph 45 Campomanesia,Pimenta,Blepharocalyx,Legrandia,Acca, Myrrhinium,and Luma (Myrtaceae). Organization for Flora Neotropica,New York,1985.   \n111 Nakaoka-Sakita M.,Aguiar O.T., Yatagai M., Igarashi T. Oleo essencial de Pimenta pseudocaryophyllus var. pseudocaryophyllus (Gomes) Landrum (Myrtaceae) I: cromatografia a gas/espectrometria de massa (CC/EM).Rev. Inst.Flor. (1994) 6 53-61.   \n112 Landrum L.R., Kawasaki M.L. The genera of Myrtaceae in Brazil: an illustrated synoptic treatment and identification keys. Brittonia (1997) 49 508-536.   \n113 Lima M.E.L., Cordeiro I., Young M.C.M., Sobra M.E.G., Moreno P.R.H.Antimicrobial activity of the essential oil from two specimens of Pimenta pseudocaryophyllus (Gomes) L.R.Landrum (Myrtaceae) native from Sao Paulo State - Brazil.Pharmacologyonline (2006) 3 589-593.   \n114 Santos B.C.B., Silva J.C.T., Guerrero Junior P.G.,Leitao G.G., Barata L.E.S.,Isolation of chavibetol from essential oil of Pimenta pseudocaryophyllus leaf by high-speed countercurrent chromatography.J. Chromatogr.(2Oo9) 1216 4303-4306.   \n115Fajemiroye J.O.,Polepally P.R., Chaurasiya N.D., Tekwani B.L.,Zjawiony J.K., Costa E.A. Oleanolic acid acrylate elicits antidepressant-like effect mediated by $5 { \\mathrm { - H T } } _ { \\mathrm { 1 A } }$ receptor. Sci. Rep. (2015) 5 11582.   \n116 Fajemiroye J.O.,Martins J.L.R.,Brito A.F.et al. Central activities of Pimenta pseudocaryophyllus(Gomes) L.R. Landrum.IJMAP (2012) 2 118-122.   \n117Paula J.A.M., Silva M.R.R., Costa M.P.et al.,Phytochemical analysis and antimicrobial,antinociceptive,and antiinflammatory activities of two chemotypes of Pimenta pseudocaryophyllus (Myrtaceae). J. Evid. Based. Complement. Altern.Med.(2012) 2012 Article ID 420715,15 pages.   \n118Sporn M.B.,Honda T.,Finlay H.J.,Gribble G.W., Suh N., Michael B.New enone derivatives of oleanolic acid and ursolic acid as inhibitors of nitric oxide production in mouse macrophages.Bioorg.Med.Chem.Lett.(1997) 7 1623-1628.   \n119 Sporn M.B., Honda T.,Rounds B.V., Gribble G.W., Suh N., Wang Y.Design and synthesis of 2-cyano-3,l2-dioxoolean1,9-dien-28-oic acid,a novel and highly active inhibitor of nitric oxide production in mouse macrophages. Bioorg. Med. Chem.Lett.(1998) 8 2711-2714.   \n1ZU SevIK H.,Guney K.EIIects oI IAA,IBA,NAA,and GA3 on rooting and morphological features of Melissa officinalis L. stem cuttings. ScientificWorldJournal (2Ol3)20l3 Article ID 909507, 5 pages.   \n121 Emamghoreishi M.,Talebianpour M.S. Antidepressant effect of Melissa officinalis in the forced swimming test.DARU (2009) 17 42-47.   \n122 Obulesu M.,Rao D.M.Effect of plant extracts on Alzheimer's disease: an insight into therapeutic avenues. J. Neurosci. Rural Pract. (2011) 2 56-61.   \n123Taiwo A.E.,Leite F.B.,Lucena G.M.et al. Anxiolytic and antidepressant-like effects of Melissa offcinalis (lemon balm) extract in rats:influence of administration and gender. Indian J. Pharmacol. (2012) 44 189-192.   \n124Kennedy D.O., Scholey A.B., Tildesley N.T.,Perry E.K., Wesnes K.A.Modulation of mood and cognitive performanc( following acute administration of Melissa ofcinalis (lemon balm).Pharmacol.Biochem.Behav.(2002) 72 953-964.   \n125Kennedy D.O., Savelev G.S., Tildesley N.T.J., Perry E.K., Wesnes K.A., Schole Y.A.B.Modulation of mood and cognitive performance following acute administration of single doses of Melissa officinalis (Lemon balm) with human CNS nicotinic and muscarinic receptor-binding properties. Neuropsychopharmacology (2003) 28 1871-1881.   \n126 Guginskia G., Luiz A.P., Silva M.D.et al.Mechanisms involved in the antinociception caused by ethanolic extract obtained from the leaves of Melissa officinalis (lemon balm) in mice.Pharmacol. Biochem.Behav.(2O09) 93 10-16.   \n127AlijanihaF.,Naseri M.,Afsharypuor S.et al. Heart palpitation relief with Melissa officinalis leaf extract: double blind,randomized,placebo controlled trial of efficacy and safety.J. Ethnopharmacol.(2015) 164 378-384.   \n128 Awad R.,Muhammad A., Durst T.,Trudeau V.L.,Arnason J.T. Bioassay-guided fractionation of lemon balm (Melissa officinalis L.) using an in vitro measure of GABA transaminase activity.Phytother.Res.(2OO9) 23 1075-1081.   \n129 Akhondzadeh S.,Noroozian M.,Mohammadi M., Ohadinia S.,Jamshidi A.H.,Khani M.Melissa offcinalis extract in the treatment of patients with mild to moderate Alzheimer's disease:a double blind,randomised,placebo controlled trial. J. Neurol. Neurosurg.Psychiatry (2003)74 863-866.   \n130Dog L.T.,Powell L.K.,Weisman M.S.Critical evaluation of the safety of Cimicifuga racemosa in menopause symptom relief. Menopause J. (2003) 10 299-313.   \n131 McKenna D.J., Jones K.,Humphrey S.,Hughes K.Black cohosh: efficacy,safety,and use in clinical and preclinical applications.Altern. Ther.Health Med.(2OOl) 7 93-100.   \n132 Netfarma.Bula de medicamento.Available at: http:// www.netfarma.com.br/geraBula.asp?NomeArquivoBula $\\equiv$ POO002MRJOO.pdf (accessed 1O August 2015).   \n133 Silva A.G., Brandao A.B.,Cacciari R.S., Soares W.H. Avancos na elucidacao dos mecanismos de acao de Cimicifuga racemosa (L.) Nutt. nos sintomas do climaterio. Rev.Bras.Pl. Med.(2009)11 455-464.   \n134 Guzman-Gutierrez S.L., Bonilla-Jaime H.,Gómez-Cansino R., Reyes-Chilp R. Linalool and $\\beta$ -pinene exert their antidepressant-like activity through the monoaminergic pathway. Life Sci. (2015) 128 24-29.   \n135 Guzman-Gutierrez S.L.,Gomez-Cansino R., Garcia-Zebadua J.C., Jimenez-Perez N.C., Reyes-Chilpa R.Antidepressant activity of Litsea glaucescens essential oil: identification of beta-pinene and linalool as active principles. J. Ethnopharmacol.(2012) 143 673-679.   \n136 Bilia A.R., Gallori S.,Vincieri F.F. St.John's wort and depression eficacy,safety and tolerability-an update.Life Sci. (2002) 70 3077-3096.   \n137Russo E., Scicchitano F.,Whalley B.J. et al. Hypericum perforatum: pharmacokinetic,mechanism of action, tolerability,and clinical drug-drug interactions.Phytother. Res. (2013) 28 643-655.   \n138 Chu C.J., Kemper K.J. Lavender (Lavandula spp.). Longwood Herbal Task Force,(20ol) 1-31.: http://www.mcp.edu/ herbal/   \n139 Akhondzadeh S., Kashani L., Fotouhi A.et al. Comparison of Lavandula angustifolia Mill. tincture and imipramine in the treatment of mild to moderate depression:a double-blind, randomized trial.Prog.Neuropsychopharmacol.Biol. Psychiatry (2003) 27123-127.   \n140 Chioca L.R., Ferro M.M.,Baretta I.P.et al. Anxiolytic-like effect of lavender essential oil inhalation in mice: participation of serotonergic but not GABAA/benzodiazepine neurotransmisson. J. Ethnopharmacol. (2O13）147 412-418.   \n141 Sporn M.B.,Honda T.,Honda Y.et al.A novel dicyanotriterpenoid,2-cyano-3,l2-dioxooleana-1,9(1l)-dien28-onitrile,active at picomolar concentrations for inhibition of nitric oxide production.Bioorg.Med. Chem.Lett.(2002) 12 1027-1030.   \n142 Sporn M.B., Liby K.T., Yore M.M.,Fu L., Lopchuk J.M., Gribble G.W.New synthetic triterpenoids: potent agents for prevention and treatment of tissue injury caused by inflammatory and oxidative stress.J. Nat. Prod.(2O11) 74 537-545.   \n143 Sriram N.G.S., Kavitha V.M.J., Sasikumar S.C.,Rajeswari R. Phytochemical screening and antimicrobial activity of the plant extracts of Mimosa pudica L.against selected microbes. Ethnobot. Leafl. (2009) 13 618-624.   \n144 Guzman-Gutierrez S.L., Reyes-Chilpa R.,Bonilla-Jaime H. Medicinal plants for the treatment of “nervios\",anxiety,and depression in Mexican Traditional Medicine.Rev.Bras. Farmacogn.(2014) 24 591-608.   \n145 Zaware B.B., Chaudhari S.R., Shinde M.T.An overview of Mimosa pudica Linn.: chemistry and pharmacological profile RJPBCS.(2014) 5 754-761.   \n146Escribano P.,Viruel M.A.,Hormaza J.I.Characterization and cross-species amplification of microsatelite markers in cherimoya (Annona cherimola Mill.,Annonaceae). Mol. Ecol. Notes (2004) 4 746-748.   \n147Martinez-Vazquez M., Estrada-Reyes R., Escalona A.G.A. et al.Antidepressant-like effects of an alkaloid extract of the aerial parts of Annona cherimolia in mice.J. Ethnopharmacol. (2012) 139 164-170.   \n148 Bonilla-Jaime H., Guadarrama-Cruz G.,Alarcon-Aguilar F.J., Limon-Morales O.,Vazquez-Palacios G.Antidepressant-like activity of Tagetes lucida Cav.is mediated by $5 { \\mathrm { - H T } } _ { \\mathrm { 1 A } }$ and $5 { \\mathrm { - H T } } _ { 2 \\mathrm { A } }$ receptors.J. Nat. Med.(2015) 4 463-467.   \n149 Guadarrama-Cruz G.,Alarcon-Aguilar F.J.,Vega-Avila E., Väzquez-Palacios G.,Bonilla-Jaime H. Antidepressant-like effect of Tagetes lucida Cav.extract in rats: involvement of the serotonergic system.AJCM's (2012) 40 753-768.   \n150 Estrada-Reyes R., López-Rubalcava C., Ferreyra-Cruz O.C. et al.Central nervous system effects and chemical composition of two subspecies of Agastache mexicana; an ethnomedicine of Mexico. J.Ethnopharmacol.(2Ol4) 153 98-110.   \n151 Gonzalez-Trujano M.E., Ponce-Munoz H., Hidalgo-Figueroa S., Navarrete-Vazquez G., Estrada-Soto S.Depressant effects of Agastache mexicana methanol extract and one of major metabolites tilianin.APJTB(2015)8185-190.   \n152 Galvez J., Estrada-Reyesa R., Benitez-King G.et al. Involvement of the GABAergic system in the neuroprotective and sedative effects of 7-O-glucoside in rodents.Restor. Neurol. Neurosci. (2015) 33 1-18.   \n153 Fahami F.,Asali Z.,Aslani A., Fathizadeh N.A comparative study on the effects of Hypericum perforatum and passion flower on the menopausal symptoms of women referring to Isfahan city health care centers.J.Nurs.Midwifery Res. (2010) 15 202.   \n154Patocka J., Jakl J. Biomedically relevant chemical constituents of Valeriana officinalis.J.Appl.Biomed.(2010) 8 11-18.   \n155 Bourin M.,Petit-Demouliere B.,Dhonnchadha B.N.,Hascoet M.Animal models of anxiety in mice.Fundam. Clin. Pharmacol. (2007) 21 567-574.   \n156 Crawley J.N.,Goodwin F.K.Preliminary report of a simple animal behavior for the anxiolytic effects of benzodiazepines. Pharmacol. Biochem.Behav.(198O) 13 167-170.   \n157File S.E. The use of social interaction as a method for detecting anxiolytic activity of chlordiazepoxide-like drugs.J. Neurosci. Methods (1980) 2 219-238.   \n158 Hall C.S. Emotional behavior in the rat.I. Defecation and urination as measures of individual differences in emotionality.J. Comp.Psychol.(1934) 18 385-403.   \n159 Prut L., Belzung C. The open field as a paradigm to measure the effects of drugs on anxiety-like behaviors: a review. Eur. J.Pharmacol.(2003) 463 3-33.   \n160 Archer J. Tests for emotionality in rats and mice: a review. Anim.Behav.(1973) 21 205-235.   \n161 Bourin M.,Hascoet M. The mouse light/dark box test.Eur.J Pharmacol.(2003) 463 55-65.   \n162 Crawley J.N. Exploratory behavior models of anxiety in mice.Neurosci. Biobehav.Rev.(1985) 9 37-44.   \n163 Pellow S., Chopin P.,Briley M.,Briley M. The validation of open:closed arm entries in an elevated plus-maze: a novel test of anxiety in the rat.J. Neurosci.Methods (l985) 14   \n149-167.   \n164 Rodgers R.J.,Dalvi A.Anxiety,defense and the elevated plus-maze.Neurosci. Behav.(1997) 21 8O1-810.   \n165 Crawley J.N.What's wrong with my mouse?,in: Jacqueline N. Crawley. (Ed.)Behavioral phenotyping of transgenic and knockout mice,2nd edn,John Wiley & Sons,New York,   \n2007,pp.100-150.   \n166 Crawley J.N.Behavioral phenotyping of transgenic and knockout mice: experimental design and evaluation of general health,sensory functions,motor abilities, and specific behavioral tests.Brain Res.(1999） 835   \n18-26.   \n167 Nardo M., Casarotto P.C., Gomes F.V., Gumiaraes F.S. Cannabidiol reverses the mCPP-induced increase in marbleburying behavior.Fundam. Clin.Pharmacol.(2Ol4) 28   \n544-550.   \n168 Porsolt R.D.,Le Pichon M., Jalfre M. Depression: a new animal model sensitive to antidepressant treatments. Nature (1977) 266 730-732.   \n169 Slattery D.A., Cryan J.F.Using the rat forced swim test to assess antidepressant-like activity in rodents.Nat.Protoc. (2012) 7 1009-1014.   \n170 Steru L.,Chermat R.,Thierry B.,Simon P.The tail suspension test: a new method for screening antidepressants in mice.Psychopharmacology(l985） 85   \n367-370.   \n171 Cryan J.F.,Mombereau C., Vassout A. The tail suspension test asa model for assessing antidepressant activity:review of pharmacological and genetic studies in mice.Neurosci. Biobehav.(2005) 29 571-625.   \n172 Takahashi M., Satou T., Ohashi M., Hayashi S.,Sadamoto K., Koike K.Interspecies comparison of chemical composition and anxiolytic-like effects of lavender oils upon inhalation.NPC (2011) 6 1769-1774.   \n173Woronuk G.,Demissie Z.,Rheault M.,Mahmoud S. Biosynthesis and therapeutic properties of Lavandula essential oil constituents.Planta Med.(2Oll) 77 7-15. ",
+        "bbox": [
+            115,
+            428,
+            485,
+            877
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            88,
+            900,
+            878
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            102,
+            94,
+            480,
+            879
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            93,
+            894,
+            877
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            109,
+            98,
+            489,
+            877
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            108,
+            900,
+            882
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            99,
+            97,
+            484,
+            879
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            93,
+            890,
+            879
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            104,
+            99,
+            484,
+            877
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            92,
+            900,
+            879
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            95,
+            93,
+            484,
+            744
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            92,
+            890,
+            748
+        ],
+        "page_idx": 17
+    }
+]

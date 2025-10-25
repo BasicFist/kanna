@@ -1,0 +1,779 @@
+[
+    {
+        "type": "text",
+        "text": "Review ",
+        "bbox": [
+            70,
+            197,
+            127,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A review of Khoi-San and Cape Dutch medical ethnobotany ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            220,
+            707,
+            242
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B.-E. van Wyk∗ ",
+        "bbox": [
+            70,
+            252,
+            196,
+            268
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Botany and Plant Biotechnology, University of Johannesburg, P.O. Box 524, Auckland Park, Johannesburg, Gauteng 2006, South Africa ",
+        "bbox": [
+            72,
+            276,
+            788,
+            286
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a r t i c l e i n f o ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            315,
+            230,
+            329
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 26 May 2008   \nReceived in revised form 15 July 2008   \nAccepted 17 July 2008   \nAvailable online 25 July 2008 ",
+        "bbox": [
+            68,
+            341,
+            263,
+            395
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nCape herbal medicine   \nEthnobotany   \nKhoikhoi   \nMedicinal plants   \nSan   \nSouth Africa ",
+        "bbox": [
+            70,
+            411,
+            181,
+            484
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a b s t r a c t ",
+        "text_level": 1,
+        "bbox": [
+            347,
+            315,
+            457,
+            329
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ethnopharmacological context: Cape herbal medicine as a distinct and unique healing system is conceptualized for the first time, together with a first compilation of the authentic materia medica of the system. ",
+        "bbox": [
+            349,
+            341,
+            946,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods: The early literature on Khoikhoi (Hottentot), San (Bushman) and Cape Dutch medicinal plants and medical practices is reviewed, with a focus on the Cape Floristic Region (from Namaqualand to the Eastern Cape). To avoid recent additions and modern cultural influences in the results, the date of publication of the last volume of Marloth’s Flora of South Africa (1932) was chosen as a cut-off date. ",
+        "bbox": [
+            347,
+            378,
+            946,
+            426
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: The recorded Cape materia medica (up to 1932) is briefly summarized, giving the scientific names, vernacular names (in Afrikaans or Khoi-San/Nama) and main uses. It comprises about 170 items and includes mainly indigenous and endemic plant species, some exotic (garden) plants, and a few other items (fungi, seaweeds, lichens, hyraceum and natural potassium nitrate). Most of the plants (and hyraceum) are still widely used today, especially in rural areas. ",
+        "bbox": [
+            347,
+            427,
+            946,
+            486
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: The combination of unique cultural practices and a diverse, highly endemic flora has led to the development of a distinct herbal healing system, here called Cape herbal medicine, but hitherto rather vaguely and inaccurately referred to as Khoi-San medicine, Cape Dutch medicine or boererate (farm remedies). The data allows for a more informed consideration of indigenous knowledge and intellectual property rights associated with particular plants (e.g. Hoodia and Pelargonium). It also offers opportunities for linking modern ethnobotanical field studies with historical data. ",
+        "bbox": [
+            347,
+            488,
+            946,
+            558
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { © }$ 2008 Elsevier Ireland Ltd. All rights reserved. ",
+        "bbox": [
+            675,
+            559,
+            944,
+            571
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            607,
+            124,
+            617
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 332   \n2. Khoi-San healing practices . 332   \n2.1. Traditional concepts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 332   \n2.2. Massage and aromatherapy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 333   \n2.3. Dosage forms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 333   \n2.4. Animal products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 333   \n3. Khoi-San and Cape Dutch materia medica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334   \n3.1. Medical plants recorded before 1650 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334   \n3.2. Medicinal plants recorded up to 1932 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334   \n4. Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340   \nAcknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340   \nReferences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340 ",
+        "bbox": [
+            75,
+            630,
+            952,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            81,
+            159,
+            94
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Cape Floral Kingdom or Cape Floristic Region is widely recognized as one of the richest floras of the world (Good, 1974; Goldblatt and Manning, 2000). The relatively small area of $9 0 , 0 0 0 \\mathrm { k m } ^ { 2 }$ has a total of about 9000 indigenous plant species, of which almost $6 9 \\%$ are endemic (Goldblatt and Manning, 2000). The region is also part of the traditional home of Khoikhoi or Khoekhoe (Hottentot) herders, and San (Bushman) hunter–gatherers (Shapera, 1930; Boonzaier et al., 1996). These highly diverse cultural groups are sometimes collectively and simplistically referred to as the Khoi-San people. In the second half of the 17th century, the region became inhabited by Europeans, mainly of Dutch, German and French descent. Through geographical isolation, these people developed into a cultural group known as the Cape Dutch and later as Cape Afrikaners. The interactions between Khoi-San and Cape Dutch peoples also resulted in a distinct but poorly studied healing culture, known as Khoi-San or Cape Dutch medicine. The diverse flora of the region, with its high level of endemism, contributed greatly towards the uniqueness of the materia medica. ",
+        "bbox": [
+            53,
+            109,
+            477,
+            358
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As pointed out by Liengme (1983) and Van Wyk (2002), the ethnobotany of the Khoikhoi people is poorly recorded. There are numerous publications on the San (Bushman) of the Kalahari (Tobias, 1960, 1975) but the emphasis has been on plants used for food and water (Story, 1958, 1964), utility items (Tanaka, 1978) or hunting poisons (Neuwinger, 1994, 1996). Medicinal plants and their uses have remained poorly known despite recent books by Von Koenen (1996, 2001) and Van Wyk and Gericke (2000), both of which contain summaries of available information from Namibia and Botswana. Examples of other detailed studies in Namibia are those of Malan and Owen-Smith (1974) for Kaokoland, Heinz and Maguire (1974) for the !Ko Bushmen, Steyn (1981) on !Nharo plant utilization, and Dentlinger (1977) and Van den Eynden et al. (1992) for the Topnaar (!Nara) culture. A valuable list of Damara (Nama) plant names was published by Eiseb et al. (1991). ",
+        "bbox": [
+            53,
+            359,
+            477,
+            556
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the Cape region of South Africa, the early Dutch settlers introduced some medicinal plants from Europe but started using the local plants. In this way, a unique medicinal culture developed that has been referred to as Cape Dutch medicine. Since the turn of the 19th century, the term Cape Dutch was no longer appropriate, as the Afrikaans language and culture (developed mainly from Dutch, French, German, Khoikhoi, San and Malay) became separate entities in their own right. Unfortunately, few of the original Khoikhoi and San names have survived (see later), so that the majority of Cape medicinal plants have Afrikaans (Cape Dutch) names. However, the term “Cape Dutch medicine” does not adequately reflect the Khoi-San origins of most of the remedies, so that “Cape herbal medicine” will be used in this review. It seems surprising that Cape herbal medicine is so poorly studied, considering the exceptionally rich botanical diversity and especially the high levels of endemism. Added to this biological diversity is also a rich indigenous cultural diversity that has unfortunately been equally poorly recorded. ",
+        "bbox": [
+            53,
+            558,
+            477,
+            780
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ethnobotanical information on the Cape flora may be gleaned from early traveller’s accounts such as those of Van der Stel (De Wet and Pheiffer, 1979), Thunberg (Forbes, 1986) and Burchell (1822–1824), as well as colonial Floras (Harvey and Sonder, 1860 and subsequent volumes) and later Floras (Marloth, 1913–1932). These sources contain numerous references to the indigenous materia medica of South or southern Africa, but early books dedicated entirely to the subject of medicinal plants are limited to those of Pappe (1847, 1850, 1857), Smith (1895) and Kling (1923). The classic work of Watt and Breyer-Brandwijk (1962) summarises most of the early literature for southern and eastern Africa. The dictionary of common names of Smith (1966) is also a rich source of ethnobotanical information. The medicinal plants of the Cape region have rarely been treated as an entity on their own (see later). It should be noted that many of the Cape plants and their uses are described in books on South African herbal medicine, such as Anonymous (1962), Watt and Breyer-Brandwijk (1962), Palmer (1985), Roberts (1990), Rood (1994), Shearing and Van Heerden (1994), Van Wyk et al. (1997) and Arnold et al. (2002). The origin of the information or the place where it was recorded for the first time is hardly ever given. As pointed out by Scott and Hewett (2008), such information may be important in the context of intellectual property rights and claimed ownership of indigenous knowledge. ",
+        "bbox": [
+            53,
+            781,
+            477,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            81,
+            929,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This review is narrowly focussed on the Cape Floristic Region, from Namaqualand to the Eastern Cape (with parts of the adjoining Karoo) but excluding the Kalahari region and Namibia. The aim is to critically analyse and interpret published and some unpublished information on the medicinal plants of Khoikhoi, San and Cape Dutch origin. In order to exclude recent influences that may have distorted the historical authenticity of the materia medica, the publication of the last volume of the Flora of South Africa by Marloth (1932) was chosen as a cut-off date. Marloth was a trained pharmacist with an interest in the medicinal uses of South African plants, so that his books contain several original anecdotes. The aim was therefore to contribute towards conceptualising Cape herbal medicine as a distinct healing system and to provide an historically accurate synthesis of medicinal plants (with their vernacular names), so that modern ethnobotanical field studies can be linked to historical data. ",
+        "bbox": [
+            505,
+            228,
+            929,
+            437
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Khoi-San healing practices ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            465,
+            705,
+            477
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Traditional concepts ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            491,
+            658,
+            503
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Information on the traditional practices of the indigenous Cape people is fragmentary and scattered in the old literature—mainly in the accounts of early explorers and travellers such as Sparrman (1785), Paterson (1789) and Lichtenstein (1812–1815). Some of them contain interesting observations on medicinal practices that were collated by Shapera (1930) but there are few accurate details of plants and their uses. A systematic scrutiny of the old literature may yield useful additional information. Laidler (1928) and Archer (1990) observed Nama traditional medicine over a period of several years and provided valuable insights, some of which agree with my own observations. ",
+        "bbox": [
+            505,
+            518,
+            929,
+            662
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three main categories of healers may be distinguished, namely the diviner or !gai aup (Laidler, 1928; ! denotes the palato-alveolar click) who treats serious ailments, the herbalist or bossiedokter who treats minor and chronic ailments and the poison or snake doctor, who specializes in the treatment of snake bites. Diviners are still encountered in remote regions of the Kalahari and are often female. In many parts of the Cape, the herbalist is still referred to as the bossiedokter (a doctor that uses herbs or small bushes – “bossies” – to heal). Although many people have a sound knowledge of herbs and use them regularly, the term bossiedokter is a designation of honour, reserved for highly skilled and experienced herbalists. ",
+        "bbox": [
+            505,
+            663,
+            929,
+            807
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Snake bite was traditionally one of the major threats to human life in the Cape region, mainly as a result of the high density of occurrence of the Cape cobra or geelslang (Naja nivea) and the puff adder or pofadder (Bitis arietans). A large part of the plant lore revolved around snake bite remedies but many of them have become obscure in modern times. Snake doctors daily ingested small doses of snake poison to make them immune against snake bite and perhaps to symbolically gain power over the snake. The treatment of snake or scorpion bites involved scarification of the wound and the application of specific plants, both topically as poultice and orally as infusion or decoction (Smith, 1895; Laidler, 1928). In addition to herbs such as dagga or wilde dagga—Leonotis leonurus (L.) R.Br., the crushed snake head or scorpion were also applied to the bite. ",
+        "bbox": [
+            507,
+            808,
+            929,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            81,
+            492,
+            121
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Khoi-San tradition, much is made of differences in the medical treatment of men and women. Laidler (1928) mentions this fact but gives no details. My observations have shown that plants (especially aromatic plants) were often classified in the San culture as either male or female. There are strong beliefs relating to the inappropriate use of plants—for example, the use of a “female plant” by a man may result in impotence or sterility. Leaf powders (buchu) that are mixed with fat and used as ointments are often classified as male or female. This interesting aspect is poorly recorded and deserves further study. ",
+        "bbox": [
+            70,
+            122,
+            494,
+            253
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2. Massage and aromatherapy ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            267,
+            270,
+            279
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In traditional Khoi-San healing, massage and touch therapy played an important role. Details of Nama practices were recorded by Laidler (1928). San touch therapy may have been experienced first hand by those who had the opportunity to witness a traditional San “trance dance” or kia ritual (Dobkin de Rios, 1986; Winkelman and Dobkin de Rios, 1989). Massage (Nama: !kouroe) took different forms (Laidler, 1928). Fat was rubbed into an area where pain was felt and the diviner may have passed his or her hands over the spot (to add magic to the medicine). The stomach was massaged by rolling movements of the hand in cases of amenorrhoea or infertility. !Kouroe also took the form of punching and kneading when pains or sprains were attended to. Another method (!koo) used the hand to gently transfer heat from the fire onto an affected part of the body. ",
+        "bbox": [
+            70,
+            293,
+            492,
+            476
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aromatherapy appears to be a characteristic feature of the San culture. It is claimed by Smith (1966) that the Khoi referred to the San or Sanqua (Sonqua) as the “men or people (qua) who anointed their bodies with bushes (son, san)”, because of their habit of massaging with powdered aromatic bushes mixed with sheep fat. This habit was witnessed by my father in the Calvinia district (farm Klipwerf), at a time (ca. 1935) when there were still semi-nomadic San who regularly came around for meat and fat leftovers from the communal cooking shed. The name Son (plural San) referred to one of the preferred plants, Pteronia onobromoides DC., the powdered leaves of which were carried in a special tortoise shell container. The name Sonqua therefore directly translates to “bossieman”, which became boesman and bushman. “Bossies” (small shrubs) are an integral part of the culture, ideom and language of the Karoo and Renosterveld regions, where this life form is dominant in the vegetation. ",
+        "bbox": [
+            70,
+            479,
+            494,
+            688
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3. Dosage forms ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            702,
+            183,
+            715
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dosage forms that have been accurately recorded include masticatories, infusions (in water), decoctions (in water or often in milk), tinctures, poultices and snuffs. The three best-known masticatories are kanna or kougoed (Mesembryanthemum tortuosum L. and related species), bosjesmansthee [Catha edulis (Vahl.) Endl.] (Pappe, 1847) and ghaap (Hoodia species and various other succulent stapeliads). I first witnessed (in the Calvinia district in 1968) the eating of “ghaap” to suppress hunger. The earliest explicit record of “ghaap” being eaten to suppress hunger is that of Marloth (1932). In his discussion of Hoodia pilifera (L.f.) Plowes, Marloth (1932, p. 94) states: “This is the real ghaap of the natives, who use it as a substitute for food and water when both are scarce. The sweet sap reminds one of liquorice and, when on one occasion thirst compelled me to follow the example of my Hottentot guide, it saved further suffering and removed the pangs of hunger so efficiently that I could not eat anything for a day after having reached the camp.” The use of milk to prepare decoctions of red (tannin-rich) tuberous roots [Pelargonium antidysentericum (Eckl. & Zeyh.) Kostel.] is also of special interest, as the interaction between the tannins in the roots and the milk proteins undoubtedly alters the physical and chemical properties of the medicine when compared to using only water. [Detailed ethnobotanical data on Pelargonium sidoides and other species are presented elsewhere in this issue.] Mother’s milk or saliva was commonly employed for medicine given to infants. Selfmedication by taking an infusion (tea, tee) of a wide range of plants is still popular in rural areas. In an interview in 1994, the legendary “Lappiesman” (Jan Schoeman) of the Prince Albert district in the Karoo (depicted in Oberholzer, 2002) ascribed his exceptional fitness at an advanced age to a daily (early morning) cup of litjiestee made from Viscum capense L.f. Tinctures appear to be a more recent (Cape Dutch) introduction, as only low-alcohol beverages (karrie or honey beer) were traditionally available. Brandy (brandewyn) and other forms of distilled alcohol (witblits) were readily available at the Cape, especially in wine-producing districts (Dykman, 1908; Cillié, 1992). Poultices are still popular, not only to treat wounds, burns and other skin ailments but also to alleviate headache and localized pain. Laidler (1928) and Archer (1990) mention the use of snuffs and the principle that sneezing is thought to “expel” the disease or ailment. Dried and powdered root of Gomphocarpus cancellatus (Burm.f.) Bruyns is one such medicinal snuff for treating influenza (Archer, 1990) and may be the same plant (or a relative) of the witvergeet (witte vergeit) of Laidler (1928). Few accurate details of the use of snuffs have been recorded. A comprehensive account of the traditional concepts of diseases and their treatments are beyond the scope of this review. In some of the early documents (Smith, 1895; Dykman, 1908; Kling, 1923) ailments were used as the main categories for arranging the medicinal plants species that were recorded. An interesting insight into common ailments and therapies of the Nama people is provided by Laidler (1928). ",
+        "bbox": [
+            70,
+            730,
+            494,
+            939
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            81,
+            946,
+            517
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4. Animal products ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            530,
+            653,
+            543
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During observations of the Nama culture over a period of 4 years, Laidler (1928) recorded the medicinal use of dried porcupine (Hystrix africaeaustralis) stomach (with its content), dried jackal kidney, hyena dung, dried lizard, cancer beetle, burnt ostrich egg (mixed with fat) and rock rabbit (Procavia capensis) urine (hyraceum). Some of these remedies are still used—Archer (1990) noted that animal fat, rock salts, livers of animals and the stomach content of porcupine were used in Namaqualand (Leliefontein and the Richtersveld) to “improve the potency of the medicines”. ",
+        "bbox": [
+            522,
+            557,
+            946,
+            675
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pappe (1847) coined the term hyraceum for a popular Cape remedy usually referred to by the crude Afrikaans name dassiepis (rock rabbit urine). Typical for the rock hyrax or rock rabbit is its highly concentrated urine (an adaptation to survive in arid regions) that is deposited in localized sites in rock crevices. The animal is also able to survive on aromatic and resinous plant materials, so that the concretion of the urine (a blackish, tar-like substance) has a strong, aromatic and musky smell. Hyraceum may become fossilized with age and is chemically complex and variable (Olsen et al., 2008). Laidler (1928) recorded the Nama names //am uru or /gaous $\\mathrm { . } / / \\mathrm { = }$ lateral click, $I =$ dental click) and the Afrikaans name swart bo meester (big black master). The product may gradually be converted (through the action of rain and air) into white potassium nitrate, which is called bo meester (grand big master) or klipsweet (rock sweat). The term klipsweet is also used for the excretions of midgets that are gathered from rocks (for medicinal use). Potassium nitrate (saltpeter) has been used in European traditional medicine as a diuretic, antipyretic and asthma medicine (Burger and Wachter, 1998). Hyraceum is used as an antispasmodic for stiffness in the back, back pain, stomach pain, hysteria, epilepsy and all nervous conditions (Pappe, 1847; Dykman, 1908; Kling, 1923; Laidler, 1928). It is interesting to note that some samples have shown GABAbenzodiazepine receptor activity (Olsen et al., 2008). Decoctions and infusions are taken orally as an antidote for any type of poisoning and the product is rubbed into scarified snake bites and scorpion stings. As a tea, it is used to treat women’s ailments but large doses are said to result in abortion (Laidler, 1928). ",
+        "bbox": [
+            522,
+            677,
+            946,
+            939
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            83,
+            477,
+            174
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Khoi-San and Cape Dutch materia medica ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            194,
+            351,
+            208
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1. Medical plants recorded before 1650 ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            221,
+            304,
+            233
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Archaeological records of plants in the form of rock paintings and engravings are quite rare, as people and animals are the dominants themes of almost all early art work. However, eight species have been recorded: Harpagophytum procumbens (Burch.) DC. ex Meisn., Stapelia grandiflora Masson, Acacia tortilis (Forssk.) Hayne, Searsia lancea (L.f.) L.A.Barkley (syn. Rhus lancea L.f.), Massonia jasminiflora Burch. ex Baker, Boophone disticha (L.f.) Herb (Wilman, 1968) as well as Aloe ferox Mill. and Aloe broomii Schönland (Reynolds, 1950). The cultural importance and medicinal value of these plants are still evident today. Most of them (including Harpagophytum procumbens) are important medicinal plants but they are not part of the Cape healing culture (see Table 1) and are therefore not discussed in detail here. Boophone disticha is a hallucinogenic plant of special interest in Khoi-San ethnomedicine and appears to symbolise eternal life. Boophone alkaloids demonstrate serotonin activity (Sandager et al., 2005). Personal observations in the Kalahari Desert strongly suggest that Boophone disticha is of importance in the trance dance or kia healing ritual, even though it is not mentioned in the literature on this subject (Dobkin de Rios, 1986; Winkelman and Dobkin de Rios, 1989). This plant deserves further study, as it is now known to be of importance in Khoi mummification. The discovery in the Kouga/Baviaanskloof area of a Khoi-San mummy (of a man) is of special interest (Binneman, 1999). The body was mummified with Boophone disticha bulb scales and was buried nearly 2000 $1 9 3 0 \\pm 2 0 )$ years ago. ",
+        "bbox": [
+            55,
+            248,
+            477,
+            576
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Aloe ferox and Aloe broomii are depicted in San rock paintings (Reynolds, 1950), with human figures holding the plants. The yellow leaf juice of both these species contains anthraquinone glycosides with a purgative action. The dried latex of Aloe ferox (known commercially as “Cape aloes”) has a long history of use in the Gouritz River area of the Cape and has been an item of export to Europe since 1761 (Sparrman, 1785; Marloth, 1915; Kruger and Beyers, 1977; Robertson, 1979; Forbes, 1986). The rock paintings leave no doubt that Aloe ferox and Aloe broomii were important plants in the San culture. ",
+        "bbox": [
+            53,
+            577,
+            477,
+            708
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another approach to identifying the plant species used by early Khoi-San people in the Cape is to study plant remains from archaeological excavations and cave deposits. Analyses of plant remains, often dominated by geophytes such as Watsonia and Hypoxis species, are available for Scott’s Cave (Wells, 1965), De Hangen (Parkington and Poggenpoel, 1971) and Melkhoutboom Cave (Deacon, 1976). These studies may contribute towards a better understanding of plant use patterns in general. ",
+        "bbox": [
+            53,
+            709,
+            477,
+            814
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2. Medicinal plants recorded up to 1932 ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            834,
+            310,
+            846
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The emphasis of this review is on herbal remedies of the Cape (i.e., the Cape fynbos area and adjacent Karoo regions) that have been accurately recorded up to 1932. One of the major problems in interpreting the fragmented early records is the fact that vernacular names are given in the Khoi language or mostly in Afrikaans, or a mixture of the two. ",
+        "bbox": [
+            53,
+            861,
+            477,
+            939
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Important contributions were made by botanical explorers during the Dutch era (Scott and Hewett, 2008), notably the Swedish botanist, C.P. Thunberg. The first detailed account of Cape herbal medicine was published by Pappe (1847, 1850, 1857). Other important sources of information are Smith (1888, 1895), Dykman (1891, 1908), Marloth (1913–1932), Kling (1923) and Laidler (1928). Pappe (1847) was the first to give an extensive list of “Cape Dutch” plant uses, mainly focussed on the immediate surrounds of Cape Town. The information in Dykman (1891, 1908) is of special interest, as it represents a compilation of Cape farm remedies (boererate) collected as recipes from (now obscure) popular literature and unpublished anecdotes over a period of many years. Herbs were mostly used in mixtures and all plant names were given in Afrikaans only. It is important to note the high incidence of plant combinations in the recommended treatments of Dykman (1908). Such mixtures, with their potential value to produce additive or even synergistic effects (Viljoen et al., 2003), have hardly received any scientific attention until recently. Kling (1923) was based in the town of Tulbagh, so his review (also in Afrikaans) is restricted to Cape plants. The various Flora volumes of Marloth (1913–1932) are more accessible (in English) and have a much wider coverage, both geographically and taxonomically. Laidler (1928) gives important insights into traditional medicine in Namaqualand but several of the plants were not accurately identified. The work of Archer (1990, 1994) also made an important contribution for Namaqualand. Additional information exists for the Nieuwoudtville area and the Clanwilliam–Citrusdal districts (Metelerkamp and Sealy, 1983; Van Wyk et al., unpublished). For the area known as the Little Karoo (Kannaland), valuable information has been collected by the Kleinplasie Farm Museum at Worcester (Cillié, 1992; Vergoes Houwens, undated; Wileman, undated) and the Montagu Museum (Montagu Museum, 1998). Medicinal plant uses in the Karoo are mentioned by Shearing and Van Heerden (1994). Thring and Weitz (2006) made an important contribution for the Bredasdorp/Elim region, known as the Southern Overberg. Smith (1888, 1895) provided a scientifically accurate review of plant uses in the Grahamstown region of the Eastern Cape Province, which is supplemented by the recent review of Matsiliza and Barker (2001). Since Smith (1895) usually distinguished between Khoikhoi and Xhosa (Nguni) plant uses, it was possible to restrict the entries in Table 1 to the former. A recent survey of medicinal plant use in the Murraysburg and Graaff–Reinet districts of the eastern Karoo (Van Wyk et al., 2008) has also helped to interpret the information given by Smith (1895). ",
+        "bbox": [
+            505,
+            78,
+            929,
+            649
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A total of about 170 plant species has been recorded from the Cape region up to 1932 (Table 1). Table 1 gives the currently accepted scientific names (following Germishuizen and Meyer, 2003), as well as the original vernacular names in Afrikaans and/or Khoi/Nama. For older synonyms, Germishuizen and Meyer (2003) should be consulted, while Smith (1966) and Powrie (2004) are useful sources of information on vernacular names. The information in Table 1 is of value in comparing current plant use patterns in the Cape region with the historical record. The following five broad and partly overlapping categories of species can be distinguished in Table 1 (these are indicated in square brackets in column 1), namely 1, Cape-endemic plants that are still in everyday use by rural communities in the Cape region; 2, South African plants with a wide distribution that are also traditionally used in the Sotho and Nguni cultures. These include Aloe ferox, Artemisia afra, Boophone disticha, Bulbine species, Dodonaea angustifolia, Euclea species, Gunnera perpensa, Helichrysum species, Leonotis leonurus, Pelargonium sidoides, Sansevieria aethiopica, Sutherlandia frutescens, Teucrium species, Withania somniferum and Xysmalobium undulatium; 3, species of commercial importance or that are currently under development as new products. These include Agathosma betulina, Agathosma crenulata, ",
+        "bbox": [
+            505,
+            650,
+            929,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/44a81d3f7aa0442e1c93fc1ebd041a8dafe3c02f23772fe1ea9625cf8c5cad43.jpg",
+        "table_caption": [
+            "Table 1 Khoi-San and Cape Dutch materia medica (as recorded in literature up to 1932), with traditional uses and key sources of information "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Species (those still commonly used in the Cape in bold); *indigenous but not Cape; **exotic species [use category]</td><td>Common names (Khoi/Nama names underlined)</td><td>Main uses (original references should be consulted for more accurate and exact descriptions of uses and dosage forms)</td><td>References</td></tr><tr><td>Acacia karoo Hayne [2]</td><td>doringboom</td><td>Gum (Cape gum, heyra); emulcent, salve; bark for diarrhoea and dysentery</td><td>P1-3; D; K; L</td></tr><tr><td>Adiantum aethiopicum L. [4]</td><td>vrouwehaar</td><td>Herb; cough,respiratory ailments</td><td>t</td></tr><tr><td>Agathosma betulina (P.J. Bergius) Pillans [1, 3]</td><td>boegoe,buchu.letulina,bookoo</td><td>Leaves; kidney and bladder ailments; diuretic,tonic; leaves in vinegar for</td><td>B3; P1-3; D; K; L</td></tr><tr><td>Agathosma crenulata (L.) Pillans [1,3]</td><td>boegoe, buchu.</td><td>wounds,sprains and contusions Asabove</td><td> As above</td></tr><tr><td>**Allium cepa L. [5]</td><td></td><td> Bulb; as warm poultices (uiepap);</td><td>D; K</td></tr><tr><td>**Allium sativum L. [5]</td><td> knoffel</td><td>glandular swellings Bulb;nausea, sores, cough, fever</td><td>D</td></tr><tr><td>Aloe africana Mill. [4]</td><td> aalwyn</td><td> Juice taken as laxative</td><td>P1-3</td></tr><tr><td>Aloe ferox Mill. [2, 5]</td><td>aalwyn, bitteraalwyn</td><td> Juice taken as laxative</td><td> P1-3; S; K; L; M2</td></tr><tr><td>Aloe plicatilis (L.) Mili. [4]</td><td>aalwyn</td><td>Juice taken as laxative</td><td>P1-3</td></tr><tr><td>Aloe variegata L. [4]</td><td>kanniedood</td><td>Fresh leaf; whitlow</td><td>D</td></tr><tr><td>Annesorhiza species [4] Arctopus echinatus L., Arctopus</td><td>anyswortel sieketroos(t),platdoring</td><td>Root tincture; flatulence Tuberous root; demulcent, diuretic;</td><td>K T; B4, P1-3; D; K; M1</td></tr><tr><td>monacanthus Carmichael ex Sond. [1]</td><td></td><td>syphilis (mixed with rabas),gonorrhoea; general medicine; blood purifier</td><td></td></tr><tr><td>Artemisia afra Jacq. ex Willd. [2]</td><td>wildeals,wilde-als,als,e</td><td>Leaves; tonic,antispasmodic,anthelmintic; various uses; colds,influenza, cough,fever;</td><td>P1-3; S; D; K</td></tr><tr><td>**Artemisia absinthium L. [5] Asclepias crispa P.J.Bergius [2]</td><td> groenamara</td><td>eye drops Leaf; stomach ailments</td><td>D</td></tr><tr><td>Aspalathus cordata (L.) R.Dahlgren [4]</td><td>bitterhout(jie),bitterwortel stekeltee</td><td>Root; diuretic,stomach pain Leaf infusions; asthma; diuretic</td><td>T; P1-3; S; K; L P1-3; K</td></tr><tr><td>Aspalathus linearis (Burm.f.) R.Dahlgren [1,3]</td><td>rooibostee,bossietee</td><td>Leaf infusions; general health tea</td><td>M3</td></tr><tr><td>Asparagus laricinus Burch.,Asparagus stipulaceus Lam., Asparagus retrofractus</td><td>katdoring(wortels),t&#x27;nuance</td><td>Roots as diuretic and to treat tuberculosis</td><td>P2-3; D; K; L</td></tr><tr><td>L. [2]</td><td></td><td></td><td></td></tr><tr><td>Athanasia cuneifolia Lam. [1] Ballota africana L. [1]</td><td>ghwarrieson,ison kattekruie</td><td>Herb; tintures or infusions for a weak heart Leaf infusions used for colds,fever,</td><td>D P2-3; D; K; L</td></tr><tr><td></td><td></td><td>measles,influenza</td><td></td></tr><tr><td>Berkeya sp.[4]</td><td> graweelwortel</td><td>Bruised root as tincture; diuretic, gravel</td><td>P1-3; K</td></tr><tr><td>Berula erecta (Huds.) Coville subsp. thunbergii (DC.) B.L.Burt [4]</td><td>tandpynwortel,tandpynbossie</td><td>Root (rhizome) held in mouth or chewed for toothache</td><td>P2-3; K</td></tr><tr><td>Boophone disticha (L.f.) Herb.[2]</td><td> gifbol</td><td>Bulb scales; skin diseases</td><td>B3; K</td></tr><tr><td>Brachylaena elliptica (Thunb.) DC.[4]</td><td>bitterblaar,(-blare)</td><td>Leaf decoctions gargled for sore throat;</td><td> S; K; W2</td></tr><tr><td>Bulbine alooides (L.) Willd. [2]</td><td>rooiwortel</td><td>diabetes Tuber; used as “blood purifier&quot;; lumbago</td><td>s</td></tr><tr><td>Bulbine asphodeloides (L.) Wild. [2]</td><td>wildekopieva</td><td>Rhizome and roots; scrofula; juice used as</td><td>s</td></tr><tr><td>Bulbinefrutescens (L.) Willd.and other</td><td>wildekopieva, geelkatstert</td><td>styptic Rhizome and roots; scrofula; juice used as</td><td>s</td></tr><tr><td>Bulbine species [2,3] Bulbine latifolia (L.f.) Roem.&amp; Schult.</td><td></td><td>styptic</td><td></td></tr><tr><td>[2]</td><td>rooiwortel</td><td> Tuber; used as “blood purifier&quot;; lumbago</td><td>s</td></tr><tr><td>**Cannabis sativa L. [5] Carpobrotus edulis L.Bolus [1]</td><td>makdagga,rookdagga,dagga suurvy,ghaukum,vyerank,</td><td>Smoke after a stroke Leaf juice gargled for diphtheria, sore</td><td>D T; P1-3; D; K; L</td></tr><tr><td></td><td>nautsi amma</td><td>throat,mouth infections,excessive salivation; swallowed (dysentery); burns and scalds; delayed labour, retained</td><td></td></tr><tr><td>Carpobrotus acinaciformis (L.) L.Bolus</td><td> perdevy</td><td>afterbirth As above</td><td>P1-3</td></tr><tr><td>[1] Cassine peragua L. [4]</td><td> saffran</td><td>Bark; snake bite</td><td>W1</td></tr><tr><td>Cassytha ciliolata Nees [4]</td><td>nooienshaar,vrouehaar</td><td>Hair wash, scald head (said to promote hair growth)</td><td>P1-3</td></tr><tr><td>Catha edulis (Vahl.) Endl. [2]</td><td>bosjesmansthee</td><td>Leaf, chewed or taken as tea; cough,asthma</td><td>P1-3</td></tr><tr><td>**Centaurea benedicta (L.)L.[5],</td><td>karmedik</td><td>Herb; tinctures as bitter tonic,stomachic; cough and hoarseness; treatment of</td><td>D</td></tr><tr><td>**Cirsium vulgare (Savi) Ten. [4,5]</td><td></td><td>internal cancers</td><td></td></tr><tr><td>Centella asiatica (L.) Urb.[2]</td><td>varkoortjies,waternael</td><td>Herb; topical to treat wounds and sores (leprosy)</td><td>P1-3; K</td></tr><tr><td>Centella glabrata L. [4]</td><td> persiegras, persgras</td><td>Roots and stalks; treament of chronic diarrhoea and dysentery; diaphoretic</td><td>P1-3; K</td></tr><tr><td></td><td>chamare (see also gli)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Chenopodium ambrosioides L. [2] Chironia baccifera L. [1]</td><td>hondepisbossie bitterbos,(-blare),aambeibos</td><td>Leaves,stems and fruits; used post-partum</td><td> P2-3; K</td></tr><tr><td></td><td></td><td>Vermifuge; leaf juice for stomach acid</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Root; carminative</td><td></td></tr><tr><td>Chamarea capensis (Thunb.) Eckl &amp;</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>V</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Zeyh. [4]</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            65,
+            104,
+            957,
+            904
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2506bd029adb0f054920e80305dbc07d31462464f9d5ca09063d3c1e31ba31b.jpg",
+        "table_caption": [
+            "Table 1 (Continued) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>1Species (those still commonly used in the Cape in bold); *indigenous but not Cape; **exotic species [use category]</td><td>Common names 2(Khoi/Nama names underlined)</td><td>Main uses (original references should be consulted for more accurate and exact descriptions of uses and dosage forms)</td><td>References</td></tr><tr><td>Cissampelos capensis L.f. [1]</td><td>dawidjies (see dawidjiewortel)</td><td>Root, rhizome; emetic, purgative; tincture for dysentery,syphilis; snake bite (leaf</td><td>P1-3; D; M1; S</td></tr><tr><td>*Citrullus lanatus (Thunb.) Matsum. &amp;</td><td>wildewaatlemoen,ramanas</td><td>paste,root decoction) Fresh fruit flesh (bitter) used as purgative</td><td>P1-3; D; K</td></tr><tr><td>Nakai [2] Cliffortia illicifolia L. [4]</td><td>doringtee,rysbos</td><td>and diuretic in dropsy Herb; emmolient; expectorant in coughs</td><td>P1-3</td></tr><tr><td>Cliffortia odorataLf. [4]</td><td>wildewingerd</td><td>Tips (toppe); strong infusion for haemorrhoids,amenorrhoea</td><td>D; K</td></tr><tr><td>Conyza scabrida DC. [syn. Conyza ivaefolia (L.) Less.] [2]</td><td>oondbos,oondbesembos</td><td>Herb; infusions for stomach,chest, heart. Influenza (1918); topical (steaming) for</td><td>s</td></tr><tr><td>Cotula villosa DC. [4]</td><td>kamso,t'kamso</td><td>women's ailments Herb; rheumatism, scalds,cutaneous</td><td>P1-3; K</td></tr><tr><td>Cotyledon orbiculata L. [2]</td><td>plakkie,varkoor kout(e)rie(bos)</td><td>eruptions Fresh leaves applied to remove warts; gargle for sore throat; treatment of</td><td> P1-3; S; K</td></tr><tr><td>Crassula ovata (Mill.) Druce [4]</td><td>karkay,t'karkai, karkey</td><td>epilepsy; warm leaf juice (earache) Fresh leaves boiled in milk to treat</td><td>P1-3; K</td></tr><tr><td>Crassula tetragona L. [4]</td><td> As above</td><td>diarrhoea Fresh leaves boiled in milk to treat</td><td>P1-3; K</td></tr><tr><td>Crassula ericoides Harv. [4]</td><td></td><td>diarrhoea</td><td></td></tr><tr><td>Crassula muscosa L. [4]</td><td>karkai klein koorsbos</td><td>Herb; fever Herb; decoction for fever (diaphoretic)</td><td>P1-3; K l</td></tr><tr><td>Crassula species [4]</td><td>Nor recorded</td><td>Leaf; dysentery Expectorant, restorative,treatment of</td><td>B1</td></tr><tr><td>Cyclopia genistoides (L.) R.Br. [1,3]</td><td>heuningbos(tee), heuningtee</td><td>\"consumption\"</td><td> P1-3; M3; K</td></tr><tr><td>Cynodon dactylon (L.) Pers.[4]</td><td> kweekgras, garre, gari(e)s</td><td>Rhizomes; decoctions for coughs; mixed with fat and rubbed in for gout Wilted leaves as hot poultice; powdered</td><td>D; L</td></tr><tr><td>**Datura species [5]</td><td>olieboom,stinkblare</td><td>leaf (with potassium nitrate)as asthma powder Herb; bitter tonic and diuretic; kidneys,</td><td>K</td></tr><tr><td>Dicoma capensis Less. [1]</td><td>karmedik (2),wilde karmedik</td><td>bladder, back pain, nausea,influenza,colds, cancer;anti-diarrhoeal Decoction of powdered roots used for</td><td>K</td></tr><tr><td>Diospyros pallens (Thunb.) F.White [4]</td><td>bloubos,swartwortel</td><td>stomach pain; with stems included, to treat diarrhoea</td><td>l</td></tr><tr><td>Dodonaea angustifolia Lf. [2]</td><td>ysterhout(toppe),sandolien, t'koubi</td><td>“Toppe\"(tips)used for colds and fever; general tonic,inflammation; lung ailments, tuberculosis</td><td> P1-3; D; K; L</td></tr><tr><td>Ecklonia maxima (Osbeck) Papenfuss and other genera and species of</td><td> seebamboes</td><td>Source of iodine; hot poultices; glandular swellings;an infusion of the ash taken for</td><td>P1-3; K</td></tr><tr><td>seaweed [4] Elytropappus rhinocerotis (L.f.) Less. [1]</td><td>renosterbos(toppe),anosterbos</td><td>syphilis Twigs (\"toppe\",tips); bitter for dyspepsia, indigestion,diarrhoea,tincture for gravel;</td><td>P1-3; D; K</td></tr><tr><td>Empleurum unicapsulare (Lf.) Skeels [4]</td><td>hottentot's buchu</td><td>vermifuge;fumigant Leaf; bruises (oral and topical)</td><td>W1</td></tr><tr><td>Eriocephalus africanus L. [syn. Eriocephalus umbellulatus Cas.] [1]</td><td>kapokbos(sie),wilderoosmaryn</td><td>Herb; traditional diuretic(for dropsy); colds and chest ailments; stomach pain;</td><td>T; P1-3; K; L</td></tr><tr><td>Eriospermum capense (L.) Thunb.subsp.</td><td>bobbejaanore</td><td>weak stomach Tuber; topical for ulcers, sores; in</td><td>P1-3; K; L</td></tr><tr><td>capense [4] **Eucalyptus globulus Labll [5]</td><td>blougom [bloekom]</td><td>decoction for amenorrhoea Leaves; fever,diphtheria,cough (in</td><td>D</td></tr><tr><td>Euclea species [2]</td><td>ghwarriebos, ghuarriebos</td><td>mixtures); wounds Leaves; infusions for heart problems</td><td></td></tr><tr><td>Euryops multifidus (Thunb.) DC. and other Euryops species [4]</td><td>harpuisbos,t'goonu(?), nu-nu</td><td>Resin; a few drops of the infusion or tincture in water, for headaches,influenza;</td><td>K P1-3; K; L</td></tr><tr><td>Exomis microphylla (Thunb.) Aellen</td><td>hondebos</td><td>resin mixed with fat for sores Leaf decoctions in milk; old Khoi remedy</td><td>s</td></tr><tr><td>var. axyrioides (Fenzi.) Aellen [4]</td><td></td><td>for epilepsy; winds, cramps and convulsions in infants Tuber used as food; diuretic; fresh sliced</td><td></td></tr><tr><td>Fockea edulis (Thunb.) K.Schum. and other Fockea species [1]</td><td>kambroo,camarebi,camao</td><td>tuber applied to (snake) bites and stings “to draw out the poison\"</td><td>V; L</td></tr><tr><td>**Foeniculum vulgare Mil. [5] Galenia africana L. [1]</td><td>vinkel kraalbos,t'kooi dabee</td><td>Leaves and/or fruits;carminative,eye drops Small amount of leaves chewed for</td><td>D; K K; L</td></tr><tr><td></td><td></td><td>toothache (too much results in blisters); eye drops (inflammation)</td><td></td></tr><tr><td>Garuleum bipinnatum (Thunb.) Less. [1]</td><td>slanghoutjie,gifhoutjie, kowerbos(sie)</td><td>Root; chest ailments, expectorant, diaphoretic,diuretic in gout and dropsy,</td><td> P2-3; D; K</td></tr><tr><td>Gethyllis species [1]</td><td> koek(oe)makranka,</td><td>antidote for snake bite;weak stomach Fresh frangrant fruit in tincture for colic,</td><td>B3; T; P1-3; K</td></tr><tr><td colspan=\"4\">Table1(Continued)</td></tr><tr><td>1Species (those still commonly used in the Cape in bold); *indigenous but not</td><td>Common names 2(Khoi/Nama names underlined)</td><td>Main uses (original references should be consulted for more accurate and exact</td><td>References</td></tr><tr><td>Cape; **exotic species [use categoryl</td><td></td><td>descriptions of uses and dosage forms)</td><td>v</td></tr><tr><td>Glia prolifera (Burm.f.) B.L Burtt [4]</td><td>gli (also chamare) kamassie</td><td>Root; carminative,diuretic Bark; muscular weakness (topical)</td><td>W1</td></tr><tr><td>Gonioma kamassi E.Mey.[4] Gunnera perpensa L. [2]</td><td>wilderamanas,rivierpampoen</td><td>Root; dyspepsia,indigestion,gravel, pulmonary ailments; fresh leaf applied to</td><td>P1-3</td></tr><tr><td>Haemanthus coccineus L. [4]</td><td>velskoenblaar</td><td>ulcers and wounds Sliced bulb in vinegar: expectorant,</td><td>T; P1-3; L</td></tr><tr><td></td><td></td><td>diuretic;asthma,dropsy; fresh leaves for ulcers and septic wounds Gum (mixed with sweet oil) used as plaster</td><td></td></tr><tr><td>Heeria argentea (Thunb.) Meisn. [4] Helichrysum litorale Bolus [syn.</td><td>kliphout(gom), klipes beetbossie</td><td>for burns, wounds,tender nipples Powdered herb (with fat)applied to ulcers</td><td>D; K P3; K</td></tr><tr><td>Leontonyx angustifolia DC.] [4] Helichrysum odoratissimum (L.)</td><td> kooigoed</td><td>Herb; cough,heart ailments,influenza,</td><td>D; K</td></tr><tr><td>Sweet [2] Helichrysum nudifolium (L.) Less. [2]</td><td>Not recorded</td><td>nervous disorders (usually in mixtures) Leaves as tea; chest ailments, colds</td><td> P1-3; S</td></tr><tr><td>Helichrysum species [2,4] Hoodia pilifera (L.f.) Plowes; several</td><td>Not recorded</td><td>Herb?; nervous conditions, hysteria Fresh stems as functional food;</td><td>B1</td></tr><tr><td>other genera and species [1, 3]</td><td> ghaap, hoodia, guaap</td><td>suppression of thirst and appetite; tinctures for haemorrhoids</td><td>P2-3; K; L; M4</td></tr><tr><td>Hyraceum (concretions of rock rabbit urine) [1]</td><td>dassiepis,swart bo meester, |lam uru; t'gaous; klipsweet</td><td>Antispasmodic; back and stomach pain; poisoning; hysteria, epilepsy,all nervous conditions; as tea to treat women's</td><td> P1-3; D; K; L</td></tr><tr><td>Jamesbritenia atropurpurpea (Benth.)</td><td>geelblommetjie,saffraanbossie</td><td>ailments; abortifacient (large doses) Herb;antispasmodic,stimulant;</td><td>P1-3; K</td></tr><tr><td>Hilliard [4] Kedrostis nana (Lam.) Cogn., Kedrostis</td><td>dawidjiewortel,awid'stel,</td><td>convulsions; cough, bronchitis Tuber; emetic, purgative, diuretic; dropsy,</td><td>T; P1-3; M1; K; L</td></tr><tr><td>africana (L.) Cogn. [Zehneria scabra (L.f.) Sond.?] [1]</td><td>gameroo(?), rabuiswortel</td><td> syphilis</td><td></td></tr><tr><td>Knowltonia vesicatoria (L.f.) Sims,</td><td>brandblare,ka(a)tjiedrieblaar</td><td>Leaves;counter-irritant to treat</td><td>C; P1-3; K</td></tr><tr><td>Knowltonia capensis (L.) Huth [4] Lessertia annularis Burch [4]</td><td>krimpsiekbos</td><td>rheumatism,lumbago Poultice for abscesses</td><td>l</td></tr><tr><td>Leonotis leonurus (L.) R.Br. [2]</td><td> dagga,wildedagga,rooi dagga</td><td>Leaves; purgative, emmenagogue; headache,bronchitis; eye ointment; seeds</td><td> P1-3; S; M1; D; K; L</td></tr><tr><td>Leonotis intermedia Lindl.,Leonotis</td><td></td><td>for bronchitis, headaches; snakebite antidote; first aid in poisoning As above</td><td></td></tr><tr><td>ocymifolia (Burm.f.) Iwarsson?[2] Leysera gnaphalodes (L.)L.[4]</td><td> klipdagga</td><td>Herb; cattarh,cough,\"consumption\"</td><td>S; K; L</td></tr><tr><td></td><td>geelblommetjieste,duinetee, hongertee</td><td></td><td>P1-3; K</td></tr><tr><td>Lichtensteinia lacera Cham.&amp; Schltdl. [4]</td><td>kalmoes,kalmiswortel</td><td>Root (rhizome); dyspepsia</td><td>K</td></tr><tr><td>Lobelia pinifolia L. [4]</td><td>wildelobelia</td><td>Root; diaphoretic, rheumatism, gout (blood purifier)</td><td>T; P1-3</td></tr><tr><td>Lobostemon fruticosus (L.) H.Buek, Lobostemon species [1]</td><td>agdaegeneesbos,douwurmbos</td><td>Chewed leaf pulp applied as plaster; ointments for sores</td><td>K</td></tr><tr><td>**Malva parviflora L. [5]</td><td>kiesieblaar,kaies</td><td>Poultices (sores); decoctions (neuralgia, sore throat)</td><td>P2-3; D; K</td></tr><tr><td>Melianthus major L. [1]</td><td>(truitjie-) kruidjie-roer-my-nie</td><td>Leaf infusions; gargle for sore throat, gum diseases; external for ulcers,sores,snake</td><td>P1-3; D; K</td></tr><tr><td></td><td></td><td>bite As above</td><td></td></tr><tr><td>Melianthus comosus Vahl [1] Mentha longifolia(L.) Huds. [2]</td><td>Asabove balderjan,baldrian,t'kamma</td><td> Herb as tea; antispasmodic,carminative;</td><td>s P1-3; L</td></tr><tr><td>**Mentha spicata L. [5]</td><td>kruisement</td><td>treatment of colic,hysteria; diaphoretic General medicine,stomach ailments</td><td></td></tr><tr><td>Mesembryanthemum crystallinum L. [4]</td><td>ysplant,brakslaai,slai,ma</td><td>Fresh juice;urinary incontinence,bladder</td><td>D P1-3; K</td></tr><tr><td>Mesembryanthemum tortuosum L.</td><td>kanna(wortel), (\"channa,</td><td>ailments Whole plant; suppression of thirst; chewed</td><td> V; P1-3; H3; Z; L</td></tr><tr><td>and other species [1,3]</td><td>canna\") kougoed</td><td>as hypnotic and sedative,for toothache, stomach ache; treatment of colic in infants;</td><td></td></tr><tr><td>Mohria caffrorum (L.) Desv. [4]</td><td>brandvaring,brandbossie</td><td>“will make a child sleep\" Powdered leaf (aromatic) in ointments:</td><td>P1-3</td></tr><tr><td>Monsonia emarginata (L.f.) L'Her.,</td><td>keita,geita,nceta</td><td>burns and scalds Herb and root used for diarrhoea and</td><td>P1-3; K; S; M1</td></tr><tr><td>Monsonia burkeana Planch. ex Harv. [4]</td><td></td><td>dysentery; Khoi remedy for colds and inflammation of the chest</td><td></td></tr><tr><td>Notobubon galbanum (L.) A.R.Magee</td><td>bergseldery,wildeeldery</td><td>Leaf decoctions; diuretic; treatment of</td><td> P1-3; D; K; W2</td></tr><tr><td>[syn. Peucedanum galbanum L.][4]</td><td></td><td>gravel, obesity</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Olea europaea L. subsp. africana (Mill.)</td><td> olienhout</td><td> Tips (toppe) pounded and applied as cold</td><td></td></tr><tr><td>Nymania capensis (Thunb.) Lindb.[4]</td><td>stinkbos</td><td>Convulsions</td><td>l</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>P1-3</td></tr><tr><td>Nylandtia spinosa (L.) Dumort.[4]</td><td>skilpadbessie</td><td>Tips (toppe); decoction for atrophy,phthisis</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            48,
+            100,
+            944,
+            926
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            65,
+            81,
+            954,
+            918
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e423ec8fe2c88747b3c0dd18e5b79320db7b31f7d66e27fe2678f50aea600f17.jpg",
+        "table_caption": [
+            "Table 1 (Continued) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>1Species (those still commonly used in the Cape in bold); *indigenous but not Cape; **exotic species [use category]</td><td>Common names 2(Khoi/Nama names underlined)</td><td>Main uses (original references should be consulted for more accurate and exact descriptions of uses and dosage forms)</td><td>References</td></tr><tr><td>Oncosiphon glabratum (Thunb.) Kallersjo [4]</td><td>wildekamomille,mlle</td><td>Herb;antispasmodic,colic,stomachic in dyspepsia; convulsions</td><td>P1-3; D; K</td></tr><tr><td>Oncosiphon suffruticosum (L.)</td><td> stinkkruid, wurmkruid,</td><td>Herb; tonic,digestive,anthelmintic,</td><td>P1-3; S; D; K; L</td></tr><tr><td>Kallersjo and Oncosiphon piluliferum (L.f.) Käallersjo [1]</td><td>wurmbos,miskruid</td><td>diuretic; infantile convulsions; stomach pain; poultice for scorpion stings; typhoid</td><td></td></tr><tr><td>Osmitopsis afra (L.) K.Bremer [syn.</td><td>belskruie</td><td>fever, rheumatic fever,influenza Herb; chest ailments</td><td>P1-3</td></tr><tr><td>Osmitopsis hirsuta Less.] [4] Osmitopsis asteriscoides (P.J.Bergius)</td><td>bels,belskruie</td><td>Herb; antispasmodic,tonic; treatment of</td><td>T; P1-3; D; K</td></tr><tr><td>Less. [1] Othonna leptodactyla Harv. [4]</td><td></td><td>cough, chest ailments, colic; haemorrhoids; dyspepsia</td><td></td></tr><tr><td>Oxalis pes-caprae L. [4]</td><td>Not recorded suring</td><td>Leaf; poultice for cramps Vermifuge</td><td>V P2-3; K</td></tr><tr><td>Parmelia spp.; Xanthomaculina hottentotta (Ach.) Hale-Mull.[syn.</td><td>klipblom,lposl</td><td>Infusions for back pain; mouth wash for oral thrush; aromatic lichen (klipbuchu)</td><td>K; L</td></tr><tr><td>Parmelia hottentotta (Ach.) Ach.] [1,2]</td><td></td><td>used for anointing the body (and as mouth wash for teething children)</td><td></td></tr><tr><td>Pelargonium antidysentericum (Eckl.&amp; Zeyh.) Kostel. [4]</td><td>t&#x27;namie,t&#x27;kamie,naniewortel</td><td>Tuber; decoctions in milk for dysentery (Namaqualand)</td><td>P1-3; K; L</td></tr><tr><td>Pelargonium cucculatum (L.) L&#x27;Hér. [1] Pelargonium grossularioides (L.) L&#x27;Hér.</td><td>malva,wildemalva rabassam,rooiwortel</td><td>Herb; colic, nephritis and as emollient Red stems;amenorrhoea</td><td>H1; P1-3</td></tr><tr><td>[syn. Pelargonium anceps DC.] [4]</td><td></td><td></td><td>P1-3; K; L</td></tr><tr><td>Pelargonium myrrhifolium (L.) L&#x27;Hér. [4]</td><td>Not recorded</td><td>Root; menstrual disorders, tonic, tuberculosis,earache,colic</td><td>b2</td></tr><tr><td>Pelargonium odoratissimum (L.) L&#x27;Her.</td><td>Not recorded</td><td>Leaf; cardiac stimulant</td><td>B2</td></tr><tr><td>[4] Pelargonium pinnatum (L.) L&#x27;Hér. [4]</td><td>Not recorded</td><td>Roasted root; appetite stimulant</td><td>B2</td></tr><tr><td>Pelargonium ramosissimum (Cav.) Willd.</td><td>dassieboegoe</td><td>Herb; infusion or tincture,for colds,</td><td>s</td></tr><tr><td>[4] Pelargonium triste (L.) L&#x27;Hér. [1]</td><td>rabas, rooirabas</td><td>tuberculosis;as nerve tonic Tuberous roots; diarrhoea and dysentery</td><td>T; P1-3</td></tr><tr><td>Pelargonium reniforme Curtis,</td><td>rabas, rooirabas</td><td> Tuberous roots; diarrhoea and dysentery;</td><td>S; M1</td></tr><tr><td>Pelargonium sidoides DC. [2,3] Persicaria decipiens (R.Br.) K.L.Wilson</td><td>Not recorded</td><td>anaemias and weaknessfever Dropsy (oedema)</td><td>t</td></tr><tr><td>[4] **Petroselinum crispum (Mill.)</td><td></td><td> Leaf infusion as diuretic</td><td></td></tr><tr><td>A.W.Hill [5]</td><td> pietersielie</td><td></td><td>D; K</td></tr><tr><td>Pharnaceum lineare L.f.[1] Piper capense Lf. [4]</td><td>droedaskruie bospeper,wilde-peper,</td><td>Herb; infusion used to treat tuberculosis Fruit tincture; stomachic,stimulant,</td><td>P2-3; K T; P1-3; K</td></tr><tr><td></td><td>staartpeper</td><td>carminative; flatulence and colic</td><td></td></tr><tr><td>**Plantago majorL.**Plantag lanceolata L. [5]</td><td>weeblaar</td><td>Seed infusions used to treat diarrhoea (especially children); leaf as poultice for</td><td> S; D</td></tr><tr><td></td><td></td><td>wounds and sores</td><td></td></tr><tr><td>Plectostachys serpyliflia (P.J.Bergius) Hilliard &amp; B.L.Burtt [4]</td><td>hottentotstee,vaaltee</td><td>Leaves as tea; chest ailments, colds</td><td>P1-3; K</td></tr><tr><td>Plectranthus fruticosus L&#x27;Her.[4]</td><td> muishondblare</td><td>Fresh leaf; open wounds</td><td>K</td></tr><tr><td>Podaxon carcinomalis (L.)Fr. [4] Protea nitida Mill. [1]</td><td>Not recorded Not recorded [waboom(bas)]</td><td>Fungal spores; cancerous ulcers Bark; astringent for diarrhoea</td><td>T; P1-3 t</td></tr><tr><td>Protea repens (L.) L. [1]</td><td>suikerbos</td><td>Nectar;expectorant syrup[bossiestroop]</td><td>P1-3; K</td></tr><tr><td>Pteronia onobromoides DC.[4]</td><td>sab (plural: san), boegoebos</td><td>Powdered leaf, mixed with fat, used to</td><td>l</td></tr><tr><td></td><td></td><td>anoint the body; also for burns,sunburn, earache</td><td></td></tr><tr><td>**Punica granatum L. [5]</td><td> granaat(skille), granaatbas</td><td>Fruit rind,roots; vermifuge; treatment of diarrhoea and dysentery</td><td> P3; S; D; K</td></tr><tr><td>Rafnia acuminata (E.Mey.) G.J.Campbell &amp; B.-E.van Wyk [4]</td><td>vascobossie</td><td>leaf; diuretic</td><td>T; P1-3; K</td></tr><tr><td>Rafnia amplexicaulis Thunb. [4]</td><td>soethoutbossie,[waboomtee]</td><td>Root; demulcent, similar to liquorice root; leaf infusions asthma, influenza, bad back,</td><td>P1-3</td></tr><tr><td> Ranunculus multifidus Forssk. [4]</td><td>kankerblare</td><td>infertility Leaf juice; treatment of cancerous sores</td><td></td></tr><tr><td>**Ricinus communis L. [5]</td><td>kasterolie(boom)</td><td>Seed oil as purgative</td><td>P1-3 P1-3; D</td></tr><tr><td>Rorippa nasturitum-qquaticum (L.)</td><td>bronkorsslaai</td><td>Tea for bronchitis,lung ailments</td><td>D; S</td></tr><tr><td>Hayek [4] Rubia petiolaris DC. [1]</td><td>rooihoutjie</td><td>Root; diarrhoea and dysentery</td><td>s</td></tr><tr><td>Rubus pinnatus Wild. [4]</td><td>braam(wortels),</td><td>Roots; diarrhoea; haemorrhoids, epilepsy</td><td> P2-3; D; K</td></tr><tr><td></td><td>braamboswortel</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>wilger(toppe), rivierwilger</td><td>Tips (toppe) or bark; fever, inflammation,</td><td>D; S</td></tr><tr><td>Salix mucronata Thunb.[2].**Salix</td><td></td><td>diabetes, high blood pressure</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td> wynruit</td><td></td><td></td></tr><tr><td></td><td></td><td>Weak infusions for inflammation,</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>**Ruta graveolens L. [5]</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>D; K</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>rheumatism,fever,chest ailments,</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            48,
+            90,
+            952,
+            919
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa621cdf3e0c85eef196b6dcf32545f66ca22b757654f5f254f866e0e36867bb.jpg",
+        "table_caption": [
+            "Table 1 (Continued) "
+        ],
+        "table_footnote": [
+            "Unidentified species (or those of doubtful identity) were excluded. Species names in bold indicate plants that are still commonly used today. References [pre-1800 references are cited from: aDe Wet and Pfeiffer (1978) and bScott and Hewett (2008)]: $\\mathtt { B } 1 =$ Boerhaave $( 1 7 2 7 ) ^ { \\mathrm { b } }$ ; $\\mathtt { B 2 } =$ Burman $( 1 7 5 9 ) ^ { \\mathrm { b } }$ ; $\\mathtt { B 3 } =$ Burchell (1822–1824); $\\mathtt { B 4 } =$ Barry (1827), cited by Theodore (1972) and Magee et al. (2007); ${ \\sf C } =$ Commelin (1697-1701)b; $\\mathbf { D } =$ Dykman (1908); $\\mathrm { H } 1 =$ Herman $( 1 6 8 7 ) ^ { \\mathrm { b } }$ ; $\\mathrm { H } 2 =$ Houttuyn $( 1 7 7 6 ) ^ { \\mathrm { b } }$ ; $\\mathrm { H } 3 =$ Hartwich (1911). $\\mathrm { K } = \\mathrm { K l i n g }$ (1923); $\\mathrm { L } =$ Laidler (1928); $\\mathbf { M } 1 =$ MacOwan (1897); ${ \\sf M } 2 =$ Marloth (1915); $\\mathbf { M } 3 =$ Marloth (1925); ${ \\sf M } 4 =$ Marloth (1932); $\\mathrm { P } 1 =$ Pappe (1847); $\\mathrm { P } 2 =$ Pappe (1850); $\\mathrm { P } 3 =$ Pappe (1857); $S { = } S \\mathrm { m i t h }$ (1895); $\\mathrm { T } =$ Thunberg $( 1 7 8 5 ) ^ { \\mathrm { b } }$ ; $\\mathsf { V } = \\mathsf { V a n }$ der Stel $( 1 6 8 5 ) ^ { \\mathrm { a , b } }$ ; W1 $=$ Wehdemann (1836)b; W2 $=$ Watt and Breyer-Brandwijk (1928); $Z =$ Zwicky (1914). In column 1, the following five categories are indicated in square brackets: $\\left[ 1 \\right] =$ Cape-endemic species still in everyday use; [2] $=$ South African species with a wide distribution that are also used in other (Sotho and Nguni) healing systems; [3] $=$ species of current commercial interest; $[ 4 ] =$ species that are mainly of historical interest; [5] = non-indigenous species (early introductions) that became an integral part of the materia medica. "
+        ],
+        "table_body": "<table><tr><td>1Species (those still commonly used in the Cape in bold); *indigenous but not Cape;**exotic species [use category]</td><td>Common names 2(Khoi/Nama names underlined)</td><td>Main uses (original references should be consulted for more accurate and exact descriptions of uses and dosage forms)</td><td>References</td></tr><tr><td>Salvia africana-caerulea L. [1]</td><td>bloublomsalie,wildesalie</td><td>Leaf decoctions used for coughs, colds, women&#x27;sailments;diarrhoea</td><td>P2-3; D; K; L</td></tr><tr><td>Salvia africana-lutea L. [1]</td><td>s(tr)andsalie, geelblomsalie</td><td>Leaf decoctions used for coughs,colds,</td><td>l</td></tr><tr><td>*Salvia officinalis L. [5]</td><td>salie,maksalie</td><td>women&#x27;sailments Gargle for sore throat</td><td>D</td></tr><tr><td>Samolus valerandi L. [4]</td><td>bronkors</td><td>Tea for lung ailments; skin rash</td><td>S;D</td></tr><tr><td>Sansevieria aethiopica Thunb. [2]</td><td>aambeiwortel,giwoel,ky</td><td>Rhizomes;infusions to treat haemorrhoids; decoction for intestinal worms</td><td>P2-3; S; K</td></tr><tr><td>Solanum giganteum Jacq. [syn. Solanum niveum Thunb.] [2]</td><td> genees(blaar)boom (-bos)</td><td>Leaf, fruit juice; ulcers and wounds</td><td> T; P1-3</td></tr><tr><td>Solanum linnaeanum Hepper &amp; Jaeger [4]</td><td>Not recorded</td><td>Root; dropsy (oedema)</td><td>h2</td></tr><tr><td>Steirodiscus tagetes (L.) Schltr.[4]</td><td>cabaroé</td><td>Leaf; rubefacient poultice</td><td>V</td></tr><tr><td>Sutherlandia frutescens (L.) R.Br.and other species [2,3]</td><td>kankerbos(sie),kalkoenblom</td><td>Roots, leaves;wounds,eye diseases; bitter tonic,cancer, numerous ailments; fever,</td><td> P1-3; S; D; L</td></tr><tr><td>Tarchonanthus camphoratus L. [2]</td><td>kanferhout,kamferbos,vaalbos</td><td>consumption, chicken pox; Leaf infusion; diaphoretic, treatment of bronchitis,asthma</td><td>P3; K; L</td></tr><tr><td>Teucriumafricanum Thunb.,Teucrium</td><td>paddaklou(w),[katjiedrieblaar]</td><td>Herb; tonic,sore throat; hot infusion for snake bite; leaf paste for toothache</td><td>s</td></tr><tr><td>trifidum Retz. [2] Tulbaghia alliacea L.f. [2]</td><td>wilde knoflook</td><td>Herb;infusion (milk) used to treat intestinal worms,fever,influenza,high</td><td>T; P1-3; K</td></tr><tr><td>Tulbaghia violacea Harv. [syn. Tulbaghia cepacea L.f.var.maritima</td><td>wildeknoffel,wildeknoflook</td><td>blood pressure,tuberculosis Asabove</td><td>T; P1-3; K</td></tr><tr><td>Vosa] [2] Tylecodon wallichii(Harv.) Toelken [4]</td><td>krimpsiekbos</td><td>Poultice for abscesses</td><td>l</td></tr><tr><td>Urginea altissima (L.f.) Baker [4]</td><td>maerman</td><td>Bulb; catarrh, asthma,&quot;consumption&quot;, &quot;hydrothorax&quot;</td><td>P1-3; K</td></tr><tr><td>Urtica urens L. [2]</td><td>brandnetels</td><td>Chest ailments, whooping cough; wounds and sores; powdered leaf or leaf tincture as</td><td> S; D; K</td></tr><tr><td>Valeriana capensis Thunb. [4]</td><td>wildebalderjan (see balderja),</td><td>styptics Root infusions;typhoid fever, epilepsy,</td><td>P1-3; K</td></tr><tr><td>Veltheimia capensis (L.) DC.[4]</td><td>baldrian quaroebe</td><td>hysteria, intestinal worms; sudoriferous Bulb; laxative</td><td>v</td></tr><tr><td>Viscum capense L.f. [1]</td><td>voelent,litjiestee</td><td>Whole herb; infusions;antispasmodic, epilepsy in children; wasting disease</td><td> P1-3; D; K</td></tr><tr><td>Widdringtonia cedarbergensis J.A.Marsh</td><td> sederboom(gom)</td><td>(children) Resin;used in (warm) plasters to treat</td><td>P1-3; K</td></tr><tr><td>[4] Withania somniferum (L.) Dunal [2]</td><td> geneesblare</td><td>gout, rheumatism Leaf for ulcers and wounds; root bark as</td><td>s</td></tr><tr><td></td><td>bitterwortel</td><td>tonic Root; diuretic, stomach pain</td><td></td></tr><tr><td>Xysmalobium undulatum (L.）Ait.f. [2] Zantedeschia aethiopica (L.) Spreng.</td><td>varkblaar,varkblom (-wortel)</td><td>Warmed leaf applied to wounds and sores;</td><td>T; P1-3; S;K; W2 P3; S; D; K</td></tr><tr><td>[2] Zanthoxylum capense (Thunb.) Harv.</td><td></td><td>pounded root as poultice on inflamed wounds Fruit; colic,flatulence,paralysis</td><td></td></tr></table>",
+        "bbox": [
+            65,
+            102,
+            954,
+            672
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Aloe ferox, Artemisia afra, Bulbine frutescens, Cyclopia genistoides, Hoodia species, Leonotis leonurus, Lobostemon fruticosus, Mesembryanthemum tortuosum, Pelargonium sidoides, Sutherlandia species and Xysmalobium undulatum (a broad review of these species is included elsewhere in this volume); 4, plants of historical interest only—since many of the species are scientifically poorly known, some may possess important activities that could be the subject of future research; 5, non-indigenous plants (garden plants) that were introduced by the Dutch and which became an integral parts of Cape herbal medicine. The species are indicated by a single asterisk (indigenous but non-Cape, one species) and double asterisk (non-indigenous, garden plants or weeds). Vernacular names such as wynruit, dagga, vinkel, groenamara, kiesieblaar and wilgerboom are still in everyday use in a medicinal context in the Cape (Thring and Weitz, 2006; Van Wyk et al., 2008). Dold and Cocks (1999) have also found that exotic plants are readily incorporated into traditional medicine in the Eastern Cape Province. ",
+        "bbox": [
+            70,
+            779,
+            494,
+            936
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            779,
+            946,
+            857
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is important to note that recent publications and ethnobotanical surveys are not included in Table 1, as the cut-off date was deliberately set at 1932 (the publication date of the last volume of Marloth’s flora). Many new records may be added, especially from isolated areas where no detailed or systematic studies have yet been conducted. However, there is very strong agreement between the list in Table 1 and the published lists of plants that are still currently used (Archer, 1990; Montagu Museum, 1998; Thring and Weitz, 2006; Van Wyk et al., 2008; see also Ferreira, 1987). Recent literature and ongoing ethnobotanical surveys are all making important contributions towards a more complete synthesis of Cape herbal medicine, not only by adding new records but by providing independent confirmation of the present-day medicinal importance of most of the species listed in Table 1. ",
+        "bbox": [
+            522,
+            858,
+            946,
+            936
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            81,
+            477,
+            186
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            203,
+            147,
+            215
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The combination of a unique cultural heritage (the ancient Khoikhoi and San cultures, mixed with European influences) and the botanically rich and diverse Cape flora has led to the development of a healing system with unique medicinal plants. Cape herbal medicine as a unique system of healing is here conceptualized for the first time, together with a first compilation of the authentic materia medica of the system. ",
+        "bbox": [
+            53,
+            229,
+            475,
+            320
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The most commonly used plants have been fairly accurately recorded but unfortunately, very few of the original Khoikhoi and San names have survived. Cape herbal medicine is still widely practised, especially in rural areas, and the majority of the ca. 170 medicinal plant species recorded before 1932 are still in everyday use. The Cape materia medica comprises mostly indigenous and Cape-endemic plant species, several cultivated or weedy (exotic) plants, together with a few fungi, lichens, seaweeds and animal products (mainly hyraceum and klipsweet). The data presented here allows for a more informed consideration of indigenous knowledge and intellectual property rights associated with particular plants (Hoodia and Pelargonium). It also offers fascinating opportunities for linking modern ethnobotanical field studies with historical data. ",
+        "bbox": [
+            53,
+            321,
+            477,
+            491
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            508,
+            186,
+            520
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Funding for studies on Cape medicinal plants by the National Research Foundation (South Africa) and the University of Johannesburg is gratefully acknowledged. Dr. Patricia Tilney is thanked for proofreading the revised manuscript. ",
+        "bbox": [
+            53,
+            534,
+            475,
+            586
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            602,
+            126,
+            614
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Anonymous, 1962. Oupa en Ouma se Boererate. Tafelberg Publishers, Cape Town.   \nArcher, F.M., 1990. Planning with People—Ethnobotany and African Uses of Plants in Namaqualand (South Africa), vol. 23. Mitteilungen aus dem Institut fuer Allgemeine Botanik Hamburg, pp. 959–972.   \nArcher, F.M., 1994. Ethnobotany of Namaqualand: the Richtersveld. M.A. Thesis. University of Cape Town, Cape Town.   \nArnold, T.H., Prentice, C.A., Hawker, L.C., Snyman, E.E., Tomalin, M., Crouch, N.R., Pottas-Bircher, C., 2002. Medicinal and Magical Plants of Southern Africa: An Annotated Checklist. Strelitzia 13. National Botanical Institute, Pretoria.   \nBinneman, J., 1999. Mummified human remains from the Kouga mountains, Eastern Cape. The Digging Stick (Newsletter of the Archaeological Society of South Africa) 16, 1–2.   \nBoonzaier, E., Malherbe, C., Smith, A., Berens, P., 1996. The Cape Herders. A History of the Khoikhoi of Southern Africa. David Phillips, Cape Town and Johannesburg.   \nBurchell, W.J., 1822–1824. Travels in the Interior of Southern Africa, 2 vols. Longman, London.   \nBurger, A., Wachter, H. (Eds.), 1998. Hunnius Pharmazeutisches Wörterbuch, 8th ed. Walter de Gruyter, Berlin, ISBN: 3-11-015792-6.   \nCillié, A.M., 1992. Kruie op witblits, rate, resepte en feite, pp. 43. Unpublished notes. Worcester Museum, Worcester.   \nDeacon, H.J., 1976. Where hunters gathered: a study of Holocene Stone Age people in the eastern Cape. South African Archaeological Society Monograph Series 1, Claremont.   \nDentlinger, U., 1977. The !Nara Plant in the Topnaar Hottentot Culture of Namibia. Munger Africana Library Notes, no. 38. California Institute of Technology, Pasadena.   \nDe Wet, G.C., Pheiffer, R.H. (Eds.), 1979. Simon van der Stel’s Journey to Namaqualand in 1685. Human and Rossouw, Cape Town.   \nDobkin de Rios, M., 1986. Enigma of drug-induced altered states of consciousness among the !Kung bushmen of the Kalahari desert. Journal of Ethnopharmacology 15, 297–304.   \nDold, A.P., Cocks, M.L., 1999. The medicinal use of some weeds, problem and alien plants in the Grahamstown and Peddie districts of the Eastern Cape, South Africa. South African Journal of Science 96, 467–473.   \nDykman, E.J., 1891. De Suid Afrikaanse Kook-, Koek- en Resepte Boek. Paarl Printers Ltd., Paarl (Cape Colony), South Africa.   \nDykman, E.J., 1908. De Suid Afrikaanse Kook-, Koek- en Resepte Boek, 14th improved impression. Paarl Printers Ltd., Paarl (Cape Colony), South Africa.   \nEiseb, E., Giess, W., Haacke, W.H.G., 1991. A preliminary list of Khoekoe (Nama/Damara) plant names. Dinteria 21, 17–30.   \nFerreira, M., 1987. Medicinal use of indigenous plants by elderly coloureds: a sociological study of folk medicine. South African Journal of Sociology 18, 139–143.   \nForbes, V.S. (Ed.), 1986. Carl Peter Thunberg Travels at the Cape of Good Hope 1772–1775. Van Riebeeck Society, Cape Town, ISBN: 0620109815.   \nGermishuizen, G., Meyer, N.L. (Eds.), 2003. Plants of Southern Africa: An Annotated Checklist. Strelitzia 14. National Botanical Institute, Pretoria.   \nGoldblatt, P., Manning, J.C., 2000. Cape Plants, A Conspectus of the Cape Flora of South Africa. Strelitzia 9. National Botanical Institute, Pretoria.   \nGood, R., 1974. The Geography of Flowering Plants, 4th ed. Longman, London.   \nHartwich, C., 1911. Die menschlichen Genussmittel; Ihre Herkunft, Verbreitung, Geschichte, Anwendung, Bestandteile und Wirkung. Chr. Herm., Leipzig.   \nHarvey, W.H., Sonder, O.W. (Eds.), 1860. Flora Capensis, vol. 1. Hodges, Smith and Co., Dublin.   \nHeinz, H.J., Maguire, B., 1974. The ethnobiology of the !Ko Bushmen—their botanical knowledge and plant lore. Occasional Paper No. 1. Botswana Society, Gaberone.   \nKling, H., 1923. Die Sieketrooster. Van de Sandt de Villiers, Cape Town.   \nKruger, D.W., Beyers, G.J., 1977. Dictionary of South African Biography, vol. 3. Tafelberg Publishers, Cape Town, pp. 231–232.   \nLaidler, P.W., 1928. The magic medicine of the Hottentots. South African Journal of Science 25, 433–447.   \nLichtenstein, M., 1812–1815. Travels in South Africa in the years 1803-4-5 and 6. Translated by A. Plumptre, London.   \nLiengme, C.A., 1983. A survey of ethnobotanical research in southern Africa. Bothalia 14, 621–629.   \nMacOwan, P., 1897. The Cape remedy for dysentery. Agricultural Journal of the Cape of Good Hope 7, 591–598.   \nMagee, A.R., Van Wyk, B.-E., Van Vuuren, S.F., 2007. Ethnobotany and antimicrobial activity of sieketroos (Arctopus species). South African Journal of Botany 73, 159–162.   \nMalan, J.S., Owen-Smith, G.L., 1974. The ethnobotany of Kaokoland. Cimbebasia Series B 2, 131–178.   \nMarloth, R., 1913–1932. The Flora of South Africa Darter, 4 vols. Cape Town and William Wesley, London.   \nMatsiliza, B., Barker, N.P., 2001. A preliminary survey of plants used in traditional medicine in the Grahamstown area. South African Journal of Botany 67, 177–182.   \nMetelerkamp, W., Sealy, J., 1983. Some edible and medicinal plants of the Doorn Karoo. Veld and Flora 1983, 4–8.   \nMontagu Museum, 1998. Herbal Remedies of Montagu Museum. Montagu Museum, Montagu, South Africa.   \nNeuwinger, H.D., 1994. Afrikanische Arzneipflanzen und Jagdgifte. Wissenschaftliche Verlagsgesellschaft, Stuttgart.   \nNeuwinger, H.D., 1996. African ethnobotany: poisons and drugs: chemistry, pharmacology, toxicology. Chapman and Hall, Germany.   \nOberholzer, O., 2002. The Hotazel Years. Double Storey Books, Cape Town, ISBN: 1-919930-02-7.   \nOlsen, A., Prinsloo, L.C., Scott, L., Jäger, A.K., 2008. Hyraceum, the fossilized metabolic product of rock hyraxes (Procavia capensis), shows GABA-benzodiazepine receptor activity. South African Journal of Science 103, 437–438.   \nPalmer, E., 1985. The South African Herbal. Tafelberg Publishers, Cape Town.   \nPappe, L., 1847. A List South African Indigenous Plants Used as Remedies by the Colonists of the Cape of Good Hope. O.I. Pike, Cape Town.   \nPappe, L., 1850. Florae Capensis Medicae Prodromus. A.S. Robertson, Cape Town.   \nPappe, L., 1857. Florae Capensis Medicae Prodromus, 2nd ed. W. Britain Press, Cape Town.   \nParkington, J.E., Poggenpoel, C., 1971. Excavations at de Hangen 1968. South African Archaeological Bulletin 26, 3–36.   \nPaterson, W., 1789. A Narrative of Four Journeys into the Country of the Hottentots and Caffraria in the years 1777, 8, and 9. J. Johnson, London.   \nPowrie, L., 2004. Common Names of Karoo Plants. Strelitzia 16, National Botanical Institute, Pretoria, ISBN: 1-874907-16-1.   \nReynolds, G.W., 1950. The Aloes of South Africa. The Trustees of the Aloes of South Africa Book Fund, Johannesburg.   \nRoberts, M., 1990. Indigenous Healing Plants. Southern Book Publishers, Halfway House.   \nRobertson, H.M., 1979. The aloe boers of the Gouritz River District. Quarterly Bulletin of the South African Library 34, 59–69.   \nRood, B., 1994. Uit die veldapteek. Tafelberg Publishers, Cape Town, ISBN: 0 624 03318 X.   \nSandager, M., Nielsen, N.D., Stafford, G.I., Van Staden, J., Jäger, A.K., 2005. Alkaloids from Boophane disticha with affinity to the serotonin transporter in rat brain. Journal of Ethnopharmacology 98, 367–370.   \nScott, G., Hewett, M.L., 2008. Pioneers in ethnopharmacology: The Dutch East India Company (VOC) at the Cape from 1650 to 1800. Journal of Ethnopharmacology 115, 339–360.   \nShapera, I., 1930. The Khoisan Peoples of South Africa. Bushmen and Hottentots. Routledge and Kegan Paul Ltd., London.   \nShearing, D., Van Heerden, K., 1994. Karoo. South African Wild Flower Guide 6. Botanical Society of South Africa, Kirstenbosch, Claremont, South Africa, ISBN: 1-874999-04-X.   \nSmith, A., 1888. A Contribution to the South African materia medica, 1st ed. Lovedale, South Africa (not studied).   \nSmith, A., 1895. A Contribution to the South African materia medica, 2nd ed. Lovedale, South Africa.   \nSmith, C.A., 1966. Common Names of South African Plants. Memoirs of the Botanical Survey of South Africa 35. Department of Agricultural Technical Services, Pretoria.   \nSparrman, A., 1785. A Voyage to the Cape of Good Hope, Towards the Antarctic Polar Circle and Round the World, 2 vols. White, Cash and Byrne, Dublin.   \nSteyn, H.P., 1981. !Nharo plant utilization. An overview. Khoisis 1, 1–30.   \nStory, R., 1958. Some Plants Used by the Bushmen in Obtaining Food and Water. Memoirs of the Botanical Survey of South Africa 30. Department of Agriculture, Pretoria.   \nStory, R., 1964. Plant lore of the Bushmen. In: Davies, D.H.S. (Ed.), Ecological Studies in Southern Africa. W. Junk, The Hague, pp. 87–99.   \nTanaka, J., 1978. A study of the comparative ecology of African gatherer–hunters with special reference to San (Bushman-speaking people) and Pygmies. Senri Ethnological Studies 1, 189–212.   \nTheodore, J., 1972. Sieketroost: Dr James Barry’s contribution to material medica. South African Medical Journal 46, 1013–1016.   \nThring, T.S.A., Weitz, F.M., 2006. Medicinal plant use in the Bredasdorp/Elim region of the Southern Overberg in the Western Cape Province of South Africa. Journal of Ethnopharmacology 103, 261–275.   \nTobias, P.V., 1960. Bushman Hunter–Gatherers: A Study in Human Ecology. W. Junk, The Hague.   \nTobias, P.V., 1975. Fifteen years of study on the Kalahari Bushman or San. South African Journal of Science 71, 74–78.   \nVan den Eynden, V., Vernemmen, P., Van Damme, P., 1992. The Ethnobotany of the Topnaar. Universiteit of Gent, Gent.   \nVan Wyk, B.-E., 2002. A review of ethnobotanical research in South Africa. South African Journal of Botany 68, 1–13.   \nVan Wyk, B.-E., Gericke, N., 2000. People’s Plants: A Guide to Useful Plants of Southern Africa. Briza Publications, Pretoria, ISBN: 978 1 875093 19 9.   \nVan Wyk, B.-E., Van Oudtshoorn, B., Gericke, N., 1997. Medicinal Plants of South Africa [2nd improved impression, 2000]. Briza Publications, Pretoria, ISBN: 1 875093 09 5.   \nVan Wyk, B.-E., De Wet, H., Van Heerden, F.R., 2008. An ethnobotanical survey of medicinal plants in the south-eastern Karoo, South Africa. South African Journal of Botany 74, 696–704.   \nVergoes Houwens, N.F., undated. Medicine from the veld. Unpublished notes. Worcester Museum, Worcester.   \nViljoen, A., Van Vuuren, S., Ernst, E., Klepser, M., Demirci, B., Bas¸ er, H., Van Wyk, B.-E., 2003. Osmitopsis asteriscoides (Asteraceae)—the antimicrobial activity and essential oil composition of a Cape-Dutch remedy. Journal of Ethnopharmacology 88, 137–143.   \nVon Koenen, E., 1996. Heil-, Gift- u Essbare Pflanzen in Namibia. Klaus Hess Verlag, Göttingen.   \nVon Koenen, E., 2001. Medicinal Poisonous and Edible Plants in Namibia. Klaus Hess Publishers, Windhoek and Göttingen, ISBN: Namibia 99916-747-4-8; Germany 3-9804518-7-9.   \nWatt, J.M., Breyer-Brandwijk, M.G., 1928. The present position of our knowledge of South African medicinal and poisonous plants. South African Journal of Science 25, 227–236.   \nWatt, J.M., Breyer-Brandwijk, M.G., 1962. The Medicinal and Poisonous Plants of Southern and Eastern Africa, 2nd ed. Livingstone, London.   \nWells, M.J., 1965. An analysis of plant remains from Scott’s Cave in the Gamtoos Valley. South African Archaeological Bulletin 20, 79–84.   \nWileman, L., undated. The uses of our Karoo plants in bygone times. Unpublished notes. Worcester Museum, Worcester.   \nWilman, M., 1968. The Rock-engravings of Griqualand West and Bechuanaland, South Africa. A.A. Balkema, Cape Town.   \nWinkelman, M., Dobkin de Rios, M., 1989. Psychoactive properties of !Kung bushmen medicine plants. Journal of Psychoactive Drugs 21, 51–59.   \nZwicky, E., 1914. Über Channa, ein Genussmittel der Hottentotten (Mesembrianthemum expansum L. und tortuosum L.). Zürcher and Furrer, Zürich. ",
+        "bbox": [
+            53,
+            626,
+            477,
+            939
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            69,
+            931,
+            941
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            85,
+            495,
+            427
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            83,
+            946,
+            427
+        ],
+        "page_idx": 10
+    }
+]

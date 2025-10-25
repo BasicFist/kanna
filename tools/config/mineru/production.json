@@ -1,0 +1,28 @@
+{
+  "device-mode": "cuda",
+  "models-dir": "/home/miko/.cache/magic-pdf/models",
+
+  "layout-config": {
+    "model": "doclayout_yolo"
+  },
+
+  "output-formats": {
+    "markdown": {
+      "enable": true,
+      "format": "obsidian-optimized",
+      "include_metadata": true
+    },
+    "json": {
+      "enable": true,
+      "format": "middle_json"
+    }
+  },
+
+  "equation": {
+    "enable": false
+  },
+
+  "table": {
+    "enable": false
+  }
+}
