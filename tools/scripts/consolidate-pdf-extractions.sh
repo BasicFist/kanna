@@ -13,7 +13,9 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Configuration
-PROJECT_ROOT="/home/miko/LAB/projects/KANNA"
+# Resolve repository root relative to this script
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 LOG_DIR="$HOME/LAB/logs"
 TIMESTAMP=$(date +%Y%m%d_%H%M%S)
 LOG_FILE="$LOG_DIR/pdf-extraction-consolidation-$TIMESTAMP.log"
@@ -63,9 +65,21 @@ log "Log file: $LOG_FILE\n"
 # Step 1: Validate source directories
 log_header "Step 1: Validate Source Directories"
 
-if ! validate_directory "$MINERU_SOURCE" "MinerU extractions"; then
-    log "${RED}Consolidation aborted.${NC}"
-    exit 1
+SKIP_RENAME=false
+if [ -d "$MINERU_SOURCE" ]; then
+    validate_directory "$MINERU_SOURCE" "MinerU extractions" || {
+        log "${RED}Consolidation aborted.${NC}"
+        exit 1
+    }
+else
+    if [ -d "$MINERU_TARGET" ]; then
+        log "${YELLOW}⚠ MinerU source not found, but consolidated target exists. Skipping rename step.${NC}"
+        SKIP_RENAME=true
+    else
+        log "${RED}✗ ERROR: Neither source nor target MinerU directories found.${NC}"
+        log "Checked: $MINERU_SOURCE and $MINERU_TARGET"
+        exit 1
+    fi
 fi
 
 if ! validate_directory "$PDFPLUMBER_SOURCE" "pdfplumber extractions"; then
@@ -78,11 +92,16 @@ fi
 # Step 2: Analyze MinerU structure
 log_header "Step 2: Analyze MinerU Extraction Structure"
 
-MINERU_ROOT_COUNT=$(find "$MINERU_SOURCE" -maxdepth 1 -type d -not -name "chapter-*" -not -path "$MINERU_SOURCE" | wc -l)
-MINERU_CHAPTER_COUNT=$(find "$MINERU_SOURCE"/chapter-* -name "*.md" -type f 2>/dev/null | wc -l || echo "0")
-MINERU_TOTAL_MD=$(find "$MINERU_SOURCE" -name "*.md" -type f | wc -l)
-MINERU_IMAGES=$(find "$MINERU_SOURCE" -type d -name "images" | wc -l)
-MINERU_TOTAL_IMAGES=$(find "$MINERU_SOURCE" -type d -name "images" -exec find {} -type f \; | wc -l)
+ANALYZE_DIR="$MINERU_SOURCE"
+if [ "$SKIP_RENAME" = true ]; then
+    ANALYZE_DIR="$MINERU_TARGET"
+fi
+
+MINERU_ROOT_COUNT=$(find "$ANALYZE_DIR" -maxdepth 1 -type d -not -name "chapter-*" -not -path "$ANALYZE_DIR" | wc -l)
+MINERU_CHAPTER_COUNT=$(find "$ANALYZE_DIR"/chapter-* -name "*.md" -type f 2>/dev/null | wc -l || echo "0")
+MINERU_TOTAL_MD=$(find "$ANALYZE_DIR" -name "*.md" -type f | wc -l)
+MINERU_IMAGES=$(find "$ANALYZE_DIR" -type d -name "images" | wc -l)
+MINERU_TOTAL_IMAGES=$(find "$ANALYZE_DIR" -type d -name "images" -exec find {} -type f \; | wc -l)
 
 log "Root-level paper directories: $MINERU_ROOT_COUNT"
 log "Chapter-organized papers:     $MINERU_CHAPTER_COUNT"
@@ -139,21 +158,25 @@ fi
 # Step 6: Execute consolidation
 log_header "Step 6: Execute Consolidation"
 
-# 6.1: Check if target already exists
-if [ -d "$MINERU_TARGET" ]; then
-    log "${RED}✗ ERROR: Target directory already exists: $MINERU_TARGET${NC}"
-    log "${YELLOW}Please remove or rename existing directory first${NC}"
-    exit 1
-fi
+if [ "$SKIP_RENAME" = false ]; then
+    # 6.1: Check if target already exists
+    if [ -d "$MINERU_TARGET" ]; then
+        log "${RED}✗ ERROR: Target directory already exists: $MINERU_TARGET${NC}"
+        log "${YELLOW}Please remove or rename existing directory first${NC}"
+        exit 1
+    fi
 
-# 6.2: Rename MinerU directory
-log "Renaming MinerU directory..."
-mv "$MINERU_SOURCE" "$MINERU_TARGET"
-if [ $? -eq 0 ]; then
-    log "${GREEN}✓${NC} Renamed: $MINERU_SOURCE → $MINERU_TARGET"
+    # 6.2: Rename MinerU directory
+    log "Renaming MinerU directory..."
+    mv "$MINERU_SOURCE" "$MINERU_TARGET"
+    if [ $? -eq 0 ]; then
+        log "${GREEN}✓${NC} Renamed: $MINERU_SOURCE → $MINERU_TARGET"
+    else
+        log "${RED}✗ ERROR: Failed to rename MinerU directory${NC}"
+        exit 1
+    fi
 else
-    log "${RED}✗ ERROR: Failed to rename MinerU directory${NC}"
-    exit 1
+    log "${YELLOW}Skipping rename step${NC}"
 fi
 
 # 6.3: Archive pdfplumber extractions
@@ -196,89 +219,65 @@ fi
 # Step 8: Generate summary report
 log_header "Step 8: Consolidation Summary"
 
-cat > "$PROJECT_ROOT/EXTRACTION-CONSOLIDATION-REPORT.md" <<EOF
-# PDF Extraction Consolidation Report
-
-**Date**: $(date '+%Y-%m-%d %H:%M:%S')
-**Status**: ✅ Completed Successfully
-
-## Actions Taken
-
-1. **Renamed MinerU extractions**
-   - From: \`literature/pdfs/extractions-baseline-no-formulas/\`
-   - To: \`literature/pdfs/extractions-mineru/\`
-
-2. **Archived pdfplumber extractions**
-   - From: \`data/extracted-papers-simple/\`
-   - To: \`data/ARCHIVE/extracted-papers-simple-$TIMESTAMP/\`
-
-3. **Removed failed MinerU directory**
-   - Deleted: \`literature/pdfs/extractions/\` (empty)
-
-## Extraction Statistics
-
-### MinerU (Primary Corpus)
-- **Location**: \`literature/pdfs/extractions-mineru/\`
-- **Total Papers**: $MINERU_ROOT_COUNT
-- **Markdown Files**: $MINERU_TOTAL_MD
-- **Extracted Images**: $MINERU_TOTAL_IMAGES
-- **Papers with Images**: $MINERU_IMAGES
-
-### pdfplumber (Archived)
-- **Location**: \`data/ARCHIVE/extracted-papers-simple-$TIMESTAMP/\`
-- **Total Papers**: ${PDFPLUMBER_COUNT:-N/A}
-- **Status**: Backup only
-
-## Next Steps
-
-1. **Update script paths** to use new MinerU location:
-   \`\`\`python
-   EXTRACTION_DIR = "literature/pdfs/extractions-mineru"
-   \`\`\`
-
-2. **Update CLAUDE.md** with new extraction paths
-
-3. **Update analysis scripts** to reference MinerU extractions
-
-4. **Run quality validation** on MinerU corpus:
-   \`\`\`bash
-   conda run -n kanna python tools/scripts/validate-extraction-simple.py
-   \`\`\`
-
-## Files Requiring Path Updates
-
-- \`CLAUDE.md\`
-- \`tools/scripts/validate-extraction-quality.sh\`
-- \`analysis/python/\` (search for "extracted-papers")
-- \`analysis/r-scripts/\` (search for "extracted-papers")
-
-## Rollback Instructions
-
-If you need to revert this consolidation:
-
-\`\`\`bash
-# Restore MinerU original name
-mv literature/pdfs/extractions-mineru/ \\
-   literature/pdfs/extractions-baseline-no-formulas/
-
-# Restore pdfplumber
-mv data/ARCHIVE/extracted-papers-simple-$TIMESTAMP/ \\
-   data/extracted-papers-simple/
-\`\`\`
-
----
-
-*Generated by: \`tools/scripts/consolidate-pdf-extractions.sh\`*
-*Log file: \`$LOG_FILE\`*
-EOF
+{
+  REPORT_PATH="$PROJECT_ROOT/EXTRACTION-CONSOLIDATION-REPORT.md"
+  {
+    echo "# PDF Extraction Consolidation Report"
+    echo
+    echo "**Date**: $(date '+%Y-%m-%d %H:%M:%S')"
+    if [ "$SKIP_RENAME" = true ]; then
+      echo "**Status**: ✅ Already Consolidated"
+    else
+      echo "**Status**: ✅ Completed Successfully"
+    fi
+    echo
+    echo "## Actions"
+    if [ "$SKIP_RENAME" = true ]; then
+      echo "- MinerU extractions already located at \`literature/pdfs/extractions-mineru/\`"
+    else
+      echo "1. Renamed MinerU extractions"
+      echo "   - From: \`literature/pdfs/extractions-baseline-no-formulas/\`"
+      echo "   - To:   \`literature/pdfs/extractions-mineru/\`"
+    fi
+    if [ "$SKIP_PDFPLUMBER" = false ]; then
+      echo "2. Archived pdfplumber extractions"
+      echo "   - From: \`data/extracted-papers-simple/\`"
+      echo "   - To:   \`data/ARCHIVE/extracted-papers-simple-$TIMESTAMP/\`"
+    else
+      echo "- No pdfplumber directory found; archive step skipped"
+    fi
+    echo
+    echo "## Extraction Statistics"
+    echo
+    echo "### MinerU (Primary Corpus)"
+    echo "- **Location**: \`literature/pdfs/extractions-mineru/\`"
+    echo "- **Total Papers**: $MINERU_ROOT_COUNT"
+    echo "- **Markdown Files**: $MINERU_TOTAL_MD"
+    echo "- **Extracted Images**: $MINERU_TOTAL_IMAGES"
+    echo "- **Papers with Images**: $MINERU_IMAGES"
+    echo
+    echo "## Next Steps"
+    echo "- Ensure analysis scripts reference \`literature/pdfs/extractions-mineru\`"
+    echo "- Run quality validation if desired: \`tools/scripts/validate-extraction-quality.sh\`"
+    echo
+    echo "---"
+    echo
+    echo "*Generated by: \`tools/scripts/consolidate-pdf-extractions.sh\`*"
+    echo "*Log file: \`$LOG_FILE\`*"
+  } > "$REPORT_PATH"
+}
 
 log "Report saved: $PROJECT_ROOT/EXTRACTION-CONSOLIDATION-REPORT.md"
 
 # Final summary
 log_header "Consolidation Complete"
-log "${GREEN}✓ MinerU extractions are now at:${NC}    literature/pdfs/extractions-mineru/"
-log "${GREEN}✓ pdfplumber backup archived at:${NC}   data/ARCHIVE/extracted-papers-simple-$TIMESTAMP/"
-log "${GREEN}✓ Consolidation report created:${NC}    EXTRACTION-CONSOLIDATION-REPORT.md"
+log "${GREEN}✓ MinerU extractions:${NC}      literature/pdfs/extractions-mineru/"
+if [ "$SKIP_PDFPLUMBER" = false ]; then
+  log "${GREEN}✓ pdfplumber backup:${NC}       data/ARCHIVE/extracted-papers-simple-$TIMESTAMP/"
+else
+  log "${YELLOW}⚠ No pdfplumber backup archived (source not found)${NC}"
+fi
+log "${GREEN}✓ Report created:${NC}          EXTRACTION-CONSOLIDATION-REPORT.md"
 log ""
 log "${YELLOW}Next: Update script paths and CLAUDE.md${NC}"
 log "See report for detailed next steps."
