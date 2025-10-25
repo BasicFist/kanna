@@ -13,7 +13,8 @@ from __future__ import annotations
 
 import os
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Tuple
+import re
 
 from pyzotero import zotero
 
@@ -29,8 +30,15 @@ def get_zot() -> zotero.Zotero:
     return zotero.Zotero(require_env("ZOTERO_LIBRARY_ID"), os.getenv("ZOTERO_LIBRARY_TYPE", "user"), require_env("ZOTERO_API_KEY"))
 
 
-def build_parent_title_index(items: List[dict]) -> Dict[str, List[str]]:
-    idx: Dict[str, List[str]] = {}
+def norm_title(s: str) -> str:
+    s = (s or "").lower()
+    s = re.sub(r"\s+", " ", s)
+    return re.sub(r"[^a-z0-9 ]+", "", s).strip()
+
+
+def build_parent_title_index(items: List[dict]) -> Tuple[Dict[str, List[str]], Dict[str, List[str]]]:
+    exact: Dict[str, List[str]] = {}
+    fuzzy: Dict[str, List[str]] = {}
     for it in items:
         d = it.get("data", {})
         if d.get("itemType") in {"attachment", "note"}:
@@ -38,15 +46,18 @@ def build_parent_title_index(items: List[dict]) -> Dict[str, List[str]]:
         t = (d.get("title") or "").strip()
         if not t:
             continue
-        idx.setdefault(t, []).append(it.get("key"))
-    return idx
+        exact.setdefault(t, []).append(it.get("key"))
+        nt = norm_title(t)
+        if nt:
+            fuzzy.setdefault(nt, []).append(it.get("key"))
+    return exact, fuzzy
 
 
 def main() -> int:
     z = get_zot()
     base_dir = Path(require_env("BASE_DIR")).resolve()
     all_items = z.everything(z.items())
-    parents_by_title = build_parent_title_index(all_items)
+    exact_index, fuzzy_index = build_parent_title_index(all_items)
 
     fixed_paths = 0
     linked_parents = 0
@@ -73,8 +84,15 @@ def main() -> int:
         if not d.get("parentItem"):
             # Try to link to a parent with the same title (exact match, unique)
             t = (d.get("title") or "").strip()
-            if t and t in parents_by_title and len(parents_by_title[t]) == 1:
-                d["parentItem"] = parents_by_title[t][0]
+            candidate_key = None
+            if t and t in exact_index and len(exact_index[t]) == 1:
+                candidate_key = exact_index[t][0]
+            else:
+                nt = norm_title(t)
+                if nt and nt in fuzzy_index and len(fuzzy_index[nt]) == 1:
+                    candidate_key = fuzzy_index[nt][0]
+            if candidate_key:
+                d["parentItem"] = candidate_key
                 changed = True
                 linked_parents += 1
 
@@ -92,4 +110,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

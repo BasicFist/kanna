@@ -88,10 +88,12 @@ def audit_library(z: zotero.Zotero) -> Dict[str, object]:
         d = att.get("data", {})
         key = att.get("key")
         issues: List[str] = []
-        if d.get("linkMode") != "linked_file":
+        lm = d.get("linkMode")
+        if lm != "linked_file":
             issues.append("attachment:not_linked_file")
+        # Only consider absolute path issues for linked_file attachments
         p = d.get("path") or ""
-        if p and not str(p).startswith("attachments:"):
+        if lm == "linked_file" and p and not str(p).startswith("attachments:"):
             issues.append("attachment:absolute_path")
         if not d.get("parentItem"):
             issues.append("attachment:orphan")
@@ -239,4 +241,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
