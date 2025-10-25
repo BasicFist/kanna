@@ -73,10 +73,24 @@ def main() -> int:
             ],
         },
         {
+            "name": "KANNA: SERT",
+            "conditions": [
+                {"condition": "tag", "operator": "contains", "value": "project:KANNA"},
+                {"condition": "tag", "operator": "contains", "value": "concept:SERT"},
+            ],
+        },
+        {
             "name": "KANNA: Mesembrine",
             "conditions": [
                 {"condition": "tag", "operator": "contains", "value": "project:KANNA"},
                 {"condition": "tag", "operator": "contains", "value": "alkaloid:mesembrine"},
+            ],
+        },
+        {
+            "name": "KANNA: Alkaloids",
+            "conditions": [
+                {"condition": "tag", "operator": "contains", "value": "project:KANNA"},
+                {"condition": "tag", "operator": "contains", "value": "alkaloid:"},
             ],
         },
         {
@@ -87,6 +101,16 @@ def main() -> int:
             ],
         },
     ]
+
+    # Year range searches (2015..2025)
+    for yr in range(2015, 2026):
+        targets.append({
+            "name": f"KANNA: Year {yr}",
+            "conditions": [
+                {"condition": "tag", "operator": "contains", "value": "project:KANNA"},
+                {"condition": "tag", "operator": "contains", "value": f"year:{yr}"},
+            ],
+        })
 
     to_create = [t for t in targets if t["name"] not in existing_names]
     if not to_create:
@@ -111,4 +135,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
