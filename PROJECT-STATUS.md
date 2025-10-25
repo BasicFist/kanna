@@ -5,7 +5,7 @@
 **Title**: Interdisciplinary Analysis of *Sceletium tortuosum*
 **Duration**: 42 months
 **Started**: October 2025
-**Expected Completion**: [Add date]
+**Expected Completion**: April 2029
 
 ---
 
@@ -116,7 +116,7 @@
 - [ ] Community validation processes established
 
 ### Ethical Approvals
-- [ ] IRB approval received (Number: _______)
+- [ ] IRB approval received (Pending; target submission Q1 2026)
 - [ ] Research permits obtained
 - [ ] Export permits secured
 

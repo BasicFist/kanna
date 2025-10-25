@@ -61,3 +61,11 @@ CI (GitHub Actions)
 - Maintenance (writes): Actions → “Zotero Maintenance” → Run workflow
   - Requires: secrets.ZOTERO_API_KEY, vars ZOTERO_LIBRARY_ID and ZOTERO_LIBRARY_TYPE
   - Optional: secrets.CROSSREF_MAILTO
+
+Saved Searches Created
+- KANNA: Untriaged, KANNA: PDE4, KANNA: SERT
+- KANNA: Mesembrine, KANNA: Alkaloids
+- KANNA: Year 2015 … KANNA: Year 2025
+
+Security
+- Store keys as GitHub Secrets; see [docs/SECURITY-API-KEY-ROTATION.md](SECURITY-API-KEY-ROTATION.md) for rotation guidance.

@@ -12,6 +12,9 @@ Pre‑requisites
   - Zutilo: https://github.com/wshanks/Zutilo
 - Zotero → Preferences → Advanced → Files and Folders:
   - Set Linked Attachment Base Directory to your repo root (e.g., `/home/miko/LAB/academic/KANNA`).
+ - Optional helper for installer script: install `jq` for auto-downloading latest releases;
+   otherwise download `.xpi` manually from the plugin release pages and copy them into your
+   Zotero profile extensions directory.
 
 Safe Test‑First Flow
 1) Create a temporary collection “MIGRATION‑TEST (10 items)”, copy ~10 legacy items (stored files) into it.
@@ -50,4 +53,3 @@ Notes & Tips
 - Don’t mass‑convert web snapshots or special attachment types; keep them as stored or URLs.
 - Use Saved Searches to stage work (e.g., “project:KANNA AND status:untriaged”).
 - New imports via `import_zotero_linked_files.py` already use linked files; migration is only for older items.
-

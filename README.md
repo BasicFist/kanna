@@ -2,12 +2,21 @@
 
 > **PhD Thesis**: Interdisciplinary Analysis of *Sceletium tortuosum* - From Khoisan Traditional Knowledge to Modern Neuropharmacology
 
-**📚 Documentation Navigation**: See [DOCUMENTATION-INDEX.md](./DOCUMENTATION-INDEX.md) for complete documentation index and quick-access decision trees
+**📚 Documentation Navigation**: See [Documentation Index](docs/DOCUMENTATION-INDEX-REPORT.md) for complete documentation index and quick-access decision trees
 
 **🚀 Quick Start**:
 - **For Claude Code**: Start with [CLAUDE.md](./CLAUDE.md) (session initialization, environments, workflows)
 - **For Architecture**: See [ARCHITECTURE.md](./ARCHITECTURE.md) (39 KB definitive reference)
 - **For Current Status**: Check [PROJECT-STATUS.md](./PROJECT-STATUS.md) (updated weekly)
+ - **For Zotero Pipeline**: See [docs/zotero-tools.md](docs/zotero-tools.md)
+ - **Attachments Migration (ZotFile + Zutilo)**: See [docs/zotfile-zutilo-migration.md](docs/zotfile-zutilo-migration.md)
+ - **Obsidian Integration**: See [docs/obsidian-integration.md](docs/obsidian-integration.md)
+ - **Tooling Catalog**: See [docs/github-tools.md](docs/github-tools.md)
+
+**🧪 Actions (manual workflows)**:
+- Audit: `.github/workflows/zotero-audit.yml`
+- Maintenance (writes): `.github/workflows/zotero-maintenance.yml`
+- JS Quickcheck: `.github/workflows/zotero-js-quickcheck.yml`
 
 ---
 
