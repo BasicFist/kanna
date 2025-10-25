@@ -5,6 +5,8 @@ Core Plugins (Zotero Desktop)
 - ZotFile (jlegewie/zotfile)
   - Move/rename attachments; convert stored files → linked files under Linked Attachment Base Directory.
   - Use for legacy migration; pair with our audits.
+- ZotMoov (wileyyugioh/zotmoov)
+  - Rule-based attachment file management in Zotero; alternative to ZotFile if you prefer declarative configs.
 - Zutilo (wshanks/Zutilo)
   - Power utilities: batch operations on attachments, tags, and fields.
 - Better BibTeX (retorquere/zotero-better-bibtex)
@@ -13,6 +15,8 @@ Core Plugins (Zotero Desktop)
   - Diagnose missing/orphaned attachment files before/after migrations.
 - mdnotes (argen0s/zotero-mdnotes)
   - Export metadata/notes/annotations to Markdown (useful for Obsidian when needed).
+- Remarks (lucasrla/remarks)
+  - Export Zotero Reader annotations to Markdown; modern option for annotation workflows.
 
 CLI/Library Clients
 - pyzotero (urschrei/pyzotero)
@@ -23,6 +27,12 @@ CLI/Library Clients
   - Optional Python CLI for quick queries/exports.
 - zotero-api-client (tnajdek/zotero-api-client)
   - JS client (optional). We provide a Node quickcheck using bare fetch; switch to this client if desired for JS-based maintenance.
+
+Obsidian Integrations
+- Obsidian Zotero Integration (mgmeyers/obsidian-zotero-integration)
+  - Deep Obsidian ↔ Zotero integration; live citations, note imports, annotation handling.
+- Obsidian Citation Plugin (hans/obsidian-citation-plugin)
+  - Uses Better BibTeX exports for citation insertion and literature notes.
 
 CI Workflows Added
 - .github/workflows/zotero-audit.yml
@@ -35,4 +45,3 @@ CI Workflows Added
 Local Docs
 - docs/zotfile-zutilo-migration.md → Guided legacy attachment migration
 - docs/zotero-tools.md → End-to-end scripts and CI usage
-

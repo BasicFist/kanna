@@ -31,6 +31,14 @@ jobs:
             --csv tools/reports/zotero-metadata-audit.csv \
             --md tools/reports/zotero-metadata-audit.md
 
+      - name: Generate attachment issues report
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ZOTERO_LIBRARY_ID: ${{ vars.ZOTERO_LIBRARY_ID }}
+          ZOTERO_LIBRARY_TYPE: ${{ vars.ZOTERO_LIBRARY_TYPE }}
+        run: |
+          python analysis/python/attachment_issues_report.py
+
       - name: Upload audit artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -39,3 +47,4 @@ jobs:
             tools/reports/zotero-metadata-audit.json
             tools/reports/zotero-metadata-audit.csv
             tools/reports/zotero-metadata-audit.md
+            tools/reports/attachment-issues.md
