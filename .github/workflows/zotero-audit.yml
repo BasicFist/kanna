@@ -6,6 +6,9 @@ on:
 jobs:
   audit:
     runs-on: ubuntu-latest
+    schedule:
+      # Weekly Monday 06:00 UTC (read-only audit)
+      - cron: '0 6 * * 1'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -48,3 +51,8 @@ jobs:
             tools/reports/zotero-metadata-audit.csv
             tools/reports/zotero-metadata-audit.md
             tools/reports/attachment-issues.md
+
+      - name: Job summary
+        run: |
+          echo "# Zotero Audit Summary" >> $GITHUB_STEP_SUMMARY
+          echo "Artifacts: zotero-metadata-audit (JSON/CSV/MD) + attachment-issues.md" >> $GITHUB_STEP_SUMMARY

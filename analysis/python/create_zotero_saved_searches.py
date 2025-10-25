@@ -17,6 +17,10 @@ import json
 import os
 import urllib.request
 from typing import Dict, List
+try:
+    import yaml  # type: ignore
+except Exception:
+    yaml = None  # type: ignore
 
 
 def require_env(name: str) -> str:
@@ -30,6 +34,17 @@ def api_base() -> str:
     lib_type = os.getenv("ZOTERO_LIBRARY_TYPE", "user")
     lib_id = require_env("ZOTERO_LIBRARY_ID")
     return f"https://api.zotero.org/{lib_type}s/{lib_id}"
+
+
+def load_config() -> Dict[str, object]:
+    cfg_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'config', 'zotero.yaml')
+    if yaml and os.path.exists(cfg_path):
+        try:
+            with open(cfg_path, 'r', encoding='utf-8') as fh:
+                return yaml.safe_load(fh) or {}
+        except Exception:
+            return {}
+    return {}
 
 
 def get_json(url: str, headers: Dict[str, str]) -> object:
@@ -56,6 +71,10 @@ def main() -> int:
 
     existing = get_json(f"{base}/searches?format=json", headers)
     existing_names = {s.get("data", {}).get("name", "") for s in existing or []}
+
+    cfg = load_config()
+    yr_start = int(cfg.get('saved_search_year_start', 2015))
+    yr_end = int(cfg.get('saved_search_year_end', 2025))
 
     targets: List[Dict[str, object]] = [
         {
@@ -103,7 +122,7 @@ def main() -> int:
     ]
 
     # Year range searches (2015..2025)
-    for yr in range(2015, 2026):
+    for yr in range(yr_start, yr_end + 1):
         targets.append({
             "name": f"KANNA: Year {yr}",
             "conditions": [

@@ -35,6 +35,10 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 from pyzotero import zotero
+try:
+    import yaml  # type: ignore
+except Exception:
+    yaml = None  # type: ignore
 
 
 def require_env(name: str) -> str:
@@ -49,6 +53,16 @@ def get_zot() -> zotero.Zotero:
     lib_id = require_env("ZOTERO_LIBRARY_ID")
     lib_type = os.getenv("ZOTERO_LIBRARY_TYPE", "user")
     return zotero.Zotero(lib_id, lib_type, api)
+
+
+def load_config() -> dict:
+    cfg_path = Path(__file__).resolve().parents[2] / 'config' / 'zotero.yaml'
+    if yaml and cfg_path.exists():
+        try:
+            return yaml.safe_load(cfg_path.read_text(encoding='utf-8')) or {}
+        except Exception:
+            return {}
+    return {}
 
 
 def normalize_title(s: str) -> str:
@@ -69,9 +83,10 @@ def has_tag(data: dict, prefix: str) -> bool:
     return any(tag.startswith(prefix) for tag in tags)
 
 
-def audit_library(z: zotero.Zotero) -> Dict[str, object]:
+def audit_library(z: zotero.Zotero, kanna_only: bool = False) -> Dict[str, object]:
     items = z.everything(z.items())
 
+    # Identify attachments and, if requested, filter biblio items to KANNA-only subset
     biblio_items: List[dict] = []
     attachments: List[dict] = []
     for it in items:
@@ -80,6 +95,18 @@ def audit_library(z: zotero.Zotero) -> Dict[str, object]:
             attachments.append(it)
         elif dtype != "note":
             biblio_items.append(it)
+
+    parents_kanna: set[str] = set()
+    if kanna_only:
+        cfg = load_config()
+        lit_rel = (cfg.get('literature_pdf_dir') or 'literature/pdfs/BIBLIOGRAPHIE')
+        attach_prefix = f"attachments:{lit_rel}"
+        for att in attachments:
+            d = att.get("data", {})
+            if d.get("linkMode") == "linked_file" and (d.get("path") or "").startswith(attach_prefix) and d.get("parentItem"):
+                parents_kanna.add(d.get("parentItem"))
+        # Filter biblio_items to those with at least one KANNA-linked attachment
+        biblio_items = [it for it in biblio_items if it.get("key") in parents_kanna]
 
     # Parent attachment index
     parents_with_att: set[str] = set()
@@ -236,10 +263,11 @@ def main() -> int:
     p.add_argument("--output", type=str, help="JSON output path", default="tools/reports/zotero-metadata-audit.json")
     p.add_argument("--csv", type=str, help="CSV output path", default="tools/reports/zotero-metadata-audit.csv")
     p.add_argument("--md", type=str, help="Markdown summary path", default="tools/reports/zotero-metadata-audit.md")
+    p.add_argument("--kanna-only", action="store_true", help="Restrict audit to items with attachments under literature/pdfs/BIBLIOGRAPHIE")
     args = p.parse_args()
 
     z = get_zot()
-    report = audit_library(z)
+    report = audit_library(z, kanna_only=args.kanna_only)
     write_json(Path(args.output), report)
     write_csv(Path(args.csv), report["biblio"]) 
     write_md(Path(args.md), report)

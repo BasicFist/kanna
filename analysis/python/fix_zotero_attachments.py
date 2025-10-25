@@ -14,6 +14,10 @@ from __future__ import annotations
 import os
 from pathlib import Path
 from typing import Dict, List, Tuple
+try:
+    import yaml  # type: ignore
+except Exception:
+    yaml = None  # type: ignore
 import re
 
 from pyzotero import zotero
@@ -28,6 +32,19 @@ def require_env(name: str) -> str:
 
 def get_zot() -> zotero.Zotero:
     return zotero.Zotero(require_env("ZOTERO_LIBRARY_ID"), os.getenv("ZOTERO_LIBRARY_TYPE", "user"), require_env("ZOTERO_API_KEY"))
+
+
+def load_config_base_dir() -> Path | None:
+    cfg = Path(__file__).resolve().parents[2] / 'config' / 'zotero.yaml'
+    if yaml and cfg.exists():
+        try:
+            data = yaml.safe_load(cfg.read_text(encoding='utf-8')) or {}
+            base = data.get('base_dir')
+            if base:
+                return Path(base)
+        except Exception:
+            return None
+    return None
 
 
 def norm_title(s: str) -> str:
@@ -55,7 +72,14 @@ def build_parent_title_index(items: List[dict]) -> Tuple[Dict[str, List[str]], D
 
 def main() -> int:
     z = get_zot()
-    base_dir = Path(require_env("BASE_DIR")).resolve()
+    base_env = os.getenv("BASE_DIR")
+    if base_env:
+        base_dir = Path(base_env).resolve()
+    else:
+        cfg_base = load_config_base_dir()
+        if not cfg_base:
+            raise SystemExit("Set BASE_DIR env or configure base_dir in config/zotero.yaml")
+        base_dir = cfg_base.resolve()
     all_items = z.everything(z.items())
     exact_index, fuzzy_index = build_parent_title_index(all_items)
 
