@@ -31,6 +31,11 @@ import urllib.request
 from typing import Dict, List, Optional, Tuple
 
 from pyzotero import zotero
+try:
+    # Habanero Crossref client (more robust than raw HTTP)
+    from habanero import Crossref  # type: ignore
+except Exception:  # pragma: no cover
+    Crossref = None  # type: ignore
 
 
 def require_env(name: str) -> str:
@@ -89,6 +94,18 @@ def backoff_sleep(attempt: int, hdrs: Dict[str, str]) -> None:
 
 
 def fetch_crossref(doi: str, mailto: Optional[str], verbose: bool = False) -> Optional[dict]:
+    # Prefer Habanero if available
+    if Crossref is not None:
+        try:
+            cr = Crossref(mailto=mailto) if mailto else Crossref()
+            res = cr.works(ids=doi)
+            if isinstance(res, dict):
+                msg = res.get("message") or res
+                return msg
+        except Exception as e:
+            if verbose:
+                print(f"Habanero fetch failed for {doi}: {e}")
+    # Fallback to raw HTTP
     url = f"https://api.crossref.org/works/{urllib.parse.quote(doi)}"
     headers = {
         "Accept": "application/json",
@@ -107,7 +124,6 @@ def fetch_crossref(doi: str, mailto: Optional[str], verbose: bool = False) -> Op
             return None
         if verbose and attempt == 1:
             print(f"Crossref fetch non-OK for {doi}: HTTP {code}")
-        # transient
         backoff_sleep(attempt, hdrs)
     return None
 

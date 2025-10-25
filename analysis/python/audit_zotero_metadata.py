@@ -212,16 +212,37 @@ def write_csv(path: Path, rows: List[Dict[str, object]]) -> None:
             w.writerow(rr)
 
 
+def write_md(path: Path, report: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    s = report["summary"]
+    lines = []
+    lines.append("# Zotero Metadata Audit Summary")
+    lines.append("")
+    lines.append(f"- Biblio items: {s['totals']['biblio_items']}")
+    lines.append(f"- Attachments:  {s['totals']['attachments']}")
+    lines.append("")
+    lines.append("## Top Missing Fields")
+    mc = s["missing_counts"]
+    for k, v in sorted(mc.items(), key=lambda kv: kv[1], reverse=True)[:10]:
+        lines.append(f"- {k}: {v}")
+    lines.append("")
+    lines.append(f"- Potential duplicates: {len(s['potential_duplicates'])}")
+    lines.append(f"- Attachment issues:   {len(s['attachment_issues'])}")
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description="Audit Zotero library metadata completeness")
     p.add_argument("--output", type=str, help="JSON output path", default="tools/reports/zotero-metadata-audit.json")
     p.add_argument("--csv", type=str, help="CSV output path", default="tools/reports/zotero-metadata-audit.csv")
+    p.add_argument("--md", type=str, help="Markdown summary path", default="tools/reports/zotero-metadata-audit.md")
     args = p.parse_args()
 
     z = get_zot()
     report = audit_library(z)
     write_json(Path(args.output), report)
     write_csv(Path(args.csv), report["biblio"]) 
+    write_md(Path(args.md), report)
 
     # Print concise summary
     print("=== Zotero Metadata Audit ===")

@@ -20,12 +20,12 @@ conda run -n kanna python analysis/python/import_zotero_linked_files.py \
   --mineru-dir literature/pdfs/extractions-mineru
 ```
 
-2) Enrich DOI‑bearing items via Crossref
+2) Enrich DOI‑bearing items via Crossref (Habanero client)
 ```
 conda run -n kanna python analysis/python/enrich_zotero_by_doi.py
 ```
 
-3) Fill missing identifiers by title (high‑confidence matches)
+3) Fill missing identifiers by title (high‑confidence matches via Habanero)
 ```
 conda run -n kanna python analysis/python/enrich_missing_doi_by_title.py
 ```
@@ -56,3 +56,8 @@ BASE_DIR=/home/miko/LAB/academic/KANNA \
 conda run -n kanna python analysis/python/fix_zotero_attachments.py
 ```
 
+CI (GitHub Actions)
+- Manual audit: Actions → “Zotero Audit” → Run workflow
+- Maintenance (writes): Actions → “Zotero Maintenance” → Run workflow
+  - Requires: secrets.ZOTERO_API_KEY, vars ZOTERO_LIBRARY_ID and ZOTERO_LIBRARY_TYPE
+  - Optional: secrets.CROSSREF_MAILTO

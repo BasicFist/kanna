@@ -19,6 +19,10 @@ import urllib.request
 from typing import Dict, Optional, Tuple
 
 from pyzotero import zotero
+try:
+    from habanero import Crossref  # type: ignore
+except Exception:
+    Crossref = None  # type: ignore
 
 
 def require_env(name: str) -> str:
@@ -52,8 +56,20 @@ def jaccard(a: str, b: str) -> float:
 
 
 def crossref_search(title: str, year: str, mailto: Optional[str]) -> Optional[Dict]:
+    if Crossref is not None:
+        try:
+            cr = Crossref(mailto=mailto) if mailto else Crossref()
+            filt = {}
+            if year:
+                filt = {"from-pub-date": f"{year}-01-01", "until-pub-date": f"{year}-12-31"}
+            res = cr.works(query_title=title, filter=filt or None, limit=5)
+            # Habanero returns dict with 'message' and 'items'
+            return res
+        except Exception:
+            pass
+    # Fallback HTTP
     q = urllib.parse.quote(title)
-    base = f"https://api.crossref.org/works?rows=3&query.title={q}"
+    base = f"https://api.crossref.org/works?rows=5&query.title={q}"
     if year:
         base += f"&filter=from-pub-date:{year}-01-01,until-pub-date:{year}-12-31"
     headers = {
@@ -134,4 +150,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
