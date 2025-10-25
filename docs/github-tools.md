@@ -45,3 +45,4 @@ CI Workflows Added
 Local Docs
 - docs/zotfile-zutilo-migration.md → Guided legacy attachment migration
 - docs/zotero-tools.md → End-to-end scripts and CI usage
+- docs/obsidian-integration.md → Obsidian templates + plugin setup (Citations, Zotero Integration)
